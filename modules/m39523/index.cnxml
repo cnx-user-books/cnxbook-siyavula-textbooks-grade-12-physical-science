@@ -1,0 +1,398 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Capacitive and inductive circuits</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39523</md:content-id>
+  <md:title>Capacitive and inductive circuits</md:title>
+  <md:abstract/>
+  <md:uuid>c04bd937-450d-4bd7-8493-0395ff428df2</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id265892">Electronics and electrical devices surround us in daily life. From the street lights and water pumps to computers and digital phones, electronics have enabled the digital revolution to occur. All electronics are built on a backbone of simple circuits, and so an understanding of circuits is vital in understanding more complex devices.</para>
+      <para id="id265898">This chapter will explain the basic physics principles of many of the components of electronic devices. We will begin with an explanation of capacitors and inductors. We see how these are used in tuning a radio. Next, we look at <emphasis effect="bold">active</emphasis> components such as transistors and operational amplifiers. Lastly, the chapter will finish with an explanation of digital electronics, including logic gates and counting circuits.</para>
+      <para id="id266249">Before studying this chapter, you will want to remind yourself of:</para>
+      <list id="id266252" display="block" list-type="enumerated">
+        <item id="uid1">The meaning of voltage (<m:math overflow="scroll"><m:mi>V</m:mi></m:math>), current (<m:math overflow="scroll"><m:mi>I</m:mi></m:math>) and resistance (<m:math overflow="scroll"><m:mi>R</m:mi></m:math>), as covered in Grade 10, and Grade 11.
+</item>
+        <item id="uid2">Capacitors in electric circuits, as covered in Grade 11 (see section 17.6).
+</item>
+        <item id="uid3">Semiconductors, as covered in Grade 11 (see chapter 20).
+</item>
+        <item id="uid4">The meaning of an alternating current (see section 28.3).
+</item>
+        <item id="uid5">Capacitance (<m:math overflow="scroll"><m:mi>C</m:mi></m:math>) and Inductance (<m:math overflow="scroll"><m:mi>L</m:mi></m:math>) (see section 28.4).
+</item>
+      </list>
+    </section>
+    <section id="cid3">
+      <title>Capacitive and Inductive Circuits</title>
+      <para id="id266364">Earlier in Grade 12, you were shown alternating currents (AC) and you saw that the voltage and the current varied with time. If the AC supply is connected to a resistor, then the current and voltage will be proportional to each other. This means that the current and voltage will `peak' at the same time. We say that the current and voltage are <emphasis effect="bold">in phase</emphasis>. This is shown in <link target-id="uid6"/>.</para>
+      <figure id="uid6">
+        <media id="uid6_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C9_001.png" id="uid6_onlineimage" width="450"><!-- NOTE: attribute width changes image size online (pixels). original width is 450. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_001.eps" id="uid6_printimage"/>
+        </media>
+        <caption>The voltage and current are in phase when a resistor is connected to an alternating voltage.</caption>
+      </figure>
+      <para id="id266392">When a capacitor is connected to an alternating voltage, the maximum voltage is proportional to the maximum current, but the maximum voltage does not occur at the same time as the maximum current. The current has its maximum (it peaks) one quarter of a cycle before the voltage peaks. Engineers say that the `current leads the voltage by <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>'. This is shown in <link target-id="uid7"/>.</para>
+      <figure id="uid7">
+        <media id="uid7_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C9_002.png" id="uid7_onlineimage" width="460"><!-- NOTE: attribute width changes image size online (pixels). original width is 460. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_002.eps" id="uid7_printimage"/>
+        </media>
+        <caption>The current peaks (has its maximum) one quarter of a wave before the voltage when a capacitor is connected to an alternating voltage.</caption>
+      </figure>
+      <para id="id266429">For a circuit with a capacitor, the instantaneous value of <m:math overflow="scroll"><m:mfrac><m:mi>V</m:mi><m:mi>I</m:mi></m:mfrac></m:math> is not constant. However, the value of <m:math overflow="scroll"><m:mfrac><m:msub><m:mi>V</m:mi><m:mrow><m:mi>m</m:mi><m:mi>a</m:mi><m:mi>x</m:mi></m:mrow></m:msub><m:msub><m:mi>I</m:mi><m:mrow><m:mi>m</m:mi><m:mi>a</m:mi><m:mi>x</m:mi></m:mrow></m:msub></m:mfrac></m:math> is useful, and is called the <emphasis effect="bold">capacitive reactance</emphasis> (<m:math overflow="scroll"><m:msub><m:mi>X</m:mi><m:mi>C</m:mi></m:msub></m:math>) of the component. Because it is still a voltage divided by a current (like resistance), its unit is the ohm. The value of <m:math overflow="scroll"><m:msub><m:mi>X</m:mi><m:mi>C</m:mi></m:msub></m:math> (<m:math overflow="scroll"><m:mi>C</m:mi></m:math> standing for capacitor) depends on its capacitance (<m:math overflow="scroll"><m:mi>C</m:mi></m:math>) and the frequency (<m:math overflow="scroll"><m:mi>f</m:mi></m:math>) of the alternating current (in South Africa 50 Hz).</para>
+      <para id="id266716">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi>X</m:mi>
+              <m:mi>C</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:msub>
+                <m:mi>I</m:mi>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>π</m:mi>
+                <m:mi>f</m:mi>
+                <m:mi>C</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id266778">Inductors are very similar, but the current peaks <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> after the voltage. This is shown in <link target-id="uid8"/>. Engineers say that the `current lags the voltage'. Again, the ratio of maximum voltage to maximum current is called the reactance — this time inductive reactance (<m:math overflow="scroll"><m:msub><m:mi>X</m:mi><m:mi>L</m:mi></m:msub></m:math>). The value of the reactance depends on its inductance (<m:math overflow="scroll"><m:mi>L</m:mi></m:math>).</para>
+      <para id="id266824">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi>X</m:mi>
+              <m:mi>L</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:msub>
+                <m:mi>I</m:mi>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>π</m:mi>
+            <m:mi>f</m:mi>
+            <m:mi>L</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <figure id="uid8">
+        <media id="uid8_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C9_003.png" id="uid8_onlineimage" width="457"><!-- NOTE: attribute width changes image size online (pixels). original width is 457. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_003.eps" id="uid8_printimage"/>
+        </media>
+        <caption>The current peaks (has its maximum) one quarter of a wave after the voltage when an inductor is connected to an alternating voltage.</caption>
+      </figure>
+<definition id="fhsst_id184"><term id="termfhsst_id184"> Reactance </term> <meaning id="meaningfhsst_id184">
+      <para id="id266899">The ratio of the maximum voltage to the maximum current when a capacitor or inductor is connected to an alternating voltage. The unit of reactance is the ohm. </para>
+      </meaning></definition>
+      <para id="id266911">While inductive and capacitive reactances are similar, in one sense they are opposites. For an inductor, the current peaks <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math><emphasis effect="bold">after</emphasis> the voltage. For a capacitor the current peaks <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math><emphasis effect="bold">ahead</emphasis> of the voltage. When we work out the total reactance for an inductor and a capacitor in series, we use the formula
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:mi>t</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mi>L</m:mi></m:msub><m:mo>-</m:mo><m:msub><m:mi>X</m:mi><m:mi>C</m:mi></m:msub></m:mrow></m:math></para>
+      <para id="id266996">to take this into account. This formula can also be used when there is more than one inductor or more than one capacitor in the circuit. The total reactance is the sum of all of the inductive reactances minus the sum of all the capacitive reactances. The magnitude (number) in the final result gives the ratio of maximum voltage to maximum current in the circuit as a whole. The sign of the final result tells you its phase. If it is positive, the current peaks <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> after the voltage, if it is negative, the current peaks <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> before the voltage.</para>
+      <para id="id267030">If a series circuit contains resistors as well, then the situation is more complicated. The maximum current is still proportional to the maximum voltage, but the phase difference between them won't be <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>. The ratio between the maximum voltage and maximum current is called the <emphasis effect="bold">impedance</emphasis> (<m:math overflow="scroll"><m:mi>Z</m:mi></m:math>), and its unit is also the ohm. Impedances are calculated using this formula:
+<m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mo>=</m:mo><m:msqrt><m:mrow><m:msup><m:mi>X</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+      <para id="id267092">where <m:math overflow="scroll"><m:mi>X</m:mi></m:math> is the total reactance of the inductors and capacitors in the circuit, and <m:math overflow="scroll"><m:mi>R</m:mi></m:math> is the total resistance of the resistors in the circuit.</para>
+      <para id="id267112">It is easier to understand this formula by thinking of a right angled triangle. Resistances are drawn horizontally, reactances are drawn vertically. The hypotenuse of the triangle gives the impedance. This is shown in <link target-id="uid9"/>.</para>
+      <figure id="uid9">
+        <media id="uid9_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C9_004.png" id="uid9_onlineimage" width="185"><!-- NOTE: attribute width changes image size online (pixels). original width is 185. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_004.eps" id="uid9_printimage"/>
+        </media>
+        <caption>Visualizing the relationship between reactance, resistance and impedance.</caption>
+      </figure>
+<definition id="fhsst_id201"><term id="termfhsst_id201"> Impedance </term> <meaning id="meaningfhsst_id201">
+      <para id="id267142">The maximum voltage divided by the maximum current for any circuit. The unit of impedance is the ohm. </para>
+      </meaning></definition>
+      <para id="id267153">It is important to remember that when resistors and inductances (or capacitors) are in a circuit, the current will not be in phase with the voltage, so the impedance is not a resistance. Similarly the current won't be exactly <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> out of phase with the voltage so the impedance isn't a reactance either.</para>
+<para id="eip-476">This simulation allows you to build some circuits with capacitors and inductors. 
+
+<figure id="id63458"><media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/circuit-construction-kit-ac.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/circuit-construction-kit-ac.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/circuit-construction-kit/circuit-construction-kit-ac-virtual-lab_en.jnlp">run demo</link></para><exercise id="secfhsst_id205"><title> The impedance of a coil </title>
+      <problem id="probfhsst_id206">
+      <para id="id267185">Calculate the maximum current in a coil in a South African motor which has a resistance of 5 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> and an inductance of 3 mH. The maximum voltage across the coil is 6 V. You can assume that the resistance and inductance are in series. </para>
+      </problem>
+      <solution id="solfhsst_id209"> <list id="listfhsst_id209" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Calculate the reactance of the coil </label>
+      <para id="id267216">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi>X</m:mi>
+              <m:mi>L</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>π</m:mi>
+            <m:mi>f</m:mi>
+            <m:mi>L</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>π</m:mi>
+            <m:mo>×</m:mo>
+            <m:mn>50</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>003</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>942</m:mn>
+            <m:mi>Ω</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      </item> <item> <label> Calculate the impedance of the coil </label>
+      <para id="id267276">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>Z</m:mi>
+            <m:mo>=</m:mo>
+            <m:msqrt>
+              <m:mrow>
+                <m:msup>
+                  <m:mi>X</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>+</m:mo>
+                <m:msup>
+                  <m:mi>R</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mrow>
+            </m:msqrt>
+            <m:mo>=</m:mo>
+            <m:msqrt>
+              <m:mrow>
+                <m:mn>0</m:mn>
+                <m:mo>,</m:mo>
+                <m:msup>
+                  <m:mn>942</m:mn>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>+</m:mo>
+                <m:msup>
+                  <m:mn>5</m:mn>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mrow>
+            </m:msqrt>
+            <m:mo>=</m:mo>
+            <m:mn>5</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>09</m:mn>
+            <m:mi>Ω</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      </item> <item> <label> Calculate the maximum current </label>
+      <para id="id267348"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>I</m:mi><m:mrow><m:mi>m</m:mi><m:mi>a</m:mi><m:mi>x</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>V</m:mi><m:mrow><m:mi>m</m:mi><m:mi>a</m:mi><m:mi>x</m:mi></m:mrow></m:msub><m:mo>/</m:mo><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>/</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>09</m:mn><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>18</m:mn></m:mrow></m:math> A.
+ </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id288"><title> An RC circuit </title>
+      <problem id="probfhsst_id289">
+      <para id="id267433">Part of a radio contains a 30 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor in series with a 3 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>F capacitor. What is its impedance at a frequency of 1 kHz? </para>
+      </problem>
+      <solution id="solfhsst_id292"> <list id="listfhsst_id292" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Calculate the reactance of the capacitor </label>
+      <para id="id267471">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi>X</m:mi>
+              <m:mi>C</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>π</m:mi>
+                <m:mi>f</m:mi>
+                <m:mi>C</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>π</m:mi>
+                <m:mo>×</m:mo>
+                <m:msup>
+                  <m:mn>10</m:mn>
+                  <m:mn>3</m:mn>
+                </m:msup>
+                <m:mo>×</m:mo>
+                <m:mn>3</m:mn>
+                <m:mo>×</m:mo>
+                <m:msup>
+                  <m:mn>10</m:mn>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>53</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>05</m:mn>
+            <m:mi>Ω</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      </item> <item> <label> Calculate the impedance </label>
+      <para id="id267557"><m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mo>=</m:mo><m:msqrt><m:mrow><m:msup><m:mi>X</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mrow><m:mn>53</m:mn><m:mo>,</m:mo><m:msup><m:mn>05</m:mn><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mn>30</m:mn><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt><m:mo>=</m:mo><m:mn>60</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mi>Ω</m:mi></m:mrow></m:math>
+ </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id347"><title> Capacitive and Inductive Circuits </title>
+      <list id="id267644" display="block" list-type="enumerated">
+        <item id="uid10">Why is the instantaneous value of <m:math overflow="scroll"><m:mfrac><m:mi>V</m:mi><m:mi>I</m:mi></m:mfrac></m:math> of little use in an AC circuit containing an inductor or capacitor?
+</item>
+        <item id="uid11">How is the reactance of an inductor different to the reactance of a capacitor?
+</item>
+        <item id="uid12">Why can the ratio of the maximum voltage to the maximum current in a circuit with a resistor and an inductor not be called a reactance?
+</item>
+        <item id="uid13">An engineer can describe a motor as equivalent to a 30 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor in series with a 30 mH inductor. If the maximum value of the supply voltage is 350 V, what is the maximum current? Assume that the frequency is 50 Hz.
+</item>
+        <item id="uid14">A timer circuit in a factory contains a 200 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>F capacitor in series with a 10 k<m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor. What is its impedance? Assume that the frequency is 50 Hz.
+</item>
+        <item id="uid15">A 3 mH inductor is connected in series with a 100 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>F capacitor. The reactance of the combination is zero. What is the frequency of the alternating current?
+</item>
+      </list>
+      
+</section>
+<note id="notfhsst_id364"><title> Interesting Fact </title>
+      <para id="id267781">Most factories containing heavy duty electrical equipment (e.g. large motors) have to pay extra money to their electricity supply company because the inductance of the motor coils causes the current and voltage to get out of phase. As this makes the electricity distribution network less efficient, a financial penalty is incurred. The factory engineer can prevent this by connecting capacitors into the circuit to reduce the reactance to zero, as in the last question above. The current and voltage are then in phase again. We can't calculate the capacitance needed in this chapter, because the capacitors are usually connected in parallel, and we have only covered the reactances and impedances of series circuits.</para>
+</note>
+    </section>
+    <section id="cid4">
+      <title>Filters and Signal Tuning</title>
+      <section id="uid16">
+        <title>Capacitors and Inductors as Filters</title>
+        <para id="id267815">We have already seen how capacitors and inductors pass current more easily at certain frequencies than others. To recap: if we examine the equation for the reactance of a capacitor, we see that the frequency is in the denominator. Therefore, when the frequency is low, the capacitive reactance is very high. This is why a capacitor blocks the flow of DC and low frequency AC because its reactance increases with decreasing frequency.</para>
+        <para id="id267822">When the frequency is high, the capacitive reactance is low. This is why a capacitor allows the flow of high frequency AC because its reactance decreases with increasing frequency.</para>
+        <para id="id267827">Therefore putting a capacitor in a circuit blocks the low frequencies and allows the high frequencies to pass. This is called a high pass filter. A filter like this can be used in the `treble' setting of a sound mixer or music player which controls the amount of high frequency signal reaching the speaker. The more high frequency signal there is, the `tinnier' the sound. A simple high pass filter circuit is shown in <link target-id="uid17"/>.</para>
+        <figure id="uid17">
+          <media id="uid17_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C9_005.png" id="uid17_onlineimage" width="465"><!-- NOTE: attribute width changes image size online (pixels). original width is 465. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_005.eps" id="uid17_printimage"/>
+          </media>
+          <caption>A high pass filter. High frequencies easily pass through the capacitor and into the next part of the circuit, while low frequencies pass through the inductor straight to ground.</caption>
+        </figure>
+        <para id="id267854">Similarly, if we examine the equation for the reactance of an inductor, we see that inductive reactance increases with increasing frequency. Therefore, when the frequency is low, the inductive reactance is very low. This is why an inductor allows the flow of DC and low frequency AC because its reactance decreases with decreasing frequency.</para>
+        <para id="id266181">When the frequency is high, the inductive reactance is high. This is why an inductor blocks the flow of high frequency AC because its reactance increases with increasing frequency.</para>
+        <para id="id266186">Therefore putting an inductor in a circuit blocks the high frequencies and allows the low frequencies to pass. This is called a low pass filter. A filter like this can be used in the `bass' setting of a sound mixer or music player which controls the amount of low frequency signal reaching the speaker. The more low frequency signal there is, the more the sound `booms'. A simple low pass filter circuit is shown in <link target-id="uid18"/>.</para>
+        <figure id="uid18">
+          <media id="uid18_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C9_006.png" id="uid18_onlineimage" width="276"><!-- NOTE: attribute width changes image size online (pixels). original width is 276. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_006.eps" id="uid18_printimage"/>
+          </media>
+          <caption>A low pass filter. Low frequencies pass through the inductor and into the next part of the circuit, while high frequencies pass through the capacitor straight to ground.</caption>
+        </figure>
+      </section>
+      <section id="uid19">
+        <title>LRC Circuits, Resonance and Signal Tuning</title>
+        <para id="id266225">A circuit containing a resistor, a capacitor and an inductor all in series is called an LRC circuit. Because the components are in series, the current through each component at a particular time will be the same as the current through the others. The voltage across the resistor will be in phase with the current. The voltage across the inductor will be <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> ahead of the current (the current always follows or lags the voltage in an inductor). The voltage across the capacitor will be <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> behind the current (the current leads the voltage for a capacitor). The phases of the voltages for the inductor and capacitor relative to the common current are shown in <link target-id="uid20"/>.</para>
+        <figure id="uid20">
+          <media id="uid20_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C9_007.png" id="uid20_onlineimage" width="277"><!-- NOTE: attribute width changes image size online (pixels). original width is 277. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_007.eps" id="uid20_printimage"/>
+          </media>
+          <caption>The voltages across the separate components of an LRC circuit. Looking at the peaks, you see that the voltage across the inductor <m:math overflow="scroll"><m:msub><m:mi>V</m:mi><m:mi>L</m:mi></m:msub></m:math> `peaks' first, followed <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> later by the current <m:math overflow="scroll"><m:mi>I</m:mi></m:math>, followed <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> later by the voltage across the capacitor <m:math overflow="scroll"><m:msub><m:mi>V</m:mi><m:mi>C</m:mi></m:msub></m:math>. The voltage across the resistor is not shown — it is in phase with the current and peaks at the same time as the current.</caption>
+        </figure>
+        <para id="id268091">The reactance of the inductor is <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math>, and the reactance of the capacitor is <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>f</m:mi><m:mi>C</m:mi></m:mrow></m:math> but with the opposite phase. So the total reactance of the LRC circuit is
+<m:math overflow="scroll"><m:mrow><m:mi>X</m:mi><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mi>L</m:mi></m:msub><m:mo>-</m:mo><m:msub><m:mi>X</m:mi><m:mi>C</m:mi></m:msub><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>f</m:mi><m:mi>L</m:mi><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>f</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac></m:mrow></m:math>
+The impedance of the circuit as a whole is given by
+<m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mo>=</m:mo><m:msqrt><m:mrow><m:msup><m:mi>X</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mrow><m:msup><m:mfenced separators="" open="(" close=")"><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>f</m:mi><m:mi>L</m:mi><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>f</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac></m:mfenced><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math>
+At different frequencies, the impedance will take different values. The impedance will have its smallest value when the positive inductive reactance cancels out the negative capacitive reactance. This occurs when
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>f</m:mi><m:mi>L</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>f</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac></m:mrow></m:math>
+so the frequency of minimum impedance must be
+<m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:msqrt><m:mrow><m:mi>L</m:mi><m:mi>C</m:mi></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math>
+This is called the <emphasis effect="bold">resonant frequency</emphasis> of the circuit. This is the frequency at which you can get the largest current for a particular supply voltage. It is also called the <emphasis effect="bold">natural frequency</emphasis> of the circuit. This means the frequency at which the circuit would oscillate by itself.</para>
+<definition id="fhsst_id412"><term id="termfhsst_id412"> Resonance </term> <meaning id="meaningfhsst_id412">
+        <para id="id268348">Resonance occurs when a circuit is connected to an alternating voltage at its natural frequency. A very large current can build up in the circuit, even with minimal power input. </para>
+        </meaning></definition>
+        <para id="id268361">An LRC circuit is very useful when we have a signal containing many different frequencies, and we only want one of them. If a mixed signal like this is connected to an LRC circuit, then only the resonant frequency (and other frequencies close to it) will drive measureable currents. This means that an LRC circuit can select one frequency from a range. This process is called <emphasis effect="bold">signal tuning</emphasis>.</para>
+<note id="notfhsst_id416"><title> Interesting Fact </title>
+        <para id="id268379">When you set up a radio antenna, and amplify the radio signal it receives, you find many different bands of frequencies — one from each radio station. When you listen to the radio, you only want to listen to one station. An LRC circuit in the radio (the tuning circuit) is set so that its resonant frequency is the frequency of the station you want to listen to. This means that of the many radio stations broadcasting, you only hear one. When you adjust the tuning dial on the radio, it changes the capacitance of the capacitor in the tuning circuit. This changes the resonant frequency, and this changes the radio station that you will hear.</para>
+</note>
+<section id="secfhsst_id419"><title> Filters and Signal Tuning </title>
+        <list id="id268405" display="block" list-type="enumerated">
+          <item id="uid21">Which component would you use if you wanted to block low frequencies?
+</item>
+          <item id="uid22">Which component would you use if you wanted to block high frequencies?
+</item>
+          <item id="uid23">Calculate the impedance of a series circuit containing a 50 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor, a 30 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>F capacitor and a 3 mH inductor for frequencies of (a) 50 Hz, (b) 500 Hz, and (c) 5 000 Hz.
+</item>
+          <item id="uid24">Calculate the resonant frequency of the circuit in the previous question, part (c).
+</item>
+          <item id="uid25">A radio station broadcasts at a frequency of 150 kHz. The tuning circuit in the radio contains a 0.3 mH inductor. What is the capacitance of the capacitor needed in the tuning circuit if you want to listen to this radio station?
+</item>
+          <item id="uid26">State the relationship between the phase of the voltages across an inductor, a resistor and a capacitor in an LRC circuit.
+</item>
+          <item id="uid27">Explain what is meant by resonance.
+</item>
+          <item id="uid28">Explain how LRC circuits are used for signal tuning, for example in a radio.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

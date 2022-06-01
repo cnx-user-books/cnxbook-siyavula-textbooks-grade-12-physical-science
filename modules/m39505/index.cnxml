@@ -1,0 +1,152 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Paints and pigments</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39505</md:content-id>
+  <md:title>Paints and pigments</md:title>
+  <md:abstract/>
+  <md:uuid>fbbb313b-c088-4d0e-8bf9-6c9a9fc9ef92</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Pigments and Paints</title>
+      <para id="id130899">We have learnt that white light is a combination of all the colours of the visible spectrum and that each colour of light is related to a different frequency. But what gives everyday objects around us their different colours?</para>
+      <para id="id130904">Pigments are substances which give an object its colour by absorbing certain frequencies of light and reflecting other frequencies. For example, a red pigment absorbs all colours of light except red which it reflects. Paints and inks contain pigments which gives the paints and inks different colours.</para>
+      <section id="uid29">
+        <title>Colour of opaque objects</title>
+        <para id="id130919">Objects which you <emphasis effect="italics">cannot</emphasis> see through (i.e. they are not transparent) are called <emphasis effect="bold">opaque</emphasis>. Examples of some opaque objects are metals, wood and bricks. The colour of an opaque object is determined by the colours (therefore <emphasis effect="italics">frequencies</emphasis>) of light which it <emphasis effect="italics">reflects</emphasis>. For example, when white light strikes a blue opaque object such as a ruler, the ruler will absorb all frequencies of light <emphasis effect="italics">except</emphasis> blue, which will be reflected. The reflected blue light is the light which makes it into our eyes and therefore the object will appear blue.</para>
+        <para id="id130955">Opaque objects which appear white do not absorb any light. They reflect all the frequencies.
+Black opaque objects absorb all frequencies of light. They do not reflect at all and therefore appear to have no colour.</para>
+<exercise id="secfhsst_id910"><title> Colour of Opaque Objects </title>
+        <problem id="probfhsst_id911">
+        <para id="id130973">If we shine white light on a sheet of paper that can only reflect green light, what is the colour of the paper? </para>
+        </problem>
+        <solution id="solfhsst_id914"> <list id="listfhsst_id914" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Think about what determines colour </label>
+        <para id="id130997">Since the colour of an object is determined by that frequency of light that is <emphasis effect="italics">reflected</emphasis>, the sheet of paper will appear green, as this is the only frequency that is reflected. All the other frequencies are absorbed by the paper. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id919"><title> Colour of an opaque object II </title>
+        <problem id="probfhsst_id920">
+        <para id="id131033">The cover of a book appears to have a magenta colour. What colours of light does it reflect and what colours does it absorb? </para>
+        </problem>
+        <solution id="solfhsst_id923"> <list id="listfhsst_id923" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> What colours make magenta? </label>
+        <para id="id131057">We know that magenta is a combination of red and blue primary colours of light. Therefore the object must be reflecting blue and red light and absorb green.  </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid30">
+        <title>Colour of transparent objects</title>
+        <para id="id131084">If an object is <emphasis effect="bold">transparent</emphasis> it means that you can see through it. For example, glass, clean water and some clear plastics are transparent. The colour of a transparent object is determined by the colours (frequencies) of light which it <emphasis effect="italics">transmits</emphasis> (allows to pass through it). For example, a cup made of green glass will appear green because it absorbs all the other frequencies of light <emphasis effect="italics">except</emphasis> green, which it transmits. This is the light which we receive in our eyes and the object appears green.</para>
+<exercise id="secfhsst_id932"><title> Colour of Transparent Objects </title>
+        <problem id="probfhsst_id933">
+        <para id="id131122">If white light is shone through a glass plate that absorbs light of all frequencies except red, what is the colour of the glass plate? </para>
+        </problem>
+        <solution id="solfhsst_id936"> <list id="listfhsst_id936" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Think about how light is transmitted </label>
+        <para id="id131146">Since the colour of an object is determined by that frequency of light that is <emphasis effect="italics">transmitted</emphasis>, the glass plate will appear red, as this is the only frequency that is not absorbed. </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid31">
+        <title>Pigment primary colours</title>
+        <para id="id131178">The primary pigments and paints are <emphasis effect="bold">cyan</emphasis>, <emphasis effect="bold">magenta</emphasis> and <emphasis effect="bold">yellow</emphasis>. When pigments or paints of these three colours are mixed together in equal amounts they produce <emphasis effect="bold">black</emphasis>. Any other colour of paint can be made by mixing the primary pigments together in different quantities. The primary pigments are related to the primary colours of light in the following way:</para>
+        <para id="id131208">
+          <figure id="id131211">
+            <media id="id131211_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C5_003.png" id="id131211_onlineimage" width="245"><!-- NOTE: attribute width changes image size online (pixels). original width is 245. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C5_003.eps" id="id131211_printimage"/>
+            </media>
+          </figure>
+        </para>
+<note id="notfhsst_id953"><title> Interesting Fact </title> Colour printers only use 4 colours of ink: cyan, magenta, yellow and black. All the other colours can be mixed from these!</note>
+<exercise id="secfhsst_id954"><title> Pigments </title>
+        <problem id="probfhsst_id955">
+        <para id="id131238">What colours of light are absorbed by a green pigment? </para>
+        </problem>
+        <solution id="solfhsst_id958"> <list id="listfhsst_id958" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Think about what colour is reflected </label>
+        <para id="id131262">If the pigment is green, then green light must be <emphasis effect="italics">reflected</emphasis>. Therefore, red and blue light are absorbed. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id963"><title> Primary pigments </title>
+        <problem id="probfhsst_id964">
+        <para id="id131296">I have a ruler which reflects red light and absorbs all other colours of light. What colour does the ruler appear in white light? What primary pigments must have been mixed to make the pigment which gives the ruler its colour?  </para>
+        </problem>
+        <solution id="solfhsst_id967"> <list id="listfhsst_id967" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> What is being asked and what are we given? </label>
+        <para id="id131322">We need to determine the colour of the ruler and the pigments which were mixed to make the colour.</para>
+        </item> <item> <label> An opaque object appears the colour of the light it reflects </label>
+        <para id="id131330">The ruler reflects red light and absorbs all other colours. Therefore the ruler appears to be red.</para>
+        </item> <item> <label> What pigments need to be mixed to get red? </label>
+        <para id="id131339">Red pigment is produced when magenta and yellow pigments are mixed. Therefore magenta and yellow pigments were mixed to make the red pigment which gives the ruler its colour.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id977"><title> Paint Colours </title>
+        <problem id="probfhsst_id978">
+        <para id="id131368">If cyan light shines on a dress that contains a pigment that is capable of absorbing blue, what colour does the dress appear? </para>
+        </problem>
+        <solution id="solfhsst_id981"> <list id="listfhsst_id981" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the component colours of cyan light </label>
+        <para id="id131393">Cyan light is made up of blue and green light.</para>
+        </item> <item> <label> Determine solution </label>
+        <para id="id131400">If the dress absorbs the blue light then the green light must be reflected, so the dress will appear green! </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+    </section>
+    <para id="eip-804"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=colour-100511051146-phpapp01&amp;stripped_title=colour-4047557&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid6">
+      <title>End of Chapter Exercises</title>
+      <list id="id131426" display="block" list-type="enumerated">
+        <item id="uid32">Calculate the wavelength of light which has a frequency of <m:math overflow="scroll"><m:mrow><m:mn>570</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz.
+</item>
+        <item id="uid33">Calculate the frequency of light which has a wavelength of 580 nm.
+</item>
+        <item id="uid34">Complete the following sentence: When white light is dispersed by a prism, light of the colour ? is refracted the most and light of colour ? is refracted the least.
+</item>
+        <item id="uid35">What are the two types of photoreceptor found in the retina of the human eye called and which type is sensitive to colours?
+</item>
+        <item id="uid36">What color do the following shirts appear to the human eye when the lights in a room are turned off and the room is completely dark?
+<list id="id131514" display="block" list-type="enumerated"><item id="uid37">red shirt
+</item><item id="uid38">blue shirt
+</item><item id="uid39">green shirt
+</item></list></item>
+        <item id="uid40">Two light bulbs, each of a different colour, shine on a sheet of white paper. Each light bulb can be a primary colour of light - red, green, and blue. Depending on which primary colour of light is used, the paper will appear a different color. What colour will the paper appear if the lights are:
+<list id="id131569" display="block" list-type="enumerated"><item id="uid41">red and blue?
+</item><item id="uid42">red and green?
+</item><item id="uid43">green and blue?
+</item></list></item>
+        <item id="uid44">
+Match the primary colour of light on the left to its complementary colour on the right:
+<table id="id131623" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Column A</emphasis></entry><entry><emphasis effect="bold">Column B</emphasis></entry></row><row><entry>red</entry><entry>yellow</entry></row><row><entry>green</entry><entry>cyan</entry></row><row><entry>blue</entry><entry>magenta</entry></row></tbody></tgroup></table></item>
+        <item id="uid45">
+Which combination of colours of light gives magenta?
+<list id="id131702" display="block" list-type="enumerated"><item id="uid46">red and yellow
+</item><item id="uid47">green and red
+</item><item id="uid48">blue and cyan
+</item><item id="uid49">blue and red
+</item></list></item>
+        <item id="uid50">
+Which combination of colours of light gives cyan?
+<list id="id131767" display="block" list-type="enumerated"><item id="uid51">yellow and red
+</item><item id="uid52">green and blue
+</item><item id="uid53">blue and magenta
+</item><item id="uid54">blue and red
+</item></list></item>
+        <item id="uid55">If yellow light falls on an object whose pigment absorbs green light, what colour will the object appear?
+</item>
+        <item id="uid56">If yellow light falls on a blue pigment, what colour will it appear?
+</item>
+      </list>
+    </section>
+  </content>
+</document>

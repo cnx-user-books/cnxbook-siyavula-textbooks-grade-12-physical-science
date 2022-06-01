@@ -1,0 +1,2242 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Standard potentials</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39420</md:content-id>
+  <md:title>Standard potentials</md:title>
+  <md:abstract/>
+  <md:uuid>5df23918-9977-4c6c-810a-bc96733a5416</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid90">
+        <title>Standard electrode potentials</title>
+        <para id="id143176">The voltages recorded earlier when zinc and copper were connected to a standard hydrogen electrode are in fact the <emphasis effect="bold">standard electrode potentials</emphasis> for these two metals. It is important to remember that these are not <emphasis effect="italics">absolute</emphasis> values, but are potentials that have been measured <emphasis effect="italics">relative</emphasis> to the potential of hydrogen if the standard hydrogen electrode is taken to be zero.</para>
+<note id="notfhsst_id1045" type="tip"><title>Conventions and voltage sign</title>
+        <para id="id143211">By convention, the hydrogen electrode is written on the <emphasis effect="italics">left hand side</emphasis> of the cell. The sign of the voltage tells you the sign of the metal electrode.</para></note>
+        <para id="id143221">In the examples we used earlier, zinc's electrode potential is actually -0.76 and copper is +0.34. So, if a metal has a <emphasis effect="italics">negative</emphasis> standard electrode potential, it means it forms ions easily. The more negative the value, the easier it is for that metal to form ions. If a metal has a <emphasis effect="italics">positive</emphasis> standard electrode potential, it means it does not form ions easily. This will be explained in more detail below.</para>
+        <para id="id143241">Luckily for us, we do not have to calculate the standard electrode potential for every metal. This has been done already and the results are recorded in a table of standard electrode potentials (<link target-id="uid91"/>).</para>
+        <table id="uid91" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Half-Reaction</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>E</m:mi>
+                          <m:mn>0</m:mn>
+                        </m:msup>
+                        <m:mi>V</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>L</m:mi>
+                      <m:msup>
+                        <m:mi>i</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>L</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-3.04</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>K</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>K</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-2.92</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>B</m:mi>
+                      <m:msup>
+                        <m:mi>a</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>B</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-2.90</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>a</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-2.87</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>N</m:mi>
+                      <m:msup>
+                        <m:mi>a</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>N</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-2.71</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>M</m:mi>
+                      <m:msup>
+                        <m:mi>g</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>M</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-2.37</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>M</m:mi>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>M</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-1.18</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                      <m:mi>O</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>O</m:mi>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.83</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>Z</m:mi>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>Z</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.76</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>r</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.74</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>F</m:mi>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>F</m:mi>
+                      <m:mi>e</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.44</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>r</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.41</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>d</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.40</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>o</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>o</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.28</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>N</m:mi>
+                      <m:msup>
+                        <m:mi>i</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>N</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.25</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>S</m:mi>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>S</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.14</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:msup>
+                        <m:mi>b</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>P</m:mi>
+                      <m:mi>b</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.13</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>F</m:mi>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>F</m:mi>
+                      <m:mi>e</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.04</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">0.00</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>S</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>S</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.14</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>S</m:mi>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>S</m:mi>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.15</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>u</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>u</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.16</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>S</m:mi>
+                      <m:msubsup>
+                        <m:mi>O</m:mi>
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>S</m:mi>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.17</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>u</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>u</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.34</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:mi>O</m:mi>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.40</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>u</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>u</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.52</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>I</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.54</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.68</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>F</m:mi>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>F</m:mi>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.77</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>N</m:mi>
+                      <m:msubsup>
+                        <m:mi>O</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>N</m:mi>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.78</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>H</m:mi>
+                      <m:msup>
+                        <m:mi>g</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>H</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>l</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.78</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>g</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.80</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>N</m:mi>
+                      <m:msubsup>
+                        <m:mi>O</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>N</m:mi>
+                      <m:mi>O</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.96</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>B</m:mi>
+                      <m:msub>
+                        <m:mi>r</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>B</m:mi>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>1.06</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>1.23</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>M</m:mi>
+                      <m:mi>n</m:mi>
+                      <m:msub>
+                        <m:mi>O</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>M</m:mi>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>1.28</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msub>
+                        <m:mi>r</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:msubsup>
+                        <m:mi>O</m:mi>
+                        <m:mrow>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>-</m:mo>
+                        </m:mrow>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mn>14</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>7</m:mn>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>1.33</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msub>
+                        <m:mi>l</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>l</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>1.36</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>u</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:mi>u</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>1.50</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>M</m:mi>
+                      <m:mi>n</m:mi>
+                      <m:msubsup>
+                        <m:mi>O</m:mi>
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>M</m:mi>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>1.52</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>o</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>o</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>1.82</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>F</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>2.87</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Standard Electrode Potentials</caption>
+        </table>
+        <para id="id146087">A few examples from the table are shown in <link target-id="uid92"/>. These will be used to explain some of the trends in the table of electrode potentials.</para>
+        <table id="uid92" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Half-Reaction</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>E</m:mi>
+                          <m:mn>0</m:mn>
+                        </m:msup>
+                        <m:mi>V</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>L</m:mi>
+                      <m:msup>
+                        <m:mi>i</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>L</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-3.04</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>Z</m:mi>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>Z</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.76</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>F</m:mi>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>F</m:mi>
+                      <m:mi>e</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>-0.04</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>g</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">0.00</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>u</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>u</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.34</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>H</m:mi>
+                      <m:msup>
+                        <m:mi>g</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo>+</m:mo>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>H</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>l</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.78</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>g</m:mi>
+                        <m:mo>+</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>e</m:mi>
+                        <m:mo>-</m:mo>
+                      </m:msup>
+                      <m:mo>⇌</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>0.80</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>A few examples from the table of standard electrode potentials</caption>
+        </table>
+        <para id="id146567">Refer to <link target-id="uid92"/> and notice the following trends:</para>
+        <list id="id146575" display="block" list-type="bulleted">
+          <item id="uid93">Metals at the top of series (e.g. Li) have more negative values. This means they ionise easily, in other words, they release electrons easily. These metals are easily <emphasis effect="bold">oxidised</emphasis> and are therefore good <emphasis effect="bold">reducing agents</emphasis>.
+</item>
+          <item id="uid94">Metal ions at the bottom of the table are good at picking up electrons. They are easily <emphasis effect="bold">reduced</emphasis> and are therefore good <emphasis effect="bold">oxidising agents</emphasis>.
+</item>
+          <item id="uid95">The reducing ability (i.e. the ability to act as a reducing agent) of the metals in the table <emphasis effect="italics">increases</emphasis> as you move <emphasis effect="italics">up</emphasis> in the table.
+</item>
+          <item id="uid96">The oxidising ability of metals <emphasis effect="italics">increases</emphasis> as you move <emphasis effect="italics">down</emphasis> in the table.
+</item>
+        </list>
+<exercise id="secfhsst_id2569"><title> Using the table of Standard Electrode Potentials
+        </title>
+        <problem id="probfhsst_id2571">
+        <para id="id146696">The following half-reactions take place in an electrochemical cell:</para>
+        <para id="id146702">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msup>
+                <m:mi> Cu </m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>⇌</m:mo>
+              <m:mi> Cu </m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id146740">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msup>
+                <m:mi> Ag </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>⇌</m:mo>
+              <m:mi> Ag </m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <list id="id146773" display="block" list-type="enumerated">
+          <item id="uid97">Which of these reactions will be the oxidation half-reaction in the cell?
+</item>
+          <item id="uid98">Which of these reactions will be the reduction half-reaction in the cell?
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id2619"> <list id="listfhsst_id2619" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the electrode potential for each metal </label>
+        <para id="id146824">From the table of standard electrode potentials, the electrode potential for the copper half-reaction is +0.34 V. The electrode potential for the silver half-reaction is +0.80 V.</para>
+        </item> <item> <label> Use the electrode potential values to determine which metal is oxidised and which is reduced </label>
+        <para id="id146836">Both values are positive, but silver has a higher positive electrode potential than copper. This means that silver does not form ions easily, in other words, silver is more likely to be <emphasis effect="italics">reduced</emphasis>. Copper is more likely to be <emphasis effect="italics">oxidised</emphasis> and to form ions more easily than silver. Copper is the oxidation half-reaction and silver is the reduction half-reaction.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id2627" type="tip"><title>Learning to understand the question in a problem.</title>
+        <para id="id146871">Before you tackle this problem, make sure you understand exactly what the question is asking. If magnesium is able to displace silver from a solution of silver nitrate, this means that magnesium metal will form magnesium ions and the silver ions will become silver metal. In other words, there will now be <emphasis effect="italics">silver</emphasis> metal and a solution of <emphasis effect="italics">magnesium nitrate</emphasis>. This will only happen if magnesium has a greater tendency than silver to form ions. In other words, what the question is actually asking is whether magnesium or silver forms ions more easily.</para>
+</note>
+<exercise id="secfhsst_id2630"><title> Using the table of Standard Electrode Potentials
+        </title>
+        <problem id="probfhsst_id2632">
+        <para id="id146911">Is magnesium able to displace silver from a solution of silver nitrate? </para>
+        </problem>
+        <solution id="solfhsst_id2635"> <list id="listfhsst_id2635" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the half-reactions that would take place if magnesium were to displace silver nitrate. </label>
+        <para id="id146936">The half-reactions are as follows:</para>
+        <para id="id146940">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>M</m:mi>
+              <m:msup>
+                <m:mi>g</m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi>e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>⇌</m:mo>
+              <m:mi>M</m:mi>
+              <m:mi>g</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id146980">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:msup>
+                <m:mi>g</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi>e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>⇌</m:mo>
+              <m:mi>A</m:mi>
+              <m:mi>g</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        </item> <item> <label> Use the table of electrode potentials to see which metal forms ions more easily. </label>
+        <para id="id147021">Looking at the electrode potentials for the magnesium and silver reactions:</para>
+        <para id="id147025">For the magnesium half-reaction: E<m:math overflow="scroll"><m:msup><m:mrow/><m:mi>o</m:mi></m:msup></m:math>V = -2.37</para>
+        <para id="id147042">For the silver half-reaction: E<m:math overflow="scroll"><m:msup><m:mrow/><m:mi>o</m:mi></m:msup></m:math>V = 0.80</para>
+        <para id="id147058">This means that magnesium is more easily <emphasis effect="bold">oxidised</emphasis> than silver and the equilibrium in this half-reaction lies to the left. The oxidation reaction will occur spontaneously in magnesium. Silver is more easily <emphasis effect="bold">reduced</emphasis> and the equilibrium lies to the right in this half-reaction. It can be concluded that magnesium will displace silver from a silver nitrate solution so that there is silver metal and magnesium ions in the solution.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id2688"><title> Table of Standard Electrode Potentials </title>
+        <list id="id147098" display="block" list-type="enumerated">
+          <item id="uid99">In your own words, explain what is meant by the 'electrode potential' of a metal.
+</item>
+          <item id="uid100">Give the standard electrode potential for each of the following metals:
+<list id="id147126" display="block" list-type="enumerated"><item id="uid101">magnesium
+</item><item id="uid102">lead
+</item><item id="uid103">nickel
+</item></list></item>
+          <item id="uid104">Refer to the electrode potentials in <link target-id="uid92"/>.
+<list id="id147184" display="block" list-type="enumerated"><item id="uid105">Which of the metals is most likely to be oxidised?
+</item><item id="uid106">Which metal is most likely to be reduced?
+</item><item id="uid107">Which metal is the strongest reducing agent?
+</item><item id="uid108">In the copper half-reaction, does the equilibrium position for the reaction lie to the left or to the right? Explain your answer.
+</item><item id="uid109">In the mercury half-reaction, does the equilibrium position for the reaction lie to the left or to the right? Explain your answer.
+</item><item id="uid110">If silver was added to a solution of copper sulphate, would it displace the copper from the copper sulphate solution? Explain your answer.
+</item></list></item>
+          <item id="uid111">Use the table of standard electrode potentials to put the following in order from the <emphasis effect="italics">strongest oxidising agent</emphasis> to the <emphasis effect="italics">weakest oxidising agent</emphasis>.
+<list id="id147289" display="block" list-type="bulleted"><item id="uid112">Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></item><item id="uid113">MnO<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:math></item><item id="uid114">Br<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid115">Zn<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></item></list></item>
+          <item id="uid116">Look at the following half-reactions.
+<list id="id147411" display="block" list-type="bulleted"><item id="uid117"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>a</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>a</m:mi></m:mrow></m:math></item><item id="uid118"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>C</m:mi><m:mi>l</m:mi></m:mrow></m:math></item><item id="uid119"><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>F</m:mi><m:mi>e</m:mi></m:mrow></m:math></item><item id="uid120"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:msup><m:mi>I</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></item></list><list id="id147608" display="block" list-type="enumerated"><item id="uid121">Which substance is the strongest oxidising agent?
+</item><item id="uid122">Which substance is the strongest reducing agent?
+</item></list></item>
+          <item id="uid123">Which one of the substances listed below acts as the oxidising agent in the following reaction?
+<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:msub><m:mi> SO </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> Cr </m:mi><m:mn>2</m:mn></m:msub><m:msubsup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mo>→</m:mo><m:mn>3</m:mn><m:msubsup><m:mi> SO </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi> Cr </m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math><list id="id147762" display="block" list-type="enumerated"><item id="uid124">H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math></item><item id="uid125">Cr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></item><item id="uid126">SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid127">Cr<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></item></list>
+(IEB Paper 2, 2004)
+</item>
+          <item id="uid128">If zinc is added to a solution of magnesium sulphate, will the zinc displace the magnesium from the solution? Give a detailed explanation for your answer.
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid129">
+        <title>Combining half cells</title>
+        <para id="id147922">Let's stay with the example of the zinc and copper half cells. If we combine these cells as we did earlier in the chapter (<link target-id="cid3">"The Galvanic Cell"</link>), the following two equilibria exist:</para>
+        <para id="id147931">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>Z</m:mi>
+              <m:msup>
+                <m:mi>n</m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi>e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>⇌</m:mo>
+              <m:mi>Z</m:mi>
+              <m:mi>n</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:msup>
+                  <m:mi>E</m:mi>
+                  <m:mn>0</m:mn>
+                </m:msup>
+                <m:mo>=</m:mo>
+                <m:mo>-</m:mo>
+                <m:mn>0</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>76</m:mn>
+                <m:mi>V</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id147999">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:msup>
+                <m:mi>u</m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi>e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>⇌</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>u</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:msup>
+                  <m:mi>E</m:mi>
+                  <m:mn>0</m:mn>
+                </m:msup>
+                <m:mo>=</m:mo>
+                <m:mo>+</m:mo>
+                <m:mn>0</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>34</m:mn>
+                <m:mi>V</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id148067">We know from demonstrations, and also by looking at the sign of the electrode potential, that when these two half cells are combined, zinc will be the oxidation half-reaction and copper will be the reduction half-reaction. A voltmeter connected to this cell will show that the zinc electrode is more negative than the copper electrode. The reading on the meter will show the potential difference between the two half cells. This is known as the <emphasis effect="bold">electromotive force (emf)</emphasis> of the cell.</para>
+<definition id="fhsst_id2799"><term id="termfhsst_id2799"> Electromotive Force (emf) </term> <meaning id="meaningfhsst_id2799">
+        <para id="id148086">The emf of a cell is defined as the maximum potential difference between two electrodes or half cells in a voltaic cell. emf is the electrical driving force of the cell reaction. In other words, the higher the emf, the stronger the reaction. </para>
+        </meaning></definition>
+<definition id="fhsst_id2802"><term id="termfhsst_id2802"> Standard emf (E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi></m:mrow><m:mn>0</m:mn></m:msubsup></m:math>) </term> <meaning id="meaningfhsst_id2802">
+        <para id="id148130">Standard emf is the emf of a voltaic cell operating under standard conditions (i.e. 100 kPa, concentration = 1 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> and temperature = 298 K). The symbol <m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> denotes standard conditions. </para>
+        </meaning></definition>
+        <para id="id148172">When we want to represent this cell, it is shown as follows:</para>
+        <equation id="id148175">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi>Z</m:mi>
+                <m:mi>n</m:mi>
+                <m:mo>|</m:mo>
+                <m:mi>Z</m:mi>
+              </m:mrow>
+              <m:msup>
+                <m:mi>n</m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mi>m</m:mi>
+                <m:mi>o</m:mi>
+                <m:mi>l</m:mi>
+                <m:mo>.</m:mo>
+                <m:mi>d</m:mi>
+                <m:msup>
+                  <m:mi>m</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:msup>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mo>|</m:mo>
+                <m:mi>C</m:mi>
+              </m:mrow>
+              <m:msup>
+                <m:mi>u</m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mi>m</m:mi>
+                <m:mi>o</m:mi>
+                <m:mi>l</m:mi>
+                <m:mo>.</m:mo>
+                <m:mi>d</m:mi>
+                <m:msup>
+                  <m:mi>m</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:msup>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mi>C</m:mi>
+                <m:mi>u</m:mi>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <!--empty paragraphs get left behind.-->
+        <para id="id148293">The <emphasis effect="bold">anode</emphasis> half cell (where <emphasis effect="italics">oxidation</emphasis> takes place) is always written on the <emphasis effect="italics">left</emphasis>. The <emphasis effect="bold">cathode</emphasis> half cell (where <emphasis effect="italics">reduction</emphasis> takes place) is always written on the <emphasis effect="italics">right</emphasis>.</para>
+        <para id="id148331">It is important to note that the potential difference across a cell is related to the extent to which the spontaneous cell reaction has reached equilibrium. In other words, as the reaction proceeds and the concentration of reactants decreases and the concentration of products increases, the reaction approaches equilibrium. When equilibrium is reached, the emf of the cell is zero and the cell is said to be 'flat'. There is no longer a potential difference between the two half cells, and therefore no more current will flow.</para>
+      </section>
+      <section id="uid130">
+        <title>Uses of standard electrode potential</title>
+        <para id="id148349">Standard electrode potentials have a number of different uses.</para>
+        <section id="uid131">
+          <title>Calculating the emf of an electrochemical cell</title>
+          <para id="id148362">To calculate the emf of a cell, you can use any one of the following equations:</para>
+          <para id="id148366">E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (right) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (left) ('right' refers to the electrode that is written on the right in standard cell notation. 'Left' refers to the half-reaction written on the left in this notation)</para>
+          <para id="id148426">E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (reduction half reaction) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (oxidation half reaction)</para>
+          <para id="id148483">E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (oxidising agent) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (reducing agent)</para>
+          <para id="id148540">E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (cathode) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (anode)</para>
+          <para id="id148598">So, for the Zn-Cu cell,</para>
+          <para id="id148601">E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = 0.34 - (-0.76)</para>
+          <para id="id148635">= 0.34 + 0.76</para>
+          <para id="id148638">= 1.1 V</para>
+<exercise id="secfhsst_id2894"><title> Calculating the emf of a cell </title>
+          <problem id="probfhsst_id2895">
+          <para id="id148654">The following reaction takes place:</para>
+          <para id="id148660">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mi>C</m:mi>
+                <m:mi>u</m:mi>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>s</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>+</m:mo>
+                <m:mi>A</m:mi>
+                <m:msup>
+                  <m:mi>g</m:mi>
+                  <m:mo>+</m:mo>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>a</m:mi>
+                  <m:mi>q</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>→</m:mo>
+                <m:mi>C</m:mi>
+                <m:msup>
+                  <m:mi>u</m:mi>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>+</m:mo>
+                  </m:mrow>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>a</m:mi>
+                  <m:mi>q</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>+</m:mo>
+                <m:mi>A</m:mi>
+                <m:mi>g</m:mi>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>s</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:math>
+          </para>
+          <list id="id148743" display="block" list-type="enumerated">
+            <item id="uid132">Represent the cell using standard notation.
+</item>
+            <item id="uid133">Calculate the cell potential (emf) of the electrochemical cell.
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id2953"> <list id="listfhsst_id2953" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Write equations for the two half reactions involved </label>
+          <para id="id148793"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mi>C</m:mi><m:mi>u</m:mi></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mi>o</m:mi></m:msup></m:math>V = 0.16V)</para>
+          <para id="id148848"><m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:msup><m:mi>g</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mi>A</m:mi><m:mi>g</m:mi></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mi>o</m:mi></m:msup></m:math>V = 0.80V)</para>
+          </item> <item> <label> Determine which reaction takes place at the cathode and which is the anode reaction </label>
+          <para id="id148903">Both half-reactions have positive electrode potentials, but the silver half-reaction has a higher positive value. In other words, silver does not form ions easily, and this must be the reduction half-reaction. Copper is the oxidation half-reaction. Copper is oxidised, therefore this is the anode reaction. Silver is reduced and so this is the cathode reaction.</para>
+          </item> <item> <label> Represent the cell using standard notation </label>
+          <equation id="id148913">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>C</m:mi>
+                  <m:mi>u</m:mi>
+                  <m:mo>|</m:mo>
+                  <m:mi>C</m:mi>
+                </m:mrow>
+                <m:msup>
+                  <m:mi>u</m:mi>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>+</m:mo>
+                  </m:mrow>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mi>m</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>l</m:mi>
+                  <m:mo>.</m:mo>
+                  <m:mi>d</m:mi>
+                  <m:msup>
+                    <m:mi>m</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>|</m:mo>
+                  <m:mo>|</m:mo>
+                  <m:mi>A</m:mi>
+                </m:mrow>
+                <m:msup>
+                  <m:mi>g</m:mi>
+                  <m:mo>+</m:mo>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mi>m</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>l</m:mi>
+                  <m:mo>.</m:mo>
+                  <m:mi>d</m:mi>
+                  <m:msup>
+                    <m:mi>m</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>|</m:mo>
+                  <m:mi>A</m:mi>
+                  <m:mi>g</m:mi>
+                </m:mrow>
+              </m:mrow>
+            </m:math>
+          </equation>
+          </item> <item> <label> Calculate the cell potential </label>
+          <para id="id149028">E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (cathode) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (anode)</para>
+          <para id="id149085">= +0.80 - (+0.34)</para>
+          <para id="id149088">= +0.46 V</para>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3034"><title> Calculating the emf of a cell </title>
+          <problem id="probfhsst_id3035">
+          <para id="id149122">Calculate the cell potential of the electrochemical cell in which the following reaction takes place, and represent the cell using standard notation.</para>
+          <para id="id149128">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mi>M</m:mi>
+                <m:mi>g</m:mi>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>s</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>+</m:mo>
+                <m:mn>2</m:mn>
+                <m:msup>
+                  <m:mi>H</m:mi>
+                  <m:mo>+</m:mo>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>a</m:mi>
+                  <m:mi>q</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>→</m:mo>
+                <m:mi>M</m:mi>
+                <m:mi>g</m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>a</m:mi>
+                  <m:mi>q</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>g</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:math>
+          </para>
+          
+          </problem>
+          <solution id="solfhsst_id3087"> <list id="listfhsst_id3087" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Write equations for the two half reactions involved </label>
+          <para id="id149232"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:msup><m:mi>g</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mi>M</m:mi><m:mi>g</m:mi></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mi>o</m:mi></m:msup></m:math>V = -2.37)</para>
+          <para id="id149287"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mi>o</m:mi></m:msup></m:math>V = 0.00)</para>
+          </item> <item> <label> Determine which reaction takes place at the cathode and which is the anode reaction </label>
+          <para id="id149347">From the overall equation, it is clear that magnesium is oxidised and hydrogen ions are reduced in this reaction. Magnesium is therefore the anode reaction and hydrogen is the cathode reaction.</para>
+          </item> <item> <label> Represent the cell using standard notation </label>
+          <equation id="id149356">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>M</m:mi>
+                  <m:mi>g</m:mi>
+                  <m:mo>|</m:mo>
+                  <m:mi>M</m:mi>
+                </m:mrow>
+                <m:msup>
+                  <m:mi>g</m:mi>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>+</m:mo>
+                  </m:mrow>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>|</m:mo>
+                  <m:mo>|</m:mo>
+                </m:mrow>
+                <m:msup>
+                  <m:mi>H</m:mi>
+                  <m:mo>+</m:mo>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>|</m:mo>
+                </m:mrow>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          </item> <item> <label> Calculate the cell potential </label>
+          <para id="id149414">E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (cathode) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (anode)</para>
+          <para id="id149471">= 0.00 - (-2.37)</para>
+          <para id="id149475">= +2.37 V
+ </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+        <section id="uid134">
+          <title>Predicting whether a reaction will take place spontaneously</title>
+          <para id="id149500">Look at the following example to help you to understand how to predict whether a reaction will take place spontaneously or not.</para>
+          <para id="id149504">In the reaction,</para>
+          <para id="id149508">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mi>P</m:mi>
+                <m:msup>
+                  <m:mi>b</m:mi>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>+</m:mo>
+                  </m:mrow>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>a</m:mi>
+                  <m:mi>q</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>+</m:mo>
+                <m:mn>2</m:mn>
+                <m:mi>B</m:mi>
+                <m:msup>
+                  <m:mi>r</m:mi>
+                  <m:mo>-</m:mo>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>a</m:mi>
+                  <m:mi>q</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>→</m:mo>
+                <m:mi>B</m:mi>
+                <m:msub>
+                  <m:mi>r</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>l</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>+</m:mo>
+                <m:mi>P</m:mi>
+                <m:mi>b</m:mi>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>s</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:math>
+          </para>
+          <para id="id149598">the two half reactions are as follows:</para>
+          <para id="id149602"><m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:msup><m:mi>b</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mi>P</m:mi><m:mi>b</m:mi></m:mrow></m:math> (-0.13 V)</para>
+          <para id="id149645"><m:math overflow="scroll"><m:mrow><m:mi>B</m:mi><m:msub><m:mi>r</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mn>2</m:mn><m:mi>B</m:mi><m:msup><m:mi>r</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (+1.06 V)</para>
+<note id="notfhsst_id3195" type="tip">Half cell reactions</note>
+          <para id="id149698">You will see that the half reactions are written as they appear in the table of standard electrode potentials. It may be useful to highlight the reacting substance in each half reaction. In this case, the reactants are Pb<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> and Br<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ions.</para>
+          <para id="id149734">Look at the electrode potential for the first half reaction. The negative value shows that lead loses electrons easily, in other words it is easily oxidised. The reaction would normally proceed from right to left (i.e. the equilibrium lies to the left), but in the original equation, the opposite is happening. It is the Pb<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions that are being reduced to lead. This part of the reaction is therefore not spontaneous. The positive electrode potential value for the bromine half-reaction shows that bromine is more easily reduced, in other words the equilibrium lies to the right. The spontaneous reaction proceeds from left to right. This is not what is happening in the original equation and therefore this is also not spontaneous. Overall it is clear then that the reaction will not proceed spontaneously.</para>
+<exercise id="secfhsst_id3198"><title> Predicting whether a reaction is spontaneous </title>
+          <problem id="probfhsst_id3199">
+          <para id="id149772">Will copper react with dilute sulfuric acid (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)? You are given the following half reactions:</para>
+          <para id="id149804"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> = +0.34 V)</para>
+          <para id="id149878"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> = 0 V)</para>
+          
+          </problem>
+          <solution id="solfhsst_id3205"> <list id="listfhsst_id3205" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> For each reaction, look at the electrode potentials and decide in which direction the equilibrium lies </label>
+          <para id="id149972">In the first half reaction, the positive electrode potential means that copper does not lose electrons easily, in other words it is more easily reduced and the equilibrium position lies to the right. Another way of saying this is that the spontaneous reaction is the one that proceeds from left to right, when copper ions are reduced to copper metal.</para>
+          <para id="id149979">In the second half reaction, the spontaneous reaction is from right to left.</para>
+          </item> <item> <label> Compare the equilibrium positions to the original reaction </label>
+          <para id="id149987">What you should notice is that in the original reaction, the reactants are copper (Cu) and sulfuric acid (2H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>). During the reaction, the copper is oxidised and the hydrogen ions are reduced. But from an earlier step, we know that neither of these half reactions will proceed spontaneously in the direction indicated by the original reaction. The reaction is therefore not spontaneous.
+ </para>
+          </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id3214" type="tip"/>
+          <para id="id150024">
+            <emphasis effect="bold">A second method for predicting whether a reaction is spontaneous</emphasis>
+          </para>
+          <para id="id150031">Another way of predicting whether a reaction occurs spontaneously, is to look at the sign of the emf value for the cell. If the emf is <emphasis effect="bold">positive</emphasis> then the reaction is <emphasis effect="bold">spontaneous</emphasis>. If the emf is <emphasis effect="bold">negative</emphasis>, then the reaction is <emphasis effect="bold">not spontaneous</emphasis>.</para>
+        </section>
+        <section id="uid135">
+          <title>Balancing redox reactions</title>
+          <para id="id150070">We will look at this in more detail in the next section.</para>
+<section id="secfhsst_id3223"><title> Predicting whether a reaction will take place spontaneously
+          </title>
+          <list id="id150087" display="block" list-type="enumerated">
+            <item id="uid136">Predict whether the following reaction will take place spontaneously or not. Show all your working.
+<equation id="id150103"><m:math overflow="scroll" mode="display"><m:mrow><m:mn>2</m:mn><m:mi>A</m:mi><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>A</m:mi><m:msup><m:mi>g</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+            <item id="uid137">Zinc metal reacts with an acid, H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> (aq) to produce hydrogen gas.
+<list id="id150215" display="block" list-type="enumerated"><item id="uid138">Write an equation for the reaction, using the table of electrode potentials.
+</item><item id="uid139">Predict whether the reaction will take place spontaneously. Show your working.
+</item></list></item>
+            <item id="uid140">Four beakers are set up, each of which contains one of the following solutions:
+<list id="id150257" display="block" list-type="enumerated"><item id="uid141">Mg(NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid142">Ba(NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid143">Cu(NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid144">Al(NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item></list>
+Iron is added to each of the beakers. In which beaker will a spontaneous reaction take place?
+</item>
+            <item id="uid145">Which one of the following solutions can be stored in an aluminium container?
+<list id="id150425" display="block" list-type="enumerated"><item id="uid146">Cu(SO)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></item><item id="uid147">Zn(SO)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></item><item id="uid148">NaCl
+</item><item id="uid149">Pb(NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item></list></item>
+          </list>
+          
+</section>
+<section id="secfhsst_id3242"><title> Electrochemical cells and standard electrode potentials </title>
+          <list id="id150543" display="block" list-type="enumerated">
+            <item id="uid150">An electrochemical cell is made up of a copper electrode in contact with a copper nitrate solution and an electrode made of an unknown metal M in contact with a solution of MNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>. A salt bridge containing a KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> solution joins the two half cells. A voltmeter is connected across the electrodes. Under standard conditions the reading on the voltmeter is 0.46V.
+<figure id="id150591"><media id="id150591_media" alt=""><image mime-type="image/png" src="../../media/CG12C4_009.png" id="id150591_onlineimage" width="454"><!-- NOTE: attribute width changes image size online (pixels). original width is 454. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C4_009.eps" id="id150591_printimage"/></media></figure>
+The reaction in the copper half cell is given by:
+<m:math overflow="scroll"><m:mrow><m:mi> Cu </m:mi><m:mo>→</m:mo><m:msup><m:mi> Cu </m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math><list id="id150639" display="block" list-type="enumerated"><item id="uid151">Write down the standard conditions which apply to this electrochemical cell.
+</item><item id="uid152">Identify the metal M. Show calculations.
+</item><item id="uid153">Use the standard electrode potentials to write down equations for the:
+<list id="id150680" display="block" list-type="enumerated"><item id="uid154">cathode half-reaction
+</item><item id="uid155">anode half-reaction
+</item><item id="uid156">overall cell reaction
+</item></list></item><item id="uid157">What is the purpose of the salt bridge?
+</item><item id="uid158">Explain why a KCl solution would not be suitable for use in the salt bridge in this cell.
+</item></list>
+(IEB Paper 2, 2004)
+</item>
+            <item id="uid159">Calculate the emf for each of the following standard electrochemical cells:
+<list id="id150764" display="block" list-type="enumerated"><item id="uid160"><equation id="id150775"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mo>|</m:mo><m:mi>M</m:mi></m:mrow><m:msup><m:mi>g</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo></m:mrow><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>|</m:mo></m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation></item><item id="uid161"><equation id="id150836"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mi>F</m:mi><m:mi>e</m:mi><m:mo>|</m:mo><m:mi>F</m:mi></m:mrow><m:msup><m:mi>e</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mi>F</m:mi></m:mrow><m:msup><m:mi>e</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mi>F</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:math></equation></item><item id="uid162"><equation id="id150900"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mi>C</m:mi><m:mi>r</m:mi><m:mo>|</m:mo><m:mi>C</m:mi><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mi>C</m:mi></m:mrow><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mi>C</m:mi><m:mi>u</m:mi></m:mrow></m:mrow></m:math></equation></item><item id="uid163"><equation id="id150958"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mi>P</m:mi><m:mi>b</m:mi><m:mo>|</m:mo><m:mi>P</m:mi></m:mrow><m:msup><m:mi>b</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mi>H</m:mi></m:mrow><m:msup><m:mi>g</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mi>H</m:mi><m:mi>g</m:mi></m:mrow></m:mrow></m:math></equation></item></list></item>
+            <item id="uid164">Given the following two half-reactions:
+<list id="id151027" display="block" list-type="bulleted"><item id="uid165"><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid166"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>n</m:mi><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>8</m:mn><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>5</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mi>M</m:mi><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item></list><list id="id151228" display="block" list-type="enumerated"><item id="uid167">Give the standard electrode potential for each half-reaction.
+</item><item id="uid168">Which reaction takes place at the cathode and which reaction takes place at the anode?
+</item><item id="uid169">Represent the electrochemical cell using standard notation.
+</item><item id="uid170">Calculate the emf of the cell
+</item></list></item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+   
+
+  </content>
+</document>

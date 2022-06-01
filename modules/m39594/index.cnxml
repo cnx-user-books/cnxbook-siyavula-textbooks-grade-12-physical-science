@@ -1,0 +1,475 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Work</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39594</md:content-id>
+  <md:title>Work</md:title>
+  <md:abstract/>
+  <md:uuid>420de2c5-5de8-45b4-82e0-22a480142a51</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id183255">Imagine a vendor carrying a basket of vegetables on her head. Is she doing any work? One would definitely say yes! However, in Physics she is not doing any work! Again, imagine a boy pushing against a wall? Is he doing any work? We can see that his muscles are contracting and expanding. He may even be sweating. But in Physics, he is not doing any work!</para>
+      <para id="id183262">If the vendor is carrying a very heavy load for a long distance, we would say she has lot of energy. By this, we mean that she has a lot of stamina. If a car can travel very fast, we describe the car as powerful. So, there is a link between power and speed. However, power means something different in Physics. This chapter describes the links between work, energy and power and what these mean in Physics.</para>
+      <para id="id183268">You will learn that work and energy are closely related. You shall see that the energy of an object is its capacity to do work and doing work is the process of transferring energy from one object or form to another. In other
+words,</para>
+      <list id="id183612" display="block" list-type="bulleted">
+        <item id="uid1">an object with lots of energy can do lots of work.
+</item>
+        <item id="uid2">when work is done, energy is lost by the object doing work and gained by the object on which the work is done.
+</item>
+      </list>
+      <para id="id183640">Lifting objects or throwing them requires that you do work on them. Even making electricity flow requires that something do work. Something must have energy and transfer it through doing work to make things happen.</para>
+    </section>
+    <section id="cid3">
+      <title>Work</title>
+<definition id="fhsst_id84"><term id="termfhsst_id84"> Work </term> <meaning id="meaningfhsst_id84">
+      <para id="id183660">When a force exerted on an object causes it to move, work is done on the object (except if the force and displacement are at right angles to each other). </para>
+      </meaning></definition>
+      <para id="id183672">This means that in order for work to be done, an object must be moved a distance <m:math overflow="scroll"><m:mi>d</m:mi></m:math> by a force <m:math overflow="scroll"><m:mi>F</m:mi></m:math>, such that there is some non-zero component of the force in the direction of the displacement. Work is calculated as:</para>
+      <equation id="uid3">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>W</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>F</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>Δ</m:mi>
+            <m:mi>x</m:mi>
+            <m:mo form="prefix">cos</m:mo>
+            <m:mi>θ</m:mi>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id183727">where <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is the applied force, <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> is the displacement of the object and <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> is the angle between the applied force and the direction of motion.</para>
+      <figure id="uid4">
+        <media id="uid4_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C3_001.png" id="uid4_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_001.eps" id="uid4_printimage"/>
+        </media>
+        <caption>The force <m:math overflow="scroll"><m:mi>F</m:mi></m:math> causes the object to be displaced by <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> at angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>.</caption>
+      </figure>
+      <para id="id183797">It is very important to note that for work to be done there must be a component of the applied force in the direction of motion. Forces perpendicular to the direction of motion do no work.</para>
+      <para id="id183802">For example work is done on the object in <link target-id="uid5"/>,</para>
+      <figure id="uid5">
+        <media id="uid5_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C3_002.png" id="uid5_onlineimage" width="478"><!-- NOTE: attribute width changes image size online (pixels). original width is 478. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_002.eps" id="uid5_printimage"/>
+        </media>
+        <caption>(a) The force <m:math overflow="scroll"><m:mi>F</m:mi></m:math> causes the object to be displaced by <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> in the same direction as the force. <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>. Work is done in this situation. (b) A force <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is applied to the object. The object is displaced by <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>y</m:mi></m:mrow></m:math> at right angles to the force. <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>. Work is not done in this situation.</caption>
+      </figure>
+<section id="secfhsst_id120"><title> Investigation : Is work done? </title>
+      <para id="id184119">Decide whether on not work is done in the following situations. Remember that for work to be done a force must be applied in the direction of motion and there must be a displacement. Give reasons for your answer.</para>
+      <list id="id184126" display="block" list-type="enumerated">
+        <item id="uid6">Max pushes against a wall and becomes tired.
+</item>
+        <item id="uid7">A book falls off a table and free falls to the ground.
+</item>
+        <item id="uid8">A rocket accelerates through space.
+</item>
+        <item id="uid9">A waiter holds a tray full of meals above his head with one arm and carries it straight across the room at constant speed. (Careful! This is a tricky question.)
+</item>
+      </list>
+      
+</section>
+<note id="notfhsst_id134" type="tip"><para id="uis874395"><emphasis effect="bold">The Meaning of <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>:</emphasis> The angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> is the angle between the force vector and the displacement vector. In the following situations, <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math>.</para>
+      <para id="id184232">
+        <figure id="id184235">
+          <media id="id184235_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C3_003.png" id="id184235_onlineimage" width="285"><!-- NOTE: attribute width changes image size online (pixels). original width is 285. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_003.eps" id="id184235_printimage"/>
+          </media>
+        </figure>
+      </para>
+</note>
+      <para id="id184244">As with all physical quantities, work must have units. Following from the definition, work is measured in N<m:math overflow="scroll"><m:mo>·</m:mo></m:math>m. The name given to this combination of S.I. units is the joule (symbol J).</para>
+<definition id="fhsst_id145"><term id="termfhsst_id145"> Joule </term> <meaning id="meaningfhsst_id145">
+      <para id="id184263">1 joule is the work done when an object is moved 1 m under the application of a force of 1 N in the direction of motion. </para>
+      </meaning></definition>
+      <para id="id184276">The work done by an object can be positive or negative. Since force (<m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mo>∥</m:mo></m:msub></m:math>) and displacement (<m:math overflow="scroll"><m:mi>s</m:mi></m:math>) are both vectors, the result of the above equation depends on their directions:</para>
+      <list id="id184302" display="block" list-type="bulleted">
+        <item id="uid10">If <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mo>∥</m:mo></m:msub></m:math> acts in the same direction as the motion then positive work is being done. In this case the object on which the force is applied gains energy.
+</item>
+        <item id="uid11">If the direction of motion and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mo>∥</m:mo></m:msub></m:math> are opposite, then negative
+work is being done. This means that energy is transferred in the opposite direction. For example, if you try to push a car uphill by applying a force up the slope and instead the car rolls down the hill you are doing negative work on the car. Alternatively, the car is doing positive work on you!
+</item>
+      </list>
+<note id="notfhsst_id156" type="tip">The everyday use of the word "work" differs from the physics use. In physics, only the component of the applied force that is parallel to the motion does work on an object. So, for example, a person holding up a heavy book does no work on the book.</note>
+<exercise id="secfhsst_id157"><title> Calculating Work Done I </title>
+      <problem id="probfhsst_id158">
+      <para id="id184379">If you push a box 20 m forward by applying a force of 15 N in the forward direction, what is the work you have done on the box? </para>
+      </problem>
+      <solution id="solfhsst_id161"> <list id="listfhsst_id161" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Analyse the question to determine what
+information is provided </label>
+      <list id="id184403" display="block" list-type="bulleted">
+        <item id="uid12">The force applied is <m:math overflow="scroll"><m:mi>F</m:mi></m:math>=15 N.
+</item>
+        <item id="uid13">The distance moved is <m:math overflow="scroll"><m:mi>s</m:mi></m:math>=20 m.
+</item>
+        <item id="uid14">The applied force and distance moved are in the same
+direction. Therefore, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mo>∥</m:mo></m:msub></m:math>=15 N.
+</item>
+      </list>
+      <para id="id184471">These quantities are all in the correct units, so no unit conversions
+are required.</para>
+      </item> <item> <label> Analyse the question to determine what is being asked </label>
+      <list id="id184479" display="block" list-type="bulleted">
+        <item id="uid15">We are asked to find the work done on the box. We know from the
+definition that work done is <m:math overflow="scroll"><m:mrow><m:mi>W</m:mi><m:mo>=</m:mo><m:msub><m:mi>F</m:mi><m:mo>∥</m:mo></m:msub><m:mi>s</m:mi></m:mrow></m:math></item>
+      </list>
+      </item> <item> <label> Next we substitute the values and calculate the work done </label>
+      <equation id="id184520">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>W</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mo>∥</m:mo>
+                  </m:msub>
+                  <m:mi>s</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>15</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">N</m:mi>
+                  <m:mo>)</m:mo>
+                  <m:mo>(</m:mo>
+                  <m:mn>20</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>300</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">J</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id184616">Remember that the answer must be <emphasis effect="italics">positive</emphasis> as the applied force and the motion are in the same direction (forwards). In this case, you (the pusher) lose energy, while the box gains energy. </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id242"><title> Calculating Work Done II </title>
+      <problem id="probfhsst_id243">
+      <para id="id184649">What is the work done by you on a car, if you try to push the car up a hill by applying a force of 40 N directed up the slope, but it slides downhill 30 cm? </para>
+      </problem>
+      <solution id="solfhsst_id246"> <list id="listfhsst_id246" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Analyse the question to determine what
+information is provided </label>
+      <list id="id184674" display="block" list-type="bulleted">
+        <item id="uid16">The force applied is <m:math overflow="scroll"><m:mi>F</m:mi></m:math>=40 N
+</item>
+        <item id="uid17">The distance moved is <m:math overflow="scroll"><m:mi>s</m:mi></m:math>=30 cm. This is expressed in the wrong units
+so we must convert to the proper S.I. units (meters):
+<equation id="id184717"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>100</m:mn><m:mspace width="0.166667em"/><m:mi> cm </m:mi></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>1</m:mn><m:mspace width="0.166667em"/><m:mi> cm </m:mi></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>100</m:mn></m:mfrac><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mo>∴</m:mo><m:mn>30</m:mn><m:mo>×</m:mo><m:mn>1</m:mn><m:mspace width="0.166667em"/><m:mi> cm </m:mi></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>30</m:mn><m:mo>×</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>100</m:mn></m:mfrac><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mn>30</m:mn><m:mn>100</m:mn></m:mfrac><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+        <item id="uid18">The applied force and distance moved are in opposite directions. Therefore, if we take <m:math overflow="scroll"><m:mi>s</m:mi></m:math>=0.3 m, then <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mo>∥</m:mo></m:msub></m:math>=-40 N.
+</item>
+      </list>
+      </item> <item> <label> Analyse the question to determine what is being asked </label>
+      <list id="id184920" display="block" list-type="bulleted">
+        <item id="uid19">We are asked to find the work done on the car by you. We know
+that work done is <m:math overflow="scroll"><m:mrow><m:mi>W</m:mi><m:mo>=</m:mo><m:msub><m:mi>F</m:mi><m:mo>∥</m:mo></m:msub><m:mi>s</m:mi></m:mrow></m:math></item>
+      </list>
+      </item> <item> <label> Substitute the values and calculate the work done </label>
+      <para id="id184960">Again we have the applied force and the distance moved so we can proceed with calculating the work done:</para>
+      <equation id="id184964">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>W</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mo>∥</m:mo>
+                  </m:msub>
+                  <m:mi>s</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mo>-</m:mo>
+                  <m:mn>40</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">N</m:mi>
+                  <m:mo>)</m:mo>
+                  <m:mo>(</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>12</m:mn>
+                  <m:mi mathvariant="normal">J</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id185060">Note that the answer must be <emphasis effect="italics">negative</emphasis> as the applied force and the motion are in opposite directions. In this case the car does work on the person trying to push. </para>
+      </item> </list> </solution>
+</exercise>
+      <para id="id185084">What happens when the applied force and the motion are not parallel? If there is an angle between the direction of motion and the applied force then
+to determine the work done we have to calculate the <emphasis effect="italics">component</emphasis> of
+the applied force <emphasis effect="italics">parallel</emphasis> to the direction of motion. Note that this
+means a force perpendicular to the direction of motion can do no work.</para>
+<exercise id="secfhsst_id331"><title> Calculating Work Done III </title>
+      <problem id="probfhsst_id332">
+      <para id="id185115">Calculate the work done on a box, if it is pulled 5 m along the ground by applying a force of <m:math overflow="scroll"><m:mi>F</m:mi></m:math>=10 N at an angle of <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math> to the horizontal.</para>
+      <para id="id185145">
+        <figure id="id185149">
+          <media id="id185149_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C3_004.png" id="id185149_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_004.eps" id="id185149_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id344"> <list id="listfhsst_id344" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Analyse the question to determine what
+information is provided </label>
+      <list id="id185177" display="block" list-type="bulleted">
+        <item id="uid20">The force applied is <m:math overflow="scroll"><m:mi>F</m:mi></m:math>=10 N
+</item>
+        <item id="uid21">The distance moved is <m:math overflow="scroll"><m:mi>s</m:mi></m:math>=5 m along the ground
+</item>
+        <item id="uid22">The angle between the applied force and the motion is <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math></item>
+      </list>
+      <para id="id185250">These quantities are in the correct units so we do not need to perform
+any unit conversions.</para>
+      </item> <item> <label> Analyse the question to determine what is being asked </label>
+      <list id="id185258" display="block" list-type="bulleted">
+        <item id="uid23">We are asked to find the work done on the box.
+</item>
+      </list>
+      </item> <item> <label> Calculate the component of the applied force in the direction of motion </label>
+      <para id="id185278">Since the force and the motion are not in the same direction, we must
+first calculate the component of the force in the direction of the
+motion.</para>
+      <para id="id185283">
+        <figure id="id185286">
+          <media id="id185286_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C3_005.png" id="id185286_onlineimage" width="55"><!-- NOTE: attribute width changes image size online (pixels). original width is 55. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_005.eps" id="id185286_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id185293">From the force diagram we see that the component of the applied force
+parallel to the ground is</para>
+      <equation id="id185297">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mrow>
+                    <m:mo>|</m:mo>
+                    <m:mo>|</m:mo>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>F</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:mo>(</m:mo>
+                  <m:msup>
+                    <m:mn>60</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">N</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:mo>(</m:mo>
+                  <m:msup>
+                    <m:mn>60</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute and calculate the work done </label>
+      <para id="id185414">Now we can calculate the work done on the box:</para>
+      <equation id="id185418">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>W</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mo>∥</m:mo>
+                  </m:msub>
+                  <m:mi>s</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">N</m:mi>
+                  <m:mo>)</m:mo>
+                  <m:mo>(</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>25</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">J</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id185512">Note that the answer is positive as the component of the force <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mo>∥</m:mo></m:msub></m:math> is in the same direction as the motion. </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id503"><title> Work </title>
+      <list id="id185552" display="block" list-type="enumerated">
+        <item id="uid24">A 10 N force is applied to push a block across a friction free surface for a displacement of 5.0 m to the right. The block has a weight of 20 N. Determine the work done by the following forces: normal force, weight, applied force.
+<figure id="id185574"><media id="id185574_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_006.png" id="id185574_onlineimage" width="82"><!-- NOTE: attribute width changes image size online (pixels). original width is 82. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_006.eps" id="id185574_printimage"/></media></figure></item>
+        <item id="uid25">A 10 N frictional force slows a moving block to a stop after a displacement of 5.0 m to the right. The block has a weight of 20 N. Determine the work done by the following forces: normal force, weight, frictional force.
+<figure id="id185600"><media id="id185600_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_007.png" id="id185600_onlineimage" width="99"><!-- NOTE: attribute width changes image size online (pixels). original width is 99. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_007.eps" id="id185600_printimage"/></media></figure></item>
+        <item id="uid26">A 10 N force is applied to push a block across a frictional surface at constant speed for a displacement of 5.0 m to the right. The block has a weight of 20 N and the frictional force is 10 N. Determine the work done by the following forces: normal force, weight, frictional force.
+<figure id="id185627"><media id="id185627_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_008.png" id="id185627_onlineimage" width="123"><!-- NOTE: attribute width changes image size online (pixels). original width is 123. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_008.eps" id="id185627_printimage"/></media></figure></item>
+        <item id="uid27">A 20 N object is sliding at constant speed across a friction free surface for a displacement of 5 m to the right. Determine if there is any work done.
+<figure id="id185651"><media id="id185651_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_009.png" id="id185651_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_009.eps" id="id185651_printimage"/></media></figure></item>
+        <item id="uid28">A 20 N object is pulled upward at constant speed by a 20 N force for a vertical displacement of 5 m. Determine if there is any work done.
+<figure id="id185676"><media id="id185676_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_010.png" id="id185676_onlineimage" width="31"><!-- NOTE: attribute width changes image size online (pixels). original width is 31. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_010.eps" id="id185676_printimage"/></media></figure></item>
+        <item id="uid29">Before beginning its descent, a roller coaster is always pulled up the first hill to a high initial height. Work is done on the roller coaster to achieve this initial height. A coaster designer is considering three different incline angles <emphasis effect="bold">of the hill</emphasis> at which to drag the 2 000 kg car train to the top of the 60 m high hill. In each case, the force applied to the car will be applied parallel to the hill. Her critical question is: which angle would require the least work? Analyze the data, determine the work done in each case, and answer this critical question.
+<table id="id185708" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Angle of Incline</emphasis></entry><entry><emphasis effect="bold">Applied Force</emphasis></entry><entry><emphasis effect="bold">Distance</emphasis></entry><entry><emphasis effect="bold">Work</emphasis></entry></row><row><entry>35<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry><entry><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math></entry><entry>100 m</entry><entry/></row><row><entry>45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry><entry><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math></entry><entry>90 m</entry><entry/></row><row><entry>55<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry><entry><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math></entry><entry>80 m</entry><entry/></row></tbody></tgroup></table></item>
+        <item id="uid30">Big Bertha carries a 150 N suitcase up four flights of stairs (a total height of 12 m) and then pushes it with a horizontal force of 60 N at a constant speed of 0.25 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> for a horizontal distance of 50 m on a frictionless surface. How much work does Big Bertha do on the suitcase during this entire trip?
+</item>
+        <item id="uid31">A mother pushes down on a pram with a force of 50 N at an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. The pram is moving on a frictionless surface. If the mother pushes the pram for a horizontal distance of 30 m, how much does she do on the pram?
+<figure id="id186075"><media id="id186075_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_011.png" id="id186075_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_011.eps" id="id186075_printimage"/></media></figure></item>
+        <item id="uid32">How much work is done by an applied force to raise a 2 000 N lift 5 floors vertically at a constant speed? Each floor is 5 m high.
+</item>
+        <item id="uid33">A student with a mass of 60 kg runs up three flights of stairs in 15 s, covering a vertical distance of 10 m. Determine the amount of work done by the student to elevate her body to this height. Assume that her speed is constant.
+</item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

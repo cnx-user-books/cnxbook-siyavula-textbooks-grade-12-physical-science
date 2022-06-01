@@ -1,0 +1,1579 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39592</md:content-id>
+  <md:title>Energy</md:title>
+  <md:abstract/>
+  <md:uuid>203f89bb-9275-4f97-8aee-1750f651b4d8</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Energy</title>
+      <section id="uid34">
+        <title>External and Internal Forces</title>
+        <para id="id186141">In Grade 10, you saw that mechanical energy was conserved in the absence of external forces. It is important to know whether a force is an internal force or an external force in the system, because this is related to whether the force can change an object's total mechanical energy when it does work on an object.</para>
+        <para id="id186147">When an external force (for example friction, air resistance, applied force) does work on an object, the total mechanical energy (KE + PE) of that object changes. If positive work is done, then the object will gain energy. If negative work is done, then the object will lose energy. The gain or loss in energy can be in the form of potential energy, kinetic energy, or both. However, the work which is done is equal to the change in mechanical energy of the object.</para>
+<section id="secfhsst_id535"><title> Investigations : External Forces </title>
+        <para id="id186161">We can investigate the effect of external forces on an object's total mechanical energy by rolling a ball along the floor from point A to point B.</para>
+        <para id="id186168">
+          <figure id="id186172">
+            <media id="id186172_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C3_012.png" id="id186172_onlineimage" width="221"><!-- NOTE: attribute width changes image size online (pixels). original width is 221. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_012.eps" id="id186172_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id186178">Find a nice smooth surface (e.g. a highly polished floor), mark off two positions, A and B, and roll the ball between them.</para>
+        <para id="id186183">The total mechanical energy of the ball, at each point, is the sum of its kinetic energy (KE) and gravitational potential energy (PE):</para>
+        <para id="id186187">
+          <equation id="id186194">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow>
+                        <m:mi> total </m:mi>
+                        <m:mo>,</m:mo>
+                        <m:mi mathvariant="normal">A</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi> KE </m:mi>
+                        <m:mi mathvariant="normal">A</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi> PE </m:mi>
+                        <m:mi mathvariant="normal">A</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:msub>
+                        <m:mi>h</m:mi>
+                        <m:mi>A</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+          <equation id="id186381">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow>
+                        <m:mi> total </m:mi>
+                        <m:mo>,</m:mo>
+                        <m:mi mathvariant="normal">B</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi> KE </m:mi>
+                        <m:mi mathvariant="normal">B</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi> PE </m:mi>
+                        <m:mi mathvariant="normal">B</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:msub>
+                        <m:mi>h</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+        </para>
+        <para id="id186565">In the absence of friction and other external forces, the ball should slide along the floor and its speed should be <emphasis effect="italics">the same</emphasis> at positions A and B. Since there are no external forces acting on the ball, its total mechanical energy at points A and B are equal.</para>
+        <equation id="id186576">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>A</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msubsup>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msubsup>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>B</m:mi>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mi> total </m:mi>
+                      <m:mo>,</m:mo>
+                      <m:mi mathvariant="normal">A</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mi> total </m:mi>
+                      <m:mo>,</m:mo>
+                      <m:mi mathvariant="normal">B</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id186709">Now, let's investigate what happens when there is friction (an <emphasis effect="italics">external force</emphasis>) acting on the ball.</para>
+        <para id="id186721">Roll the ball along a rough surface or a carpeted floor. What happens to the speed of the ball at point A compared to point B?</para>
+        <para id="id186727">If the surface you are rolling the ball along is very rough and provides a large external frictional force, then the ball should be moving much slower at point B than at point A.</para>
+        <para id="id186734">Let's now compare the total mechanical energy of the ball at points A and B:</para>
+        <para id="id186741">
+          <equation id="id186747">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow>
+                        <m:mi> total </m:mi>
+                        <m:mo>,</m:mo>
+                        <m:mi mathvariant="normal">A</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi> KE </m:mi>
+                        <m:mi mathvariant="normal">A</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi> PE </m:mi>
+                        <m:mi mathvariant="normal">A</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:msub>
+                        <m:mi>h</m:mi>
+                        <m:mi>A</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+          <equation id="id186934">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow>
+                        <m:mi> total </m:mi>
+                        <m:mo>,</m:mo>
+                        <m:mi mathvariant="normal">B</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi> KE </m:mi>
+                        <m:mi mathvariant="normal">B</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi> PE </m:mi>
+                        <m:mi mathvariant="normal">B</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:msub>
+                        <m:mi>h</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+        </para>
+        <para id="id187118">However, in this case, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>A</m:mi></m:msub><m:mo>≠</m:mo><m:msub><m:mi>v</m:mi><m:mi>B</m:mi></m:msub></m:mrow></m:math> and therefore <m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mrow><m:mi> total </m:mi><m:mo>,</m:mo><m:mi mathvariant="normal">A</m:mi></m:mrow></m:msub><m:mo>≠</m:mo><m:msub><m:mi>E</m:mi><m:mrow><m:mi> total </m:mi><m:mo>,</m:mo><m:mi mathvariant="normal">B</m:mi></m:mrow></m:msub></m:mrow></m:math>. Since</para>
+        <equation id="id187187">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>A</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>&gt;</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mi> total </m:mi>
+                      <m:mo>,</m:mo>
+                      <m:mi mathvariant="normal">A</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>&gt;</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mi> total </m:mi>
+                      <m:mo>,</m:mo>
+                      <m:mi mathvariant="normal">B</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id187267">Therefore, the ball has lost mechanical energy as it moves across the carpet.
+However, although the ball has lost mechanical energy, energy in the larger system has still been conserved. In this case, the missing
+energy is the work done by the carpet through applying a frictional force on the ball. In this case the carpet is doing negative work on the ball.
+ </para>
+</section>
+        
+        
+        <para id="id187291">When an internal force does work on an object by an (for example, gravitational and spring forces), the total mechanical energy (KE + PE) of that object remains constant but the object's energy can change form. For example, as an object falls in a gravitational field from a high elevation to a lower elevation, some of the object's potential energy is changed into kinetic energy. However, the sum of the kinetic and potential energies remain constant. When the only forces doing work are internal forces, energy changes forms - from kinetic to potential (or vice versa); yet the total amount of mechanical energy is conserved.</para>
+      </section>
+      <section id="uid35">
+        <title>Capacity to do Work</title>
+        <para id="id187309">Energy is the capacity to do work. When positive work is done on an object, the system doing the work loses energy. In fact, <emphasis effect="bold">the energy lost by a system is exactly equal to the work done by the system.</emphasis> An object with larger potential energy has a greater capacity to do work.</para>
+<exercise id="secfhsst_id1173"><title> Work Done on a System </title>
+        <problem id="probfhsst_id1174">
+        <para id="id187334">Show that a hammer of mass 2 kg does more work when dropped from a height of 10 m than when dropped from a height of 5 m. Confirm that the hammer has a greater potential energy at 10 m than at 5 m. </para>
+        </problem>
+        <solution id="solfhsst_id1177"> <list id="listfhsst_id1177" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id187361">We are given:</para>
+        <list id="id187364" display="block" list-type="bulleted">
+          <item id="uid36">the mass of the hammer, <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo></m:mrow></m:math>2 kg
+</item>
+          <item id="uid37">height 1, <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub></m:math>=10 m
+</item>
+          <item id="uid38">height 2, <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub></m:math>=5 m
+</item>
+        </list>
+        <para id="id187446">We are required to show that the hammer does more work when dropped from <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub></m:math> than from <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub></m:math>. We are also required to confirm that the hammer has a greater potential energy at 10 m than at 5 m.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <list id="id187484" display="block" list-type="enumerated">
+          <item id="uid39">Calculate the work done by the hammer, <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>1</m:mn></m:msub></m:math>, when dropped from <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub></m:math> using:
+<equation id="id187528"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>W</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>F</m:mi><m:mi>g</m:mi></m:msub><m:mo>·</m:mo><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></equation></item>
+          <item id="uid40">Calculate the work done by the hammer, <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>2</m:mn></m:msub></m:math>, when dropped from <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub></m:math> using:
+<equation id="id187607"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>W</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>F</m:mi><m:mi>g</m:mi></m:msub><m:mo>·</m:mo><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></equation></item>
+          <item id="uid41">Compare <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>2</m:mn></m:msub></m:math></item>
+          <item id="uid42">Calculate potential energy at <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub></m:math> and compare using:
+<equation id="uid43"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>P</m:mi><m:mi>E</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mo>·</m:mo><m:mi>g</m:mi><m:mo>·</m:mo><m:mi>h</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation></item>
+        </list>
+        </item> <item> <label> Calculate <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>1</m:mn></m:msub></m:math> </label>
+        <equation id="id187779">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>W</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>196</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Calculate <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>2</m:mn></m:msub></m:math> </label>
+        <equation id="id187964">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>W</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>98</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Compare <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>2</m:mn></m:msub></m:math> </label>
+        <para id="id188164">We have <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>1</m:mn></m:msub></m:math>=196 J and <m:math overflow="scroll"><m:msub><m:mi>W</m:mi><m:mn>2</m:mn></m:msub></m:math>=98 J. <m:math overflow="scroll"><m:mrow><m:msub><m:mi>W</m:mi><m:mn>1</m:mn></m:msub><m:mo>&gt;</m:mo><m:msub><m:mi>W</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> as required.</para>
+        </item> <item> <label> Calculate potential energy </label>
+        <para id="id188224">From <link target-id="uid43"/>, we see that:</para>
+        <equation id="id188232">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>h</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mi>h</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mi>W</m:mi>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id188305">This means that the potential energy is equal to the work done. Therefore, <m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:msub><m:mi>E</m:mi><m:mn>1</m:mn></m:msub><m:mo>&gt;</m:mo><m:mi>P</m:mi><m:msub><m:mi>E</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>, because <m:math overflow="scroll"><m:mrow><m:msub><m:mi>W</m:mi><m:mn>1</m:mn></m:msub><m:mo>&gt;</m:mo><m:msub><m:mi>W</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+        <para id="id188377">This leads us to the work-energy theorem.</para>
+<definition id="fhsst_id1465"><term id="termfhsst_id1465"> Work-Energy Theorem </term> <meaning id="meaningfhsst_id1465">
+        <para id="id188388">The work-energy theorem states that the work done on an object is equal to the change in its kinetic energy:</para>
+        <equation id="id188394">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>W</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>Δ</m:mi>
+              <m:mi>K</m:mi>
+              <m:mi>E</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>K</m:mi>
+              <m:msub>
+                <m:mi>E</m:mi>
+                <m:mi>f</m:mi>
+              </m:msub>
+              <m:mo>-</m:mo>
+              <m:mi>K</m:mi>
+              <m:msub>
+                <m:mi>E</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </meaning></definition>
+        <para id="id188451">The work-energy theorem is another example of the conservation of energy which you saw in Grade 10.</para>
+<exercise id="secfhsst_id1493"><title> Work-Energy Theorem </title>
+        <problem id="probfhsst_id1494">
+        <para id="id188468">A brick of mass 1 kg is dropped from a height of 10 m. Calculate the work done on the brick at the point it hits the ground assuming that there is no air resistance? </para>
+        </problem>
+        <solution id="solfhsst_id1497"> <list id="listfhsst_id1497" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id188494">We are given:</para>
+        <list id="id188498" display="block" list-type="bulleted">
+          <item id="uid44">mass of the brick: <m:math overflow="scroll"><m:mi>m</m:mi></m:math>=1 kg
+</item>
+          <item id="uid45">initial height of the brick: <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>i</m:mi></m:msub></m:math>=10 m
+</item>
+          <item id="uid46">final height of the brick: <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>f</m:mi></m:msub></m:math>=0 m
+</item>
+        </list>
+        <para id="id188577">We are required to determine the work done on the brick as it hits the ground.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id188585">The brick is falling freely, so energy is conserved. We know that the work done is equal to the difference in kinetic energy. The brick has no kinetic energy at the moment it is dropped, because it is stationary. When the brick hits the ground, all the brick's potential energy is converted to kinetic energy.</para>
+        </item> <item> <label> Determine the brick's potential energy at <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>i</m:mi></m:msub></m:math> </label>
+        <equation id="id188609">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>h</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>98</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Determine the work done on the brick </label>
+        <para id="id188745">The brick had 98 J of potential energy when it was released and 0 J of kinetic energy. When the brick hit the ground, it had 0 J of potential energy and 98 J of kinetic energy. Therefore <m:math overflow="scroll"><m:mrow><m:mi>K</m:mi><m:msub><m:mi>E</m:mi><m:mi>i</m:mi></m:msub></m:mrow></m:math>=0 J and <m:math overflow="scroll"><m:mrow><m:mi>K</m:mi><m:msub><m:mi>E</m:mi><m:mi>f</m:mi></m:msub></m:mrow></m:math>=98 J.</para>
+        <para id="id188787">From the work-energy theorem:</para>
+        <equation id="id188790">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>W</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>K</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>K</m:mi>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:mi>K</m:mi>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>98</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>98</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id188909">98 J of work was done on the brick.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1672"><title> Work-Energy Theorem 2 </title>
+        <problem id="probfhsst_id1673">
+        <para id="id188937">The driver of a 1 000 kg car traveling at a speed of 16,7 <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> applies the car's brakes when he sees a red robot. The car's brakes provide a frictional force of 8000 N. Determine the stopping distance of the car. </para>
+        </problem>
+        <solution id="solfhsst_id1676"> <list id="listfhsst_id1676" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id188987">We are given:</para>
+        <list id="id188991" display="block" list-type="bulleted">
+          <item id="uid47">mass of the car: <m:math overflow="scroll"><m:mi>m</m:mi></m:math>=1 000 kg
+</item>
+          <item id="uid48">speed of the car: <m:math overflow="scroll"><m:mi>v</m:mi></m:math>=16,7 <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item>
+          <item id="uid49">frictional force of brakes: <m:math overflow="scroll"><m:mi>F</m:mi></m:math>=8 000 N
+</item>
+        </list>
+        <para id="id189081">We are required to determine the stopping distance of the car.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id189088">We apply the work-energy theorem. We know that all the car's kinetic energy is lost to friction. Therefore, the change in the car's kinetic energy is equal to the work done by the frictional force of the car's brakes.</para>
+        <para id="id189094">Therefore, we first need to determine the car's kinetic energy at the moment of braking using:</para>
+        <equation id="id189098">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>K</m:mi>
+              <m:mi>E</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mi>m</m:mi>
+              <m:msup>
+                <m:mi>v</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id189130">This energy is equal to the work done by the brakes. We have the force applied by the brakes, and we can use:</para>
+        <equation id="id189136">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>W</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>F</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>d</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id189157">to determine the stopping distance.</para>
+        </item> <item> <label> Determine the kinetic energy of the car </label>
+        <equation id="id189166">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>K</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mi>v</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>000</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>k</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>16</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>7</m:mn>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi>m</m:mi>
+                        <m:mi>s</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>139</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>445</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi>J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Determine the work done </label>
+        <para id="id189300">Assume the stopping distance is <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mn>0</m:mn></m:msub></m:math>. Then the work done is:</para>
+        <equation id="id189319">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>W</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mi>F</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>d</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>000</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>N</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mn>0</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id189389">The force has a negative sign because it acts in a direction opposite to the direction of motion.</para>
+        </item> <item> <label> Apply the work-enemy theorem </label>
+        <para id="id189400">The change in kinetic energy is equal to the work done.</para>
+        <equation id="id189404">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>K</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mi>W</m:mi>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>K</m:mi>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:mi>K</m:mi>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>000</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>N</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mn>0</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>139</m:mn>
+                    <m:mspace width="0.277778em"/>
+                    <m:mn>445</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>000</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>N</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mn>0</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:msub>
+                      <m:mi>d</m:mi>
+                      <m:mn>0</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>139</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>445</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>J</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>000</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>N</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>17</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id189656">The car stops in 17,4 m. </para>
+        </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id2008" type="tip">A force only does work on an object for the time that it is in contact with the object. For example, a person pushing a trolley does work on the trolley, but the road does no work on the tyres of a car if they turn without slipping (the force is not applied over any distance because a different piece of tyre touches the road every instant.</note>
+<note id="notfhsst_id2009" type="tip">Energy is conserved!</note>
+<note id="notfhsst_id2010" type="tip"><title>Energy Conservation:</title>
+        <para id="id189692"><emphasis effect="bold">In the absence of friction</emphasis>, the work done on an object by a system is equal to the energy gained by the object.</para>
+        <equation id="id189703"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> Work Done </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mrow>
+                <m:mi> Energy Transferred </m:mi>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id189727"><emphasis effect="bold">In the presence of friction</emphasis>, only some of the energy lost by the system is transferred to useful energy. The rest is lost to friction.</para>
+        <equation id="id189738"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> Total work done </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mrow>
+                <m:mi> Useful work done </m:mi><m:mspace width="3pt"/>
+                <m:mo>+</m:mo>
+                <m:mi> Work done against friction </m:mi>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </note>
+        <para id="id189784">In the example of a falling mass the potential energy is known as <emphasis effect="italics">gravitational potential energy</emphasis> as it is the gravitational force exerted by the earth which causes the mass to accelerate towards the ground. The gravitational field of the earth is what does the work in this case.</para>
+        <para id="id189795">Another example is a rubber-band. In order to stretch a rubber-band we have
+to do work on it. This means we transfer energy to the rubber-band and
+it gains potential energy. This potential energy is called <emphasis effect="italics">elastic potential energy</emphasis>. Once released, the rubber-band begins to
+move and elastic potential energy is transferred into kinetic energy.</para>
+<section id="secfhsst_id2056"><title> Other forms of Potential Energy </title>
+        <list id="id189813" display="block" list-type="enumerated">
+          <item id="uid50">elastic potential energy - potential energy is stored in a compressed or extended spring or rubber band. This potential energy is calculated by:
+<equation id="id189829"><m:math overflow="scroll" mode="display"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>k</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+where <m:math overflow="scroll"><m:mi>k</m:mi></m:math> is a constant that is a measure of the stiffness of the spring or rubber band and <m:math overflow="scroll"><m:mi>x</m:mi></m:math> is the extension of the spring or rubber band.
+</item>
+          <item id="uid51">Chemical potential energy is related to the making and breaking of chemical bonds. For example, a battery converts chemical energy into electrical energy.
+</item>
+          <item id="uid52">The electrical potential energy of an electrically charged object is defined as the work that must be done to move it from an infinite distance away to its present location, in the absence of any non-electrical forces on the object. This energy is non-zero if there is another electrically charged object nearby otherwise it is given by:
+<equation id="id183545"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>k</m:mi><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>q</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mi>d</m:mi></m:mfrac></m:mrow></m:math></equation>
+where <m:math overflow="scroll"><m:mi>k</m:mi></m:math> is Coulomb's constant. For example, an electric motor lifting an elevator converts electrical energy into gravitational potential energy.
+</item>
+          <item id="uid53">Nuclear energy is the energy released when the nucleus of an atom is split or fused. A nuclear reactor converts nuclear energy into heat.
+</item>
+        </list>
+        <para id="id183608">Some of these forms of energy will be studied in later chapters. </para>
+</section>
+<section id="secfhsst_id2073"><title> Investigation : Energy Resources </title>
+        <para id="id190055">Energy can be taken from almost anywhere. Power plants use many different types of energy sources, including oil, coal, nuclear, biomass (organic gases), wind, solar, geothermal (the heat from the earth's rocks is very hot underground and is used to turn water to steam), tidal and hydroelectric (waterfalls). Most power stations work by using steam to turn turbines which then drive generators and create an electric current.</para>
+        <para id="id190064">Most of these sources are dependant upon the sun's energy, because
+without it we would not have weather for wind and tides. The sun
+is also responsible for growing plants which decompose into fossil
+fuels like oil and coal. All these sources can be put under 2
+headings, renewable and non-renewable. Renewable sources are
+sources which will not run out, like solar energy and wind power.
+Non-renewable sources are ones which will run out eventually, like
+oil and coal.</para>
+        <para id="id190071">It is important that we learn to appreciate conservation in
+situations like this. The planet has a number of linked systems
+and if we don't appreciate the long-term consequences of our
+actions we run the risk of doing damage now that we will only
+suffer from in many years time.</para>
+        <para id="id190077">Investigate two types of renewable and two types of non-renewable energy resources, listing advantages and disadvantages of each type. Write up the results as a short report. </para>
+</section>
+<para id="eip-998"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on energy">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=energy-100507074932-phpapp02&amp;stripped_title=energy-4005995&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="secfhsst_id2090"><title> Energy </title>
+        <list id="id190095" display="block" list-type="enumerated">
+          <item id="uid54">Fill in the table with the missing information using the positions of the ball in the diagram below combined with the work-energy theorem.
+<figure id="id190115"><media id="id190115_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_014.png" id="id190115_onlineimage" width="476"><!-- NOTE: attribute width changes image size online (pixels). original width is 476. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_014.eps" id="id190115_printimage"/></media></figure><table id="id190121" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">position</emphasis></entry><entry><emphasis effect="bold"><m:math overflow="scroll"><m:mrow><m:mi>K</m:mi><m:mi>E</m:mi></m:mrow></m:math></emphasis></entry><entry><emphasis effect="bold"><m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mi>E</m:mi></m:mrow></m:math></emphasis></entry><entry><emphasis effect="bold"><m:math overflow="scroll"><m:mi>v</m:mi></m:math></emphasis></entry></row><row><entry>A</entry><entry/><entry>50 J</entry><entry/></row><row><entry>B</entry><entry/><entry>30 J</entry><entry/></row><row><entry>C</entry><entry/><entry/><entry/></row><row><entry>D</entry><entry/><entry>10 J</entry><entry/></row><row><entry>E</entry><entry/><entry/><entry/></row><row><entry>F</entry><entry/><entry/><entry/></row><row><entry>G</entry><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid55">A falling ball hits the ground at 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> in a vacuum. Would the speed of the ball be increased or decreased if air resistance were taken into account. Discuss using the work-energy theorem.
+</item>
+          <item id="uid56">
+A pendulum with mass 300g is attached to the ceiling. It is pulled up to point A which is a height h = 30 cm from the equilibrium position.
+<figure id="id190499"><media id="id190499_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_015.png" id="id190499_onlineimage" width="220"><!-- NOTE: attribute width changes image size online (pixels). original width is 220. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_015.eps" id="id190499_printimage"/></media></figure>
+Calculate the speed of the pendulum when it reaches point B (the equilibrium point). Assume that there are no external forces acting on the pendulum.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

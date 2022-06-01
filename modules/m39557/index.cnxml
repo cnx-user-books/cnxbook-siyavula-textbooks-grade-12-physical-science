@@ -1,0 +1,285 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Lasers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39557</md:content-id>
+  <md:title>Lasers</md:title>
+  <md:abstract/>
+  <md:uuid>03df539e-7957-4ed8-996e-31925a2b0afa</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Lasers</title>
+      <para id="id134939">A laser is a device that produces a special type of light: all the laser photons are identical! They all have the <emphasis effect="italics">same</emphasis> wavelength (and frequency), amplitude and phase. Since they all have the same wavelength, this means they all have the same <emphasis effect="italics">colour</emphasis> and the light is called <emphasis effect="bold">monochromatic</emphasis>. (<emphasis effect="italics">Note:</emphasis><emphasis effect="italics">mono</emphasis> means "one" or "single" and <emphasis effect="italics">chromatic</emphasis> means "colour".) This is very different to most other light sources which produce light with a range of wavelengths (e.g. white light from the sun consists of all the visible wavelengths.)</para>
+      <para id="id134980">Laser light is highly directional and can be focused very well. This focus allows laser beams to be used over long distances, and to pack a lot of energy into the beam while still requiring reasonably small amounts of energy to be generated. Each centimetre of a typical laser beam contains many billions of photons.
+These special properties of laser light come from the way in which the laser photons are created and the energy levels of the material that makes up the laser. These properties make laser light extremely useful in many applications from CD players to eye surgery.</para>
+      <para id="id134988">The term <emphasis effect="bold">LASER</emphasis> stands for <emphasis effect="bold">L</emphasis>ight <emphasis effect="bold">A</emphasis>mplification by the <emphasis effect="bold">S</emphasis>timulated <emphasis effect="bold">E</emphasis>mission of <emphasis effect="bold">R</emphasis>adiation. This <emphasis effect="bold">stimulated emission</emphasis> is different to the <emphasis effect="bold">spontaneous emission</emphasis> already discussed earlier. Let's review the absorption and emission processes which can occur in atoms.</para>
+      <para id="id135042">
+        <figure id="id135046">
+          <media id="id135046_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C10_008.png" id="id135046_onlineimage" width="448"><!-- NOTE: attribute width changes image size online (pixels). original width is 448. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C10_008.eps" id="id135046_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id135052" display="block" list-type="bulleted">
+        <item id="uid64"><emphasis effect="bold">Absorption</emphasis>: As you can see in the picture above, <emphasis effect="bold">absorption</emphasis> happens when an electron jumps up to a higher energy level by <emphasis effect="italics">absorbing</emphasis> a photon which has an energy equal to the energy difference between the two energy levels.
+</item>
+        <item id="uid65"><emphasis effect="bold">Spontaneous emission</emphasis>: <emphasis effect="bold">Spontaneous emission</emphasis> is when an electron in a higher energy level drops down to a lower energy level and a photon is emitted with an energy equal to the energy difference between the two levels. There is no interference in this process from outside factors. Usually spontaneous emission happens very quickly after an electron gets into an excited state. In other words, the lifetime of the excited state is very short (the electron only stays in the high energy level for a very short time). However, there are some excited states where an electron can remain in the higher energy level for a longer time than usual before dropping down to a lower level. These excited states are called <emphasis effect="bold">metastable states.</emphasis></item>
+        <item id="uid66"><emphasis effect="bold">Stimulated emission</emphasis>: As the picture above shows, <emphasis effect="bold">stimulated emission</emphasis> happens when a photon with an energy equal to the energy difference between two levels interacts with an electron in the higher level. This <emphasis effect="italics">stimulates</emphasis> the electron to emit an identical photon and drop down to the lower energy level. This process results in two photons at the end.
+</item>
+      </list>
+<definition id="fhsst_id1516"><term id="termfhsst_id1516"> Spontaneous Emission </term> <meaning id="meaningfhsst_id1516">
+      <para id="id135162">Spontaneous emission occurs when an atom is in an unstable excited state and randomly decays to a less energetic state, emitting a photon to carry off the excess energy. The unstable state decays in a characteristic time, called the lifetime. </para>
+      </meaning></definition>
+<definition id="fhsst_id1519"><term id="termfhsst_id1519"> Meta-stable state </term> <meaning id="meaningfhsst_id1519">
+      <para id="id135182">A meta-stable state is an excited atomic state that has an unusually long lifetime, compared to the lifetimes of other excited states of that atom. While most excited states have lifetimes measured in microseconds and nanoseconds (<m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup></m:math> s and <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:math> s), meta-stable states can have lifetimes of milliseconds (<m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> s) or even seconds. </para>
+      </meaning></definition>
+<definition id="fhsst_id1522"><term id="termfhsst_id1522"> Stimulated emission </term> <meaning id="meaningfhsst_id1522">
+      <para id="id135254">Stimulated emission occurs when a photon interacts with an excited atom, causing the atom to decay and emit another identical photon. </para>
+      </meaning></definition>
+      <section id="uid67">
+        <title>How a laser works</title>
+        <para id="id135276">A laser works by a process called <emphasis effect="italics">stimulated emission</emphasis> - as you can tell from what `laser' stands for!
+You can imagine that stimulated emission can lead to more and more identical photons being released in the following way: Imagine we have an electron in an excited metastable state and it drops down to the ground state by emitting a photon. If this photon then travels through the material and meets another electron in the metastable excited state this will cause the electron to drop down to the lower energy level and another photon to be emitted. Now there are two photons of the same energy. If these photons then both move through the material and <emphasis effect="italics">each</emphasis> interacts with another electron in a metastable state, this will result in them <emphasis effect="italics">each</emphasis> causing an additional photon to be released. i.e. from 2 photons we then get 4, and so on! This is how laser light is produced.</para>
+        <figure id="uid68">
+          <media id="uid68_media" alt="">
+            <image mime-type="image/png" src="../../media/laser-spontaneous_2.png" id="uid68_onlineimage" width="461"><!-- NOTE: attribute width changes image size online (pixels). original width is 461. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/laser-spontaneous_2.eps" id="uid68_printimage"/>
+          </media>
+          <caption>Spontaneous emission is a two step process, as shown here. First, energy from an external source is applied to an atom in the laser medium, raising its energy to an excited (metastable) state. After some time, it will decay back down to its ground state and emit the excess energy in the form of a photon. This is the first stage in the formation of a laser beam.</caption>
+        </figure>
+        <figure id="uid69">
+          <media id="uid69_media" alt="">
+            <image mime-type="image/png" src="../../media/laser-amplification_2.png" id="uid69_onlineimage" width="450"><!-- NOTE: attribute width changes image size online (pixels). original width is 450. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/laser-amplification_2.eps" id="uid69_printimage"/>
+          </media>
+          <caption>Stimulated emission is also a two step process, as shown here. First, a laser photon encounters an atom that has been raised to an excited state, just like in the case of spontaneous emission. The photon then causes the atom to decay to its ground state and emit another photon identical to the incoming photon. This is the second step in the creation of a laser beam. It happens many, many times as the laser photons pass through the optical cavity until the laser beam builds up to full strength.</caption>
+        </figure>
+        <para id="id135334">This can only happen if there are many electrons in a metastable state. If most of the electrons are in the ground state, then they will just <emphasis effect="italics">absorb</emphasis> the photons and no extra photons will be emitted. However, if more electrons are in the excited metastable state than in the ground state, then the process of stimulated emission will be able to continue. Usually in atoms, most of the electrons are in the lower energy levels and only a few are in excited states. When most of the electrons are in the excited metastable state and only a few are in the ground state, this is called <emphasis effect="bold">population inversion</emphasis> (the populations in the excited and ground states are <emphasis effect="italics">swapped</emphasis> around) and this is when stimulated emission can occur. To start off the process, the electrons first have to be excited up into the metastable state. This is done using an external energy source.</para>
+<definition id="fhsst_id1544"><term id="termfhsst_id1544"> Population inversion </term> <meaning id="meaningfhsst_id1544">
+        <para id="id135368">Population inversion is when more atoms are in an excited state than in their ground state. It is a necessary condition to sustain a laser beam, so that there are enough excited atoms that can be stimulated to emit more photons. </para>
+        </meaning></definition>
+        <para id="id135381">
+          <figure id="id135384">
+            <media id="id135384_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C10_009.png" id="id135384_onlineimage" width="294"><!-- NOTE: attribute width changes image size online (pixels). original width is 294. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C10_009.eps" id="id135384_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id135391">Therefore, materials used to make laser light <emphasis effect="italics">must</emphasis> must have metastable states which can allow population inversion to occur when an external energy source is applied. Some substances which are used to make lasers are listed in <link target-id="uid70"/>. You can see that gases (such as Helium-Neon mixture), liquids (such as dyes), and solids (such as the precious stone ruby) are all used to make lasers.</para>
+        <table id="uid70" summary=""><tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Material</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Type</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Wavelength</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Uses</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Helium–Neon</entry>
+                <entry>gas</entry>
+                <entry>632,8 nm</entry>
+                <entry>scientific research, holography</entry>
+              </row>
+              <row>
+                <entry>Argon ion</entry>
+                <entry>gas</entry>
+                <entry>488,0 nm</entry>
+                <entry>medicine,</entry>
+              </row>
+              <row>
+                <entry>Carbon dioxide</entry>
+                <entry>gas</entry>
+                <entry>10,6 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>m</entry>
+                <entry>industry (cutting, welding), surgery</entry>
+              </row>
+              <row>
+                <entry>Helium–Cadmium</entry>
+                <entry>vapor</entry>
+                <entry>325 nm</entry>
+                <entry>printing, scientific research</entry>
+              </row>
+              <row>
+                <entry>Ruby</entry>
+                <entry>solid–state</entry>
+                <entry>694,3 nm</entry>
+                <entry>holography</entry>
+              </row>
+              <row>
+                <entry>Neodymium YAG (Yttrium Aluminium Garnet)</entry>
+                <entry>solid–state</entry>
+                <entry>1,064 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>m</entry>
+                <entry>industry, surgery, research</entry>
+              </row>
+              
+              
+              <row>
+                <entry>Titanium–Sapphire</entry>
+                <entry>solid–state</entry>
+                <entry>650–1100 nm</entry>
+                <entry>research</entry>
+              </row>
+              <row>
+                <entry>Laser diode</entry>
+                <entry>semiconductor</entry>
+                <entry>375–1080 nm</entry>
+                <entry>telecommunications, industry,</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>printing, CD players, laser pointers</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          
+        <caption>A selection of different lasers. The laser material and general type of each laser is given, along with typical wavelengths of the laser light they create. Examples of real-world applications are also given. All these materials allow a population inversion to be set up.</caption></table>
+<note id="notfhsst_id1637"><title> Interesting Fact </title>
+        <para id="id135718">The first working laser, using synthetic ruby as the laser material, was made by Theodore H. Maiman at Hughes Research Laboratories in Malibu, California. Later in the same year the Iranian physicist Ali Javan, together with William Bennet and Donald Herriot, made the first gas laser using helium and neon. Javan received the Albert Einstein Award in 1993.</para>
+</note>
+      </section>
+      <section id="uid71">
+        <title>A simple laser</title>
+        <para id="id135742">A laser consists of a number of different parts that work together to create the laser beam. <link target-id="uid72"/> shows the different parts of the laser, while <link target-id="uid73"/> shows how they create the laser beam.</para>
+        <figure id="uid72">
+          <media id="uid72_media" alt="">
+            <image mime-type="image/png" src="../../media/laser-cavity_2.png" id="uid72_onlineimage" width="344"><!-- NOTE: attribute width changes image size online (pixels). original width is 344. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/laser-cavity_2.eps" id="uid72_printimage"/>
+          </media>
+          <caption>Diagram of a laser showing the main components.</caption>
+        </figure>
+        <figure id="uid73">
+          <media id="uid73_media" alt="">
+            <image mime-type="image/png" src="../../media/laser-process.png" id="uid73_onlineimage" width="328"><!-- NOTE: attribute width changes image size online (pixels). original width is 328. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/laser-process.eps" id="uid73_printimage"/>
+          </media>
+          <caption>Diagram of a laser showing the process of creating a laser beam. (1) A source of external energy is applied to the laser medium, raising the atoms to an excited state. (2) An excited atom decays though spontaneous emission, emitting a photon. (3) The photon encounters another excited atom and causes it to decay through stimulated emission, creating another photon. (4) The photons bounce back and forth through the laser medium between the mirrors, building up more and more photons. (5) A small percentage of the photons pass through the partially-silvered mirror to become the laser beam we see.</caption>
+        </figure>
+        <para id="id135787">The basis of the laser is the laser material which consists of the atoms that are used to create the laser beam. Many different materials can be used as laser material, and their energy levels determine the characteristics of the laser. Some examples of different lasers are shown in <link target-id="uid70"/>. The laser material is contained in the optical cavity.</para>
+        <para id="id135800">Before the laser is turned on, all the atoms in the laser material are in their ground state. The first step in creating a laser beam is to add energy to the laser material to raise most of the electrons into an excited metastable state. This is called <emphasis effect="italics">pumping</emphasis> the laser.</para>
+        <para id="id135814">The creation of the laser beam starts through the process of <emphasis effect="italics">spontaneous emission</emphasis>, shown in <link target-id="uid68"/>. An electron drops down to the ground state and emits a photon with energy equal to the energy difference of the two energy levels. This laser photon is the beginning of the laser beam.</para>
+        <para id="id135832">At some time a laser photon will run into another excited electron. Then stimulated emission occurs and the electron drops down to the ground state and emits an additional identical photon as shown in <link target-id="uid69"/>. Since the laser material typically has a large number of atoms, one laser photon passing through this material will rapidly cause a large number of photons just like it to be emitted.</para>
+        <para id="id135847">The optical cavity keeps the laser photons inside the laser cavity so that they can build up the laser beam. At each end is a concave mirror; one is a full mirror and one is a partial mirror. The full mirror is totally reflective. The partial mirror transmits a small amount of the light that hits it (less than 1%). The mirrors are carefully aligned so that photons that reflect off one mirror become “trapped”, and bounce back and forth between the mirrors many times causing more and more stimulated emission. The photons that eventually escape through the partially-silvered mirror become the laser beam that we see.</para>
+        <para id="id135863">As the photons bounce between mirrors, they continually pass through the laser material, stimulating those atoms to emit more photons. This creates an ever increasing beam of photons, all with the same characteristics, all traveling in the same direction. In this way, the optical cavity helps to amplify the original laser photons into a concentrated, intense beam of photons.</para>
+        <para id="id135872">The laser cavity also helps to narrow the frequency range of laser light emitted. The distance between the two mirrors defines the cavity <emphasis effect="italics">mode</emphasis> which only allows light of a narrow range of frequencies to continue being reflected back and forth. Light of other frequencies damped out. (This is just like in the chapter on the physics of music where a pipe of a certain length corresponds to a particular wavelength of sound.) Therefore only a narrow frequency of light can be emitted.</para>
+<note id="notfhsst_id1665"><title> Interesting Fact </title>
+        <para id="id135893">In 1953, Charles H. Townes and graduate students James P. Gordon and Herbert J. Zeiger produced the first maser, a device operating on similar principles to the laser, but producing microwave rather than optical radiation. Townes's maser was incapable of making a continuous beam. Nikolay Basov and Aleksandr Prokhorov of the former Soviet Union worked independently and developed a method of making a continuous beam using more than two energy levels. Townes, Basov and Prokhorov shared the Nobel Prize in Physics in 1964.</para>
+</note>
+      </section>
+      <section id="uid74">
+        <title>Laser applications and safety</title>
+        <para id="id135919">Although the first working laser was only produced in 1958, lasers are now found in many household items. For example, lasers are well-known through their use as cheap laser pointers. However, lasers can be very dangerous to the human eye since a large amount of energy is focused into a very narrow beam. <emphasis effect="bold">NEVER POINT A LASER POINTER INTO SOMEBODY'S EYES - IT CAN BLIND THEM FOREVER.</emphasis></para>
+        <para id="id135930">Other uses include:</para>
+        <list id="id135934" display="block" list-type="bulleted">
+          <item id="uid75">Semiconductor lasers which are small, efficient and cheap to make are used in CD players.
+</item>
+          <item id="uid76">He-Ne Lasers are used in most grocery shops to read in the price of items using their barcodes. This makes the cashiers' job much quicker and easier.
+</item>
+          <item id="uid77">High energy lasers are used in medicine as a cutting and welding tool. Eye surgery in particular make use of the precision of lasers to reattach the retinas of patients' eyes. The heat from cutting lasers also helps to stop the bleeding of a wound by burning the edges (called cauterising).
+</item>
+        </list>
+<para id="eip-515"><figure id="id6348">
+            <media id="id6348_media" alt="">
+            <image mime-type="image/png" src="../../media/lasers-screenshot.png" id="id6348_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/lasers-screenshot.eps" id="id6348_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/lasers/lasers_en.jnlp">run demo</link></para><section id="secfhsst_id1681"><title> Case Study : Uses of lasers </title>
+        <para id="id135986">Do research in a library or on the Internet on one application of laser technology. Explain how the technology works by using a laser.</para>
+        <para id="id135992">You will need to present your findings to the class in the form of a poster. You can think of any useful application, but to give you some ideas of where to start, some applications are listed below:</para>
+        <list id="id136000" display="block" list-type="bulleted">
+          <item id="uid78">laser printers
+</item>
+          <item id="uid79">laser communication and fibre optics
+</item>
+          <item id="uid80">optical storage
+</item>
+          <item id="uid81">using lasers as precision measurement tools
+</item>
+          <item id="uid82">your own ideas...
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id1698"><title> Lasers </title>
+        <list id="id136081" display="block" list-type="enumerated">
+          <item id="uid83">Explain what is meant by <emphasis effect="italics">spontaneous emission of radiation</emphasis>.
+</item>
+          <item id="uid84">Explain what is meant by <emphasis effect="italics">stimulated emission of radiation</emphasis>.
+</item>
+          <item id="uid85">List the similarities and differences between spontaneous emission of radiation and stimulated emission of radiation.
+</item>
+          <item id="uid86">How is the light emitted by a laser different from the light emitted by a light bulb?
+</item>
+          <item id="uid87">Describe using a simple diagram, how a laser works. Your description should include the following concepts: metastable state and population inversion.
+</item>
+          <item id="uid88">Give examples of some materials that have been used for lasers. What do all these materials have in common?
+</item>
+          <item id="uid89">Describe how the laser cavity affects:
+<list id="id136184" display="block" list-type="bulleted"><item id="uid90">increasing amplification
+</item><item id="uid91">concentrating beam intensity
+</item><item id="uid92">narrowing the frequency of the beam
+</item></list></item>
+          <item id="uid93">List some applications of lasers.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <para id="eip-257"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=opticalphenomina-100513094656-phpapp01&amp;stripped_title=optical-phenomina&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid7">
+      <title>Summary</title>
+      <list id="id136258" display="block" list-type="enumerated">
+        <item id="uid94">Light of the correct frequency can eject electrons from a metal. This is called the photoelectric effect.
+</item>
+        <item id="uid95">A metal has a work function which is the minimum energy needed to emit an electron from the metal.
+</item>
+        <item id="uid96">Emission spectra are formed by glowing gases. The pattern of the spectra is characteristic of the specific gas.
+</item>
+        <item id="uid97">Absorption spectra are formed when certain frequencies of light are absorbed by a material.
+</item>
+        <item id="uid98">Lasers are devices that produce a special type of light that has many uses.
+</item>
+        <item id="uid99">Lasers have many uses,for example, in CD and DVD players, to cut material, in surgery, in printing, in telecommunications and as laser pointers.
+</item>
+      </list>
+    </section>
+    <section id="cid8">
+      <title>End of chapter exercise</title>
+      <list id="id136350" display="block" list-type="enumerated">
+        <item id="uid100">What is the photoelectric effect?
+</item>
+        <item id="uid101">Calculate the energy of a photon of red light with a wavelength of 400 nm.
+</item>
+        <item id="uid102">Will ultraviolet light with a wavelenth of 990 nm be able to emit electrons from a sheet of calcium with a work function of 2,9 eV?
+</item>
+        <item id="uid103">What does the acronym LASER stand for?
+</item>
+        <item id="uid104">Name three types of lasers and their uses.
+</item>
+        <item id="uid105">Write a short essay on the benefits lasers have had on modern society.
+</item>
+      </list>
+    </section>
+    
+  </content>
+</document>

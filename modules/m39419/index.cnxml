@@ -1,0 +1,298 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The electrolytic cell</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39419</md:content-id>
+  <md:title>The electrolytic cell</md:title>
+  <md:abstract/>
+  <md:uuid>53dd6887-dc38-4d14-a51f-40464a51e1c9</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>The Electrolytic cell</title>
+      <para id="id140342">In <link target-id="cid3">"The Galvanic Cell"</link>, we saw that a chemical reaction that involves a transfer of electrons, can be used to produce an electric current. In this section, we are going to see whether the 'reverse' process applies. In other words, is it possible to use an electric current to force a particular chemical reaction to occur, which would otherwise not take place? The answer is 'yes', and the type of cell that is used to do this, is called an <emphasis effect="bold">electrolytic cell</emphasis>.</para>
+<definition id="fhsst_id412"><term id="termfhsst_id412"> Electrolytic cell </term> <meaning id="meaningfhsst_id412">
+      <para id="id140366">An electrolytic cell is a type of cell that uses electricity to drive a non-spontaneous reaction. </para>
+      </meaning></definition>
+      <para id="id140378">An electrolytic cell is activated by applying an electrical potential across the anode and cathode to force an internal chemical reaction between the ions that are in the electrolyte solution. This process is called <emphasis effect="bold">electrolysis</emphasis>.</para>
+<definition id="fhsst_id416"><term id="termfhsst_id416"> Electrolysis </term> <meaning id="meaningfhsst_id416">
+      <para id="id140395">In chemistry and manufacturing, electrolysis is a method of separating bonded elements and compounds by passing an electric current through them. </para>
+      </meaning></definition>
+<section id="secfhsst_id419"><title> Demonstration : The movement of coloured ions
+      </title>
+      <para id="id140421">A piece of filter paper is soaked in an ammonia-ammonium chloride solution and placed on a microscope slide. The filter paper is then connected to a supply of electric current using crocodile clips and connecting wire as shown in the diagram below. A line of copper chromate solution is placed in the centre of the filter paper. The colour of this solution is initially green-brown.</para>
+      <para id="id140430">
+        <figure id="id140435">
+          <media id="id140435_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C4_001.png" id="id140435_onlineimage" width="599"><!-- NOTE: attribute width changes image size online (pixels). original width is 599. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C4_001.eps" id="id140435_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id140442">The current is then switched on and allowed to run for about 20 minutes. After this time, the central coloured band disappears and is replaced by two bands, one yellow and the other blue, which seem to have separated out from the first band of copper chromate.</para>
+      <para id="id140448">
+        <emphasis effect="bold">Explanation:</emphasis>
+      </para>
+      <list id="id140457" display="block" list-type="bulleted">
+        <item id="uid59">The cell that is used to supply an electric current sets up a potential difference across the circuit, so that one of the electrodes is positive and the other is negative.
+</item>
+        <item id="uid60">The chromate (CrO<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>) ions in the copper chromate solution are attracted to the positive electrode, while the Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions are attracted to the negative electrode.
+</item>
+      </list>
+      <para id="id140525">
+        <emphasis effect="bold">Conclusion:</emphasis>
+      </para>
+      
+      <para id="id140539">The movement of ions occurs because the electric current in the outer circuit sets up a potential difference between the two electrodes.
+ </para>
+</section>
+      <para id="id140549">Similar principles apply in the electrolytic cell, where substances that are made of ions can be broken down into simpler substances through electrolysis.</para>
+      <section id="uid61">
+        <title>The electrolysis of copper sulphate</title>
+        <para id="id140563">There are a number of examples of electrolysis. The electrolysis of copper sulphate is just one.</para>
+<section id="secfhsst_id451"><title> Demonstration : The electrolysis of copper sulphate
+        </title>
+        <para id="id140580">Two copper electrodes are placed in a solution of blue copper sulphate and are connected to a source of electrical current as shown in the diagram below. The current is turned on and the reaction is left for a period of time.</para>
+        <para id="id140588">
+          <figure id="id140593">
+            <media id="id140593_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C4_002.png" id="id140593_onlineimage" width="234"><!-- NOTE: attribute width changes image size online (pixels). original width is 234. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C4_002.eps" id="id140593_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id140600">
+          <emphasis effect="bold">Observations:</emphasis>
+        </para>
+        <list id="id140607" display="block" list-type="bulleted">
+          <item id="uid62">The initial blue colour of the solution remains unchanged.
+</item>
+          <item id="uid63">It appears that copper has been <emphasis effect="italics">deposited</emphasis> on one of the electrodes but <emphasis effect="italics">dissolved</emphasis> from the other.
+</item>
+        </list>
+        <para id="id140647">
+          <emphasis effect="bold">Explanation:</emphasis>
+        </para>
+        
+        <list id="id140662" display="block" list-type="bulleted">
+          <item id="uid64">At the negative cathode, positively charged Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions are attracted to the negatively charged electrode. These ions gain electrons and are reduced to form copper metal, which is deposited on the electrode. The half-reaction that takes place is as follows:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math><emphasis effect="bold">(reduction half reaction)</emphasis></item>
+          <item id="uid65">At the positive anode, copper metal is oxidised to form Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions. This is why it appears that some of the copper has dissolved from the electrode. The half-reaction that takes place is as follows:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math><emphasis effect="bold">(oxidation half reaction)</emphasis></item>
+          <item id="uid66">The amount of copper that is <emphasis effect="italics">deposited</emphasis> at one electrode is approximately the same as the amount of copper that is <emphasis effect="italics">dissolved</emphasis> from the other. The number of Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions in the solution therefore remains almost the same and the blue colour of the solution is unchanged.
+</item>
+        </list>
+        <para id="id140899">
+          <emphasis effect="bold">Conclusion:</emphasis>
+        </para>
+        <para id="id140905">In this demonstration, an electric current was used to split CuSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> into its component ions, <m:math overflow="scroll"><m:mi>Cu</m:mi><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> and SO<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>. This process is called <emphasis effect="italics">electrolysis</emphasis>.</para>
+        
+</section>
+      </section>
+      <section id="uid67">
+        <title>The electrolysis of water</title>
+        <para id="id140986">Water can also undergo electrolysis to form hydrogen gas and oxygen gas according to the following reaction:</para>
+        <para id="id140990">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>l</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id141057">This reaction is very important because hydrogen gas has the potential to be used as an energy source. The electrolytic cell for this reaction consists of two electrodes (normally platinum metal), submerged in an electrolyte and connected to a source of electric current.</para>
+        <para id="id141063">The reduction half-reaction that takes place at the cathode is as follows:</para>
+        <para id="id141069">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>l</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi>e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>O</m:mi>
+              <m:msup>
+                <m:mi>H</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>a</m:mi>
+                <m:mi>q</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id141152">The oxidation half-reaction that takes place at the anode is as follows:</para>
+        <para id="id141156">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>l</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>4</m:mn>
+              <m:msup>
+                <m:mi>H</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>a</m:mi>
+                <m:mi>q</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>4</m:mn>
+              <m:msup>
+                <m:mi>e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+      </section>
+      <section id="uid68">
+        <title>A comparison of galvanic and electrolytic cells</title>
+        <para id="id141246">It should be much clearer now that there are a number of differences between a <emphasis effect="italics">galvanic</emphasis> and an <emphasis effect="italics">electrolytic</emphasis> cell. Some of these differences have been summarised in <link target-id="uid69"/>.</para>
+        <table id="uid69" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Item</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Galvanic cell</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Electrolytic cell</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Metals used for electrode</entry>
+                <entry>Two metals with different reaction potentials are used as electrodes</entry>
+                <entry>The same metal can be used for both the cathode and the anode</entry>
+              </row>
+              <row>
+                <entry>Charge of the anode</entry>
+                <entry>negative</entry>
+                <entry>positive</entry>
+              </row>
+              <row>
+                <entry>Charge of the cathode</entry>
+                <entry>positive</entry>
+                <entry>negative</entry>
+              </row>
+              <row>
+                <entry>The electrolyte solution/s</entry>
+                <entry>The electrolyte solutions are kept separate from one another, and are connected only by a salt bridge</entry>
+                <entry>The cathode and anode are in the same electrolyte</entry>
+              </row>
+              <row>
+                <entry>Energy changes</entry>
+                <entry>Chemical potential energy from chemical reactions is converted to electrical energy</entry>
+                <entry>An external supply of electrical energy causes a chemical reaction to occur</entry>
+              </row>
+              <row>
+                <entry>Applications</entry>
+                <entry>Run batteries, electroplating</entry>
+                <entry>Electrolysis e.g. of water, NaCl</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>A comparison of galvanic and electrolytic cells</caption>
+        </table>
+<section id="secfhsst_id677"><title> Electrolyis
+        </title>
+        <list id="id141514" display="block" list-type="enumerated">
+          <item id="uid70">An electrolytic cell consists of two electrodes in a silver chloride (AgCl) solution, connected to a source of current. A current is passed through the solution and Ag<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ions are reduced to a silver metal deposit on one of the electrodes.
+<list id="id141545" display="block" list-type="enumerated"><item id="uid71">Give the equation for the reduction half-reaction.
+</item><item id="uid72">Give the equation for the oxidation half-reacion.
+</item></list></item>
+          <item id="uid73">Electrolysis takes place in a solution of molten lead bromide (PbBr) to produce lead atoms.
+<list id="id141586" display="block" list-type="enumerated"><item id="uid74">Draw a simple diagram of the electrolytic cell.
+</item><item id="uid75">Give equations for the half-reactions that take place at the anode and cathode, and include these in the diagram.
+</item><item id="uid76">On your diagram, show the direction in which current flows.
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

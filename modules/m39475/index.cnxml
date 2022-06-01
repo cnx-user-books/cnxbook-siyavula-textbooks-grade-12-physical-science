@@ -1,0 +1,785 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Le Chateliers principle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39475</md:content-id>
+  <md:title>Le Chateliers principle</md:title>
+  <md:abstract/>
+  <md:uuid>443dc7df-392b-4ee2-b8b8-7c28a12a1cbb</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid9">
+      <title>Le Chatelier's principle</title>
+      <para id="id94917">A number of factors can influence the equilibrium of a reaction. These are:</para>
+      <list id="id94921" display="block" list-type="enumerated">
+        <item id="uid136">concentration
+</item>
+        <item id="uid137">temperature
+</item>
+        <item id="uid138">pressure
+</item>
+      </list>
+      <para id="id94962"><emphasis effect="bold">Le Chatelier's Principle</emphasis> helps to predict what a change in temperature, concentration or pressure will have on the position of the equilibrium in a chemical reaction. This is very important, particularly in industrial applications, where yields must be accurately predicted and maximised.</para>
+<definition id="fhsst_id2624"><term id="termfhsst_id2624"> Le Chatelier's Principle </term> <meaning id="meaningfhsst_id2624">
+      <para id="id94979">If a chemical system at equilibrium experiences a change in concentration, temperature or total pressure the equilibrium will shift in order to minimise that change and a new equilibrium is established. </para>
+      </meaning></definition>
+      <section id="uid139">
+        <title>The effect of concentration on equilibrium</title>
+        <para id="id95001">If the concentration of a substance is increased, the equilibrium will shift so that this concentration decreases. So for example, if the concentration of a reactant was increased, the equilibrium would shift in the direction of the reaction that <emphasis effect="italics">uses up</emphasis> the reactants, so that the reactant concentration decreases and equilibrium is restored. In the reaction between nitrogen and hydrogen to produce ammonia:</para>
+        <para id="id95014">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi>N</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>3</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>N</m:mi>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <list id="id95081" display="block" list-type="bulleted">
+          <item id="uid140">If the nitrogen or hydrogen concentration was increased, Le Chatelier's principle predicts that equilibrium will shift to favour the <emphasis effect="italics">forward reaction</emphasis> so that the excess nitrogen and hydrogen are used up to produce ammonia. Equilibrium shifts to the <emphasis effect="italics">right</emphasis>.
+</item>
+          <item id="uid141">If the nitrogen or hydrogen concentration was decreased, the <emphasis effect="italics">reverse reaction</emphasis> would be favoured so that some of the ammonia would change back to nitrogen and hydrogen to restore equilibrium.
+</item>
+          <item id="uid142">The same would be true if the concentration of the product (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) was changed. If [NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>] decreases, the forward reaction is favoured and if [NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>] increases, the reverse reaction is favoured.
+</item>
+        </list>
+      </section>
+      <section id="uid143">
+        <title>The effect of temperature on equilibrium</title>
+        <para id="id95192">If the temperature of a reaction mixture is increased, the equilibrium will shift to decrease the temperature. So
+it will favour the reaction which will <emphasis effect="italics">use up</emphasis> heat energy, in other words the endothermic reaction. The opposite is true if the temperature is decreased. In this case, the reaction that <emphasis effect="italics">produces</emphasis> heat energy will be favoured, in other words, the exothermic reaction.</para>
+        <para id="id95209">The reaction shown below is exothermic (shown by the negative value for <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> H). This means that the forward reaction, where nitrogen and hydrogen react to form ammonia, gives off heat. In the reverse reaction, where ammonia is broken down into hydrogen and nitrogen gas, heat is used up and so this reaction is endothermic.</para>
+        <equation id="id95227">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mrow>
+                    <m:mi>e</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>N</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>⇌</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>N</m:mi>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mspace width="4pt"/>
+                    <m:mi> and </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi>Δ</m:mi>
+                    <m:mi mathvariant="normal">H</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>92</m:mn>
+                    <m:mi> kJ </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id95335">An increase in temperature favours the reaction that is endothermic (the reverse reaction) because it uses up energy. If the temperature is increased, then the yield of ammonia (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) decreases.</para>
+        <para id="id95354">A decrease in temperature favours the reaction that is exothermic (the forward reaction) because it produces energy. Therefore, if the temperature is decreased, then the yield of NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> increases.</para>
+<para id="eip-12"><figure id="equilibrium-1" class="khanacademy">
+	  <title>Khan academy video on Le Chateliers principle</title>
+	  <media id="yt-media1" display="block" alt="video on equilibrium">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/4-fEvpVNTlE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id2746"><title> Experiment : Le Chatelier's Principle
+        </title>
+        <para id="id95386">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id95395">To determine the effect of a change in concentration and temperature on chemical equilibrium</para>
+        <para id="id95400">
+          <emphasis effect="bold">Apparatus:</emphasis>
+        </para>
+        <para id="id95409">0.2 M CoCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> solution, concentrated HCl, water, test tube, bunsen burner</para>
+        <para id="id95427">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id95435" display="block" list-type="enumerated">
+          <item id="uid144">Put 4-5 drops of 0.2M CoCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> solution into a test tube.
+</item>
+          <item id="uid145">Add 20-25 drops of concentrated HCl.
+</item>
+          <item id="uid146">Add 10-12 drops of water.
+</item>
+          <item id="uid147">Heat the solution for 1-2 minutes.
+</item>
+          <item id="uid148">Cool the solution for 1 minute under a tap.
+</item>
+          <item id="uid149">Observe and record the colour changes that take place during the reaction.
+</item>
+        </list>
+        <para id="id95526">The equation for the reaction that takes place is:</para>
+        <equation id="id95530">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mrow>
+                    <m:mi>e</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:munder>
+                      <m:munder accentunder="true">
+                        <m:mrow>
+                          <m:mi>C</m:mi>
+                          <m:mi>o</m:mi>
+                          <m:mi>C</m:mi>
+                          <m:msubsup>
+                            <m:mi>l</m:mi>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mo>-</m:mo>
+                            </m:mrow>
+                          </m:msubsup>
+                          <m:mo>+</m:mo>
+                          <m:mn>6</m:mn>
+                          <m:msub>
+                            <m:mi>H</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                          <m:mi>O</m:mi>
+                        </m:mrow>
+                        <m:mo>︸</m:mo>
+                      </m:munder>
+                      <m:mi> blue </m:mi>
+                    </m:munder>
+                    <m:mo>⇌</m:mo>
+                    <m:munder>
+                      <m:munder accentunder="true">
+                        <m:mrow>
+                          <m:mi>C</m:mi>
+                          <m:mi>o</m:mi>
+                          <m:msubsup>
+                            <m:mrow>
+                              <m:mo>(</m:mo>
+                              <m:msub>
+                                <m:mi>H</m:mi>
+                                <m:mn>2</m:mn>
+                              </m:msub>
+                              <m:mi>O</m:mi>
+                              <m:mo>)</m:mo>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mo>+</m:mo>
+                            </m:mrow>
+                          </m:msubsup>
+                          <m:mo>+</m:mo>
+                          <m:mn>4</m:mn>
+                          <m:mi>C</m:mi>
+                          <m:msup>
+                            <m:mi>l</m:mi>
+                            <m:mo>-</m:mo>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mo>︸</m:mo>
+                      </m:munder>
+                      <m:mi> pink </m:mi>
+                    </m:munder>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id95670">
+          <emphasis effect="bold">Results:</emphasis>
+        </para>
+        <para id="id95679">Complete your observations in the table below, showing the colour changes that take place, and also indicating whether the concentration of each of the ions in solution increases or decreases.</para>
+        <table id="id95684" summary="">
+          <tgroup cols="6">
+            <tbody>
+              <row>
+                <entry/>
+                <entry>
+                  <emphasis effect="bold">Initial colour</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Final colour</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">[Co<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>]</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">[Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>]</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">[CoCl<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>]</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Add Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Add H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Increase temp.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Decrease temp.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id96023">
+          <emphasis effect="bold">Conclusions:</emphasis>
+        </para>
+        <para id="id96032">Use your knowledge of equilibrium principles to explain the changes that you recorded in the table above. Draw a conclusion about the effect of a change in concentration of either the reactants or products on the equilibrium position. Also draw a conclusion about the effect of a change in temperature on the equilibrium position.
+ </para>
+</section>
+      </section>
+      <section id="uid150">
+        <title>The effect of pressure on equilibrium</title>
+        <para id="id96054">In the case of gases, we refer to pressure instead of concentration. Similar principles apply as those that were described before for concentration. When the pressure of a system increases, there are more particles in a particular space. The equilibrium will shift in a direction that reduces the number of gas particles so that the pressure is also reduced. To predict what will happen in a reaction, we need to look at the number of moles of gas that are in the reactants and products. Look at the example below:</para>
+        <equation id="id96062">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mrow>
+                    <m:mi>e</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>S</m:mi>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>⇌</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>S</m:mi>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id96149">In this reaction, two moles of product are formed for every three moles of reactants. If we increase the pressure on the closed system, the equilibrium will shift to the right because the forward reaction reduces the number of moles of gas that are present. This means that the yield of SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> will increase. The opposite will apply if the pressure on the system decreases. the equilibrium will shift to the left, and the concentration of SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> will increase.</para>
+<note id="notfhsst_id2985" type="tip"><title>The following rules will help in predicting the changes that take place in equilibrium reactions:</title>
+        <list id="id96202" display="block" list-type="enumerated">
+          <item id="uid151">If the forward reaction that forms the product is endothermic, then an increase in temperature will favour this reaction and the yield of product will increase. Lowering the temperature will decrease the product yield.
+</item>
+          <item id="uid152">If the forward reaction that forms the product is exothermic, then a decrease in temperature will favour this reaction and the product yield will increase. Increasing the temperature will decrease the product yield.
+</item>
+          <item id="uid153">Increasing the pressure favours the side of the equilibrium with the least number of gas molecules. This is shown in the balanced symbol equation. This rule applies in reactions with one or more gaseous reactants or products.
+</item>
+          <item id="uid154">Decreasing the pressure favours the side of the equilibrium with the most number of gas molecules. This rule applies in reactions with one or more gaseous reactants or products.
+</item>
+          <item id="uid155">If the concentration of a reactant (on the left) is increased, then some of it must change to the products (on the right) for equilibrium to be maintained. The equilibrium position will shift to the right.
+</item>
+          <item id="uid156">If the concentration of a reactant (on the left) is decreased, then some of the products (on the right) must change back to reactants for equilibrium to be maintained. The equilibrium position will shift to the left.
+</item>
+          <item id="uid157">A <emphasis effect="bold">catalyst</emphasis> does not affect the equilibrium position of a reaction. It only influences the <emphasis effect="italics">rate of the reaction</emphasis>, in other words, how quickly equilibrium is reached.
+</item>
+        </list>
+</note>
+<exercise id="secfhsst_id3004"><title> Reaction Rates 1 </title>
+        <problem id="probfhsst_id3005">
+        <para id="id96329"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>H</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>
+How will the rate of the reverse reaction be affected by:</para>
+        <list id="id96412" display="block" list-type="enumerated">
+          <item id="uid158">a decrease in temperature?
+</item>
+          <item id="uid159">the addition of a catalyst?
+</item>
+          <item id="uid160">the addition of more NO gas?
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id3018"> <list id="listfhsst_id3018" list-type="enumerated" number-style="arabic" class="stepwise">
+         <item> <label> Answer the first question </label>
+        <para id="id96474">The rate of the forward reaction will increase since it is the forward reaction that is exothermix and therefore <emphasis effect="italics">produces</emphasis> energy to balance the loss of energy from the decrease in temperature. The rate of the reverse reaction will decrease.</para>
+        </item> <item> <label> Answer the second question </label>
+        <para id="id96488">The rate of the reverse and the forward reaction will increase.</para>
+        </item> <item> <label> Answer the third question </label>
+        <para id="id96496">The rate of the reverse reaction
+will increase so that the extra NO gas is converted into NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gas.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3029"><title> Reaction Rates 2 </title>
+        <problem id="probfhsst_id3030">
+        <list id="id96538" display="block" list-type="enumerated">
+          <item id="uid161">Write a balanced equation for the exothermic reaction between
+Zn(s) and HCl.
+</item>
+          <item id="uid162">Name 3 ways to increase the reaction rate between hydrochloric
+acid and zinc metal.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id3041"> <list id="listfhsst_id3041" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Answer the first question </label>
+        <para id="id96589">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>Z</m:mi>
+              <m:mi>n</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>H</m:mi>
+              <m:mi>C</m:mi>
+              <m:mi>l</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>a</m:mi>
+                <m:mi>q</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:mi>Z</m:mi>
+              <m:mi>n</m:mi>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>l</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>a</m:mi>
+                <m:mi>q</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        </item> <item> <label> Answer the second question </label>
+        <para id="id96678">A catalyst could be added, the zinc solid could be ground
+into a fine powder to increase its surface area, the HCl
+concentration could be increased or the reaction temperature
+could be increased.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3099"><title> Reaction rates and equilibrium
+        </title>
+        <list id="id96706" display="block" list-type="enumerated">
+          <item id="uid163">The following reaction reaches equilibrium in a closed container:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+The pressure of the system is increased by decreasing the volume of the container. How will the number of moles and the concentration of the CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g) have changed when a new equilibrium is reached at the same temperature?
+<table id="id96809" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="bold">moles of CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></emphasis></entry><entry><emphasis effect="bold">[CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>]</emphasis></entry></row><row><entry>A</entry><entry>decreased</entry><entry>decreased</entry></row><row><entry>B</entry><entry>increased</entry><entry>increased</entry></row><row><entry>C</entry><entry>decreased</entry><entry>stays the same</entry></row><row><entry>D</entry><entry>decreased</entry><entry>increased</entry></row></tbody></tgroup></table>
+(IEB Paper 2, 2003)
+</item>
+          <item id="uid164">The following reaction has reached equilibrium in a closed container:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mi>C</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>H</m:mi></m:mrow></m:math> &gt; 0
+The pressure of the system is then decreased by increasing the volume of the container. How will the concentration of the H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g) and the value of K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> be affected when the new equilibrium is established? Assume that the temperature of the system remains unchanged.
+<table id="id97127" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="bold">[H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>]</emphasis></entry><entry><emphasis effect="bold">K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math></emphasis></entry></row><row><entry>A</entry><entry>increases</entry><entry>increases</entry></row><row><entry>B</entry><entry>increases</entry><entry>unchanged</entry></row><row><entry>C</entry><entry>unchanged</entry><entry>unchanged</entry></row><row><entry>D</entry><entry>decreases</entry><entry>unchanged</entry></row></tbody></tgroup></table>
+(IEB Paper 2, 2004)
+</item>
+          <item id="uid165">During a classroom experiment copper metal reacts with concentrated nitric acid to produce NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gas, which is collected in a gas syringe. When enough gas has collected in the syringe, the delivery tube is clamped so that no gas can escape. The brown NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gas collected reaches an equilibrium with colourless N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> gas as represented by the following equation:
+<equation id="id97383"><m:math overflow="scroll" mode="display"><m:mrow><m:mn>2</m:mn><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+Once this equilibrium has been established, there are 0.01 moles of NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gas and 0.03 moles of N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> gas present in the syringe.
+<list id="id97480" display="block" list-type="enumerated"><item id="uid166">A learner, noticing that the colour of the gas mixture in the syringe is no longer changing, comments that all chemical reactions in the syringe must have stopped. Is this assumption correct? Explain.
+</item><item id="uid167">The gas in the syringe is cooled. The volume of the gas is kept constant during the cooling process. Will the gas be lighter or darker at the lower temperature? Explain your answer.
+</item><item id="uid168">The volume of the syringe is now reduced to 75 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> by pushing the plunger in and holding it in the new position. There are 0.032 moles of N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> gas present once the equilibrium has been re-established at the reduced volume (75 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>). Calculate the value of the equilibrium constant for this equilibrium.
+(IEB Paper 2, 2004)
+</item></list></item>
+          <item id="uid169">Consider the following reaction, which takes place in a closed container:
+<m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">A</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mi mathvariant="normal">B</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:mi> AB </m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H <m:math overflow="scroll"><m:mo>&lt;</m:mo></m:math> 0
+If you wanted to increase the rate of the reaction, which of the following would you do?
+<list id="id97669" display="block" list-type="enumerated"><item id="uid170">decrease the concentration of B
+</item><item id="uid171">decrease the temperature of A
+</item><item id="uid172">grind A into a fine powder
+</item><item id="uid173">decrease the pressure
+</item></list>
+(IEB Paper 2, 2002)
+</item>
+          <item id="uid174">Gases X and Y are pumped into a 2 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> container. When the container is sealed, 4 moles of gas X and 4 moles of gas Y are present. The following equilibrium is established:
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">X</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mi mathvariant="normal">Y</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:msub><m:mi mathvariant="normal">X</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">Y</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>
+The graph below shows the number of moles of gas X and gas X<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>Y<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> that are present from the time the container is sealed.
+<figure id="id97850"><media id="id97850_media" alt=""><image mime-type="image/png" src="../../media/CG12C3_012.png" id="id97850_onlineimage" width="359"><!-- NOTE: attribute width changes image size online (pixels). original width is 359. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_012.eps" id="id97850_printimage"/></media></figure><list id="id97857" display="block" list-type="enumerated"><item id="uid175">How many moles of gas X<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>Y<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> are formed by the time the reaction reaches equilibrium at 30 seconds?
+</item><item id="uid176">Calculate the value of the equilibrium constant at t = 50 s.
+</item><item id="uid177">At 70 s the temperature is increased. Is the forward reaction endothermic or exothermic? Explain in terms of Le Chatelier's Principle.
+</item><item id="uid178">How will this increase in temperature affect the value of the equilibrium constant?
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid10">
+      <title>Industrial applications</title>
+      <para id="id97958">The <emphasis effect="bold">Haber process</emphasis> is a good example of an industrial process which uses the equilibrium principles that have been discussed. The equation for the process is as follows:</para>
+      <equation id="id97969">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>⇌</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>N</m:mi>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mi>e</m:mi>
+            <m:mi>n</m:mi>
+            <m:mi>e</m:mi>
+            <m:mi>r</m:mi>
+            <m:mi>g</m:mi>
+            <m:mi>y</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id98050">Since the reaction is <emphasis effect="bold">exothermic</emphasis>, the forward reaction is favoured at low temperatures, and the reverse reaction at high temperatures. If the purpose of the Haber process is to produce ammonia, then the temperature must be maintained at a level that is low enough to ensure that the reaction continues in the forward direction.</para>
+      <para id="id98061">The forward reaction is also favoured by high <emphasis effect="italics">pressures</emphasis> because there are four moles of reactant for every two moles of product formed.</para>
+      <para id="id98074">The K value for this reaction will be calculated as follows:</para>
+      <equation id="id98080">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>K</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:mi>N</m:mi>
+                  <m:msub>
+                    <m:mi>H</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:msub>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mrow>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:msub>
+                    <m:mi>N</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+                <m:msup>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                  <m:mn>3</m:mn>
+                </m:msup>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+<section id="secfhsst_id3239"><title> Applying equilibrium principles
+      </title>
+      <para id="id98161">Look at the values of k calculated for the Haber process reaction at different temperatures, and then answer the questions that follow:</para>
+      <table id="id98168" summary="">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">
+                  <m:math overflow="scroll">
+                    <m:msup>
+                      <m:mi>T</m:mi>
+                      <m:mrow>
+                        <m:mi>o</m:mi>
+                        <m:mi>C</m:mi>
+                      </m:mrow>
+                    </m:msup>
+                  </m:math>
+                </emphasis>
+              </entry>
+              <entry>k</entry>
+            </row>
+            <row>
+              <entry>25</entry>
+              <entry>6.4 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup></m:math></entry>
+            </row>
+            <row>
+              <entry>200</entry>
+              <entry>4.4 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></entry>
+            </row>
+            <row>
+              <entry>300</entry>
+              <entry>4.3 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></entry>
+            </row>
+            <row>
+              <entry>400</entry>
+              <entry>1.6 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow></m:msup></m:math></entry>
+            </row>
+            <row>
+              <entry>500</entry>
+              <entry>1.5 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn></m:mrow></m:msup></m:math></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <list id="id98405" display="block" list-type="enumerated">
+        <item id="uid179">What happens to the value of K as the temperature increases?
+</item>
+        <item id="uid180">Which reaction is being favoured when the temperature is 300 degrees celsius?
+</item>
+        <item id="uid181">According to this table, which temperature would be best if you wanted to produce as much ammonia as possible? Explain.
+</item>
+      </list>
+      
+</section>
+    </section>
+    <para id="eip-520"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rates-100514022540-phpapp02&amp;stripped_title=rates-4092604&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid11">
+      <title>Summary</title>
+      <list id="id98466" display="block" list-type="bulleted">
+        <item id="uid182">The <emphasis effect="bold">rate of a reaction</emphasis> describes how quickly reactants are used up, or how quickly products form. The units used are moles per second.
+</item>
+        <item id="uid183">A number of factors can affect the rate of a reaction. These include the <emphasis effect="bold">nature of the reactants</emphasis>, the <emphasis effect="bold">concentration</emphasis> of reactants, <emphasis effect="bold">temperature</emphasis> of the reaction, the presence or absence of a <emphasis effect="bold">catalyst</emphasis> and the <emphasis effect="bold">surface area</emphasis> of the reactants.
+</item>
+        <item id="uid184"><emphasis effect="bold">Collision theory</emphasis> provides one way of explaining why each of these factors can affect the rate of a reaction. For example, higher temperatures mean increased reaction rates because the reactant particles have more energy and are more likely to collide successfully with each other.
+</item>
+        <item id="uid185">Different methods can be used to <emphasis effect="bold">measure the rate of a reaction</emphasis>. The method used will depend on the nature of the product. Reactions that produce gases can be measured by collecting the gas in a syringe. Reactions that produce a precipitate are also easy to measure because the precipitate is easily visible.
+</item>
+        <item id="uid186">For any reaction to occur, a minimum amount of energy is needed so that bonds in the reactants can break, and new bonds can form in the products. The minimum energy that is required is called the <emphasis effect="bold">activation energy</emphasis> of a reaction.
+</item>
+        <item id="uid187">In reactions where the particles do not have enough energy to overcome this activation energy, one of two methods can be used to facilitate a reaction to take place: increase the temperature of the reaction or add a catalyst.
+</item>
+        <item id="uid188"><emphasis effect="bold">Increasing the temperature of a reaction</emphasis> means that the average energy of the reactant particles increases and they are more likely to have enough energy to overcome the activation energy.
+</item>
+        <item id="uid189">A <emphasis effect="bold">catalyst</emphasis> is used to lower the activation energy so that the reaction is more likely to take place. A catalyst does this by providing an alternative, lower energy pathway, for the reaction.
+</item>
+        <item id="uid190">A catalyst therefore <emphasis effect="bold">speeds up a reaction</emphasis> but does not become part of the reaction in any way.
+</item>
+        <item id="uid191"><emphasis effect="bold">Chemical equilibrium</emphasis> is the state of a reaction, where the concentrations of the reactants and the products have no net change over time. Usually this occurs when the rate of the forward reaction is the same as the rate of the reverse reaction.
+</item>
+        <item id="uid192">The <emphasis effect="bold">equilibrium constant</emphasis> relates to reactions at equilibrium, and can be calculated using the following equation:
+<equation id="id98697"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>K</m:mi><m:mi>c</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mi>C</m:mi><m:mo>]</m:mo></m:mrow><m:mi>c</m:mi></m:msup><m:msup><m:mrow><m:mo>[</m:mo><m:mi>D</m:mi><m:mo>]</m:mo></m:mrow><m:mi>d</m:mi></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mi>A</m:mi><m:mo>]</m:mo></m:mrow><m:mi>a</m:mi></m:msup><m:msup><m:mrow><m:mo>[</m:mo><m:mi>B</m:mi><m:mo>]</m:mo></m:mrow><m:mi>b</m:mi></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+where A and B are reactants, C and D are products and a, b, c, and d are the coefficients of the respective reactants and products.
+</item>
+        <item id="uid193">A <emphasis effect="bold">high K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> value</emphasis> means that the concentration of products at equilibrium is high and the reaction has a high yield. A <emphasis effect="bold">low K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> value</emphasis> means that the concentration of products at equilibrium is low and the reaction has a low yield.
+</item>
+        <item id="uid194"><emphasis effect="bold">Le Chatelier's Principle</emphasis> states that if a chemical system at equilibrium experiences a change in concentration, temperature or total pressure the equilibrium will shift in order to minimise that change and to re-establish equilibrium. For example, if the pressure of a gaseous system at eqilibrium was increased, the equilibrium would shift to favour the reaction that produces the lowest quantity of the gas. If the temperature of the same system was to increase, the equilibrium would shift to favour the endothermic reaction. Similar principles apply for changes in concentration of the reactants or products in a reaction.
+</item>
+        <item id="uid195">The principles of equilibrium are very important in <emphasis effect="bold">industrial applications</emphasis> such as the Haber process, so that productivity can be maximised.
+</item>
+      </list>
+<section id="secfhsst_id3330"><title> Summary Exercise
+      </title>
+      <list id="id98882" display="block" list-type="enumerated">
+        <item id="uid196">For each of the following questions, choose the one correct answer from the list provided.
+<list id="id98898" display="block" list-type="enumerated"><item id="uid197">Consider the following reaction that has reached equilibrium after some time in a sealed 1 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> flask:
+<m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>5</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mi>P</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>; <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>H</m:mi></m:mrow></m:math> is positive
+Which one of the following reaction conditions applied to the system would decrease the rate of the reverse reaction?
+<list id="id99016" display="block" list-type="enumerated"><item id="uid198">increase the pressure
+</item><item id="uid199">increase the reaction temperature
+</item><item id="uid200">continually remove Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g) from the flask
+</item><item id="uid201">addition of a suitable catalyst
+</item></list>
+(IEB Paper 2, 2001)
+</item><item id="uid202">The following equilibrium constant expression is given for a particular reaction:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>K</m:mi><m:mi>c</m:mi></m:msub><m:mo>=</m:mo><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>]</m:mo></m:mrow><m:mn>4</m:mn></m:msup><m:msup><m:mrow><m:mo>[</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mn>3</m:mn></m:msup><m:mo>/</m:mo><m:mrow><m:mo>[</m:mo><m:msub><m:mi>C</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>8</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mn>5</m:mn></m:msup></m:mrow></m:math>
+For which one of the following reactions is the above expression of K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> is correct?
+<list id="id99219" display="block" list-type="enumerated"><item id="uid203"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>C</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>8</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mn>4</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid204"><m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:msub><m:mi>C</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>8</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid205"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi>C</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>8</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>7</m:mn><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mn>6</m:mn><m:mi>C</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>8</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid206"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>C</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>8</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mn>4</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item></list>
+(IEB Paper 2, 2001)
+</item></list></item>
+        <item id="uid207">10 g of magnesium ribbon reacts with a 0.15 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> solution of hydrochloric acid at a temperature of 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C.
+<list id="id99674" display="block" list-type="enumerated"><item id="uid208">Write a balanced chemical equation for the reaction.
+</item><item id="uid209">State <emphasis effect="bold">two</emphasis> ways of increasing the rate of production of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g).
+</item><item id="uid210">A table of the results is given below:
+<table id="id99733" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Time elapsed (min)</emphasis></entry><entry><emphasis effect="bold">Vol of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g) (cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>)</emphasis></entry></row><row><entry>0</entry><entry>0</entry></row><row><entry>0.5</entry><entry>17</entry></row><row><entry>1.0</entry><entry>25</entry></row><row><entry>1.5</entry><entry>30</entry></row><row><entry>2.0</entry><entry>33</entry></row><row><entry>2.5</entry><entry>35</entry></row><row><entry>3.0</entry><entry>35</entry></row></tbody></tgroup></table><list id="id99944" display="block" list-type="enumerated"><item id="uid211">Plot a graph of volume versus time for these results.
+</item><item id="uid212">Explain the shape of the graph during the following two time intervals: t = 0 to t = 2.0 min and then t = 2.5 and t = 3.0 min by referring to the volume of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g) produced.
+</item></list></item></list>
+(IEB Paper 2, 2001)
+</item>
+        <item id="uid213">Cobalt chloride crystals are dissolved in a beaker containing ethanol and then a few drops of water are added. After a period of time, the reaction reaches equilibrium as follows:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>o</m:mi><m:mi>C</m:mi><m:msubsup><m:mi>l</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:mrow></m:math> (blue) <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>⇌</m:mo><m:mi>C</m:mi><m:mi>o</m:mi><m:msubsup><m:mrow><m:mo>(</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msubsup></m:mrow></m:math> (pink) <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>C</m:mi><m:msup><m:mi>l</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+The solution, which is now just blue, is poured into three test tubes. State, in each case, what colour changes will be observed (if any) if the following are added in turn to each test tube:
+<list id="id100122" display="block" list-type="enumerated"><item id="uid214">1 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of distilled water
+</item><item id="uid215">A few crystals of sodium chloride
+</item><item id="uid216">The addition of dilute hydrochloric acid to the third test tube causes the solution to turn pink. Explain why this occurs.
+</item></list>
+(IEB Paper 2, 2001)
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

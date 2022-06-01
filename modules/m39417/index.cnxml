@@ -1,0 +1,378 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The galvanic cell</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39417</md:content-id>
+  <md:title>The galvanic cell</md:title>
+  <md:abstract/>
+  <md:uuid>157c0aa1-f9ee-4b4a-8b57-5dcaefef6df9</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id136424">Reaction Types in Grade 11 discussed <emphasis effect="italics">oxidation</emphasis>, <emphasis effect="italics">reduction</emphasis> and <emphasis effect="italics">redox reactions</emphasis>. <emphasis effect="bold">Oxidation</emphasis> involves a <emphasis effect="bold">loss of electrons</emphasis> and <emphasis effect="bold">reduction</emphasis> involves a <emphasis effect="bold">gain of electrons</emphasis>. A <emphasis effect="bold">redox reaction</emphasis> is a reaction where both oxidation and reduction take place. What is common to all of these processes is that they involve a <emphasis effect="italics">transfer of electrons</emphasis> and a change in the oxidation state of the elements that are involved.</para>
+<section id="secfhsst_id48"><title> Oxidation and reduction
+      </title>
+      <list id="id136826" display="block" list-type="enumerated">
+        <item id="uid1">Define the terms <emphasis effect="bold">oxidation</emphasis> and <emphasis effect="bold">reduction</emphasis>.
+</item>
+        <item id="uid2">In each of the following reactions say whether the <emphasis effect="bold">iron</emphasis> in the reactants is oxidised or reduced.
+<list id="id136868" display="block" list-type="enumerated"><item id="uid3"><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:mi>e</m:mi><m:mo>→</m:mo><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></item><item id="uid4"><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:mrow></m:math></item><item id="uid5"><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:msub><m:mi>e</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>C</m:mi><m:mi>O</m:mi><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>F</m:mi><m:mi>e</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid6"><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>→</m:mo><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></item><item id="uid7"><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:msub><m:mi>e</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>A</m:mi><m:mi>l</m:mi><m:mo>→</m:mo><m:mi>A</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>F</m:mi><m:mi>e</m:mi></m:mrow></m:math></item></list></item>
+        <item id="uid8">In each of the following equations, say which elements in the reactants are oxidised and which are reduced.
+<list id="id137174" display="block" list-type="enumerated"><item id="uid9"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>u</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid10"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>C</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid11"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>F</m:mi><m:mi>e</m:mi><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>F</m:mi><m:mi>e</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid12"><m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>A</m:mi><m:mi>g</m:mi><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>A</m:mi><m:mi>g</m:mi><m:mo>+</m:mo><m:mi>Z</m:mi><m:mi>n</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item></list></item>
+        <item id="uid13">Which one of the substances listed below acts as the oxidising agent in the following reaction?
+<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>r</m:mi><m:mn>2</m:mn></m:msub><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mo>→</m:mo><m:mn>3</m:mn><m:mi>S</m:mi><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>C</m:mi><m:msup><m:mi>r</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math><list id="id137837" display="block" list-type="enumerated"><item id="uid14">H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math></item><item id="uid15">Cr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></item><item id="uid16">SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid17">Cr<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></item></list></item>
+      </list>
+      
+</section>
+      <para id="id137963">In Grade 11, an experiment was carried out to see what happened when zinc granules are added to a solution of copper(II) sulphate. In the experiment, the Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions from the copper(II) sulphate solution were reduced to copper metal, which was then deposited in a layer on the zinc granules. The zinc atoms were oxidised to form Zn<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions in the solution. The half reactions are as follows:</para>
+      <para id="id138001"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (reduction half reaction)</para>
+      <para id="id138060"><m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>Z</m:mi><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (oxidation half reaction)</para>
+      <para id="id138119">The overall redox reaction is:</para>
+      <para id="id138122">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>u</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mi>q</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mi>Z</m:mi>
+            <m:mi>n</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>u</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>s</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mi>Z</m:mi>
+            <m:msup>
+              <m:mi>n</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mi>q</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id138199">There was an increase in the temperature of the reaction when you carried out this experiment. Is it possible that this heat energy could be converted into electrical energy? In other words, can we use a chemical reaction where there is an exchange of electrons, to produce electricity? And if this is possible, what would happen if an electrical current was supplied to <emphasis effect="italics">cause</emphasis> some type of chemical reaction to take place?</para>
+      <para id="id138211">An <emphasis effect="bold">electrochemical reaction</emphasis> is a chemical reaction that <emphasis effect="italics">produces a voltage</emphasis>, and therefore a flow of electrical current. An electrochemical reaction can also be the reverse of this process, in other words if an electrical current causes a chemical reaction to take place.</para>
+<definition id="fhsst_id114"><term id="termfhsst_id114"> Electrochemical reaction </term> <meaning id="meaningfhsst_id114">
+      <para id="id138234">If a chemical reaction is caused by an external voltage, or if a voltage is caused by a chemical reaction, it is an electrochemical reaction.
+ </para>
+      </meaning></definition>
+      <para id="id138246"><emphasis effect="bold">Electrochemistry</emphasis> is the branch of chemistry that studies these electrochemical reactions. In this chapter, we will be looking more closely at different types of electrochemical reactions, and how these can be used in different ways.</para>
+    </section>
+    <section id="cid3">
+      <title>The Galvanic Cell</title>
+<section id="secfhsst_id122"><title> Experiment : Electrochemical reactions
+      </title>
+      <para id="id138277">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id138285">To investigate the reactions that take place in a zinc-copper cell</para>
+      <para id="id138289">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id138298">zinc plate, copper plate, measuring balance, zinc sulphate (ZnSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) solution (1 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>), copper sulphate (CuSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) solution (1 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>), two 250 ml beakers, U-tube, Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> solution, cotton wool, ammeter, connecting wire.</para>
+      <para id="id138381">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id138389" display="block" list-type="enumerated">
+        <item id="uid18">Measure the mass of the copper and zinc plates and record your findings.
+</item>
+        <item id="uid19">Pour about 200 ml of the zinc sulphate solution into a beaker and put the zinc plate into it.
+</item>
+        <item id="uid20">Pour about 200 ml of the copper sulphate solution into the second beaker and place the copper plate into it.
+</item>
+        <item id="uid21">Fill the U-tube with the Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> solution and seal the ends of the tubes with the cotton wool. This will stop the solution from flowing out when the U-tube is turned upside down.
+</item>
+        <item id="uid22">Connect the zinc and copper plates to the ammeter and observe whether the ammeter records a reading.
+</item>
+        <item id="uid23">Place the U-tube so that one end is in the copper sulphate solution and the other end is in the zinc sulphate solution. Is there a reading on the ammeter? In which direction is the current flowing?
+</item>
+        <item id="uid24">Take the ammeter away and connect the copper and zinc plates to each other directly using copper wire. Leave to stand for about one day.
+</item>
+        <item id="uid25">After a day, remove the two plates and rinse them first with distilled water, then with alcohol and finally with ether. Dry the plates using a hair dryer.
+</item>
+        <item id="uid26">Weigh the zinc and copper plates and record their mass. Has the mass of the plates changed from the original measurements?
+</item>
+      </list>
+      <para id="id138531"><emphasis effect="bold">Note:</emphasis> A voltmeter can also be used in place of the ammeter. A voltmeter will measure the potential difference across the cell.</para>
+      <para id="id138539">
+        <figure id="id138544">
+          <media id="id138544_media" alt="">
+            <image mime-type="image/png" src="../../media/VoltaicCellbw.png" id="id138544_onlineimage" width="441"><!-- NOTE: attribute width changes image size online (pixels). original width is 441. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/VoltaicCellbw.eps" id="id138544_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id138550">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <para id="id138559">During the experiment, you should have noticed the following:</para>
+      <list id="id138562" display="block" list-type="bulleted">
+        <item id="uid27">When the U-tube containing the Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> solution was absent, there was no reading on the ammeter.
+</item>
+        <item id="uid28">When the U-tube was connected, a reading was recorded on the ammeter.
+</item>
+        <item id="uid29">After the plates had been connected directly to each other and left for a day, there was a change in their mass. The mass of the zinc plate decreased, while the mass of the copper plate increased.
+</item>
+        <item id="uid30">The direction of electron flow is from the zinc plate towards the copper plate.
+</item>
+      </list>
+      <para id="id138640">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id138648">When a zinc sulphate solution containing a zinc plate is connected by a U-tube to a copper sulphate solution containing a copper plate, reactions occur in both solutions. The decrease in mass of the zinc plate suggests that the zinc metal has been oxidised. The increase in mass of the copper plate suggests that reduction has occurred here to produce more copper metal. This will be explained in detail below.
+ </para>
+</section>
+      <section id="uid31">
+        <title>Half-cell reactions in the Zn-Cu cell</title>
+        <para id="id138672">The experiment above demonstrated a zinc-copper cell. This was made up of a zinc <emphasis effect="bold">half cell</emphasis> and a copper <emphasis effect="bold">half cell</emphasis>.</para>
+<definition id="fhsst_id187"><term id="termfhsst_id187"> Half cell </term> <meaning id="meaningfhsst_id187">
+        <para id="id138692">A half cell is a structure that consists of a conductive electrode surrounded by a conductive electrolyte. For example, a zinc half cell could consist of a zinc metal plate (the electrode) in a zinc sulphate solution (the electrolyte).
+ </para>
+        </meaning></definition>
+        <para id="id138705">How do we explain what has just been observed in the zinc-copper cell?</para>
+        <list id="id138709" display="block" list-type="bulleted">
+          <item id="uid32"><emphasis effect="italics">Copper plate</emphasis>
+At the copper plate, there was an <emphasis effect="italics">increase</emphasis> in mass. This means that Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions from the copper sulphate solution were deposited onto the plate as atoms of copper metal. The half-reaction that takes place at the copper plate is:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>u</m:mi></m:mrow></m:math><emphasis effect="bold">(Reduction half reaction)</emphasis>
+Another shortened way to represent this copper half-cell is Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>/Cu.
+</item>
+          <item id="uid33"><emphasis effect="italics">Zinc plate</emphasis>
+At the zinc plate, there was a <emphasis effect="italics">decrease</emphasis> in mass. This means that some of the zinc goes into solution as Z<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions. The electrons remain on the zinc plate, giving it a negative charge. The half-reaction that takes place at the zinc plate is:
+<m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mo>→</m:mo><m:mi>Z</m:mi><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math><emphasis effect="bold">(Oxidation half reaction)</emphasis>
+The shortened way to represent the zinc half-cell is Zn/Zn<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>.
+The overall reaction is:
+<m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>Z</m:mi><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> or, if we cancel the electrons:
+<m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>→</m:mo><m:mi>Z</m:mi><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mi>C</m:mi><m:mi>u</m:mi></m:mrow></m:math>
+For this electrochemical cell, the standard notation is:
+<equation id="id139060"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mo>|</m:mo><m:mi>Z</m:mi></m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mi>C</m:mi></m:mrow><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mi>C</m:mi><m:mi>u</m:mi></m:mrow></m:mrow></m:math></equation>
+where
+<equation id="id139120"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mo>|</m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi mathvariant="normal">a</m:mi><m:mspace width="4pt"/><m:mi> phase </m:mi><m:mspace width="4pt"/><m:mi> boundary </m:mi><m:mspace width="4pt"/><m:mo>(</m:mo><m:mi> solid </m:mi><m:mo>/</m:mo><m:mi> aqueous </m:mi><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi> the </m:mi><m:mspace width="4pt"/><m:mi> salt </m:mi><m:mspace width="4pt"/><m:mi> bridge </m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+        </list>
+        <para id="id139207">In the notation used above, the oxidation half-reaction at the anode is written on the left, and the reduction half-reaction at the cathode is written on the right. In the Zn-Cu electrochemical cell, the direction of current flow in the external circuit is from the zinc electrode (where there has been a build up of electrons) to the copper electrode.</para>
+      </section>
+      <section id="uid34">
+        <title>Components of the Zn-Cu cell</title>
+        <para id="id139224">In the zinc-copper cell, the copper and zinc plates are called the <emphasis effect="bold">electrodes</emphasis>. The electrode where oxidation occurs is called the <emphasis effect="bold">anode</emphasis>, and the electrode where reduction takes place is called the <emphasis effect="bold">cathode</emphasis>. In the zinc-copper cell, the zinc plate is the anode and the copper plate is the cathode.</para>
+<definition id="fhsst_id215"><term id="termfhsst_id215"> Electrode </term> <meaning id="meaningfhsst_id215">
+        <para id="id139253">An electrode is an electrical conductor that is used to make contact with a metallic part of a circuit. The anode is the electrode where oxidation takes place. The cathode is the electrode where reduction takes place.  </para>
+        </meaning></definition>
+        <para id="id139266">The zinc sulphate and copper sulphate solutions are called the <emphasis effect="bold">electrolyte</emphasis> solutions.</para>
+<definition id="fhsst_id219"><term id="termfhsst_id219"> Electrolyte </term> <meaning id="meaningfhsst_id219">
+        <para id="id139282">An electrolyte is a substance that contains free ions and which therefore behaves as an electrical conductor. </para>
+        </meaning></definition>
+        <para id="id139295">The U-tube also plays a very important role in the cell. In the Zn/Zn<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> half-cell, there is a build up of positive charge because of the release of electrons through oxidation. In the Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>/Cu half-cell, there is a decrease in the positive charge because electrons are gained through reduction. This causes a movement of SO<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math> ions into the beaker where there are too many positive ions, in order to neutralise the solution. Without this, the flow of electrons in the outer circuit stops completely. The U-tube is called the <emphasis effect="bold">salt bridge</emphasis>. The salt bridge acts as a transfer medium that allows ions to flow through without allowing the different solutions to mix and react.</para>
+<definition id="fhsst_id223"><term id="termfhsst_id223"> Salt bridge </term> <meaning id="meaningfhsst_id223">
+        <para id="id139368">A salt bridge, in electrochemistry, is a laboratory device that is used to connect the oxidation and reduction half-cells of a galvanic cell. </para>
+        </meaning></definition>
+      </section>
+      <section id="uid35">
+        <title>The Galvanic cell</title>
+        <para id="id139391">In the zinc-copper cell the important thing to notice is that the chemical reactions that take place at the two electrodes cause an electric current to flow through the outer circuit. In this type of cell, <emphasis effect="bold">chemical energy is converted to electrical energy</emphasis>. These are called <emphasis effect="bold">galvanic cells</emphasis>. The zinc-copper cell is one example of a galvanic cell. A galvanic cell (which is also sometimes referred to as a <emphasis effect="bold">voltaic</emphasis> or <emphasis effect="bold">electrochemical</emphasis> cell) consists of two metals that are connected by a salt bridge between the individual half-cells. A galvanic cell generates electricity using the reactions that take place at these two metals, each of which has a different <emphasis effect="bold">reaction potential</emphasis>.</para>
+        <para id="id139428">So what is meant by the 'reaction potential' of a substance? Every metal has a different half reaction and different dissolving rates. When two metals with different reaction potentials are used in a galvanic cell, a potential difference is set up between the two electrodes, and the result is a flow of current through the wire that connects the electrodes. In the zinc-copper cell, zinc has a higher reaction potential than copper and therefore dissolves more readily into solution. The metal 'dissolves' when it loses electrons to form positive metal ions. These electrons are then transferred through the connecting wire in the outer circuit.</para>
+<definition id="fhsst_id231"><term id="termfhsst_id231"> Galvanic cell </term> <meaning id="meaningfhsst_id231">
+        <para id="id139446">A galvanic (voltaic) cell is an electrochemical cell that uses a chemical reaction between two dissimilar electrodes dipped in an electrolyte, to generate an electric current. </para>
+        </meaning></definition>
+<note id="notfhsst_id234"><title> Interesting Fact </title>
+        <para id="id139465">It was the Italian physician and anatomist Luigi Galvani who marked the birth of electrochemistry by making a link between chemical reactions and electricity. In 1780, Galvani discovered that when two different metals (copper and zinc for example) were connected together and then both touched to different parts of a nerve of a frog leg at the same time, they made the leg contract. He called this "animal electricity". While many scientists accepted his ideas, another scientist, Alessandro Volta, did not. In 1800, because of his professional disagreement over the galvanic response that had been suggested by Luigi Galvani, Volta developed the <emphasis effect="italics">voltaic pile</emphasis>, which was very similar to the galvanic cell. It was the work of these two men that paved the way for all electrical batteries.</para>
+</note>
+<exercise id="secfhsst_id237"><title> Understanding galvanic cells
+        </title>
+        <problem id="probfhsst_id239">
+        <para id="id139507">For the following cell:</para>
+        <equation id="id139512">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi>Z</m:mi>
+                <m:mi>n</m:mi>
+                <m:mo>|</m:mo>
+                <m:mi>Z</m:mi>
+              </m:mrow>
+              <m:msup>
+                <m:mi>n</m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mo>|</m:mo>
+                <m:mi>A</m:mi>
+              </m:mrow>
+              <m:msup>
+                <m:mi>g</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mi>A</m:mi>
+                <m:mi>g</m:mi>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <!--empty paragraphs get left behind.-->
+        <list id="id139570" display="block" list-type="enumerated">
+          <item id="uid36">Give the anode and cathode half-reactions.
+</item>
+          <item id="uid37">Write the overall equation for the chemical reaction.
+</item>
+          <item id="uid38">Give the direction of the current in the external circuit.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id285"> <list id="listfhsst_id285" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify the oxidation and reduction reactions </label>
+        <para id="id139632">In the standard notation format, the oxidation reaction is written on the left and the reduction reaction on the right. So, in this cell, zinc is oxidised and silver ions are reduced.</para>
+        </item> <item> <label> Write the two half reactions </label>
+        <para id="id139644">Oxidation half-reaction:</para>
+        <para id="id139647">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>Z</m:mi>
+              <m:mi>n</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi>Z</m:mi>
+              <m:msup>
+                <m:mi>n</m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi>e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id139688">Reduction half-reaction:</para>
+        <para id="id139693">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:msup>
+                <m:mi>g</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi>e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>→</m:mo>
+              <m:mi>A</m:mi>
+              <m:mi>g</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        </item> <item> <label> Combine the half-reactions to get the overall equation. </label>
+        <para id="id139734">When you combine the two half-reactions, all the reactants must go on the left side of the equation and the products must go on the right side of the equation. The overall equation therefore becomes:</para>
+        <para id="id139739">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> Zn </m:mi>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Ag </m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi> Zn </m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mi> Ag </m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id139805">Note that this equation is not balanced. This will be discussed later in the chapter.</para>
+        </item> <item> <label> Determine the direction of current flow </label>
+        <para id="id139816">A build up of electrons occurs where oxidation takes place. This is at the zinc electrode. Current will therefore flow from the zinc electrode to the silver electrode.
+ </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid39">
+        <title>Uses and applications of the galvanic cell</title>
+        <para id="id139842">The principles of the galvanic cell are used to make <emphasis effect="bold">electrical batteries</emphasis>. In science and technology, a battery is a device that stores chemical energy and makes it available in an electrical form. Batteries are made of electrochemical devices such as one or more galvanic cells, fuel cells or flow cells. Batteries have many uses including in torches, electrical appliances (long-life alkaline batteries), digital cameras (lithium batteries), hearing aids (silver-oxide batteries), digital watches (mercury batteries) and military applications (thermal batteries). Refer to chapter <link target-id=""/> for more information on batteries.</para>
+        <para id="id139859">The galvanic cell can also be used for <emphasis effect="bold">electroplating</emphasis>. Electroplating occurs when an electrically conductive object is coated with a layer of metal using electrical current. Sometimes, electroplating is used to give a metal particular properties such as corrosion protection or wear resistance. At other times, it can be for aesthetic reasons for example in the production of jewellery. This will be discussed in more detail later in this chapter.</para>
+<section id="secfhsst_id379"><title> Galvanic cells
+        </title>
+        <list id="id139886" display="block" list-type="enumerated">
+          <item id="uid40">The following half-reactions take place in an electrochemical cell:
+<m:math overflow="scroll"><m:mrow><m:mi> Fe </m:mi><m:mo>→</m:mo><m:msup><m:mi> Fe </m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:msup><m:mi> Fe </m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi> Fe </m:mi></m:mrow></m:math><list id="id139979" display="block" list-type="enumerated"><item id="uid41">Which is the oxidation half-reaction?
+</item><item id="uid42">Which is the reduction half-reaction?
+</item><item id="uid43">Name one oxidising agent.
+</item><item id="uid44">Name one reducing agent.
+</item><item id="uid45">Use standard notation to represent this electrochemical cell.
+</item></list></item>
+          <item id="uid46">For the following cell:
+<equation id="id140057"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mo>|</m:mo><m:mi>M</m:mi></m:mrow><m:msup><m:mi>g</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mi>M</m:mi></m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mi>M</m:mi><m:mi>n</m:mi></m:mrow></m:mrow></m:math></equation><list id="id140113" display="block" list-type="enumerated"><item id="uid47">Give the cathode half-reaction.
+</item><item id="uid48">Give the anode half-reaction.
+</item><item id="uid49">Give the overall equation for the electrochemical cell.
+</item><item id="uid50">What metals could be used for the electrodes in this electrochemical cell?
+</item><item id="uid51">Suggest two electrolytes for this electrochemical cell.
+</item><item id="uid52">In which direction will the current flow?
+</item><item id="uid53">Draw a simple sketch of the complete cell.
+</item></list></item>
+          <item id="uid54">For the following cell:
+<equation id="id140216"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mi>S</m:mi><m:mi>n</m:mi><m:mo>|</m:mo><m:mi>S</m:mi></m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mi>A</m:mi></m:mrow><m:msup><m:mi>g</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>|</m:mo><m:mi>A</m:mi><m:mi>g</m:mi></m:mrow></m:mrow></m:math></equation><list id="id140269" display="block" list-type="enumerated"><item id="uid55">Give the cathode half-reaction.
+</item><item id="uid56">Give the anode half-reaction.
+</item><item id="uid57">Give the overall equation for the electrochemical cell.
+</item><item id="uid58">Draw a simple sketch of the complete cell.
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

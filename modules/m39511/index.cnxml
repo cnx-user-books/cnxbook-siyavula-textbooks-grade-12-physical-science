@@ -1,0 +1,638 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Wave nature and particle nature</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39511</md:content-id>
+  <md:title>Wave nature and particle nature</md:title>
+  <md:abstract/>
+  <md:uuid>35bed3ea-4310-44d5-81a4-0cda93662a17</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id186669">This chapter will focus on the electromagnetic (EM) radiation. Electromagnetic radiation is a self-propagating wave in space with electric and magnetic components. These components oscillate at right angles to each other and to the direction of propagation, and are in phase with each other. Electromagnetic radiation is classified into types according to the frequency of the wave: these types include, in order of increasing frequency, radio waves, microwaves, infrared radiation, visible light, ultraviolet radiation, X-rays and gamma rays.</para>
+    </section>
+    <section id="cid3">
+      <title>Particle/wave nature of electromagnetic radiation</title>
+      <para id="id186686">If you watch a colony of ants walking up the wall, they look like a thin continuous black line. But as you look closer, you see that the line is made up of thousands of separated black ants.</para>
+      <para id="id187029">Light and all other types of electromagnetic radiation seems like a continuous wave at first, but when one performs experiments with light, one can notice that light can have both wave and particle like properties. Just like the individual ants, the light can also be made up of individual bundles of energy, or quanta of light.</para>
+      <para id="id187035">Light has both wave-like and particle-like properties (wave–particle duality), but only shows one or the other, depending on the kind of experiment we perform. A wave-type experiment shows the wave nature, and a particle-type experiment shows particle nature. One cannot test the wave and the particle nature at the same time. A particle of light is called a photon.</para>
+<definition id="fhsst_id75"><term id="termfhsst_id75"> Photon </term> <meaning id="meaningfhsst_id75">
+      <para id="id187051">A photon is a quantum (energy packet) of light. </para>
+      </meaning></definition>
+      <para id="id187062">The particle nature of light can be demonstrated by the interaction of photons with matter. One way in which light interacts with matter is via the photoelectric effect, which will be studied in detail in <link document="m33651"/>.</para>
+<section id="secfhsst_id79"><title> Particle/wave nature of electromagnetic radiation </title>
+      <list id="id187078" display="block" list-type="enumerated">
+        <item id="uid1">Give examples of the behaviour of EM radiation which can best be explained using a wave model.
+</item>
+        <item id="uid2">Give examples of the behaviour of EM radiation which can best be explained using a particle model.
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid4">
+      <title>The wave nature of electromagnetic radiation</title>
+      <para id="id187125">Accelerating charges emit electromagnetic waves. We have seen that a changing electric field generates a magnetic field and a changing magnetic field generates an electric field. This is the principle behind the propagation of electromagnetic waves, because electromagnetic waves, unlike sound waves, do not need a medium to travel through. EM waves propagate when an electric field oscillating in one plane produces a magnetic field oscillating in a plane at right angles to it, which produces an oscillating electric field, and so on. The propagation of electromagnetic waves can be described as <emphasis effect="italics">mutual induction</emphasis>.</para>
+      <para id="id187138">These mutually regenerating fields travel through empty space at a constant speed of <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, represented by <m:math overflow="scroll"><m:mi>c</m:mi></m:math>.</para>
+      <para id="id187191">
+        <figure id="id187194">
+          <media id="id187194_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C15_001.png" id="id187194_onlineimage" width="355"><!-- NOTE: attribute width changes image size online (pixels). original width is 355. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C15_001.eps" id="id187194_printimage"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+    <section id="cid5">
+      <title>Electromagnetic spectrum</title>
+      <figure id="uid3">
+        <media id="uid3_media" alt="">
+          <image mime-type="image/png" src="../../media/EM_Spectrum_Properties_edit.png" id="uid3_onlineimage" width="506"><!-- NOTE: attribute width changes image size online (pixels). original width is 506. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/EM_Spectrum_Properties_edit.eps" id="uid3_printimage"/>
+        </media>
+        <caption>The electromagnetic spectrum as a function of frequency. The different types according to wavelength are shown as well as everyday comparisons.</caption>
+      </figure>
+      <para id="id187222">Observe the things around you, your friend sitting next to you, a large tree across the field. How is it that you are able to see these things? What is it that is leaving your friend's arm and entering your eye so that you can see his arm? It is light. The light originally comes from the sun, or possibly a light bulb or burning fire. In physics, light is given the more technical term electromagnetic radiation, which includes all forms of light, not just the form which you can see with your eyes.</para>
+      <para id="id187230">Electromagnetic radiation allows us to observe the world around us. It is this radiation which reflects off of the objects around you and into your eye. The radiation your eye is sensitive to is only a small fraction of the total radiation emitted in the physical universe. All of the different fractions taped together make up the electromagnetic spectrum.</para>
+<section id="secfhsst_id113"><title> Dispersion </title>
+      <para id="id187242">When white light is split into its component colours by a prism, you are looking at a portion of the electromagnetic spectrum. </para>
+</section>
+      <para id="id187253">The wavelength of a particular electromagnetic radiation will depend on how it was created.</para>
+<section id="secfhsst_id117"><title> Wave Nature of EM Radiation </title>
+      <list id="id187264" display="block" list-type="enumerated">
+        <item id="uid4">List one source of electromagnetic waves. Hint: consider the spectrum diagram and look at the names we give to different wavelengths.
+</item>
+        <item id="uid5">Explain how an EM wave propagates, with the aid of a diagram.
+</item>
+        <item id="uid6">What is the speed of light? What symbol is used to refer to the speed of light? Does the speed of light change?
+</item>
+        <item id="uid7">Do EM waves need a medium to travel through?
+</item>
+      </list>
+      
+</section>
+      <para id="id187326">The radiation can take on any wavelength, which means that the spectrum is continuous. Physicists broke down this continuous band into sections. Each section is defined by how the radiation is created, not the wavelength of the radiation. But each category is continuous within the min and max wavelength of that category, meaning there are no wavelengths excluded within some range.</para>
+      <para id="id187332">The spectrum is in order of wavelength, with the shortest wavelength at one end and the longest wavelength at the other. The spectrum is then broken down into categories as detailed in <link target-id="uid8"/>.</para>
+      <table id="uid8" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Category</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Range of Wavelengths (nm)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Range of Frequencies (Hz)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>gamma rays</entry>
+              <entry><m:math overflow="scroll"><m:mo>&lt;</m:mo></m:math>1</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mo>&gt;</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>19</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>X-rays</entry>
+              <entry>1-10</entry>
+              <entry><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>17</m:mn></m:msup></m:mrow></m:math>-<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>19</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>ultraviolet light</entry>
+              <entry>10-400</entry>
+              <entry><m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>14</m:mn></m:msup></m:mrow></m:math>-<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>17</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>visible light</entry>
+              <entry>400-700</entry>
+              <entry><m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>14</m:mn></m:msup></m:mrow></m:math>-<m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>14</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>infrared</entry>
+              <entry>700-<m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:math></entry>
+              <entry><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math>-<m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>19</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>microwave</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>5</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup></m:mrow></m:math>-<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>radio waves</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mo>&gt;</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mo>&lt;</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>9</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Electromagnetic spectrum</caption>
+      </table>
+      <para id="id187863">Since an electromagnetic wave is still a wave, the following equation that you learnt in Grade 10 still applies:</para>
+      <equation id="id187868">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>c</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>f</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>λ</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+<exercise id="secfhsst_id245"><title> EM spectrum I </title>
+      <problem id="probfhsst_id246">
+      <para id="id187899">Calculate the frequency of red light with a wavelength of <m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:mrow></m:math> m </para>
+      </problem>
+      <solution id="solfhsst_id249"> <list id="listfhsst_id249" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Decide which formula to use and solve the problem </label>
+      <para id="id187948">We use the formula: <m:math overflow="scroll"><m:mrow><m:mi>c</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mi>λ</m:mi></m:mrow></m:math> to calculate frequency. The speed of light is a constant <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:math>m/s.</para>
+      <equation id="id187985">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>c</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>8</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>7</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>14</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>14</m:mn>
+                  </m:msup>
+                  <m:mi> Hz </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id328"><title> EM spectrum II </title>
+      <problem id="probfhsst_id329">
+      <para id="id188123">Ultraviolet radiation has a wavelength of <m:math overflow="scroll"><m:mrow><m:mn>200</m:mn><m:mspace width="3.33333pt"/><m:mi> nm </m:mi></m:mrow></m:math>. What is the frequency of the radiation? </para>
+      </problem>
+      <solution id="solfhsst_id332"> <list id="listfhsst_id332" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> To calculate the frequency we need to identify the
+wavelength and the velocity of the radiation. </label>
+      <para id="id188341">Recall that all radiation travels at the speed of light (<m:math overflow="scroll"><m:mi>c</m:mi></m:math>) in vacuum.
+Since the question does not specify through what type of material the Ultraviolet radiation
+is traveling, one can assume that it is traveling through a vacuum.
+We can identify two properties of the radiation - <m:math overflow="scroll"><m:mrow><m:mi>w</m:mi><m:mi>a</m:mi><m:mi>v</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>e</m:mi><m:mi>n</m:mi><m:mi>g</m:mi><m:mi>t</m:mi><m:mi>h</m:mi><m:mspace width="3.33333pt"/><m:mo>(</m:mo><m:mn>200</m:mn><m:mspace width="3.33333pt"/><m:mi> nm </m:mi><m:mo>)</m:mo></m:mrow></m:math> and speed (<m:math overflow="scroll"><m:mi>c</m:mi></m:math>).</para>
+      </item> <item> <label> We can use the equation <m:math overflow="scroll"><m:mrow><m:mi>c</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mi>λ</m:mi></m:mrow></m:math> to find the frequency since the wavelength is given. </label>
+      <equation id="id188424">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>c</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>8</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mn>200</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>15</m:mn>
+                  </m:msup>
+                  <m:mspace width="4pt"/>
+                  <m:mi> Hz </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id188548">Examples of some uses of electromagnetic waves are shown in <link target-id="uid9"/>.</para>
+      <table id="uid9" summary="">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Category</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Uses</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>gamma rays</entry>
+              <entry>used to kill the bacteria in marshmallows and to sterilise medical equipment</entry>
+            </row>
+            <row>
+              <entry>X-rays</entry>
+              <entry>used to image bone structures</entry>
+            </row>
+            <row>
+              <entry>ultraviolet light</entry>
+              <entry>bees can see into the ultraviolet because flowers stand out more clearly at this frequency</entry>
+            </row>
+            <row>
+              <entry>visible light</entry>
+              <entry>used by humans to observe the world</entry>
+            </row>
+            <row>
+              <entry>infrared</entry>
+              <entry>night vision, heat sensors, laser metal cutting</entry>
+            </row>
+            <row>
+              <entry>microwave</entry>
+              <entry>microwave ovens, radar</entry>
+            </row>
+            <row>
+              <entry>radio waves</entry>
+              <entry>radio, television broadcasts</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Uses of EM waves</caption>
+      </table>
+      <para id="id188751">In theory the spectrum is infinite, although realistically we can only observe wavelengths from a few hundred kilometers to those of gamma rays due to experimental limitations.</para>
+      <para id="id188756">Humans experience electromagnetic waves differently depending on their wavelength. Our eyes are sensitive to visible light while our skin is sensitive to infrared, and many wavelengths we do not detect at all.</para>
+<section id="secfhsst_id461"><title> EM Radiation </title>
+      <list id="id188768" display="block" list-type="enumerated">
+        <item id="uid10">Arrange the following types of EM radiation in order of increasing frequency: infrared, X-rays, ultraviolet, visible, gamma.
+</item>
+        <item id="uid11">Calculate the frequency of an EM wave with a wavelength of 400 nm.
+</item>
+        <item id="uid12">Give an example of the use of each type of EM radiation, i.e. gamma rays, X-rays, ultraviolet light, visible light, infrared, microwave and radio and TV waves.
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid6">
+      <title>The particle nature of electromagnetic radiation</title>
+      <para id="id188832">When we talk of electromagnetic radiation as a particle, we refer to photons, which are packets of energy. The energy of the photon is related to the wavelength of electromagnetic radiation according to:</para>
+<definition id="fhsst_id476"><term id="termfhsst_id476"> Planck's constant </term> <meaning id="meaningfhsst_id476">
+      <para id="id188843">Planck's constant is a physical constant named after Max Planck.</para>
+      <para id="id188849"><m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>626</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup></m:mrow></m:math> J <m:math overflow="scroll"><m:mo>·</m:mo></m:math> s
+ </para>
+      </meaning></definition>
+      <para id="id188898">The energy of a photon can be calculated using the formula: <m:math overflow="scroll"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>f</m:mi></m:mrow></m:math> or <m:math overflow="scroll"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mfrac><m:mi>c</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow></m:math>.
+Where E is the energy of the photon in joules (J), h is planck's constant, c is the speed of light, f is the frequency in hertz (Hz) and <m:math overflow="scroll"><m:mi>λ</m:mi></m:math> is the wavelength in metres (m).</para>
+<exercise id="secfhsst_id483"><title> Calculating the energy of a photon I </title>
+      <problem id="probfhsst_id484">
+      <para id="id188962">Calculate the energy of a photon with a frequency of <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>18</m:mn></m:msup></m:mrow></m:math> Hz </para>
+      </problem>
+      <solution id="solfhsst_id487"> <list id="listfhsst_id487" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> We use the formula: <m:math overflow="scroll"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>f</m:mi></m:mrow></m:math> </label>
+      <equation id="id189023">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>E</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mi>f</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>6</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>34</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo>×</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>18</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>15</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">J</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id561"><title> Calculating the energy of a photon II </title>
+      <problem id="probfhsst_id562">
+      <para id="id189159">What is the energy of an ultraviolet photon with a wavelength of 200 nm? </para>
+      </problem>
+      <solution id="solfhsst_id565"> <list id="listfhsst_id565" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is required and how to approach the problem. </label>
+      <para id="id189184">We are required to calculate the energy associated with a photon of ultraviolet light with a wavelength of 200 nm.</para>
+      <para id="id189190">We can use:</para>
+      <equation id="id189193">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>E</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>h</m:mi>
+            <m:mfrac>
+              <m:mi>c</m:mi>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Solve the problem </label>
+      <equation id="id189220">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>E</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mfrac>
+                    <m:mi>c</m:mi>
+                    <m:mi>λ</m:mi>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>626</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>34</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mn>8</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>200</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>9</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>939</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>10</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">J</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <section id="uid13">
+        <title>Exercise - particle nature of EM waves</title>
+        <list id="id189384" display="block" list-type="enumerated">
+          <item id="uid14">How is the energy of a photon related to its frequency and wavelength?
+</item>
+          <item id="uid15">Calculate the energy of a photon of EM radiation with a frequency of <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:math> Hz.
+</item>
+          <item id="uid16">Determine the energy of a photon of EM radiation with a wavelength of 600 nm.
+</item>
+        </list>
+      </section>
+    </section>
+
+  </content>
+</document>

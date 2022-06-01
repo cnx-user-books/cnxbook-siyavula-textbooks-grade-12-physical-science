@@ -1,0 +1,253 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Carboxylic acids, amines and carboxlyic acid derivatives</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39457</md:content-id>
+  <md:title>Carboxylic acids, amines and carboxlyic acid derivatives</md:title>
+  <md:abstract/>
+  <md:uuid>4ae44ce9-bfc6-43d7-b9bd-052e30c1e761</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid10">
+      <title>Carboxylic Acids</title>
+      <para id="id85466">Carboxylic acids are organic acids that are characterised by having a carboxyl group, which has the formula -(C=O)-OH, or more commonly written as -COOH. In a carboxyl group, an oxygen atom is double-bonded to a carbon atom, which is also bonded to a hydroxyl group. The simplest carboxylic acid, methanoic acid, is shown in <link target-id="uid141"/>. The IUPAC suffix for carboxylic acids is -anoic acid.</para>
+      <figure id="uid141">
+        <media id="uid141_media" alt="">
+          <image mime-type="image/png" src="../../media/CG12C1_059.png" id="uid141_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_059.eps" id="uid141_printimage"/>
+        </media>
+        <caption>Methanoic acid</caption>
+      </figure>
+      <para id="id85489">Carboxylic acids are widespread in nature. Methanoic acid (also known as <emphasis effect="italics">formic acid</emphasis>) has the formula HCOOH and is found in insect stings. Ethanoic acid (CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>COOH), or <emphasis effect="italics">acetic acid</emphasis>, is the main component of vinegar. More complex organic acids also have a variety of different functions. Benzoic acid (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>COOH) for example, is used as a food preservative.</para>
+<note id="notfhsst_id1166"><title> Interesting Fact </title>
+      <para id="id85552">A certain type of ant, called formicine ants, manufacture and secrete formic acid, which is used to defend themselves against other organisms that might try to eat them.</para></note>
+      <section id="uid142">
+        <title>Physical Properties</title>
+        <para id="id85573">Carboxylic acids are <emphasis effect="bold">weak acids</emphasis>, in other words they only dissociate partially. Why does the carboxyl group have acidic properties? In the carboxyl group, the hydrogen tends to separate itself from the oxygen atom. In other words, the carboxyl group becomes a source of positively-charged hydrogen ions (H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>). This is shown in <link target-id="uid143"/>.</para>
+        <figure id="uid143">
+          <media id="uid143_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_060.png" id="uid143_onlineimage" width="323"><!-- NOTE: attribute width changes image size online (pixels). original width is 323. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_060.eps" id="uid143_printimage"/>
+          </media>
+          <caption>The dissociation of a carboxylic acid</caption>
+        </figure>
+<section id="secfhsst_id1179"><title> Carboxylic acids </title>
+        <list id="id85622" display="block" list-type="enumerated">
+          <item id="uid144">Refer to the table below which gives information about a number of carboxylic acids, and then answer the questions that follow.
+<table id="id85638" summary=""><tgroup cols="6"><tbody><row><entry><emphasis effect="bold">Formula</emphasis></entry><entry><emphasis effect="bold">Common name</emphasis></entry><entry><emphasis effect="bold">Source</emphasis></entry><entry><emphasis effect="bold">IUPAC name</emphasis></entry><entry><emphasis effect="bold">melting point</emphasis> (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</entry><entry><emphasis effect="bold">boiling point</emphasis> (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</entry></row><row><entry/><entry>formic acid</entry><entry>ants</entry><entry>methanoic acid</entry><entry>8.4</entry><entry>101</entry></row><row><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H</entry><entry/><entry>vinegar</entry><entry>ethanoic acid</entry><entry>16.6</entry><entry>118</entry></row><row><entry/><entry>propionic acid</entry><entry>milk</entry><entry>propanoic acid</entry><entry>-20.8</entry><entry>141</entry></row><row><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H</entry><entry>butyric acid</entry><entry>butter</entry><entry/><entry>-5.5</entry><entry>164</entry></row><row><entry/><entry>valeric acid</entry><entry>valerian root</entry><entry>pentanoic acid</entry><entry>-34.5</entry><entry>186</entry></row><row><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H</entry><entry>caproic acid</entry><entry>goats</entry><entry/><entry>-4</entry><entry>205</entry></row><row><entry/><entry>enanthic acid</entry><entry>vines</entry><entry/><entry>-7.5</entry><entry>223</entry></row><row><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H</entry><entry>caprylic acid</entry><entry>goats</entry><entry/><entry>16.3</entry><entry>239</entry></row></tbody></tgroup></table><list id="id86342" display="block" list-type="enumerated"><item id="uid145">Fill in the missing spaces in the table by writing the formula, common name or IUPAC name.
+</item><item id="uid146">Draw the structural formula for butyric acid.
+</item><item id="uid147">Give the molecular formula for caprylic acid.
+</item><item id="uid148">Draw a graph to show the relationship between molecular mass (on the x-axis) and boiling point (on the y-axis)
+<list id="id86396" display="block" list-type="enumerated"><item id="uid149">Describe the trend you see.
+</item><item id="uid150">Suggest a reason for this trend.
+</item></list></item></list></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid151">
+        <title>Derivatives of carboxylic acids: The esters</title>
+        <para id="id86447">When an alcohol reacts with a carboxylic acid, an <emphasis effect="bold">ester</emphasis> is formed. Most esters have a characteristic and pleasant smell. In the reaction, the hydrogen atom from the hydroxyl group, and an OH from the carboxlic acid, form a molecule of water. A new bond is formed between what remains of the alcohol and acid. The name of the ester is a combination of the names of the alcohol and carboxylic acid. The suffix for an ester is -oate. An example is shown in <link target-id="uid152"/>.</para>
+        <figure id="uid152">
+          <media id="uid152_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_061.png" id="uid152_onlineimage" width="419"><!-- NOTE: attribute width changes image size online (pixels). original width is 419. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_061.eps" id="uid152_printimage"/>
+          </media>
+          <caption>The formation of an ester and water from an alcohol and carboxylic acid</caption>
+        </figure>
+      </section>
+    </section>
+    <section id="cid11">
+      <title>The Amino Group</title>
+      <para id="id86487">The amino group has the formula -NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and consists of a nitrogen atom that is bonded to two hydrogen atoms, and to the carbon skeleton. Organic compounds that contain this functional group are called <emphasis effect="bold">amines</emphasis>. One example is <emphasis effect="italics">glycine</emphasis>. Glycine belongs to a group of organic compounds called <emphasis effect="italics">amino acids</emphasis>, which are the building blocks of proteins.</para>
+      <figure id="uid153">
+        <media id="uid153_media" alt="">
+          <image mime-type="image/png" src="../../media/CG12C1_062.png" id="uid153_onlineimage" width="113"><!-- NOTE: attribute width changes image size online (pixels). original width is 113. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_062.eps" id="uid153_printimage"/>
+        </media>
+        <caption>A molecule of glycine</caption>
+      </figure>
+    </section>
+    <section id="cid12">
+      <title>The Carbonyl Group</title>
+      <para id="id86545">The carbonyl group (-CO) consists of a carbon atom that is joined to an oxygen by a double bond. If the functional group is on the <emphasis effect="italics">end</emphasis> of the carbon chain, the organic compound is called a <emphasis effect="bold">ketone</emphasis>. The simplest ketone is <emphasis effect="italics">acetone</emphasis>, which contains three carbon atoms. A ketone has the ending 'one' in its IUPAC name.</para>
+<section id="secfhsst_id1219"><title> Carboxylic acids, esters, amines and ketones
+      </title>
+      <list id="id86580" display="block" list-type="enumerated">
+        <item id="uid154">Look at the list of organic compounds in the table below:
+<table id="id86596" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Organic compound</emphasis></entry><entry><emphasis effect="bold">Type of compound</emphasis></entry></row><row><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>COOH</entry><entry/></row><row><entry>NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>COOH</entry><entry/></row><row><entry>propyl ethanoate</entry><entry/></row><row><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CHO</entry><entry/></row></tbody></tgroup></table><list id="id86792" display="block" list-type="enumerated"><item id="uid155">Complete the table by identifying each compound as either a carboxylic acid, ester, amine or ketone.
+</item><item id="uid156">Give the name of the compounds that have been written as condensed structural formulae.
+</item></list></item>
+        <item id="uid157">A chemical reaction takes place and ethyl methanoate is formed.
+<list id="id86835" display="block" list-type="enumerated"><item id="uid158">What type of organic compound is ethyl methanoate?
+</item><item id="uid159">Name the two reactants in this chemical reaction.
+</item><item id="uid160">Give the structural formula of ethyl methanoate.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <para id="eip-670"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=organicchemistry-100513095103-phpapp02&amp;stripped_title=organic-chemistry-4084791&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid13">
+      <title>Summary</title>
+      <list id="id86896" display="block" list-type="bulleted">
+        <item id="uid161"><emphasis effect="bold">Organic chemistry</emphasis> is the branch of chemistry that deals with organic molecules. An <emphasis effect="bold">organic molecule</emphasis> is one that contains carbon.
+</item>
+        <item id="uid162">All <emphasis effect="bold">living organisms</emphasis> contain carbon. Plants use sunlight to convert carbon dioxide in the air into organic compounds through the process of <emphasis effect="bold">photosynthesis</emphasis>. Animals and other organisms then feed on plants to obtain their own organic compounds. <emphasis effect="bold">Fossil fuels</emphasis> are another important source of carbon.
+</item>
+        <item id="uid163">It is the <emphasis effect="bold">unique properties of the carbon atom</emphasis> that give organic compounds certain properties.
+</item>
+        <item id="uid164">The carbon atom has <emphasis effect="bold">four valence electrons</emphasis>, so it can bond with many other atoms, often resulting in long chain structures. It also forms mostly <emphasis effect="bold">covalent bonds</emphasis> with the atoms that it bonds to, meaning that most organic molecules are <emphasis effect="bold">non-polar</emphasis>.
+</item>
+        <item id="uid165">An organic compound can be represented in different ways, using its <emphasis effect="bold">molecular formula</emphasis>, <emphasis effect="bold">structural formula</emphasis> or <emphasis effect="bold">condensed structural formula</emphasis>.
+</item>
+        <item id="uid166">If two compounds are <emphasis effect="bold">isomers</emphasis>, it means that they have the same molecular formulae but different structural formulae.
+</item>
+        <item id="uid167">A <emphasis effect="bold">functional group</emphasis> is a particular group of atoms within a molecule, which give it certain reaction characteristics. Organic compounds can be grouped according to their functional group.
+</item>
+        <item id="uid168">The <emphasis effect="bold">hydrocarbons</emphasis> are organic compounds that contain only carbon and hydrogen. They can be further divided into the alkanes, alkenes and alkynes, based on the type of bonds between the carbon atoms.
+</item>
+        <item id="uid169">The <emphasis effect="bold">alkanes</emphasis> have only <emphasis effect="bold">single bonds</emphasis> between their carbon atoms and are unreactive.
+</item>
+        <item id="uid170">The <emphasis effect="bold">alkenes</emphasis> have at least one <emphasis effect="bold">double bond</emphasis> between two of their carbon atoms. They are more reactive than the alkanes.
+</item>
+        <item id="uid171">The <emphasis effect="bold">alkynes</emphasis> have at least one <emphasis effect="bold">triple bond</emphasis> between two of their carbon atoms. They are the most reactive of the three groups.
+</item>
+        <item id="uid172">A hydrocarbon is said to be <emphasis effect="bold">saturated</emphasis> if it contains the maximum possible number of hydrogen atoms for that molecule. The alkanes are all saturated compounds.
+</item>
+        <item id="uid173">A hydrocarbon is <emphasis effect="bold">unsaturated</emphasis> if it does not contain the maximum number of hydrogen atoms for that molecule. The alkenes and alkynes are examples of unsaturated molecules. If a double or triple bond is broken, more hydrogen atoms can be added to the molecule.
+</item>
+        <item id="uid174">There are three types of reactions that occur in the alkanes: <emphasis effect="bold">substitution</emphasis>, <emphasis effect="bold">elimination</emphasis> and <emphasis effect="bold">oxidation</emphasis> reactions.
+</item>
+        <item id="uid175">The alkenes undergo <emphasis effect="bold">addition</emphasis> reactions because they are unsaturated.
+</item>
+        <item id="uid176">Organic compounds are <emphasis effect="bold">named</emphasis> according to their functional group and its position in the molecule, the number of carbon atoms in the molecule and the position of any double and triple bonds. The IUPAC rules for nomenclature are used in the naming of organic molecules.
+</item>
+        <item id="uid177">Many of the <emphasis effect="bold">properties</emphasis> of the hydrocarbons are determined by their <emphasis effect="bold">molecular structure</emphasis>, the <emphasis effect="bold">bonds</emphasis> between atoms and molecules, and their <emphasis effect="bold">surface area</emphasis>.
+</item>
+        <item id="uid178">The <emphasis effect="bold">melting point</emphasis> and <emphasis effect="bold">boiling point</emphasis> of the hydrocarbons increases as their number of carbon atoms increases.
+</item>
+        <item id="uid179">The <emphasis effect="bold">molecular mass</emphasis> of the hydrocarbons determines whether they will be in the gaseous, liquid or solid phase at certain temperatures.
+</item>
+        <item id="uid180">An <emphasis effect="bold">alcohol</emphasis> is an organic compound that contains a <emphasis effect="bold">hydroxyl group</emphasis> (-OH).
+</item>
+        <item id="uid181">The alcohols have a number of different uses including their use as a solvent, for medicinal purposes and in alcoholic drinks.
+</item>
+        <item id="uid182">The alcohols share a number of <emphasis effect="bold">properties</emphasis> because of the hydroxyl group. The hydroxyl group affects the <emphasis effect="bold">solubility</emphasis> of the alcohols. Those with shorter carbon chains are generally more soluble, and those with longer chains are less soluble. The strong hydrogen bond between the hydrogen and oxygen atoms in the hydroxyl group gives alcohols a higher melting point and boiling point than other organic compounds. The hydroxyl group also gives the alcohols both acidic and basic properties.
+</item>
+        <item id="uid183">The <emphasis effect="bold">carboxylic acids</emphasis> are organic acids that contain a <emphasis effect="bold">carboxyl group</emphasis> with the formula -COOH. In a carboxyl group, an oxygen atom is double-bonded to a carbon atom, which is also bonded to a hydroxyl group.
+</item>
+        <item id="uid184">The carboxylic acids have weak <emphasis effect="bold">acidic properties</emphasis> because the hydrogen atom is able to dissociate from the carboxyl group.
+</item>
+        <item id="uid185">An <emphasis effect="bold">ester</emphasis> is formed when an alcohol reacts with a carboxylic acid.
+</item>
+        <item id="uid186">The <emphasis effect="bold">amines</emphasis> are organic compounds that contain an <emphasis effect="bold">amino</emphasis> functional group, which has the formula -NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>. Some amines belong to the <emphasis effect="bold">amino acid</emphasis> group, which are the building blocks of proteins.
+</item>
+        <item id="uid187">The <emphasis effect="bold">ketones</emphasis> are a group of compounds that contain a <emphasis effect="bold">carbonyl group</emphasis>, which consists of an oxygen atom that is double-bonded to a carbon atom. In a ketone, the carbonyl group is on the end of the carbon chain.
+</item>
+      </list>
+<section id="secfhsst_id1293"><title> Summary exercise
+      </title>
+      <list id="id87565" display="block" list-type="enumerated">
+        <item id="uid188">
+Give <emphasis effect="bold">one word</emphasis> for each of the following descriptions:
+<list id="id87587" display="block" list-type="enumerated"><item id="uid189">The group of hydrocarbons to which 2-methyl-propene belongs.
+</item><item id="uid190">The name of the functional group that gives alcohols their properties.
+</item><item id="uid191">The group of organic compounds that have acidic properties.
+</item><item id="uid192">The name of the organic compound that is found in vinegar.
+</item><item id="uid193">The name of the organic compound that is found in alcoholic beverages.
+</item></list></item>
+        <item id="uid194">
+In each of the following questions, choose the <emphasis effect="bold">one correct answer</emphasis> from the list provided.
+<list id="id87672" display="block" list-type="enumerated"><item id="uid195">When 1-propanol is oxidised by acidified potassium permanganate, the possible product formed is...
+<list id="id87688" display="block" list-type="enumerated"><item id="uid196">propane
+</item><item id="uid197">propanoic acid
+</item><item id="uid198">methyl propanol
+</item><item id="uid199">propyl methanoate
+</item></list>
+(IEB 2004)
+</item><item id="uid200">What is the IUPAC name for the compound represented by the following structural formula?
+<figure id="id87762"><media id="id87762_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_063.png" id="id87762_onlineimage" width="119"><!-- NOTE: attribute width changes image size online (pixels). original width is 119. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_063.eps" id="id87762_printimage"/></media></figure><list id="id87769" display="block" list-type="enumerated"><item id="uid201">1,2,2-trichlorobutane
+</item><item id="uid202">1-chloro-2,2-dichlorobutane
+</item><item id="uid203">1,2,2-trichloro-3-methylpropane
+</item><item id="uid204">1-chloro-2,2-dichloro-3-methylpropane
+</item></list>
+(IEB 2003)
+</item></list></item>
+        <item id="uid205">
+Write balanced equations for the following reactions:
+<list id="id87840" display="block" list-type="enumerated"><item id="uid206">Ethene reacts with bromine
+</item><item id="uid207">Ethyne gas burns in an excess of oxygen
+</item><item id="uid208">Ethanoic acid ionises in water
+</item></list></item>
+        <item id="uid209">The table below gives the boiling point of ten organic compounds.
+<table id="id87894" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">Compound</emphasis></entry><entry><emphasis effect="bold">Formula</emphasis></entry><entry><emphasis effect="bold">Boiling Point (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</emphasis></entry></row><row><entry>1</entry><entry>methane</entry><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry><entry>-164</entry></row><row><entry>2</entry><entry>ethane</entry><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math></entry><entry>-88</entry></row><row><entry>3</entry><entry>propane</entry><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math></entry><entry>-42</entry></row><row><entry>4</entry><entry>butane</entry><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math></entry><entry>0</entry></row><row><entry>5</entry><entry>pentane</entry><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>12</m:mn></m:msub></m:math></entry><entry>36</entry></row><row><entry>6</entry><entry>methanol</entry><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>OH</entry><entry>65</entry></row><row><entry>7</entry><entry>ethanol</entry><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>OH</entry><entry>78</entry></row><row><entry>8</entry><entry>propan-1-ol</entry><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>7</m:mn></m:msub></m:math>OH</entry><entry>98</entry></row><row><entry>9</entry><entry>propan-1,2-diol</entry><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CHOHCH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>OH</entry><entry>189</entry></row><row><entry>10</entry><entry>propan-1,2,3-triol</entry><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>OHCHOHCH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>OH</entry><entry>290</entry></row></tbody></tgroup></table>
+The following questions refer to the compounds shown in the above table.
+<list id="id88561" display="block" list-type="enumerated"><item id="uid210">To which homologous series do the following compounds belong?
+<list id="id88577" display="block" list-type="enumerated"><item id="uid211">Compounds 1,2 and 3
+</item><item id="uid212">Compounds 6,7 and 8
+</item></list></item><item id="uid213">Which of the above compounds are gases at room temperature?
+</item><item id="uid214">What causes the trend of increasing boiling points of compounds 1 to 5?
+</item><item id="uid215">Despite the fact that the length of the carbon chain in compounds 8,9 and 10 is the same, the boiling point of propan-1,2,3-triol is much higher than the boiling point of propan-1-ol. What is responsible for this large difference in boiling point?
+</item><item id="uid216">Give the IUPAC name and the structural formula of an isomer of butane.
+</item><item id="uid217">Which <emphasis effect="bold">one</emphasis> of the above substances is used as a reactant in the preparation of the ester ethylmethanoate?
+</item><item id="uid218">Using structural formulae, write an equation for the reaction which produces ethylmethanoate.
+</item></list>
+(<emphasis effect="italics">IEB 2004</emphasis>)
+</item>
+        <item id="uid219">Refer to the numbered diagrams below and then answer the questions that follow.
+<figure id="id88713"><media id="id88713_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_064.png" id="id88713_onlineimage" width="558"><!-- NOTE: attribute width changes image size online (pixels). original width is 558. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_064.eps" id="id88713_printimage"/></media></figure><list id="id88719" display="block" list-type="enumerated"><item id="uid220">Which one of the above compounds is produced from the fermentation of starches and sugars in plant matter?
+<list id="id88736" display="block" list-type="enumerated"><item id="uid221">compound 1
+</item><item id="uid222">compound 2
+</item><item id="uid223">compound 3
+</item><item id="uid224">compound 4
+</item></list></item><item id="uid225">To which one of the following homologous series does compound 1 belong?
+<list id="id88802" display="block" list-type="enumerated"><item id="uid226">esters
+</item><item id="uid227">alcohols
+</item><item id="uid228">aldehydes
+</item><item id="uid229">carboxylic acids
+</item></list></item><item id="uid230">The correct IUPAC name for compound 3 is...
+<list id="id88868" display="block" list-type="enumerated"><item id="uid231">1,1-dibromo-3-butyne
+</item><item id="uid232">4,4-dibromo-1-butyne
+</item><item id="uid233">2,4-dibromo-1-butyne
+</item><item id="uid234">4,4-dibromo-1-propyne
+</item></list></item><item id="uid235">What is the correct IUPAC name for compound 4?
+<list id="id88935" display="block" list-type="enumerated"><item id="uid236">propanoic acid
+</item><item id="uid237">ethylmethanoate
+</item><item id="uid238">methylethanoate
+</item><item id="uid239">methylpropanoate
+</item></list></item></list><emphasis effect="italics">IEB 2005</emphasis></item>
+        <item id="uid240">Answer the following questions:
+<list id="id89009" display="block" list-type="enumerated"><item id="uid241">What is a homologous series?
+</item><item id="uid242">A mixture of ethanoic acid and methanol is warmed in the presence of concentrated sulphuric acid.
+<list id="id89037" display="block" list-type="enumerated"><item id="uid243">Using structural formulae, give an equation for the reaction which takes place.
+</item><item id="uid244">What is the IUPAC name of the organic compound formed in this reaction?
+</item></list></item><item id="uid245">Consider the following unsaturated hydrocarbon:
+<figure id="id89083"><media id="id89083_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_065.png" id="id89083_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 149. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_065.eps" id="id89083_printimage"/></media></figure><list id="id89090" display="block" list-type="enumerated"><item id="uid246">Give the IUPAC name for this compound.
+</item><item id="uid247">Give the balanced equation for the combustion of this compound in excess oxygen.
+</item></list></item></list>
+(IEB Paper 2, 2003)
+</item>
+        <item id="uid248">
+Consider the organic compounds labelled A to E.
+A. CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>
+B. C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>
+C. CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>-Cl
+D. Methylamine
+<figure id="id89276"><media id="id89276_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_066.png" id="id89276_onlineimage" width="141"><!-- NOTE: attribute width changes image size online (pixels). original width is 241. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_066.eps" id="id89276_printimage"/></media></figure><list id="id89282" display="block" list-type="enumerated"><item id="uid249">Write a balanced chemical equation for the preparation of compound C using an alkane as one of the reactants.
+</item><item id="uid250">Write down the IUPAC name for compound E.
+</item><item id="uid251">Write down the structural formula of an isomer of compound A that has only FOUR carbon atoms in the longest chain.
+</item><item id="uid252">Write down the structural formula for compound B.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

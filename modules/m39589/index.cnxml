@@ -1,0 +1,576 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>de Broglie wavelength</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39589</md:content-id>
+  <md:title>de Broglie wavelength</md:title>
+  <md:abstract/>
+  <md:uuid>5cb94664-0bb8-45c0-8a18-6fc1da2f5dc6</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id86146">In chapters <link target-id=""/> and <link target-id=""/> the so-called wave-particle duality of light is described. This duality states that light displays properties of both waves and of particles, depending on the experiment performed. For example, interference and diffraction of light are properties of its wave nature, while the photoelectric effect is a property of its particle nature. In fact we call a particle of light a photon.</para>
+      <para id="id86157">Hopefully you have realised that nature loves symmetry. So, if light which was originally believed to be a wave also has a particle nature, then perhaps particles, also display a wave nature. In other words matter which we originally thought of as particles may also display a wave-particle duality.</para>
+    </section>
+    <section id="cid3">
+      <title>de Broglie Wavelength</title>
+      <para id="id86510">Einstein showed that for a photon, its momentum, <m:math overflow="scroll"><m:mi>p</m:mi></m:math>, is equal to its energy, <m:math overflow="scroll"><m:mi>E</m:mi></m:math> divided by the speed of light, <m:math overflow="scroll"><m:mi>c</m:mi></m:math>:</para>
+      <equation id="id86538">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>E</m:mi>
+              <m:mi>c</m:mi>
+            </m:mfrac>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id86559">The energy of the photon can also be expressed in terms of the wavelength of the light, <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>:</para>
+      <equation id="id86573">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>E</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>h</m:mi>
+                <m:mi>c</m:mi>
+              </m:mrow>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+            <m:mo>,</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id86598">where <m:math overflow="scroll"><m:mi>h</m:mi></m:math> is Planck's constant. Combining these two equations we find that the the momentum of the photon is related to its wavelength</para>
+      <equation id="id86612">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>h</m:mi>
+                <m:mi>c</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>c</m:mi>
+                <m:mi>λ</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>h</m:mi>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+            <m:mo>,</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id86649">or equivalently</para>
+      <equation id="id86654">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>λ</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>h</m:mi>
+              <m:mi>p</m:mi>
+            </m:mfrac>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id86675">In 1923, Louis de Broglie proposed that this equation not only holds for photons, but also holds for particles of matter. This is known as the de Broglie hypothesis.</para>
+<definition id="fhsst_id144"><term id="termfhsst_id144"> De Broglie Hypothesis </term> <meaning id="meaningfhsst_id144">
+      <para id="id86686">A particle of mass <m:math overflow="scroll"><m:mi>m</m:mi></m:math> moving with velocity <m:math overflow="scroll"><m:mi>v</m:mi></m:math> has a wavelength <m:math overflow="scroll"><m:mi>λ</m:mi></m:math> related to is momentum <m:math overflow="scroll"><m:mrow><m:mi>p</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>v</m:mi></m:mrow></m:math> by</para>
+      <equation id="uid1">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>λ</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>h</m:mi>
+              <m:mi>p</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>h</m:mi>
+              <m:mrow>
+                <m:mi>m</m:mi>
+                <m:mi>v</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id86765">This wavelength, <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>, is known as the de Broglie wavelength of the particle (where <m:math overflow="scroll"><m:mi>h</m:mi></m:math> is Planck's constant).
+ </para>
+      </meaning></definition>
+      <para id="id86792">Since the value of Planck's constant is incredibly small <m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>.</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math>, the wavelike nature of everyday objects is not really observable.</para>
+<note id="notfhsst_id170"><title> Interesting Fact </title>
+      <para id="id87026">The de Broglie hypothesis was proposed by French physicist Louis de Broglie (15 August 1892 – 19 March 1987) in 1923 in his PhD thesis. He was awarded the Nobel Prize for Physics in 1929 for this work, which made him the first person to receive a Nobel Prize on a PhD thesis.</para>
+</note>
+<exercise id="secfhsst_id173"><title> de Broglie Wavelength of a Cricket Ball </title>
+      <problem id="probfhsst_id174">
+      <para id="id87053">A cricket ball has a mass of <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>150</m:mn><m:mspace width="0.166667em"/><m:mi> kg </m:mi></m:mrow></m:math> and is bowled towards a bowler at <m:math overflow="scroll"><m:mrow><m:mn>40</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. Calculate the de Broglie wavelength of the cricket ball? </para>
+      </problem>
+      <solution id="solfhsst_id177"> <list id="listfhsst_id177" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is required and how to approach the problem </label>
+      <para id="id87125">We are required to calculate the de Broglie wavelength of a cricket ball given its mass and speed. We can do this by using:</para>
+      <equation id="id87130">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>λ</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>h</m:mi>
+              <m:mrow>
+                <m:mi>m</m:mi>
+                <m:mi>v</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine what is given </label>
+      <para id="id87156">We are given:</para>
+      <list id="id87159" display="block" list-type="bulleted">
+        <item id="uid2">The mass of the cricket ball <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>150</m:mn><m:mspace width="0.166667em"/><m:mi> kg </m:mi></m:mrow></m:math></item>
+        <item id="uid3">The velocity of the cricket ball <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mn>40</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item>
+      </list>
+      <para id="id87244">and we know:</para>
+      <list id="id87248" display="block" list-type="bulleted">
+        <item id="uid4">Planck's constant <m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math></item>
+      </list>
+      </item> <item> <label> Calculate the de Broglie wavelength </label>
+      <equation id="id87309">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>h</m:mi>
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>v</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>63</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>34</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="0.277778em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>150</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>40</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>11</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>34</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id87489">This wavelength is considerably smaller than the diameter of a proton which is approximately <m:math overflow="scroll"><m:mrow><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>15</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>. Hence the wave-like properties of this cricket ball are too small to be observed.</para>
+<exercise id="secfhsst_id310"><title> The de Broglie wavelength of an electron </title>
+      <problem id="probfhsst_id311">
+      <para id="id87534">Calculate the de Broglie wavelength of an electron moving at 40 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. </para>
+      </problem>
+      <solution id="solfhsst_id314"> <list id="listfhsst_id314" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is required and how to approach the problem </label>
+      <para id="id87580">We are required to calculate the de Broglie wavelength of an electron given its speed. We can do this by using:</para>
+      <equation id="id87585">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>λ</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>h</m:mi>
+              <m:mrow>
+                <m:mi>m</m:mi>
+                <m:mi>v</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine what is given </label>
+      <para id="id87611">We are given:</para>
+      <list id="id87614" display="block" list-type="bulleted">
+        <item id="uid5">The velocity of the electron <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mn>40</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item>
+      </list>
+      <para id="id87664">and we know:</para>
+      <list id="id87667" display="block" list-type="bulleted">
+        <item id="uid6">The mass of the electron <m:math overflow="scroll"><m:mrow><m:msub><m:mi>m</m:mi><m:mi>e</m:mi></m:msub><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>11</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>31</m:mn></m:mrow></m:msup><m:mspace width="0.166667em"/><m:mi> kg </m:mi></m:mrow></m:math></item>
+        <item id="uid7">Planck's constant <m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math></item>
+      </list>
+      </item> <item> <label> Calculate the de Broglie wavelength </label>
+      <equation id="id87780">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>h</m:mi>
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>v</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>63</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>34</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>11</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>31</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>40</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>82</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>0182</m:mn>
+                  <m:mspace width="0.277778em"/>
+                  <m:mi> mm </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id87994">Although the electron and cricket ball in the two previous examples are travelling at the same velocity the de Broglie wavelength of the electron is much larger than that of the cricket ball. This is because the wavelength is inversely proportional to the mass of the particle.</para>
+<exercise id="secfhsst_id470"><title> The de Broglie wavelength of an electron </title>
+      <problem id="probfhsst_id471">
+      <para id="id88012">Calculate the de Broglie wavelength of a electron moving at <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. (<m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>1000</m:mn></m:mfrac></m:math> of the speed of light.) </para>
+      </problem>
+      <solution id="solfhsst_id474"> <list id="listfhsst_id474" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is required and how to approach the problem </label>
+      <para id="id88087">We are required to calculate the de Broglie wavelength of an electron given its speed. We can do this by using:</para>
+      <equation id="id88091">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>λ</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>h</m:mi>
+              <m:mrow>
+                <m:mi>m</m:mi>
+                <m:mi>v</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine what is given </label>
+      <para id="id88118">We are given:</para>
+      <list id="id88121" display="block" list-type="bulleted">
+        <item id="uid8">The velocity of the electron <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item>
+      </list>
+      <para id="id88183">and we know:</para>
+      <list id="id88186" display="block" list-type="bulleted">
+        <item id="uid9">The mass of the electron <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>11</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>31</m:mn></m:mrow></m:msup><m:mspace width="0.166667em"/><m:mi> kg </m:mi></m:mrow></m:math></item>
+        <item id="uid10">Planck's constant <m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math></item>
+      </list>
+      </item> <item> <label> Calculate the de Broglie wavelength </label>
+      <equation id="id88300">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>h</m:mi>
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>v</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>63</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>34</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>11</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>31</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:msup>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>43</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id88490">This is the size of an atom. For this reason, electrons moving at high velocities can be used to “probe" the structure of atoms. This is discussed in more detail at the end of this chapter. <link target-id="uid11"/> compares the wavelengths of fast moving electrons to the wavelengths of visible light. </para>
+      </item> </list> </solution>
+</exercise>
+      <para id="id88516">Since the de Broglie wavelength of a particle is inversely proportional to its velocity, the wavelength decreases as the velocity increases. This is confirmed in the last two examples with the electrons.
+De Broglie's hypothesis was confirmed by Davisson and Germer in 1927 when they observed a beam of electrons being diffracted off a nickel surface. The diffraction means that the moving electrons have a wave nature. They were also able to determine the wavelength of the electrons from the diffraction. To measure a wavelength one needs two or more diffracting centres such as pinholes, slits or atoms. For diffraction to occur the centres must be separated by a distance about the same size as the wavelength. Theoretically, all objects, not just sub-atomic particles, exhibit wave properties according to the de Broglie hypothesis.</para>
+      <figure id="uid11">
+        <media id="uid11_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C7_001.png" id="uid11_onlineimage" width="254"><!-- NOTE: attribute width changes image size online (pixels). original width is 254. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C7_001.eps" id="uid11_printimage"/>
+        </media>
+        <caption>The wavelengths of the fast electrons are much smaller than that of visible light.</caption>
+      </figure>
+    </section>
+
+  </content>
+</document>

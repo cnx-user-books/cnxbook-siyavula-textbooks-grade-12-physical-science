@@ -1,0 +1,949 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Power</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39598</md:content-id>
+  <md:title>Power</md:title>
+  <md:abstract/>
+  <md:uuid>cd522586-41ed-4528-a6bb-7adbf39c36ea</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Power</title>
+      <para id="id190530">Now that we understand the relationship between work and energy, we are ready to look at a quantity that defines how long it takes for a certain amount of work to be done. For example, a mother pushing a trolley full of groceries can take 30 s or 60 s to push the trolley down an aisle. She does the same amount of work, but takes a different length of time. We use the idea of <emphasis effect="italics">power</emphasis> to describe the rate at which work is done.</para>
+<definition id="fhsst_id2109"><term id="termfhsst_id2109"> Power </term> <meaning id="meaningfhsst_id2109">
+      <para id="id190552">Power is defined as the rate at which work is done or the rate at which energy is expended. The mathematical definition for power is:</para>
+      <equation id="uid57">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>F</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>v</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+      </meaning></definition>
+      <para id="id190595"><link target-id="uid57"/> is easily derived from the definition of work. We know that:</para>
+      <equation id="id190603">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>W</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>F</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>d</m:mi>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id190626">However, power is defined as the rate at which work is done. Therefore,</para>
+      <equation id="id190632">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>W</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id190662">This can be written as:</para>
+      <equation id="id190667">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>P</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>W</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>F</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>d</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>F</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>F</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>v</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id190778">The unit of power is watt (symbol W).</para>
+<section id="secfhsst_id2241"><title> Investigation : Watt </title>
+      <para id="id190789">Show that the W is equivalent to <m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. </para>
+</section>
+<note id="notfhsst_id2244"><title> Interesting Fact </title>
+      <para id="id190834">The unit watt is named after Scottish inventor and engineer James Watt (19 January 1736 - 19 August 1819) whose improvements to the steam engine were fundamental to the Industrial Revolution. A key feature of it was that it brought the engine out of the remote coal fields into factories.</para>
+</note>
+<section id="secfhsst_id2247"><title> Research Project : James Watt </title>
+      <para id="id190855">Write a short report 5 pages on the life of James Watt describing his many other inventions. </para>
+</section>
+<note id="notfhsst_id2250"><title> Interesting Fact </title>
+      <para id="id190874">Historically, the <emphasis effect="italics">horsepower</emphasis> (symbol hp) was the unit used to describe the power delivered by a machine. One horsepower is equivalent to approximately 750 W. The horsepower is sometimes used in the motor industry to describe the power output of an engine. Incidentally, the horsepower was derived by James Watt to give an indication of the power of his steam engine in terms of the power of a horse, which was what most people used to for example, turn a mill wheel.</para>
+</note>
+<exercise id="secfhsst_id2253"><title> Power Calculation 1 </title>
+      <problem id="probfhsst_id2254">
+      <para id="id190911">Calculate the power required for a force of 10 N applied to move a 10 kg box at a speed of 1 ms over a frictionless surface. </para>
+      </problem>
+      <solution id="solfhsst_id2257"> <list id="listfhsst_id2257" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is given and what is required. </label>
+      <para id="id190937">We are given:</para>
+      <list id="id190940" display="block" list-type="bulleted">
+        <item id="uid58">we are given the force, <m:math overflow="scroll"><m:mi>F</m:mi></m:math>=10 N
+</item>
+        <item id="uid59">we are given the speed, <m:math overflow="scroll"><m:mi>v</m:mi></m:math>=1 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item>
+      </list>
+      <para id="id191011">We are required to calculate the power required.</para>
+      </item> <item> <label> Draw a force diagram </label>
+      <para id="id191019">
+        <figure id="id191022">
+          <media id="id191022_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C3_016.png" id="id191022_onlineimage" width="143"><!-- NOTE: attribute width changes image size online (pixels). original width is 143. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_016.eps" id="id191022_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Determine how to approach the problem </label>
+      <para id="id191032">From the force diagram, we see that the weight of the box is acting at right angles to the direction of motion. The weight does not contribute to the work done and does not contribute to the power calculation.</para>
+      <para id="id191037">We can therefore calculate power from:</para>
+      <equation id="id191041">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>F</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>v</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the power required </label>
+      <equation id="id191066">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>P</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>F</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>v</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>10</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">W</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Write the final answer </label>
+      <para id="id191177">10 W of power are required for a force of 10 N to move a 10 kg box at a speed of 1 ms over a frictionless surface. </para>
+      </item> </list> </solution>
+</exercise>
+      <para id="id191194">Machines are designed and built to do work on objects. All machines usually have a power rating. The power rating indicates the rate at which that machine can do work upon other objects.</para>
+      <para id="id191199">A car engine is an example of a machine which is given a power rating. The power rating relates to how rapidly the car can accelerate. Suppose that a 50 kW engine could accelerate the car from 0 <m:math overflow="scroll"><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:msup><m:mi> hr </m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> to 60<m:math overflow="scroll"><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:msup><m:mi> hr </m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> in 16 s. Then a car with four times the power rating (i.e. 200 kW) could do the same amount of work in a quarter of the time. That is, a 200 kW engine could accelerate the same car from 0 <m:math overflow="scroll"><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:msup><m:mi> hr </m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> to 60<m:math overflow="scroll"><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:msup><m:mi> hr </m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> in 4 s.</para>
+<exercise id="secfhsst_id2362"><title> Power Calculation 2 </title>
+      <problem id="probfhsst_id2363">
+      <para id="id191316">A forklift lifts a crate of mass 100 kg at a constant velocity to a height of 8 m over a time of 4 s. The forklift then holds the crate in place for 20 s. Calculate how much power the forklift exerts in lifting the crate? How much power does the forklift exert in holding the crate in place? </para>
+      </problem>
+      <solution id="solfhsst_id2366"> <list id="listfhsst_id2366" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is given and what is required </label>
+      <para id="id191344">We are given:</para>
+      <list id="id191348" display="block" list-type="bulleted">
+        <item id="uid60">mass of crate: <m:math overflow="scroll"><m:mi>m</m:mi></m:math>=100 kg
+</item>
+        <item id="uid61">height that crate is raised: <m:math overflow="scroll"><m:mi>h</m:mi></m:math>=8 m
+</item>
+        <item id="uid62">time taken to raise crate: <m:math overflow="scroll"><m:msub><m:mi>t</m:mi><m:mi>r</m:mi></m:msub></m:math>=4 s
+</item>
+        <item id="uid63">time that crate is held in place: <m:math overflow="scroll"><m:msub><m:mi>t</m:mi><m:mi>s</m:mi></m:msub></m:math>=20 s
+</item>
+      </list>
+      <para id="id191448">We are required to calculate the power exerted.</para>
+      </item> <item> <label> Determine how to approach the problem </label>
+      <para id="id191456">We can use:</para>
+      <equation id="id191459">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>F</m:mi>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>x</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id191488">to calculate power. The force required to raise the crate is equal to the weight of the crate.</para>
+      </item> <item> <label> Calculate the power required to raise the crate </label>
+      <equation id="id191498">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>P</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>F</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>g</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>100</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="0.277778em"/>
+                  <m:mn>960</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">W</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the power required to hold the crate in place </label>
+      <para id="id191681">While the crate is being held in place, there is no displacement. This means there is no work done on the crate and therefore there is no power exerted.</para>
+      </item> <item> <label> Write the final answer </label>
+      <para id="id191689">1 960 W of power is exerted to raise the crate and no power is exerted to hold the crate in place.
+ </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id2523"><title> Experiment : Simple measurements of human power </title>
+      <para id="id191713">You can perform various physical activities, for example lifting measured weights or climbing a flight of stairs to estimate your output power, using a stop watch. Note: the human body is not very efficient in these activities, so your actual power will be much greater than estimated here. </para>
+</section>
+<section id="secfhsst_id2526"><title> Power </title>
+      <list id="id191734" display="block" list-type="enumerated">
+        <item id="uid64">[IEB 2005/11 HG] Which of the following is equivalent to the SI unit of power:
+<list id="id191750" display="block" list-type="enumerated"><item id="uid65">V<m:math overflow="scroll"><m:mo>·</m:mo></m:math>A
+</item><item id="uid66">V<m:math overflow="scroll"><m:mo>·</m:mo></m:math>A<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid67"><m:math overflow="scroll"><m:mrow><m:mi>k</m:mi><m:mi>g</m:mi><m:mo>·</m:mo><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item><item id="uid68">kg <m:math overflow="scroll"><m:mo>·</m:mo></m:math> m <m:math overflow="scroll"><m:mrow><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math></item></list></item>
+        <item id="uid69">Two students, Bill and Bob, are in the weight lifting room of their local gum. Bill lifts the 50 kg barbell over his head 10 times in one minute while Bob lifts the 50 kg barbell over his head 10 times in 10 seconds. Who does the most work? Who delivers the most power? Explain your answers.
+</item>
+        <item id="uid70">Jack and Jill ran up the hill. Jack is twice as massive as Jill; yet Jill ascended the same distance in half the time. Who did the most work? Who delivered the most power? Explain your answers.
+</item>
+        <item id="uid71">Alex (mass 60 kg) is training for the Comrades Marathon. Part of Alex's training schedule involves push-ups. Alex does his push-ups by applying a force to elevate his center-of-mass by 20 cm. Determine the number of push-ups that Alex must do in order to do 10 J of work. If Alex does all this work in 60 s, then determine Alex's power.
+</item>
+        <item id="uid72">When doing a chin-up, a physics student lifts her 40 kg body a distance of 0.25 m in 2 s. What is the power delivered by the student's biceps?
+</item>
+        <item id="uid73">The unit of power that is used on a monthly electricity account is <emphasis effect="italics">kilowatt-hours</emphasis> (symbol kWh). This is a unit of energy delivered by the flow of l kW of electricity for 1 hour. Show how many joules of energy you get when you buy 1 kWh of electricity.
+</item>
+        <item id="uid74">An escalator is used to move 20 passengers every minute from the first floor of a shopping mall to the second. The second floor is located 5-meters above the first floor. The average passenger's mass is 70 kg. Determine the power requirement of the escalator in order to move this number of passengers in this amount of time.
+</item>
+        <item id="uid75">Calculate the power required for an electric motor to pump 20kg of water up to ground level from a borehole of depth 10m in half a minute.
+</item>
+      </list>
+      
+</section>
+    </section>
+    <para id="eip-399">These two videos provide a summary of some of the concepts covered in this chapter.
+
+<figure id="work-1" class="khanacademy">
+	  <title>Khan academy video on work and energy - 1</title>
+	  <media id="yt-media1" display="block" alt="video on work 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/2WS1sG9fhOk&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure>
+
+<figure id="work-2" class="khanacademy">
+	  <title>Khan academy video on work and energy - 2</title>
+	  <media id="yt-media2" display="block" alt="video on work 2">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/3mier94pbnU&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="eip-631"><figure id="slidesharefigure1" class="slideshare">
+    	<media id="slidesharemedia1" alt="Powerpoint presentation on work and power">
+    	<flash id="slideshareflash1" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=workpower-100511041542-phpapp01&amp;stripped_title=work-power&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid6">
+      <title>Important Equations and Quantities</title>
+      <table id="uid76" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c6">
+                <emphasis effect="bold">Units</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Quantity</entry>
+              <entry>Symbol</entry>
+              <entry>Unit</entry>
+              <entry namest="c4" nameend="c5">S.I. Units</entry>
+              <entry>Direction</entry>
+            </row>
+            <row>
+              <entry>velocity</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mover accent="true">
+                    <m:mi>v</m:mi>
+                    <m:mo>→</m:mo>
+                  </m:mover>
+                </m:math>
+              </entry>
+              <entry>—</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:mi>s</m:mi>
+                  </m:mfrac>
+                </m:math>
+              </entry>
+              <entry>
+                <emphasis effect="bold">or</emphasis>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="4pt"/>
+                    <m:mi>m</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>momentum</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mover accent="true">
+                    <m:mi>p</m:mi>
+                    <m:mo>→</m:mo>
+                  </m:mover>
+                </m:math>
+              </entry>
+              <entry>—</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>k</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mo>.</m:mo>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                    <m:mi>s</m:mi>
+                  </m:mfrac>
+                </m:math>
+              </entry>
+              <entry>
+                <emphasis effect="bold">or</emphasis>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mspace width="4pt"/>
+                    <m:mi>k</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>energy</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mi>E</m:mi>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mi>J</m:mi>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>k</m:mi>
+                      <m:mi>g</m:mi>
+                      <m:mo>.</m:mo>
+                      <m:msup>
+                        <m:mi>m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:math>
+              </entry>
+              <entry>
+                <emphasis effect="bold">or</emphasis>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>—</entry>
+            </row>
+            <row>
+              <entry>Work</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mi>W</m:mi>
+                </m:math>
+              </entry>
+              <entry>J</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>N</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <emphasis effect="bold">or</emphasis>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>k</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>—</entry>
+            </row>
+            <row>
+              <entry>Kinetic Energy</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>K</m:mi>
+                  </m:msub>
+                </m:math>
+              </entry>
+              <entry>J</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>N</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <emphasis effect="bold">or</emphasis>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>k</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>—</entry>
+            </row>
+            <row>
+              <entry>Potential Energy</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>P</m:mi>
+                  </m:msub>
+                </m:math>
+              </entry>
+              <entry>J</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>N</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <emphasis effect="bold">or</emphasis>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>k</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>—</entry>
+            </row>
+            <row>
+              <entry>Mechanical Energy</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mi>U</m:mi>
+                </m:math>
+              </entry>
+              <entry>J</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>N</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <emphasis effect="bold">or</emphasis>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>k</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>—</entry>
+            </row>
+            <row>
+              <entry>Power</entry>
+              <entry>P</entry>
+              <entry>W</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>N</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <emphasis effect="bold">or</emphasis>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>k</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>—</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Commonly used units</caption>
+      </table>
+      <para id="id193004"><emphasis effect="bold">Momentum</emphasis>:</para>
+      <equation id="uid77">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mover accent="true">
+              <m:mi>p</m:mi>
+              <m:mo>→</m:mo>
+            </m:mover>
+            <m:mo>=</m:mo>
+            <m:mi>m</m:mi>
+            <m:mover accent="true">
+              <m:mi>v</m:mi>
+              <m:mo>→</m:mo>
+            </m:mover>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id193048"><emphasis effect="bold">Kinetic energy</emphasis>:</para>
+      <equation id="uid78">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>E</m:mi>
+              <m:mi>k</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>2</m:mn>
+            </m:mfrac>
+            <m:mi>m</m:mi>
+            <m:msup>
+              <m:mover accent="true">
+                <m:mi>v</m:mi>
+                <m:mo>→</m:mo>
+              </m:mover>
+              <m:mn>2</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <list id="id193102" display="block" list-type="labeled-item">
+        <item id="uid79"><label>Principle of Conservation of Energy:</label>Energy is never created nor
+destroyed, but is merely transformed from one form to another.
+</item>
+        <item id="uid80"><label>Conservation of Mechanical Energy:</label>In the absence of friction,
+the total mechanical energy of an object is conserved.
+</item>
+      </list>
+      <para id="id193137">When a force moves in the direction along which it acts, work is done.</para>
+      <para id="id193141">Work is the process of converting energy.</para>
+      <para id="id193145">Energy is the ability to do work.</para>
+    </section>
+    <section id="cid7">
+      <title>End of Chapter Exercises</title>
+      <list id="id193158" display="block" list-type="enumerated">
+        <item id="uid81">The force vs. displacement graph shows the amount of force applied to an object by three different people. Abdul applies force to the object for the first 4 m of its displacement, Beth applies force from the 4 m point to the 6 m point, and Charles applies force from the 6 m point to the 8 m point. Calculate the work done by each person on the object? Which of the three does the most work on the object?
+<figure id="id193184"><media id="id193184_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_017.png" id="id193184_onlineimage" width="367"><!-- NOTE: attribute width changes image size online (pixels). original width is 367. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_017.eps" id="id193184_printimage"/></media></figure></item>
+        <item id="uid82">How much work does a person do in pushing a shopping trolley with a force of 200 N over a distance of 80 m in the direction of the force?
+</item>
+        <item id="uid83">How much work does the force of gravity do in pulling a 20 kg box down a 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> frictionless inclined plane of length 18 m?
+</item>
+        <item id="uid84">[IEB 2001/11 HG1] Of which one of the following quantities is kg.m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math>.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> the base S.I. unit?
+<list id="id193274" display="block" list-type="enumerated"><item id="uid85">Energy
+</item><item id="uid86">Force
+</item><item id="uid87">Power
+</item><item id="uid88">Momentum
+</item></list></item>
+        <item id="uid89">[IEB 2003/11 HG1] A motor is used to raise a mass m through a vertical height h in time t.
+What is the power of the motor while doing this?
+<list id="id193345" display="block" list-type="enumerated"><item id="uid90"><m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mi>g</m:mi><m:mi>h</m:mi><m:mi>t</m:mi></m:mrow></m:math></item><item id="uid91"><m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>g</m:mi><m:mi>h</m:mi></m:mrow><m:mi>t</m:mi></m:mfrac></m:math></item><item id="uid92"><m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>g</m:mi><m:mi>t</m:mi></m:mrow><m:mi>h</m:mi></m:mfrac></m:math></item><item id="uid93"><m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>t</m:mi></m:mrow><m:mrow><m:mi>m</m:mi><m:mi>g</m:mi></m:mrow></m:mfrac></m:math></item></list></item>
+        <item id="uid94">[IEB 2002/11 HG1] An electric motor lifts a load of mass M vertically through a height h at a constant speed v. Which of the following expressions can be used to correctly calculate the power transferred by the motor to the load while it is lifted at a constant speed?
+<list id="id193475" display="block" list-type="enumerated"><item id="uid95"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>h</m:mi></m:mrow></m:math></item><item id="uid96"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>h</m:mi><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle></m:mrow></m:math>Mv<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math></item><item id="uid97"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>v</m:mi></m:mrow></m:math></item><item id="uid98"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>v</m:mi><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle></m:mrow></m:math><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:msup><m:mi> Mv </m:mi><m:mn>3</m:mn></m:msup><m:mi mathvariant="normal">h</m:mi></m:mfrac></m:mstyle></m:math></item></list></item>
+        <item id="uid99">[IEB 2001/11 HG1] An escalator is a moving staircase that is powered by an electric motor. People are lifted up the escalator at a constant speed of v through a vertical height h.
+What is the energy gained by a person of mass m standing on the escalator when he is lifted from the bottom to the top?
+<figure id="id193661"><media id="id193661_media" alt=""><image mime-type="image/png" src="../../media/PG12C3_018.png" id="id193661_onlineimage" width="102"><!-- NOTE: attribute width changes image size online (pixels). original width is 102. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C3_018.eps" id="id193661_printimage"/></media></figure><list id="id193668" display="block" list-type="enumerated"><item id="uid100">mgh
+</item><item id="uid101">mgh <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math></item><item id="uid102"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi> mgh </m:mi><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mstyle></m:math></item><item id="uid103"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle></m:math>mv<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math></item></list></item>
+        <item id="uid104">[IEB 2003/11 HG1] In which of the following situations is there no work done on the object?
+<list id="id193798" display="block" list-type="enumerated"><item id="uid105">An apple falls to the ground.
+</item><item id="uid106">A brick is lifted from the ground to the top of a building.
+</item><item id="uid107">A car slows down to a stop.
+</item><item id="uid108">A box moves at constant velocity across a frictionless horizontal surface.
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

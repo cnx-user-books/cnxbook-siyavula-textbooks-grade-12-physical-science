@@ -1,0 +1,667 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Hydrocarbons</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39453</md:content-id>
+  <md:title>Hydrocarbons</md:title>
+  <md:abstract/>
+  <md:uuid>979124a9-f54a-4fa1-8a41-b0f4500a685a</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid8">
+      <title>The Hydrocarbons</title>
+      <para id="id78909">Let us first look at a group of organic compounds known as the <emphasis effect="bold">hydrocarbons</emphasis>. These molecules only contain carbon and hydrogen. The hydrocarbons that we are going to look at are called <emphasis effect="bold">aliphatic compounds</emphasis>. The aliphatic compounds are divided into <emphasis effect="italics">acyclic compounds</emphasis> (chain structures) and <emphasis effect="italics">cyclic compounds</emphasis> (ring structures). The chain structures are further divided into structures that contain only <emphasis effect="italics">single bonds</emphasis> (<emphasis effect="bold">alkanes</emphasis>), those that contain at least one <emphasis effect="italics">double bond</emphasis> (<emphasis effect="bold">alkenes</emphasis>) and those that contain at least one <emphasis effect="italics">triple bond</emphasis> (<emphasis effect="bold">alkynes</emphasis>). Cyclic compounds include structures such as the <emphasis effect="italics">benzene ring</emphasis>. <link target-id="uid19"/> summarises the classification of the hydrocarbons.</para>
+      <figure id="uid19">
+        <media id="uid19_media" alt="">
+          <image mime-type="image/png" src="../../media/CG12C1_024.png" id="uid19_onlineimage" width="826"><!-- NOTE: attribute width changes image size online (pixels). original width is 826. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_024.eps" id="uid19_printimage"/>
+        </media>
+        <caption>The classification of the aliphatic hydrocarbons</caption>
+      </figure>
+      <para id="id78997">Hydrocarbons that contain only single bonds are called <emphasis effect="bold">saturated</emphasis> hydrocarbons because each carbon atom is bonded to as many hydrogen atoms as possible. <link target-id="uid20"/> shows a molecule of ethane which is a saturated hydrocarbon.</para>
+      <figure id="uid20">
+        <media id="uid20_media" alt="">
+          <image mime-type="image/png" src="../../media/CG12C1_025.png" id="uid20_onlineimage" width="91"><!-- NOTE: attribute width changes image size online (pixels). original width is 91. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_025.eps" id="uid20_printimage"/>
+        </media>
+        <caption>A saturated hydrocarbon</caption>
+      </figure>
+      <para id="id79024">Hydrocarbons that contain double or triple bonds are called <emphasis effect="bold">unsaturated</emphasis> hydrocarbons because they don't contain as many hydrogen atoms as possible. <link target-id="uid21"/> shows a molecule of ethene which is an unsaturated hydrocarbon. If you compare the number of carbon and hydrogen atoms in a molecule of ethane and a molecule of ethene, you will see that the number of hydrogen atoms in ethene is <emphasis effect="italics">less</emphasis> than the number of hydrogen atoms in ethane despite the fact that they both contain two carbon atoms. In order for an unsaturated compound to become saturated, a double bond has to be broken, and another two hydrogen atoms added for each double bond that is replaced by a single bond.</para>
+      <figure id="uid21">
+        <media id="uid21_media" alt="">
+          <image mime-type="image/png" src="../../media/CG12C1_026.png" id="uid21_onlineimage" width="92"><!-- NOTE: attribute width changes image size online (pixels). original width is 92. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_026.eps" id="uid21_printimage"/>
+        </media>
+        <caption>An unsaturated hydrocarbon</caption>
+      </figure>
+<note id="notfhsst_id374"><title> Interesting Fact </title>
+      <para id="id79068">Fat that occurs naturally in living matter such as animals and plants is used as food for human consumption and contains varying proportions of saturated and unsaturated fat. Foods that contain a high proportion of saturated fat are butter, ghee, suet, tallow, lard, coconut oil, cottonseed oil, and palm kernel oil, dairy products (especially cream and cheese), meat, and some prepared foods. Diets high in saturated fat are correlated with an increased incidence of atherosclerosis and coronary heart disease according to a number of studies. Vegetable oils contain unsaturated fats and can be hardened to form margarine by adding hydrogen on to some of the carbon=carbon double bonds using a nickel catalyst. The process is called hydrogenation</para>
+</note>
+      <para id="id79085">We will now go on to look at each of the hydrocarbon groups in more detail. These groups are the alkanes, the alkenes and the alkynes.</para>
+      <section id="uid22">
+        <title>The Alkanes</title>
+        <para id="id79098">The alkanes are hydrocarbons that only contain <emphasis effect="italics">single covalent bonds</emphasis> between their carbon atoms. This means that they are <emphasis effect="italics">saturated</emphasis> compounds and are quite unreactive. The simplest alkane has only one carbon atom and is called <emphasis effect="bold">methane</emphasis>. This molecule is shown in <link target-id="uid23"/>.</para>
+        <figure id="uid23">
+          <media id="uid23_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_027.png" id="uid23_onlineimage" width="152"><!-- NOTE: attribute width changes image size online (pixels). original width is 152. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_027.eps" id="uid23_printimage"/>
+          </media>
+          <caption>The structural (a) and molecular formula (b) for methane</caption>
+        </figure>
+        <para id="id79138">The second alkane in the series has two carbon atoms and is called <emphasis effect="bold">ethane</emphasis>. This is shown in <link target-id="uid24"/>.</para>
+        <figure id="uid24">
+          <media id="uid24_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_028.png" id="uid24_onlineimage" width="211"><!-- NOTE: attribute width changes image size online (pixels). original width is 211. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_028.eps" id="uid24_printimage"/>
+          </media>
+          <caption>The structural (a) and molecular formula (b) for ethane</caption>
+        </figure>
+        <para id="id79165">The third alkane in the series has three carbon atoms and is called <emphasis effect="bold">propane</emphasis> (<link target-id="uid25"/>).</para>
+        <figure id="uid25">
+          <media id="uid25_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_029.png" id="uid25_onlineimage" width="211"><!-- NOTE: attribute width changes image size online (pixels). original width is 211. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_029.eps" id="uid25_printimage"/>
+          </media>
+          <caption>The structural (a) and molecular formula (b) for propane</caption>
+        </figure>
+        <para id="id79192">When you look at the molecular formula for each of the alkanes, you should notice a pattern developing. For each carbon atom that is added to the molecule, two hydrogen atoms are added. In other words, each molecule differs from the one before it by CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>. This is called a <emphasis effect="italics">homologous series</emphasis>. The alkanes have the general formula C<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:msub></m:math>.</para>
+        <para id="id79250">The alkanes are the most important source of fuel in the world and are used extensively in the chemical industry. Some are gases (e.g. methane and ethane), while others are liquid fuels (e.g. octane, an important component of petrol).</para>
+<note id="notfhsst_id406"><title> Interesting Fact </title>
+        <para id="id79262">Some fungi use alkanes as a source of carbon and energy. One fungus <emphasis effect="italics">Amorphotheca resinae</emphasis> prefers the alkanes used in aviation fuel, and this can cause problems for aircraft in tropical areas!</para>
+</note>
+      </section>
+      <section id="uid26">
+        <title>Naming the alkanes</title>
+        <para id="id79290">In order to give compounds a name, certain rules must be followed. When naming organic compounds, the IUPAC (International Union of Pure and Applied Chemistry) nomenclature is used. We will first look at some of the steps that need to be followed when naming a compound, and then try to apply these rules to some specific examples.</para>
+        <list id="id79296" display="block" list-type="enumerated">
+          <item id="uid27">STEP 1: Recognise the <emphasis effect="italics">functional group</emphasis> in the compound. This will determine the suffix (the 'end') of the name. For example, if the compound is an alkane, the suffix will be -ane; if the compound is an alkene the suffix will be -ene; if the compound is an alcohol the suffix will be -ol, and so on.
+</item>
+          <item id="uid28">STEP 2: Find the longest continuous carbon chain (it won't always be a <emphasis effect="italics">straight</emphasis> chain) and count the number of carbon atoms in this chain. This number will determine the prefix (the 'beginning') of the compound's name. These prefixes are shown in <link target-id="uid29"/>. So, for example, an alkane that has 3 carbon atoms will have the suffix <emphasis effect="italics">prop</emphasis> and the compound's name will be <emphasis effect="italics">propane</emphasis>.
+<table id="uid29" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Carbon atoms</emphasis></entry><entry>prefix</entry></row><row><entry>1</entry><entry>meth(ane)</entry></row><row><entry>2</entry><entry>eth(ane)</entry></row><row><entry>3</entry><entry>prop(ane)</entry></row><row><entry>4</entry><entry>but(ane)</entry></row><row><entry>5</entry><entry>pent(ane)</entry></row><row><entry>6</entry><entry>hex(ane)</entry></row><row><entry>7</entry><entry>hept(ane)</entry></row><row><entry>8</entry><entry>oct(ane)</entry></row><row><entry>9</entry><entry>non(ane)</entry></row><row><entry>10</entry><entry>dec(ane)</entry></row></tbody></tgroup><caption>The prefix of a compound's name is determined by the number of carbon atoms in the longest chain</caption></table></item>
+          <item id="uid30">STEP 3: Number the carbons in the longest carbon chain (Important: If there is a double or triple bond, you need to start numbering so that the bond is at the carbon with the lowest number.
+</item>
+          <item id="uid31">STEP 4: Look for any branched groups and name them. Also give them a number to show their position on the carbon chain. If there are no branched groups, this step can be left out.
+</item>
+          <item id="uid32">STEP 5: Combine the elements of the name into a single word in the following order: branched groups; prefix; name ending according to the functional group and its position along the longest carbon chain.
+</item>
+        </list>
+<para id="eip-499"><figure id="alkanes-1" class="khanacademy">
+	  <title>Khan academy video on alkanes</title>
+	  <media id="yt-media1" display="block" alt="video on alkanes">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/NRFPvLp3r3g&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id425"><title> Naming the alkanes </title>
+        <problem id="probfhsst_id426">
+        <para id="id79664">Give the IUPAC name for the following compound:</para>
+        <figure id="uid33">
+          <media id="uid33_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_030.png" id="uid33_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_030.eps" id="uid33_printimage"/>
+          </media>
+        </figure>
+        <para id="id79678">Note: The numbers attached to the carbon atoms would not normally be shown. The atoms have been numbered to help you to name the compound.
+ </para>
+        </problem>
+        <solution id="solfhsst_id437"> <list id="listfhsst_id437" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify the functional group </label>
+        <para id="id79701">The compound is a hydrocarbon with single bonds between the carbon atoms. It is an alkane and will have a suffix of -ane.</para>
+        </item> <item> <label> Find the longest carbon chain </label>
+        <para id="id79709">There are four carbon atoms in the longest chain. The prefix of the compound will be 'but'.</para>
+        </item> <item> <label> Number the carbons in the longest chain </label>
+        <para id="id79717">In this case, it is easy. The carbons are numbered from left to right, from one to four.</para>
+        </item> <item> <label> Look for any branched groups, name them and give their position on the carbon chain </label>
+        <para id="id79726">There are no branched groups in this compound.</para>
+        </item> <item> <label> Combine the elements of the name into a single word </label>
+        <para id="id79734">The name of the compound is <emphasis effect="bold">butane</emphasis>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id451"><title> Naming the alkanes </title>
+        <problem id="probfhsst_id452">
+        <para id="id79768">Give the IUPAC name for the following compound:</para>
+        <figure id="uid34">
+          <media id="uid34_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_031.png" id="uid34_onlineimage" width="120"><!-- NOTE: attribute width changes image size online (pixels). original width is 120. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_031.eps" id="uid34_printimage"/>
+          </media>
+        </figure>
+        
+        </problem>
+        <solution id="solfhsst_id462"> <list id="listfhsst_id462" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify the functional group </label>
+        <para id="id79804">The compound is an alkane and will have the suffix -ane.</para>
+        </item> <item> <label> Find the longest carbon chain </label>
+        <para id="id79812">There are three carbons in the longest chain. The prefix for this compound is -prop.</para>
+        </item> <item> <label> Number the carbons in the carbon chain </label>
+        <para id="id79820">If we start at the carbon on the left, we can number the atoms as shown below:</para>
+        <figure id="uid35">
+          <media id="uid35_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_032.png" id="uid35_onlineimage" width="120"><!-- NOTE: attribute width changes image size online (pixels). original width is 120. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_032.eps" id="uid35_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Look for any branched groups, name them and give their position on the carbon chain </label>
+        <para id="id79837">There is a branched group attached to the second carbon atom. This group has the formula CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> which is methane. However, because it is not part of the main chain, it is given the suffix -yl (i.e. methyl). The position of the methyl group comes just before its name (see next step).</para>
+        </item> <item> <label> Combine the elements of the compound's name into a single word in the order of branched groups; prefix; name ending according to the functional group. </label>
+        <para id="id79862">The compound's name is <emphasis effect="bold">2-methylpropane</emphasis>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id482"><title> Naming the alkanes </title>
+        <problem id="probfhsst_id483">
+        <para id="id79895">Give the IUPAC name for the following compound:</para>
+        <para id="id79901">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></para>
+        <para id="id79958">(Remember that the side groups are shown in brackets after the carbon atom to which they are attached.)
+ </para>
+        </problem>
+        <solution id="solfhsst_id489"> <list id="listfhsst_id489" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw the compound from its condensed structural formula </label>
+        <para id="id79979">The structural formula of the compound is:</para>
+        <figure id="uid36">
+          <media id="uid36_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_033.png" id="uid36_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_033.eps" id="uid36_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Identify the functional group </label>
+        <para id="id79995">The compound is an alkane and will have the suffix -ane.</para>
+        </item> <item> <label> Find the longest carbon chain </label>
+        <para id="id80003">There are four carbons in the longest chain. The prefix for this compound is -but.</para>
+        </item> <item> <label> Number the carbons in the carbon chain </label>
+        <para id="id80011">If we start at the carbon on the left, carbon atoms are numbered as shown in the diagram above. A second way that the carbons could be numbered is:</para>
+        <figure id="uid37">
+          <media id="uid37_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_034.png" id="uid37_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_034.eps" id="uid37_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Look for any branched groups, name them and give their position on the carbon chain </label>
+        <para id="id80029">There are two methyl groups attached to the main chain. The first one is attached to the second carbon atom and the second methyl group is attached to the third carbon atom. Notice that in this example it does not matter how you have chosen to number the carbons in the main chain; the methyl groups are still attached to the second and third carbons and so the naming of the compound is not affected.</para>
+        </item> <item> <label> Combine the elements of the compound's name into a single word in the order of branched groups; prefix; name ending according to the functional group. </label>
+        <para id="id80041">The compound's name is <emphasis effect="bold">2,3-dimethyl-butane</emphasis>. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id516"><title> Naming the alkanes </title>
+        <problem id="probfhsst_id517">
+        <para id="id80075">Give the IUPAC name for the following compound:</para>
+        <figure id="uid38">
+          <media id="uid38_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_035.png" id="uid38_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_035.eps" id="uid38_printimage"/>
+          </media>
+        </figure>
+        
+        </problem>
+        <solution id="solfhsst_id527"> <list id="listfhsst_id527" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify the functional group </label>
+        <para id="id80111">The compound is an alkane and will have the suffix -ane.</para>
+        </item> <item> <label> Find the longest carbon chain and number the carbons in the longest chain. </label>
+        <para id="id80119">There are six carbons in the longest chain if they are numbered as shown below. The prefix for the compound is hex-.</para>
+        <figure id="uid39">
+          <media id="uid39_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_036.png" id="uid39_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_036.eps" id="uid39_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Look for any branched groups, name them and give their position on the carbon chain </label>
+        <para id="id80136">There is one methyl group attached to the main chain. This is attached to the third carbon atom.</para>
+        </item> <item> <label> Combine the elements of the compound's name into a single word in the order of branched groups; prefix; name ending according to the functional group. </label>
+        <para id="id80146">The compound's name is <emphasis effect="bold">3-methyl-hexane</emphasis>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id545"><title> Naming the alkanes
+        </title>
+        <list id="id80180" display="block" list-type="enumerated">
+          <item id="uid40">Give the structural formula for each of the following:
+<list id="id80195" display="block" list-type="enumerated"><item id="uid41">Octane
+</item><item id="uid42">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid43">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid44">3-ethyl-pentane
+</item></list></item>
+          <item id="uid45">Give the IUPAC name for each of the following organic compounds.
+<list id="id80335" display="block" list-type="enumerated"><item id="uid46"><figure id="id80349"><media id="id80349_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_037.png" id="id80349_onlineimage" width="119"><!-- NOTE: attribute width changes image size online (pixels). original width is 119. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_037.eps" id="id80349_printimage"/></media></figure></item><item id="uid47">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid48">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item></list></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid49">
+        <title>Properties of the alkanes</title>
+        <para id="id80528">We have already mentioned that the alkanes are relatively unreactive because of their stable C-C and C-H bonds. The boiling point and melting point of these molecules is determined by their molecular structure, and their surface area. The more carbon atoms there are in an alkane, the greater the surface area and therefore the higher the boiling point. The melting point also increases as the number of carbon atoms in the molecule increases. This can be seen in the data in <link target-id="uid50"/>.</para>
+        <table id="uid50" summary="">
+          <tgroup cols="5">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Formula</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Name</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Melting point (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Boiling point (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Phase at room temperature</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry>
+                <entry>methane</entry>
+                <entry>-183</entry>
+                <entry>-162</entry>
+                <entry>gas</entry>
+              </row>
+              <row>
+                <entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math></entry>
+                <entry>ethane</entry>
+                <entry>-182</entry>
+                <entry>-88</entry>
+                <entry>gas</entry>
+              </row>
+              <row>
+                <entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math></entry>
+                <entry>propane</entry>
+                <entry>-187</entry>
+                <entry>-45</entry>
+                <entry>gas</entry>
+              </row>
+              <row>
+                <entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math></entry>
+                <entry>butane</entry>
+                <entry>-138</entry>
+                <entry>-0.5</entry>
+                <entry>gas</entry>
+              </row>
+              <row>
+                <entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>12</m:mn></m:msub></m:math></entry>
+                <entry>pentane</entry>
+                <entry>-130</entry>
+                <entry>36</entry>
+                <entry>liquid</entry>
+              </row>
+              <row>
+                <entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>14</m:mn></m:msub></m:math></entry>
+                <entry>hexane</entry>
+                <entry>-95</entry>
+                <entry>69</entry>
+                <entry>liquid</entry>
+              </row>
+              <row>
+                <entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>17</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>36</m:mn></m:msub></m:math></entry>
+                <entry>heptadecane</entry>
+                <entry>22</entry>
+                <entry>302</entry>
+                <entry>solid</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Properties of some of the alkanes</caption>
+        </table>
+        <para id="id81288">You will also notice that, when the molecular mass of the alkanes is low (i.e. there are few carbon atoms), the organic compounds are <emphasis effect="italics">gases</emphasis> because the intermolecular forces are weak. As the number of carbon atoms and the molecular mass increases, the compounds are more likely to be liquids or solids because the intermolecular forces are stronger.</para>
+      </section>
+      <section id="uid51">
+        <title>Reactions of the alkanes</title>
+        <para id="id81309">There are three types of reactions that can occur in saturated compounds such as the alkanes.</para>
+        <list id="id81314" display="block" list-type="enumerated">
+          <item id="uid52"><emphasis effect="bold">Substitution reactions</emphasis>
+Substitution reactions involve the removal of a hydrogen atom which is replaced by an atom of another element, such as a halogen (F, Cl, Br or I) (<link target-id="uid53"/>). The product is called a <emphasis effect="bold">halo-alkane</emphasis>. Since alkanes are not very reactive, either heat or light is needed for this reaction to take place.
+e.g. CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> + HBr <m:math overflow="scroll"><m:mo>→</m:mo></m:math> CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>-CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>-Br (halo-alkane)
+<figure id="uid53"><media id="uid53_media" alt=""><image mime-type="image/png" src="../../media/substitution_rxn.png" id="uid53_onlineimage" width="329"><!-- NOTE: attribute width changes image size online (pixels). original width is 329. --></image><image mime-type="application/postscript" for="pdf" src="../../media/substitution_rxn.eps" id="uid53_printimage"/></media><caption>A substitution reaction</caption></figure>
+Halo-alkanes (also sometimes called <emphasis effect="italics">alkyl halides</emphasis>) that contain methane and chlorine are substances that can be used as anaesthetics during operations. One example is trichloromethane, also known as 'chloroform' (<link target-id="uid54"/>).
+<figure id="uid54"><media id="uid54_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_039.png" id="uid54_onlineimage" width="118"><!-- NOTE: attribute width changes image size online (pixels). original width is 118. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_039.eps" id="uid54_printimage"/></media><caption>Trichloromethane</caption></figure></item>
+          <item id="uid55"><emphasis effect="bold">Elimination reactions</emphasis>
+Saturated compounds can also undergo elimination reactions to become unsaturated (<link target-id="uid56"/>). In the example below, an atom of hydrogen and chlorine are eliminated from the original compound to form an unsaturated halo-alkene.
+e.g. <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>l</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>C</m:mi><m:mo>-</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>C</m:mi><m:mi>l</m:mi><m:mo>→</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>C</m:mi><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi><m:mo>+</m:mo><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi></m:mrow></m:math><figure id="uid56"><media id="uid56_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_040.png" id="uid56_onlineimage" width="296"><!-- NOTE: attribute width changes image size online (pixels). original width is 296. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_040.eps" id="uid56_printimage"/></media><caption>An elimination reaction</caption></figure></item>
+          <item id="uid57"><emphasis effect="bold">Oxidation reactions</emphasis>
+When alkanes are burnt in air, they react with the oxygen in air and heat is produced. This is called an oxidation or combustion reaction. Carbon dioxide and water are given off as products. Heat is also released during the reaction. The burning of alkanes provides most of the energy that is used by man.
+e.g. <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mi>e</m:mi><m:mi>a</m:mi><m:mi>t</m:mi></m:mrow></m:math></item>
+        </list>
+<section id="secfhsst_id653"><title> The Alkanes </title>
+        <list id="id81665" display="block" list-type="enumerated">
+          <item id="uid58">Give the IUPAC name for each of the following alkanes:
+<list id="id81680" display="block" list-type="enumerated"><item id="uid59">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid60"><figure id="id81780"><media id="id81780_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_041.png" id="id81780_onlineimage" width="273"><!-- NOTE: attribute width changes image size online (pixels). original width is 273. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_041.eps" id="id81780_printimage"/></media></figure></item><item id="uid61">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item></list></item>
+          <item id="uid62">Give the structural formula for each of the following compounds:
+<list id="id81837" display="block" list-type="enumerated"><item id="uid63">octane
+</item><item id="uid64">3-methyl-hexane
+</item></list></item>
+          <item id="uid65">Methane is one of the simplest alkanes and yet it is an important fuel source. Methane occurs naturally in wetlands, natural gas and permafrost. However, methane can also be produced when organic wastes (e.g. animal manure and decaying material) are broken down by bacteria under conditions that are anaerobic (there is no oxygen). The simplified reaction is shown below:
+Organic matter <m:math overflow="scroll"><m:mo>→</m:mo></m:math> Simple organic acids <m:math overflow="scroll"><m:mo>→</m:mo></m:math> Biogas
+The organic matter could be carbohydrates, proteins or fats which are broken down by acid-forming bacteria into simple organic acids such as acetic acid or formic acid. Methane-forming bacteria then convert these acids into biogases such as methane and ammonia.
+The production of methane in this way is very important because methane can be used as a fuel source. One of the advantages of methane over other fuels like coal, is that it produces more energy but with lower carbon dioxide emissions. The problem however, is that methane itself is a greenhouse gas and has a much higher global warming potential than carbon dioxide. So, producing methane may in fact have an even more dangerous impact on the environment.
+<list id="id81919" display="block" list-type="enumerated"><item id="uid66">What is the structural formula of methane?
+</item><item id="uid67">Write an equation to show the reaction that takes place when methane is burned as a fuel.
+</item><item id="uid68">Explain what is meant by the statement that methane 'has a greater global warming potential than carbon dioxide'.
+</item></list></item>
+          <item id="uid69">Chlorine and ethane react to form chloroethane and hydrogen chloride.
+<list id="id81974" display="block" list-type="enumerated"><item id="uid70">Write a balanced chemical equation for this reaction, using molecular formulae.
+</item><item id="uid71">Give the structural formula of chloroethane.
+</item><item id="uid72">What type of reaction has taken place in this example?
+</item></list></item>
+          <item id="uid73">Petrol (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>18</m:mn></m:msub></m:math>) is in fact not pure C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>18</m:mn></m:msub></m:math> but a mixture of various <emphasis effect="italics">alkanes</emphasis>. The 'octane rating' of petrol refers to the percentage of the petrol which is C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>18</m:mn></m:msub></m:math>. For example, 93 octane fuel contains 93% C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>18</m:mn></m:msub></m:math> and 7% other alkanes. The <emphasis effect="italics">isomer</emphasis> of C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>18</m:mn></m:msub></m:math> referred to in the 'octane rating' is in fact not octane but 2,2,4-trimethylpentane.
+<list id="id82171" display="block" list-type="enumerated"><item id="uid74">Write an unbalanced equation for the chemical reaction which takes place when petrol (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>18</m:mn></m:msub></m:math>) burns in excess oxygen.
+</item><item id="uid75">Write the general formula of the <emphasis effect="italics">alkanes</emphasis>.
+</item><item id="uid76">Define the term <emphasis effect="italics">structural isomer</emphasis>.
+</item><item id="uid77">Use the information given in this question and your knowledge of naming organic compounds to deduce and draw the full structural formula for 2,2,4-trimethylpentane.
+(IEB pg 25)
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid78">
+        <title>The alkenes</title>
+        <para id="id82283">In the alkenes, there is at least one double bond between two carbon atoms. This means that they are <emphasis effect="bold">unsaturated</emphasis> and are <emphasis effect="italics">more reactive</emphasis> than the alkanes. The simplest alkene is ethene (also known as ethylene), which is shown in <link target-id="uid79"/>.</para>
+        <figure id="uid79">
+          <media id="uid79_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_042.png" id="uid79_onlineimage" width="273"><!-- NOTE: attribute width changes image size online (pixels). original width is 273. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_042.eps" id="uid79_printimage"/>
+          </media>
+          <caption>The (a) structural, (b) condensed structural and (c) molecular structure representations of ethene</caption>
+        </figure>
+        <para id="id82316">As with the alkanes, the alkenes also form a homologous series. They have the general formula C<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi></m:mrow></m:msub></m:math>. The second alkene in the series would therefore be C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>. This molecule is known as propene (<link target-id="uid80"/>). Note that if an alkene has two double bonds, it is called a <emphasis effect="bold">diene</emphasis> and if it has three double bonds it is called a <emphasis effect="bold">triene</emphasis>.</para>
+        <figure id="uid80">
+          <media id="uid80_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_043.png" id="uid80_onlineimage" width="516"><!-- NOTE: attribute width changes image size online (pixels). original width is 516. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_043.eps" id="uid80_printimage"/>
+          </media>
+          <caption>The (a) structural, (b) condensed structural and (c) molecular structure representations of propene</caption>
+        </figure>
+        <para id="id82406">The alkenes have a variety of uses. Ethylene for example is a hormone in plants that stimulates the ripening of fruits and the opening of flowers. Propene is an important compound in the petrochemicals industry. It is used as a monomer to make polypropylene and is also used as a fuel gas for other industrial processes.</para>
+      </section>
+      <section id="uid81">
+        <title>Naming the alkenes</title>
+        <para id="id82422">Similar rules will apply in naming the alkenes, as for the alkanes.</para>
+<para id="eip-908"><figure id="alkenes" class="khanacademy">
+	  <title>Khan academy video on alkenes</title>
+	  <media id="yt-media2" display="block" alt="video on alkenes">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/KWv5PaoHwPA&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id708"><title> Naming the alkenes </title>
+        <problem id="probfhsst_id709">
+        <para id="id82438">Give the IUPAC name for the following compound:</para>
+        <para id="id82444">
+          <figure id="id82448">
+            <media id="id82448_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C1_044.png" id="id82448_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 149. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_044.eps" id="id82448_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id721"> <list id="listfhsst_id721" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify the functional group </label>
+        <para id="id82476">The compound is an alkene and will have the suffix -ene.</para>
+        </item> <item> <label> Find the longest carbon chain </label>
+        <para id="id82484">There are four carbon atoms in the longest chain and so the prefix for this compound will be 'but'.</para>
+        </item> <item> <label> Number the carbon atoms </label>
+        <para id="id82492">Remember that when there is a double or triple bond, the carbon atoms must be numbered so that the double or triple bond is at the lowest numbered carbon. In this case, it doesn't matter whether we number the carbons from the left to right, or from the right to left. The double bond will still fall between C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>. The position of the bond will come just before the suffix in the compound's name.</para>
+        </item> <item> <label> Look for any branched groups, name them and give their position on the carbon chain </label>
+        <para id="id82530">There are no branched groups in this molecule.</para>
+        </item> <item> <label> Name the compound </label>
+        <para id="id82537">The name of this compound is <emphasis effect="bold">but-2-ene</emphasis>. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id734"><title> Naming the alkenes </title>
+        <problem id="probfhsst_id735">
+        <para id="id82570">Draw the structural formula for the organic compound 3-methyl-butene</para>
+        
+        </problem>
+        <solution id="solfhsst_id739"> <list id="listfhsst_id739" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify the functional group </label>
+        <para id="id82600">The suffix -ene means that this compound is an alkene and there must be a double bond in the molecule. There is no number immediately before the suffix which means that the double bond must be at the first carbon in the chain.</para>
+        </item> <item> <label> Determine the number of carbons in the longest chain </label>
+        <para id="id82610">The prefix for the compound is 'but' so there must be four carbons in the longest chain.</para>
+        </item> <item> <label> Look for any branched groups </label>
+        <para id="id82618">There is a methyl group at the third carbon atom in the chain.</para>
+        </item> <item> <label> Combine this information to draw the structural formula for this molecule. </label>
+        <figure id="uid82">
+          <media id="uid82_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_045.png" id="uid82_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_045.eps" id="uid82_printimage"/>
+          </media>
+        </figure>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id756"><title> Naming the alkenes </title>
+        <problem id="probfhsst_id757">
+        <para id="id82663">Give the IUPAC name for the following compound:</para>
+        <para id="id82669">
+          <figure id="id82672">
+            <media id="id82672_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C1_046.png" id="id82672_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 149. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_046.eps" id="id82672_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id769"> <list id="listfhsst_id769" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify the functional group </label>
+        <para id="id82700">The compound is an alkene and will have the suffix -ene. There is a double bond between the first and second carbons and also between the third and forth carbons. The organic compound is therefore a 'diene'.</para>
+        </item> <item> <label> Find the longest carbon chain and number the carbon atoms </label>
+        <para id="id82709">There are four carbon atoms in the longest chain and so the prefix for this compound will be 'but'. The carbon atoms are numbered 1 to 4 in the diagram above. Remember that the main carbon chain must contain both the double bonds.</para>
+        </item> <item> <label> Look for any branched groups, name them and give their position on the carbon chain </label>
+        <para id="id82719">There is an ethyl group on the second carbon.</para>
+        </item> <item> <label> Name the compound </label>
+        <para id="id82727">The name of this compound is <emphasis effect="bold">2-ethyl-but-1,3-diene</emphasis>. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id780"><title> Naming the alkenes
+        </title>
+        <para id="id82761">Give the IUPAC name for each of the following alkenes:</para>
+        <list id="id82767" display="block" list-type="enumerated">
+          <item id="uid83">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CHCH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item>
+          <item id="uid84">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CHCHCH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item>
+          <item id="uid85">
+            <figure id="id82878">
+              <media id="id82878_media" alt="">
+                <image mime-type="image/png" src="../../media/CG12C1_047.png" id="id82878_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_047.eps" id="id82878_printimage"/>
+              </media>
+            </figure>
+          </item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid86">
+        <title>The properties of the alkenes</title>
+        <para id="id82905">The properties of the alkenes are very similar to those of the alkanes, except that the alkenes are more reactive because they are unsaturated. As with the alkanes, compounds that have four or less carbon atoms are gases at room temperature, while those with five or more carbon atoms are liquids.</para>
+      </section>
+      <section id="uid87">
+        <title>Reactions of the alkenes</title>
+        <para id="id82920">Alkenes can undergo <emphasis effect="bold">addition reactions</emphasis> because they are unsaturated. They readily react with hydrogen, water and the halogens. The double bond is broken and a single, saturated bond is formed. A new group is then added to one or both of the carbon atoms that previously made up the double bond. The following are some examples:</para>
+        <list id="id82932" display="block" list-type="enumerated"><item id="uid88"><label>Hydrogenation reactions</label>
+A catalyst such as platinum is normally needed for these reactions
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>C</m:mi><m:mo>=</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:mi>C</m:mi><m:mo>-</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math> (<link target-id="uid89"/>)
+<figure id="uid89"><media id="uid89_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_048.png" id="uid89_onlineimage" width="291"><!-- NOTE: attribute width changes image size online (pixels). original width is 291. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_048.eps" id="uid89_printimage"/></media><caption>A hydrogenation reaction</caption></figure></item>
+          <item id="uid90"><label>Halogenation reactions</label><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>H</m:mi><m:mi>B</m:mi><m:mi>r</m:mi><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:mo>-</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>-</m:mo><m:mi>B</m:mi><m:mi>r</m:mi></m:mrow></m:math> (<link target-id="uid91"/>)
+<figure id="uid91"><media id="uid91_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_049.png" id="uid91_onlineimage" width="293"><!-- NOTE: attribute width changes image size online (pixels). original width is 293. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_049.eps" id="uid91_printimage"/></media><caption>A halogenation reaction</caption></figure></item>
+          <item id="uid92"><label>The formation of alcohols</label><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:mo>-</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>-</m:mo><m:mi>O</m:mi><m:mi>H</m:mi></m:mrow></m:math> (<link target-id="uid93"/>)
+<figure id="uid93"><media id="uid93_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_050.png" id="uid93_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_050.eps" id="uid93_printimage"/></media><caption>The formation of an alcohol</caption></figure></item>
+        </list>
+<section id="secfhsst_id815"><title> The Alkenes
+        </title>
+        <list id="id83257" display="block" list-type="enumerated">
+          <item id="uid94">Give the IUPAC name for each of the following organic compounds:
+<list id="id83273" display="block" list-type="enumerated"><item id="uid95"><figure id="id83285"><media id="id83285_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_051.png" id="id83285_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 149. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_051.eps" id="id83285_printimage"/></media></figure></item><item id="uid96">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CHCH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item></list></item>
+          <item id="uid97">Refer to the data table below which shows the melting point and boiling point for a number of different organic compounds.
+<table id="id83343" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Formula</emphasis></entry><entry><emphasis effect="bold">Name</emphasis></entry><entry><emphasis effect="bold">Melting point (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</emphasis></entry><entry><emphasis effect="bold">Boiling point (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</emphasis></entry></row><row><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math></entry><entry>Butane</entry><entry>-138</entry><entry>-0.5</entry></row><row><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>12</m:mn></m:msub></m:math></entry><entry>Pentane</entry><entry>-130</entry><entry>36</entry></row><row><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>14</m:mn></m:msub></m:math></entry><entry>Hexane</entry><entry>-95</entry><entry>69</entry></row><row><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math></entry><entry>Butene</entry><entry>-185</entry><entry>-6</entry></row><row><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math></entry><entry>Pentene</entry><entry>-138</entry><entry>30</entry></row><row><entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>12</m:mn></m:msub></m:math></entry><entry>Hexene</entry><entry>-140</entry><entry>63</entry></row></tbody></tgroup></table><list id="id83799" display="block" list-type="enumerated"><item id="uid98">At room temperature (approx. 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C), which of the organic compounds in the table are:
+<list id="id83829" display="block" list-type="enumerated"><item id="uid99">gases
+</item><item id="uid100">liquids
+</item></list></item><item id="uid101">In the alkanes...
+<list id="id83869" display="block" list-type="enumerated"><item id="uid102">Describe what happens to the melting point and boiling point as the number of carbon atoms in the compound increases.
+</item><item id="uid103">Explain why this is the case.
+</item></list></item><item id="uid104">If you look at an alkane and an alkene that have the same number of carbon atoms...
+<list id="id83912" display="block" list-type="enumerated"><item id="uid105">How do their melting points and boiling points compare?
+</item><item id="uid106">Can you explain why their melting points and boiling points are different?
+</item></list></item><item id="uid107">Which of the compounds, hexane or hexene, is more reactive? Explain your answer.
+</item></list></item>
+          <item id="uid108">
+The following reaction takes place:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:mi>C</m:mi><m:mi>H</m:mi><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math><list id="id84044" display="block" list-type="enumerated"><item id="uid109">Give the name of the organic compound in the reactants.
+</item><item id="uid110">What is the name of the product?
+</item><item id="uid111">What type of reaction is this?
+</item><item id="uid112">Which compound in the reaction is a saturated hydrocarbon?
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid113">
+        <title>The Alkynes</title>
+        <para id="id84117">In the alkynes, there is at least one triple bond between two of the carbon atoms. They are unsaturated compounds and are therefore highly reactive. Their general formula is C<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msub></m:math>. The simplest alkyne is ethyne (<link target-id="uid114"/>), also known as acetylene. Many of the alkynes are used to synthesise other chemical products.</para>
+        <figure id="uid114">
+          <media id="uid114_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_052.png" id="uid114_onlineimage" width="92"><!-- NOTE: attribute width changes image size online (pixels). original width is 92. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_052.eps" id="uid114_printimage"/>
+          </media>
+          <caption>Ethyne (acetylene)</caption>
+        </figure>
+<note id="notfhsst_id853"><title> Interesting Fact </title>
+        <para id="id84179">The raw materials that are needed to make acetylene are calcium carbonate and coal. Acetylene can be produced through the following reactions:</para>
+        <para id="id84186">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>O</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id84220">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>3</m:mn>
+              <m:mi>C</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:msub>
+                <m:mi>C</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>O</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id84264">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:msub>
+                <m:mi>C</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:msub>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>O</m:mi>
+                  <m:mi>H</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>C</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id84339">An important use of acetylene is in oxyacetylene gas welding. The fuel gas burns with oxygen in a torch. An incredibly high heat is produced, and this is enough to melt metal.</para>
+</note>
+      </section>
+      <section id="uid115">
+        <title>Naming the alkynes</title>
+        <para id="id84359">The same rules will apply as for the alkanes and alkenes, except that the suffix of the name will now be -yne.</para>
+<exercise id="secfhsst_id940"><title> Naming the alkynes </title>
+        <problem id="probfhsst_id941">
+        <para id="id84376">Give the IUPAC name for the following compound:</para>
+        <figure id="uid116">
+          <media id="uid116_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_053.png" id="uid116_onlineimage" width="274"><!-- NOTE: attribute width changes image size online (pixels). original width is 274. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_053.eps" id="uid116_printimage"/>
+          </media>
+        </figure>
+        
+        </problem>
+        <solution id="solfhsst_id951"> <list id="listfhsst_id951" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify the functional group </label>
+        <para id="id84412">There is a triple bond between two of the carbon atoms, so this compound is an alkyne. The suffix will be -yne. The triple bond is at the second carbon, so the suffix will in fact be 2-yne.</para>
+        </item> <item> <label> Find the longest carbon chain and give the compound the correct prefix </label>
+        <para id="id84424">If we count the carbons in a straight line, there are six. The prefix of the compound's name will be 'hex'.</para>
+        </item> <item> <label> Number the carbons in the longest chain </label>
+        <para id="id84432">In this example, you will need to number the carbons from right to left so that the triple bond is between carbon atoms with the lowest numbers.</para>
+        </item> <item> <label> Look for any branched groups, name them and show the number of the carbon atom to which the group is attached </label>
+        <para id="id84441">There is a methyl (CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) group attached to the fifth carbon (remember we have numbered the carbon atoms from right to left).</para>
+        </item> <item> <label> Combine the elements of the name into a single word in the following order: branched groups; prefix; name ending according to the functional group and its position along the longest carbon chain. </label>
+        <para id="id84465">If we follow this order, the name of the compound is <emphasis effect="bold">5-methyl-hex-2-yne</emphasis>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id965"><title> The alkynes
+        </title>
+        <para id="id84498">Give the IUPAC name for each of the following organic compounds.</para>
+        <list id="id84504" display="block" list-type="enumerated">
+          <item id="uid117">
+            <figure id="id84516">
+              <media id="id84516_media" alt="">
+                <image mime-type="image/png" src="../../media/CG12C1_054.png" id="id84516_onlineimage" width="260"><!-- NOTE: attribute width changes image size online (pixels). original width is 260. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_054.eps" id="id84516_printimage"/>
+              </media>
+            </figure>
+          </item>
+          <item id="uid118">
+C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item>
+          <item id="uid119">
+CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CCH
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

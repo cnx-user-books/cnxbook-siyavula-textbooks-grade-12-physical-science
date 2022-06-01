@@ -1,0 +1,317 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39444</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>2ad30d69-7e61-444e-934b-d8a43913fefa</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>What is organic chemistry?</title>
+      <para id="id77135"><emphasis effect="bold">Organic chemistry</emphasis> is the branch of chemistry that deals with <emphasis effect="bold">organic molecules</emphasis>. An organic molecule is one which contains <emphasis effect="bold">carbon</emphasis>, and these molecules can range in size from simple molecules to complex structures containing thousands of atoms! Although carbon is present in all organic compounds, other elements such as hydrogen (H), oxygen (O), nitrogen (N), sulfur (S) and phosphorus (P) are also common in these molecules.</para>
+      <para id="id77494">Until the early nineteenth century, chemists had managed to make many simple compounds in the laboratory, but were still unable to produce the complex molecules that they found in living organisms. It was around this time that a Swedish chemist called <emphasis effect="bold">Jons Jakob Berzelius</emphasis> suggested that compounds found only in living organisms (the organic compounds) should be grouped separately from those found in the non-living world (the inorganic compounds). He also suggested that the laws that governed how organic compounds formed, were different from those for inorganic compounds. From this, the idea developed that there was a 'vital force' in organic compounds. In other words, scientists believed that organic compounds would not follow the normal physical and chemical laws that applied to other inorganic compounds because the very 'force of life' made them different.</para>
+      <para id="id77510">This idea of a mystical 'vital force' in organic compounds was weakened when scientists began to manufacture organic compounds in the laboratory from non-living materials. One of the first to do this was <emphasis effect="bold">Friedrich Wohler</emphasis> in 1828, who successfully prepared urea, an organic compound in the urine of animals which, until that point, had only been found in animals. A few years later a student of Wohler's, <emphasis effect="bold">Hermann Kolbe</emphasis>, made the organic compound <emphasis effect="italics">acetic acid</emphasis> from inorganic compounds. By this stage it was acknowledged that organic compounds are governed by exactly the same laws that apply to inorganic compounds. The properties of organic compounds are not due to a 'vital force' but to the unique properties of the carbon atom itself.</para>
+      <para id="id77535">Organic compounds are very important in daily life. They make up a big part of our own bodies, they are in the food we eat and in the clothes we wear. Organic compounds are also used to make products such as medicines, plastics, washing powders, dyes, along with a list of other items.</para>
+    </section>
+    <section id="cid3">
+      <title>Sources of carbon</title>
+      <para id="id77552">The main source of the carbon in organic compounds is <emphasis effect="bold">carbon dioxide</emphasis> in the air. Plants use sunlight to convert carbon dioxide into organic compounds through the process of <emphasis effect="bold">photosynthesis</emphasis>. Plants are therefore able to make their own organic compounds through photosynthesis, while animals feed on plants or plant products so that they gain the organic compounds that they need to survive.</para>
+      <para id="id77569">Another important source of carbon is <emphasis effect="bold">fossil fuels</emphasis> such as coal, petroleum and natural gas. This is because fossil fuels are themselves formed from the decaying remains of dead organisms (refer to Grade 11 for more information on fossil fuels).</para>
+    </section>
+    <section id="cid4">
+      <title>Unique properties of carbon</title>
+      <para id="id77590">Carbon has a number of unique properties which influence how it behaves and how it bonds with other atoms:</para>
+      <list id="id77594" display="block" list-type="bulleted">
+        <item id="uid1">Carbon has <emphasis effect="italics">four valence electrons</emphasis> which means that each carbon atom can form four bonds with other atoms. Because of this, long <emphasis effect="italics">chain structures</emphasis> can form. These chains can either be <emphasis effect="italics">unbranched</emphasis> (<link target-id="uid2"/>) or <emphasis effect="italics">branched</emphasis> (<link target-id="uid3"/>). Because of the number of bonds that carbon can form with other atoms, organic compounds can be very complex.
+<figure id="uid2"><media id="uid2_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_001.png" id="uid2_onlineimage" width="195"><!-- NOTE: attribute width changes image size online (pixels). original width is 595. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_001.eps" id="uid2_printimage"/></media><caption>An unbranched carbon chain</caption></figure><figure id="uid3"><media id="uid3_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_002.png" id="uid3_onlineimage" width="126"><!-- NOTE: attribute width changes image size online (pixels). original width is 126. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_002.eps" id="uid3_printimage"/></media><caption>A branched carbon chain</caption></figure></item>
+        <item id="uid4">Because of its position on the Periodic Table, most of the bonds that carbon forms with other atoms are <emphasis effect="italics">covalent</emphasis>. Think for example of a C-C bond. The difference in electronegativity between the two atoms is zero, so this is a pure covalent bond. In the case of a C-H bond, the difference in electronegativity between carbon (2.5) and hydrogen (2.1) is so small that C-H bonds are almost purely covalent. The result of this is that most organic compounds are non-polar. This affects some of the properties of organic compounds.
+</item>
+      </list>
+    </section>
+    <section id="cid5">
+      <title>Representing organic compounds</title>
+      <para id="id77694">There are a number of ways to represent organic compounds. It is useful to know all of these so that you can recognise a molecule however it is shown. There are three main ways of representing a compound. We will use the example of a molecule called 2-methylpropane to help explain the difference between each.</para>
+      <section id="uid5">
+        <title>Molecular formula</title>
+        <para id="id77708">The molecular formula of a compound shows how many atoms of each type are in a molecule. The number of each atom is written as a subscript after the atomic symbol. The molecular formula of 2-methylpropane is:</para>
+        <para id="id77713">
+          <emphasis effect="bold">C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math></emphasis>
+        </para>
+      </section>
+      <section id="uid6">
+        <title>Structural formula</title>
+        <para id="id77754">The structural formula of an organic compound shows every bond between every atom in the molecule. Each bond is represented by a line. The structural formula of 2-methylpropane is shown in <link target-id="uid7"/>.</para>
+        <figure id="uid7">
+          <media id="uid7_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C1_003.png" id="uid7_onlineimage" width="226"><!-- NOTE: attribute width changes image size online (pixels). original width is 226. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_003.eps" id="uid7_printimage"/>
+          </media>
+          <caption>The structural formula of 2-methylpropane</caption>
+        </figure>
+      </section>
+      <section id="uid8">
+        <title>Condensed structural formula</title>
+        <para id="id77785">When a compound is represented using its condensed structural formula, each carbon atom and the hydrogen atoms that are bonded directly to it are listed as a molecular formula, followed by a similar molecular formula for the neighbouring carbon atom. Branched groups are shown in brackets after the carbon atom to which they are bonded. The condensed structural formula below shows that in 2-methylpropane, there is a branched chain attached to the second carbon atom of the main chain. You can check this by looking at the structural formula in <link target-id=""/>.</para>
+        <para id="id77795">
+          <emphasis effect="bold">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></emphasis>
+        </para>
+<section id="secfhsst_id94"><title> Representing organic compounds
+        </title>
+        <list id="id77851" display="block" list-type="enumerated">
+          <item id="uid9">For each of the following organic compounds, give the <emphasis effect="bold">condensed structural formula</emphasis> and the <emphasis effect="bold">molecular formula</emphasis>.
+<list id="id77876" display="block" list-type="enumerated"><item id="uid10"><figure id="id77889"><media id="id77889_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_004.png" id="id77889_onlineimage" width="261"><!-- NOTE: attribute width changes image size online (pixels). original width is 261. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_004.eps" id="id77889_printimage"/></media></figure></item><item id="uid11"><figure id="id77906"><media id="id77906_media" alt=""><image mime-type="image/png" src="../../media/CG12C1_005.png" id="id77906_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 149. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_005.eps" id="id77906_printimage"/></media></figure></item></list></item>
+          <item id="uid12">For each of the following, give the <emphasis effect="bold">structural formula</emphasis> and the <emphasis effect="bold">molecular formula</emphasis>.
+<list id="id77935" display="block" list-type="enumerated"><item id="uid13">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid14">CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid15">C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math></item></list></item>
+          <item id="uid16">Give two possible structural formulae for the compound with a molecular formula of C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math>.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Isomerism in organic compounds</title>
+      <para id="id78136">It is possible for two organic compounds to have the same <emphasis effect="italics">molecular formula</emphasis> but a different <emphasis effect="italics">structural formula</emphasis>. Look for example at the two organic compounds that are shown in <link target-id="uid17"/>.</para>
+      <figure id="uid17">
+        <media id="uid17_media" alt="">
+          <image mime-type="image/png" src="../../media/isomer_butane.png" id="uid17_onlineimage" width="422"><!-- NOTE: attribute width changes image size online (pixels). original width is 422. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/isomer_butane.eps" id="uid17_printimage"/>
+        </media>
+        <caption>Isomers of a 4-carbon organic compound</caption>
+      </figure>
+      <para id="id78167">If you were to count the number of carbon and hydrogen atoms in each compound, you would find that they are the same. They both have the same molecular formula (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math>), but their structure is different and so are their properties. Such compounds are called <emphasis effect="bold">isomers</emphasis>.</para>
+<definition id="fhsst_id119"><term id="termfhsst_id119"> Isomer </term> <meaning id="meaningfhsst_id119">
+      <para id="id78208">In chemistry, isomers are molecules with the same molecular formula and often with the same kinds of chemical bonds between atoms, but in which the atoms are arranged differently.
+ </para>
+      </meaning></definition>
+<section id="secfhsst_id123"><title> Isomers
+      </title>
+      <para id="id78232">Match the organic compound in Column A with its isomer Column B:</para>
+      <table id="id78238" summary="">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Column A</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Column B</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)OH</entry>
+              <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+            </row>
+            <row>
+              <entry>
+                <figure id="id78358">
+                  <media id="id78358_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_007.png" id="id78358_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_007.eps" id="id78358_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>
+                <figure id="id78369">
+                  <media id="id78369_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_008.png" id="id78369_onlineimage" width="119"><!-- NOTE: attribute width changes image size online (pixels). original width is 119. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_008.eps" id="id78369_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <figure id="id78385">
+                  <media id="id78385_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_009.png" id="id78385_onlineimage" width="119"><!-- NOTE: attribute width changes image size online (pixels). original width is 119. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_009.eps" id="id78385_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>7</m:mn></m:msub></m:math>OH</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      
+</section>
+    </section>
+    <section id="cid7">
+      <title>Functional groups</title>
+      <para id="id78446">All organic compounds have a particular bond or group of atoms which we call its <emphasis effect="bold">functional group</emphasis>. This group is important in determining how a compound will react.</para>
+<definition id="fhsst_id180"><term id="termfhsst_id180"> Functional group </term> <meaning id="meaningfhsst_id180">
+      <para id="id78462">In organic chemistry, a functional group is a specific group of atoms within molecules, that are responsible for the characteristic chemical reactions of those molecules. The same functional group will undergo the same or similar chemical reaction(s) regardless of the size of the molecule it is a part of.
+ </para>
+      </meaning></definition>
+      <para id="id78476">In one group of organic compounds called the <emphasis effect="bold">hydrocarbons</emphasis>, the single, double and triple bonds of the alkanes, alkenes and alkynes are examples of functional groups. In another group, the alcohols, an oxygen and a hydrogen atom are bonded to each other to form the functional group for those compounds (in other words an alcohol has an OH in it). All alcohols will contain an oxygen and a hydrogen atom bonded together in some part of the molecule.</para>
+      <para id="id78488"><link target-id="uid18"/> summarises some of the common functional groups. We will look at these in more detail later in this chapter.</para>
+      <table id="uid18" summary="">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Name of group</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Functional group</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Example</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Diagram</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Alk<emphasis effect="italics">ane</emphasis></entry>
+              <entry>
+                <figure id="id78580">
+                  <media id="id78580_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_010.png" id="id78580_onlineimage" width="75"><!-- NOTE: attribute width changes image size online (pixels). original width is 75. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_010.eps" id="id78580_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Ethane</entry>
+              <entry>
+                <figure id="id78601">
+                  <media id="id78601_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_011.png" id="id78601_onlineimage" width="91"><!-- NOTE: attribute width changes image size online (pixels). original width is 91. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_011.eps" id="id78601_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>Alk<emphasis effect="italics">ene</emphasis></entry>
+              <entry>
+                <figure id="id78631">
+                  <media id="id78631_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_012.png" id="id78631_onlineimage" width="70"><!-- NOTE: attribute width changes image size online (pixels). original width is 70. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_012.eps" id="id78631_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Ethene</entry>
+              <entry>
+                <figure id="id78651">
+                  <media id="id78651_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_013.png" id="id78651_onlineimage" width="92"><!-- NOTE: attribute width changes image size online (pixels). original width is 92. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_013.eps" id="id78651_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>Alk<emphasis effect="italics">yne</emphasis></entry>
+              <entry>
+                <figure id="id78681">
+                  <media id="id78681_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_014.png" id="id78681_onlineimage" width="75"><!-- NOTE: attribute width changes image size online (pixels). original width is 75. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_014.eps" id="id78681_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Ethyne (acetylene)</entry>
+              <entry>
+                <figure id="id78701">
+                  <media id="id78701_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_015.png" id="id78701_onlineimage" width="92"><!-- NOTE: attribute width changes image size online (pixels). original width is 92. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_015.eps" id="id78701_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>Halo-alkane</entry>
+              <entry>
+                <figure id="id78727">
+                  <media id="id78727_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_016.png" id="id78727_onlineimage" width="61"><!-- NOTE: attribute width changes image size online (pixels). original width is 61. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_016.eps" id="id78727_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Chloroethane</entry>
+              <entry>
+                <figure id="id78747">
+                  <media id="id78747_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_017.png" id="id78747_onlineimage" width="76"><!-- NOTE: attribute width changes image size online (pixels). original width is 76. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_017.eps" id="id78747_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>Alcoh<emphasis effect="italics">ol</emphasis>/ alkan<emphasis effect="italics">ol</emphasis></entry>
+              <entry>
+                <figure id="id78780">
+                  <media id="id78780_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_018.png" id="id78780_onlineimage" width="59"><!-- NOTE: attribute width changes image size online (pixels). original width is 59. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_018.eps" id="id78780_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Ethanol</entry>
+              <entry>
+                <figure id="id78800">
+                  <media id="id78800_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_019.png" id="id78800_onlineimage" width="92"><!-- NOTE: attribute width changes image size online (pixels). original width is 92. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_019.eps" id="id78800_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>Carboxylic acid</entry>
+              <entry>
+                <figure id="id78825">
+                  <media id="id78825_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_020.png" id="id78825_onlineimage" width="48"><!-- NOTE: attribute width changes image size online (pixels). original width is 48. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_020.eps" id="id78825_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>ethanoic acid</entry>
+              <entry>
+                <figure id="id78846">
+                  <media id="id78846_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_021.png" id="id78846_onlineimage" width="88"><!-- NOTE: attribute width changes image size online (pixels). original width is 88. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_021.eps" id="id78846_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>Amine</entry>
+              <entry>
+                <figure id="id78872">
+                  <media id="id78872_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_022.png" id="id78872_onlineimage" width="63"><!-- NOTE: attribute width changes image size online (pixels). original width is 63. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_022.eps" id="id78872_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Glycine</entry>
+              <entry>
+                <figure id="id78892">
+                  <media id="id78892_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG12C1_023.png" id="id78892_onlineimage" width="124"><!-- NOTE: attribute width changes image size online (pixels). original width is 124. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG12C1_023.eps" id="id78892_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Some functional groups of organic compounds</caption>
+      </table>
+    </section>
+ 
+  </content>
+</document>

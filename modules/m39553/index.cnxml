@@ -1,0 +1,693 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Emission and absorption spectra</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39553</md:content-id>
+  <md:title>Emission and absorption spectra</md:title>
+  <md:abstract/>
+  <md:uuid>e52ffa9e-34bc-414c-9c13-faeac9a8ae70</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Emission and absorption spectra</title>
+      <section id="uid26">
+        <title>Emission Spectra</title>
+        <para id="id132055">You have learnt previously about the structure of an atom. The electrons surrounding the atomic nucleus are arranged in a series of levels of increasing energy. Each element has its own distinct set of energy levels. This arrangement of energy levels serves as the atom's unique fingerprint.</para>
+        <para id="id132061">In the early 1900s, scientists found that a liquid or solid heated to high temperatures would give off a broad range of colours of light. However, a gas heated to similar temperatures would emit light only at certain specific colours (wavelengths). The reason for this observation was not understood at the time.</para>
+        <para id="id132067">Scientists studied this effect using a discharge tube.</para>
+        <figure id="uid27">
+          <media id="uid27_media" alt="">
+            <image mime-type="image/png" src="../../media/discharge_tube.png" id="uid27_onlineimage" width="419"><!-- NOTE: attribute width changes image size online (pixels). original width is 419. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/discharge_tube.eps" id="uid27_printimage"/>
+          </media>
+          <caption>Diagram of a discharge tube. The tube is filled with a gas. When a high enough voltage is applied across the tube, the gas ionises and acts like a conductor, allowing a current to flow through the circuit. The current excites the atoms of the ionised gas. When the atoms fall back to their ground state, they emit photons to carry off the excess energy.</caption>
+        </figure>
+        <para id="id132088">A discharge tube (<link target-id="uid27"/>) is a glass gas-filled tube with a metal plate at both ends. If a large enough voltage difference is applied between the two metal plates, the gas atoms inside the tube will absorb enough energy to make some of their electrons come off i.e. the gas atoms are ionised. These electrons start moving through the gas and create a current, which raises some electrons in other atoms to higher energy levels. Then as the electrons in the atoms fall back down, they emit electromagnetic radiation (light). The amount of light emitted at different wavelengths, called the <emphasis effect="bold">emission spectrum</emphasis>, is shown for a discharge tube filled with hydrogen gas in <link target-id="uid28"/> below. Only certain wavelengths (i.e. colours) of light are seen as shown by the thick black lines in the picture.</para>
+        <figure id="uid28">
+          <media id="uid28_media" alt="">
+            <image mime-type="image/png" src="../../media/hydrogen_emission_spectrum.png" id="uid28_onlineimage" width="384"><!-- NOTE: attribute width changes image size online (pixels). original width is 384. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/hydrogen_emission_spectrum.eps" id="uid28_printimage"/>
+          </media>
+          <caption>Diagram of the emission spectrum of hydrogen in the visible spectrum. Four lines are visible, and are labeled with their wavelengths. The three lines in the 400–500 nm range are in the blue part of the spectrum, while the higher line (656 nm) is in the red/orange part.</caption>
+        </figure>
+        <para id="id132130">Eventually, scientists realized that these lines come from photons of a specific energy, emitted by electrons making transitions between specific energy levels of the atom. <link target-id=""/> shows an example of this happening. When an electron in an atom falls from a higher energy level to a lower energy level, it emits a photon to carry off the extra energy. This photon's energy is equal to the energy difference between the two energy levels. As we previously discussed, the frequency of a photon is related to its energy through the equation <m:math overflow="scroll"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>f</m:mi></m:mrow></m:math>. Since a specific photon frequency (or wavelength) gives us a specific colour, we can see how each coloured line is associated with a specific transition.</para>
+        <figure id="uid29">
+          <media id="uid29_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C10_004.png" id="uid29_onlineimage" width="279"><!-- NOTE: attribute width changes image size online (pixels). original width is 279. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C10_004.eps" id="uid29_printimage"/>
+          </media>
+          <caption>In this diagram are shown some of the electron energy levels for the hydrogen atom. The arrows show the electron transitions from higher energy levels to lower energy levels. The energies of the emitted photons are the same as the energy difference between two energy levels. You can think of absorption as the opposite process. The arrows would point upwards and the electrons would jump up to higher levels when they absorp a photon of the right energy.</caption>
+        </figure>
+        <para id="id132175">Visible light is not the only kind of electromagnetic radiation emitted. More energetic or less energetic transitions can produce ultraviolet or infrared radiation. However, because each atom has its own distinct set of energy levels (its fingerprint!), each atom has its own distinct emission spectrum.</para>
+      </section>
+      <section id="uid30">
+        <title>Absorption spectra</title>
+        <para id="id132190">As you know, atoms do not only emit photons; they also absorb photons. If a photon hits an atom and the energy of the photon is the same as the gap between two electron energy levels in the atom, then the electron can absorb the photon and jump up to the higher energy level. If the atom has no energy level differences that equal the incoming photon's energy, it cannot absorb the photon, and can only scatter it.</para>
+        <para id="id132197">Using this effect, if we have a source of photons of various energies we can obtain the <emphasis effect="bold">absorption spectra</emphasis> for different materials. To get an absorption spectrum, just shine white light on a sample of the material that you are interested in. White light is made up of all the different wavelengths of visible light put together. In the absorption spectrum, the energy levels corresponding to the absorbed photons show up as black lines because the photons of these wavelengths have been absorbed and don't show up. Because of this, the absorption spectrum is the exact <emphasis effect="italics">inverse</emphasis> of the emission spectrum. Look at the two figures below. In <link target-id="uid31"/> you can see the emission lines of hyrodrogen. <link target-id="uid32"/> shows the absorption spectrum. It is the exact opposite of the emission spectrum! Both emission and absorption techniques can be used to get the same information about the energy levels of an atom.</para>
+        <figure id="uid31">
+          <media id="uid31_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C10_005.png" id="uid31_onlineimage" width="275"><!-- NOTE: attribute width changes image size online (pixels). original width is 275. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C10_005.eps" id="uid31_printimage"/>
+          </media>
+          <caption><emphasis effect="italics">Emission</emphasis> spectrum of Hydrogen.</caption>
+        </figure>
+        <figure id="uid32">
+          <media id="uid32_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C10_006.png" id="uid32_onlineimage" width="398"><!-- NOTE: attribute width changes image size online (pixels). original width is 398. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C10_006.eps" id="uid32_printimage"/>
+          </media>
+          <caption><emphasis effect="italics">Absorption</emphasis> spectrum of Hydrogen.</caption>
+        </figure>
+<exercise id="secfhsst_id873"><title> Absorption </title>
+        <problem id="probfhsst_id874">
+        <para id="id132276">I have an unknown gas in a glass container. I shine a bright white light through one side of the container and measure the spectrum of transmitted light. I notice that there is a black line (<emphasis effect="italics">absorption</emphasis> line) in the middle of the visible red band at 642 nm. I have a hunch that the gas might be hydrogen. If I am correct, between which 2 energy levels does this transition occur? (Hint: look at <link target-id="uid29"/> and the transitions which are in the visible part of the spectrum.)
+ </para>
+        </problem>
+        <solution id="solfhsst_id878"> <list id="listfhsst_id878" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> What is given and what needs to be done? </label>
+        <para id="id132315">We have an absorption line at 642 nm. This means that the substance in the glass container absorbed photons with a wavelength of 642 nm.
+We need to calculate which 2 energy levels of hydrogen this transition would correspond to. Therefore we need to know what energy the absorbed photons had.</para>
+        </item> <item> <label> Calculate the energy of the absorbed photons </label>
+        <equation id="id132327">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>E</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>h</m:mi>
+                      <m:mi>c</m:mi>
+                    </m:mrow>
+                    <m:mi>λ</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>63</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>34</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>×</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mn>8</m:mn>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>642</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id132476">The absorbed photons had energy of <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+        </item> <item> <label> Find the energy of the transitions resulting in radiation at visible wavelengths </label>
+        <para id="id132512"><link target-id="uid29"/> shows various energy level transitions. The transitions related to visible wavelengths are marked as the transitions beginning or ending on Energy Level 2.
+Let's find the energy of those transitions and compare with the energy of the absorbed photons we've just calculated.</para>
+        <para id="id132522">Energy of transition (absorption) from Energy Level 2 to Energy Level 3:</para>
+        <equation id="id132526">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>16</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>19</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id132695">Therefore the energy of the photon that an electron must absorb to jump from Energy Level 2 to Energy Level 3 is <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>.
+(NOTE: The minus sign means that <emphasis effect="italics">absorption</emphasis> is occurring.)</para>
+        <para id="id132746">This is the same energy as the photons which were absorbed by the gas in the container! Therefore, since the transitions of all elements are unique, we can say that the gas in the container is hydrogen. The transition is absorption of a photon between Energy Level 2 and Energy Level 3.</para>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid33">
+        <title>Colours and energies of electromagnetic radiation</title>
+        <para id="id132777">We saw in the explanation for why the sky is blue that different <emphasis effect="italics">wavelengths</emphasis> or <emphasis effect="italics">frequencies</emphasis> of light correspond to different <emphasis effect="italics">colours</emphasis> of light. The table below gives the wavelengths and colours of light in the visible spectrum:</para>
+        <table id="uid34" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Colour</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Wavelength range (nm)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>violet</entry>
+                <entry>390 - 455</entry>
+              </row>
+              <row>
+                <entry>blue</entry>
+                <entry>455 - 492</entry>
+              </row>
+              <row>
+                <entry>green</entry>
+                <entry>492 - 577</entry>
+              </row>
+              <row>
+                <entry>yellow</entry>
+                <entry>577 - 597</entry>
+              </row>
+              <row>
+                <entry>orange</entry>
+                <entry>597 - 622</entry>
+              </row>
+              <row>
+                <entry>red</entry>
+                <entry>622 - 780</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Colours and wavelengths of light in the visible spectrum.</caption>
+        </table>
+        <para id="id132971">We also know that the energy of a photon of light can be found from:</para>
+        <equation id="id132975">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>E</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>h</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>h</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                      <m:mi>λ</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id133017">Therefore if we know the frequency or wavelength of light, we can calculate the photon's energy and vice versa.</para>
+<section id="secfhsst_id1161"><title> Investigation : Frequency, wavelength and energy relation </title>
+        <para id="id133032">Refer to <link target-id="uid34"/>: Copy the table into your workbook and add two additional columns.</para>
+        <list id="id133042" display="block" list-type="enumerated">
+          <item id="uid35">In the first new column write down the lower and upper frequencies for each colour of light.
+</item>
+          <item id="uid36">In the second column write down the energy range (in Joules) for each colour of light.
+</item>
+        </list>
+        <para id="id133072">
+          <emphasis effect="bold">Questions</emphasis>
+        </para>
+        <list id="id133079" display="block" list-type="enumerated">
+          <item id="uid37">Which colour of visible light has the highest energy photons?
+</item>
+          <item id="uid38">Which colour of visible light has the lowest energy photons?
+</item>
+        </list>
+        
+</section>
+<para id="eip-107">Discharge lamps (sometimes incorrectly called neon lights) use the spectra of various elements to produce lights of many colours. 
+
+	<figure id="id6358">
+            <media id="id6358_media" alt="">
+            <image mime-type="image/png" src="../../media/discharge-lamps-screenshot.png" id="id6358_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/discharge-lamps-screenshot.eps" id="id6358_printimage"/>
+            </media>
+            </figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/discharge-lamps/discharge-lamps_en.jnlp">run demo</link></para><exercise id="secfhsst_id1180"><title> Colours of light </title>
+        <problem id="probfhsst_id1181">
+        <para id="id133131">A photon of wavelength 500 nm is emitted by a traffic light.</para>
+        <list id="id133137" display="block" list-type="enumerated">
+          <item id="uid39">What is the energy of the photon?
+</item>
+          <item id="uid40">What is the frequency of the photon?
+</item>
+          <item id="uid41">Use <link target-id="uid34"/> to determine the colour of the light.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id1193"> <list id="listfhsst_id1193" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> What information is given and what do we need to find? </label>
+        <para id="id133204">We are given <m:math overflow="scroll"><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mn>500</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> and we need to find the photon's <emphasis effect="italics">energy</emphasis>, <emphasis effect="italics">frequency</emphasis> and <emphasis effect="italics">colour</emphasis>.</para>
+        </item> <item> <label> Use the equation <m:math overflow="scroll"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>c</m:mi></m:mrow><m:mi>λ</m:mi></m:mfrac></m:mrow></m:math> to find the photon's energy </label>
+        <equation id="id133290">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>E</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>h</m:mi>
+                      <m:mi>c</m:mi>
+                    </m:mrow>
+                    <m:mi>λ</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>63</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>34</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>×</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mn>8</m:mn>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>500</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>98</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id133437">The energy of the photon is <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>98</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math> J.</para>
+        </item> <item> <label> We know the energy of the photon, now we can use <m:math overflow="scroll"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>f</m:mi></m:mrow></m:math> to solve for the frequency </label>
+        <equation id="id133492">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>E</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>h</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>f</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>E</m:mi>
+                    <m:mi>h</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>98</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>19</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>63</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>34</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>14</m:mn>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> Hz </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id133623">The frequency of the photon is <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>14</m:mn></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:mi> Hz </m:mi></m:mrow></m:math>.</para>
+        </item> <item> <label> Use the table to find the colour of light </label>
+        <para id="id133662">The wavelength given in the question is 500 nm. We can see in the table that green light has wavelengths between 492 - 577 nm. Therefore 500 nm is in this range so the colour of the light is <emphasis effect="bold">green</emphasis>.</para>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1390"><title> Colours and energies of light </title>
+        <problem id="probfhsst_id1391">
+        <para id="id133701">I have some sources which emit light of the following wavelengths:</para>
+        <list id="id133707" display="block" list-type="enumerated">
+          <item id="uid42">400 nm,
+</item>
+          <item id="uid43">580 nm,
+</item>
+          <item id="uid44">650 nm,
+</item>
+          <item id="uid45">300 nm.
+</item>
+        </list>
+        <para id="id133760">What are the colours of light emitted by the sources (see <link target-id="uid34"/>)? Which source emits photons with the highest energy and which with the lowest energy?
+ </para>
+        </problem>
+        <solution id="solfhsst_id1406"> <list id="listfhsst_id1406" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> What information is given, and what do we need to do? </label>
+        <para id="id133787">Four wavelengths of light are given and we need to find their <emphasis effect="italics">colours</emphasis>.</para>
+        <para id="id133797">We also need to find which colour photon has the highest energy and which one has the lowest energy.</para>
+        </item> <item> <label> To find the colours of light, we can compare the wavelengths to those given in <link target-id="uid34"/> </label>
+        <list id="id133811" display="block" list-type="enumerated">
+          <item id="uid46">400 nm falls into the range for <emphasis effect="italics">violet</emphasis> light (390 - 455 nm).
+</item>
+          <item id="uid47">580 nm falls into the range for <emphasis effect="italics">yellow</emphasis> light (577 - 597 nm).
+</item>
+          <item id="uid48">650 nm falls into the range for <emphasis effect="italics">red</emphasis> light (622 - 780 nm).
+</item>
+          <item id="uid49">300 nm is not shown in the table. However, this wavelength is just a little shorter than the shortest wavelength in the violet range. Therefore 300 nm is <emphasis effect="italics">ultraviolet</emphasis>.
+</item>
+        </list>
+        </item> <item> <label> To find the colour of the light whose photons have the highest and lowest energies respectively, we need to calculate the energies of all the photons </label>
+        <para id="id133893">We know <m:math overflow="scroll"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>c</m:mi></m:mrow><m:mi>λ</m:mi></m:mfrac></m:mrow></m:math></para>
+        <para id="id133918">For 400 nm:
+<equation id="id133925"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi>E</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>c</m:mi></m:mrow><m:mi>λ</m:mi></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mo>)</m:mo></m:mrow><m:mo>×</m:mo><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>400</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>97</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.--></para>
+        <para id="id134077">For 580 nm:
+<equation id="id134085"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi>E</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>c</m:mi></m:mrow><m:mi>λ</m:mi></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mo>)</m:mo></m:mrow><m:mo>×</m:mo><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>580</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>43</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.--></para>
+        <para id="id134237">For 650 nm:
+<equation id="id134245"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi>E</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>c</m:mi></m:mrow><m:mi>λ</m:mi></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mo>)</m:mo></m:mrow><m:mo>×</m:mo><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>650</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>06</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.--></para>
+        <para id="id134397">For 300 nm:
+<equation id="id134405"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi>E</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mi>h</m:mi><m:mi>c</m:mi></m:mrow><m:mi>λ</m:mi></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mo>)</m:mo></m:mrow><m:mo>×</m:mo><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>300</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.--></para>
+        <para id="id134558">Therefore, the photons with the highest energy are the <emphasis effect="bold">ultraviolet</emphasis> photons.</para>
+        <para id="id134568">The photons with the lowest energy are from light which is <emphasis effect="bold">red</emphasis>.</para>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid50">
+        <title>Applications of emission and absorption spectra</title>
+        <para id="id134604">The study of spectra from stars and galaxies in astronomy is called <emphasis effect="italics">spectroscopy</emphasis>. Spectroscopy is a tool widely used in astronomy to learn different things about astronomical objects.</para>
+        <section id="uid51">
+          <title>Identifying elements in astronomical objects using their spectra</title>
+          <para id="id134624">Measuring the spectrum of light from a star can tell astronomers what the star is made of! Since each element emits or absorbs light only at particular wavelengths, astronomers can identify what elements are in the stars from the lines in their spectra. From studying the spectra of many stars we know that there are many different types of stars which contain different elements and in different amounts.</para>
+        </section>
+        <section id="uid52">
+          <title>Determining velocities of galaxies using spectroscopy</title>
+          <para id="id134645">You have already learned in Chapter <link target-id=""/> about the Doppler effect and how the frequency (and wavelength) of sound waves changes depending on whether the object emitting the sound is moving <emphasis effect="italics">towards</emphasis> or <emphasis effect="italics">away</emphasis> from you. The same thing happens to electromagnetic radiation (light). If the object emitting the light is moving <emphasis effect="italics">towards</emphasis> us, then the wavelength of the light appears shorter (called <emphasis effect="bold">blue-shifted</emphasis>). If the object is moving <emphasis effect="italics">away</emphasis> from us, then the wavelength of its light appears stretched out (called <emphasis effect="bold">red-shifted</emphasis>).</para>
+          <para id="id134689">The Doppler effect affects the spectra of objects in space depending on their motion relative to us on the earth. For example, the light from a distant galaxy, which is moving away from us at some velocity, will appear red-shifted. This means that the emission and absorption lines in the galaxy's spectrum will be shifted to a longer wavelength (lower frequency). Knowing where each line in the spectrum would normally be if the galaxy was not moving, and comparing to their red-shifted positions, allows astronomers to precisely measure the velocity of the galaxy relative to the earth!</para>
+        </section>
+        <section id="uid53">
+          <title>Global warming and greenhouse gases</title>
+          <para id="id134707">The sun emits radiation (light) over a range of wavelengths which are mainly in the visible part of the spectrum. Radiation at these wavelengths passes through the gases of the atmosphere to warm the land and the oceans below. The warm earth then radiates this heat at longer infrared wavelengths. Carbon-dioxide (one of the main greenhouse gases) in the atmosphere has energy levels which correspond to the infrared wavelengths which allow it to absorb the infrared radiation. It then also emits at infrared wavelengths in all directions. This effect stops a large amount of the infrared radiation getting out of the atmosphere, which causes the atmosphere and the earth to heat up. More radiation is coming in than is getting back out.</para>
+          <para id="id134717">
+            <figure id="id134720">
+              <media id="id134720_media" alt="">
+                <image mime-type="image/png" src="../../media/PG12C10_007.png" id="id134720_onlineimage" width="448"><!-- NOTE: attribute width changes image size online (pixels). original width is 448. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG12C10_007.eps" id="id134720_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id134727">Therefore increasing the amount of greenhouse gases in the atmosphere increases the amount of trapped infrared radiation and therefore the overall temperature of the earth. The earth is a very sensitive and complicated system upon which life depends and changing the delicate balances of temperature and atmospheric gas content may have disastrous consequences if we are not careful.</para>
+<section id="secfhsst_id1461"><title> Investigation : The greenhouse effect </title>
+          <para id="id134741">In pairs try to find the following information (e.g. in books, on the internet) and report back to the class in a 5 minute presentation which includes the following:</para>
+          <list id="id134748" display="block" list-type="enumerated">
+            <item id="uid54">What other gases besides carbon dioxide are responsible for the greenhouse effect?
+</item>
+            <item id="uid55">Where do greenhouse gases come from? (are they human-made or natural?)
+</item>
+            <item id="uid56">Investigate one serious side-effect which could arise if the earth's temperature were to go up significantly. Present some ways in which this effect could be avoided.
+</item>
+          </list>
+          
+</section>
+<section id="secfhsst_id1473"><title> Emission and absorption spectra </title>
+          <list id="id134807" display="block" list-type="enumerated">
+            <item id="uid57">Explain how atomic emission spectra arise and how they relate to each element on the periodic table.
+</item>
+            <item id="uid58">How do the lines on the atomic spectrum relate to electron transitions between energy levels?
+</item>
+            <item id="uid59">Explain the difference between atomic absorption and emission spectra.
+</item>
+            <item id="uid60">Describe how the absorption and emission spectra of the gases in the atmosphere give rise to the Greenhouse Effect.
+</item>
+            <item id="uid61">Using <link target-id="uid34"/> calculate the frequency range for yellow light.
+</item>
+            <item id="uid62">What colour is the light emitted by hydrogen when an electron makes the transition from energy level 5 down to energy level 2? (Use <link target-id="uid29"/> to find the energy of the released photon.)
+</item>
+            <item id="uid63">I have a glass tube filled with hydrogen gas. I shine white light onto the tube. The spectrum I then measure has an absorption line at a wavelength of 474 nm. Between which two energy levels did the transition occur? (Use <link target-id="uid29"/> in solving the problem.)
+</item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

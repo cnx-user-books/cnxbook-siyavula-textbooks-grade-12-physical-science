@@ -1,0 +1,1128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The equilibrium constant</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39473</md:content-id>
+  <md:title>The equilibrium constant</md:title>
+  <md:abstract/>
+  <md:uuid>9d8156f8-3124-488d-be81-1ac1c9f67afd</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid8">
+      <title>The equilibrium constant</title>
+<definition id="fhsst_id1497"><term id="termfhsst_id1497"> Equilibrium constant </term> <meaning id="meaningfhsst_id1497">
+      <para id="id90622">The equilibrium constant (K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math>), relates to a chemical reaction at equilibrium. It can be calculated if the equilibrium concentration of each reactant and product in a reaction at equilibrium is known.
+ </para>
+      </meaning></definition>
+      <section id="uid121">
+        <title>Calculating the equilibrium constant</title>
+        <para id="id90657">Consider the following generalised reaction which takes place in a <emphasis effect="bold">closed</emphasis> container at a <emphasis effect="bold">constant temperature</emphasis>:</para>
+        <para id="id90672">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>B</m:mi>
+              <m:mo>⇌</m:mo>
+              <m:mi>C</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>D</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id90699">We know from <link target-id="cid3">"Factors affecting reaction rates"</link> that the rate of the forward reaction is directly proportional to the concentration of the reactants. In other words, as the concentration of the reactants increases, so does the rate of the forward reaction. This can be shown using the following equation:</para>
+        <para id="id90709">Rate of forward reaction <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> [A][B]</para>
+        <para id="id90724">or</para>
+        <para id="id90730">Rate of forward reaction = k<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math>[A][B]</para>
+        <para id="id90749">Similarly, the rate of the reverse reaction is directly proportional to the concentration of the products. This can be shown using the following equation:</para>
+        <para id="id90754">Rate of reverse reaction <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> [C][D]</para>
+        <para id="id90768">or</para>
+        <para id="id90774">Rate of reverse reaction = k<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>[C][D]</para>
+        <para id="id90793">At equilibrium, the rate of the forward reaction is equal to the rate of the reverse reaction. This can be shown using the following equation:</para>
+        <equation id="id90798">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>k</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>[</m:mo>
+                <m:mi>A</m:mi>
+                <m:mo>]</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mo>[</m:mo>
+                <m:mi>B</m:mi>
+                <m:mo>]</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>k</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>[</m:mo>
+                <m:mi>C</m:mi>
+                <m:mo>]</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mo>[</m:mo>
+                <m:mi>D</m:mi>
+                <m:mo>]</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id90854">or</para>
+        <equation id="id90860">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>k</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>k</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:mi>C</m:mi>
+                  <m:mo>]</m:mo>
+                  <m:mo>[</m:mo>
+                  <m:mi>D</m:mi>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:mi>A</m:mi>
+                  <m:mo>]</m:mo>
+                  <m:mo>[</m:mo>
+                  <m:mi>B</m:mi>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id90919">or, if the constants k<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> and k<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> are simplified to a single constant, the equation becomes:</para>
+        <equation id="id90949">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>k</m:mi>
+                <m:mi>c</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:mi>C</m:mi>
+                  <m:mo>]</m:mo>
+                  <m:mo>[</m:mo>
+                  <m:mi>D</m:mi>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:mi>A</m:mi>
+                  <m:mo>]</m:mo>
+                  <m:mo>[</m:mo>
+                  <m:mi>B</m:mi>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id90998">A more general form of the equation for a reaction at chemical equilibrium is:</para>
+        <para id="id91002">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>a</m:mi>
+              <m:mi>A</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>b</m:mi>
+              <m:mi>B</m:mi>
+              <m:mo>⇌</m:mo>
+              <m:mi>c</m:mi>
+              <m:mi>C</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>d</m:mi>
+              <m:mi>D</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id91037">where A and B are reactants, C and D are products and a, b, c, and d are the coefficients of the respective reactants and products. A more general formula for calculating the equilibrium constant is therefore:</para>
+        <equation id="id91042">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>K</m:mi>
+                <m:mi>c</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>[</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mo>]</m:mo>
+                    </m:mrow>
+                    <m:mi>c</m:mi>
+                  </m:msup>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>[</m:mo>
+                      <m:mi>D</m:mi>
+                      <m:mo>]</m:mo>
+                    </m:mrow>
+                    <m:mi>d</m:mi>
+                  </m:msup>
+                </m:mrow>
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>[</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:mo>]</m:mo>
+                    </m:mrow>
+                    <m:mi>a</m:mi>
+                  </m:msup>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>[</m:mo>
+                      <m:mi>B</m:mi>
+                      <m:mo>]</m:mo>
+                    </m:mrow>
+                    <m:mi>b</m:mi>
+                  </m:msup>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id91117">It is important to note that if a reactant or a product in a chemical reaction is in either the <emphasis effect="bold">liquid</emphasis> or <emphasis effect="bold">solid</emphasis> phase, the concentration stays constant during the reaction. Therefore, these values can be left out of the equation to calculate K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math>. For example, in the following reaction:</para>
+        <para id="id91148">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <equation id="id91221">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>K</m:mi>
+                <m:mi>c</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:mi>C</m:mi>
+                    <m:mi>O</m:mi>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:msub>
+                    <m:mi>H</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mi>O</m:mi>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+<note id="notfhsst_id1775" type="tip">
+        <list id="id91286" display="block" list-type="enumerated">
+          <item id="uid122">The constant <m:math overflow="scroll"><m:msub><m:mi>K</m:mi><m:mi>c</m:mi></m:msub></m:math> is affected by temperature and so, if the values of <m:math overflow="scroll"><m:msub><m:mi>K</m:mi><m:mi>c</m:mi></m:msub></m:math> are being compared for different reactions, it is important that all the reactions have taken place at the same temperature.
+</item>
+          <item id="uid123">K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> values do not have units. If you look at the equation, the units all cancel each other out.
+</item>
+        </list>
+</note>
+      </section>
+      <section id="uid124">
+        <title>The meaning of K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> values</title>
+        <para id="id91385">The formula for K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> has the concentration of the products in the numerator and the concentration of reactants in the denominator. So a <emphasis effect="italics">high K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math></emphasis> value means that the concentration of products is high and the reaction has a high yield. We can also say that the equilibrium lies far to the right. The opposite is true for a low K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> value. A <emphasis effect="italics">low K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> value</emphasis> means that, at equilibrium, there are more reactants than products and therefore the yield is low. The equilibrium for the reaction lies far to the left.</para>
+<note id="notfhsst_id1787" type="tip">Calculations made easy
+</note>
+        <para id="id91465">When you are busy with calculations that involve the equilibrium constant, the following tips may help:</para>
+        <list id="id91469" display="block" list-type="enumerated">
+          <item id="uid125">
+Make sure that you always read the question carefully to be sure of what you are being asked to calculate. If the equilibrium constant is involved, make sure that the concentrations you use are the concentrations <emphasis effect="bold">at equilibrium</emphasis>, and not the concentrations or quantities that are present at some other time in the reaction.
+</item>
+          <item id="uid126">When you are doing more complicated calculations, it sometimes helps to draw up a table like the one below and fill in the <emphasis effect="bold">mole values</emphasis> that you know or those you can calculate. This will give you a clear picture of what is happening in the reaction and will make sure that you use the right values in your calculations.
+<table id="id91513" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">Reactant 1</emphasis></entry><entry><emphasis effect="bold">Reactant 2</emphasis></entry><entry><emphasis effect="bold">Product 1</emphasis></entry></row><row><entry>Start of reaction</entry><entry/><entry/><entry/></row><row><entry>Used up</entry><entry/><entry/><entry/></row><row><entry>Produced</entry><entry/><entry/><entry/></row><row><entry>Equilibrium</entry><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+        </list>
+<exercise id="secfhsst_id1797"><title> Calculating K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> </title>
+        <problem id="probfhsst_id1798">
+        <para id="id91731">For the reaction:</para>
+        <para id="id91736">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>S</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mi>N</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>→</m:mo>
+              <m:mi>N</m:mi>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mi>S</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id91818">the concentration of the reagents is as follows:</para>
+        <para id="id91821">[SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>] = 0.2 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id91853">[NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>] = 0.1 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id91884">[NO] = 0.4 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id91902">[SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>] = 0.2 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id91934">Calculate the value of K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math>.</para>
+        
+        </problem>
+        <solution id="solfhsst_id1854"> <list id="listfhsst_id1854" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Write the equation for k<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> </label>
+        <equation id="id91989">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>K</m:mi>
+                <m:mi>c</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:mi>N</m:mi>
+                    <m:mi>O</m:mi>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:mi>S</m:mi>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                </m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:mi>S</m:mi>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:mi>N</m:mi>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Fill in the values you know for this equation and calculate K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> </label>
+        <equation id="id92084">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>K</m:mi>
+                <m:mi>c</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>4</m:mn>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1947"><title> Calculating reagent concentration </title>
+        <problem id="probfhsst_id1948">
+        <para id="id92180">For the reaction:</para>
+        <para id="id92186">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>S</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:mi>S</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <list id="id92244" display="block" list-type="enumerated">
+          <item id="uid127">Write an equation for the equilibrium constant.
+</item>
+          <item id="uid128">Calculate the equilibrium concentration of <m:math overflow="scroll"><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:math> if K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math>=6 and
+[<m:math overflow="scroll"><m:mrow><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>]</m:mo><m:mo>=</m:mo><m:mn>3</m:mn><m:mi>m</m:mi><m:mi>o</m:mi><m:mi>l</m:mi><m:mo>.</m:mo><m:mi>d</m:mi></m:mrow><m:msup><m:mi>m</m:mi><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow></m:math> at equilibrium.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id1992"> <list id="listfhsst_id1992" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Write the equation for K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> </label>
+        <equation id="id92381">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>K</m:mi>
+                <m:mi>c</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:mi>S</m:mi>
+                  <m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id92430">(Sulfur is left out of the equation because it is a solid and its concentration stays constant during the reaction)</para>
+        </item> <item> <label> Re-arrange the equation so that oxygen is on its own on one side of the equation </label>
+        <equation id="id92440">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mo>[</m:mo>
+                <m:msub>
+                  <m:mi>O</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>]</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:mi>S</m:mi>
+                  <m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+                <m:msub>
+                  <m:mi>K</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Fill in the values you know and calculate [O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>] </label>
+        <equation id="id92507">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mo>[</m:mo>
+                <m:msub>
+                  <m:mi>O</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>]</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mi>m</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>l</m:mi>
+                  <m:mo>.</m:mo>
+                  <m:mi>d</m:mi>
+                  <m:msup>
+                    <m:mi>m</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+                <m:mn>6</m:mn>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>5</m:mn>
+              <m:mi>m</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>l</m:mi>
+              <m:mo>.</m:mo>
+              <m:mi>d</m:mi>
+              <m:msup>
+                <m:mi>m</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2109"><title> Equilibrium calculations </title>
+        <problem id="probfhsst_id2110">
+        <para id="id92620">Initially 1.4 moles of NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>(g) is introduced into a sealed 2.0 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> reaction vessel. The ammonia decomposes when the temperature is increased to 600K and reaches equilibrium as follows:</para>
+        <para id="id92657">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:mi>N</m:mi>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:msub>
+                <m:mi>N</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>3</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id92724">When the equilibrium mixture is analysed, the concentration of NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>(g) is 0.3 mol<m:math overflow="scroll"><m:mo>·</m:mo></m:math>dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        <list id="id92764" display="block" list-type="enumerated">
+          <item id="uid129">Calculate the concentration of N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g) and H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g) in the equilibrium mixture.
+</item>
+          <item id="uid130">Calculate the equilibrium constant for the reaction at 900 K.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id2159"> <list id="listfhsst_id2159" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Calculate the number of moles of NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> at equilibrium. </label>
+        <equation id="id92854">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>c</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>n</m:mi>
+                <m:mi>V</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id92874">Therefore,</para>
+        <equation id="id92877">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>c</m:mi>
+              <m:mo>×</m:mo>
+              <m:mi>V</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>3</m:mn>
+              <m:mo>×</m:mo>
+              <m:mn>2</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>6</m:mn>
+              <m:mi>m</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>l</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Calculate the number of moles of ammonia that react (are 'used up') in the reaction. </label>
+        <para id="id92931">Moles used up = 1.4 - 0.6 = 0.8 moles</para>
+        </item> <item> <label> Calculate the number of moles of product that are formed. </label>
+        <para id="id92941">Remember to use the mole ratio of reactants to products to do this. In this case, the ratio of NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>:N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>:H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 2:1:3. Therefore, if 0.8 moles of ammonia are used up in the reaction, then 0.4 moles of nitrogen are produced and 1.2 moles of hydrogen are produced.</para>
+        </item> <item> <label> Complete the following table </label>
+        <table id="id92992" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry/>
+                <entry>
+                  <emphasis effect="bold">NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Start of reaction</entry>
+                <entry>1.4</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>Used up</entry>
+                <entry>0.8</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>Produced</entry>
+                <entry>0</entry>
+                <entry>0.4</entry>
+                <entry>1.2</entry>
+              </row>
+              <row>
+                <entry>Equilibrium</entry>
+                <entry>0.6</entry>
+                <entry>0.4</entry>
+                <entry>1.2</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> Using the values in the table, calculate [N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>] and [H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>] </label>
+        <equation id="id93260">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mo>[</m:mo>
+                <m:msub>
+                  <m:mi>N</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>]</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>n</m:mi>
+                <m:mi>V</m:mi>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>2</m:mn>
+              <m:mspace width="4pt"/>
+              <m:mi>m</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>l</m:mi>
+              <m:mo>.</m:mo>
+              <m:mi>d</m:mi>
+              <m:msup>
+                <m:mi>m</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id93338">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mo>[</m:mo>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>]</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>n</m:mi>
+                <m:mi>V</m:mi>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>6</m:mn>
+              <m:mspace width="4pt"/>
+              <m:mi>m</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>l</m:mi>
+              <m:mo>.</m:mo>
+              <m:mi>d</m:mi>
+              <m:msup>
+                <m:mi>m</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Calculate K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> </label>
+        <equation id="id93433">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>K</m:mi>
+                <m:mi>c</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>[</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>]</m:mo>
+                    </m:mrow>
+                    <m:mn>3</m:mn>
+                  </m:msup>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:msub>
+                      <m:mi>N</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                </m:mrow>
+                <m:msup>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:mi>N</m:mi>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>3</m:mn>
+                  </m:msup>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+                <m:msup>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>48</m:mn>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2423"><title> Calculating K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math>
+        </title>
+        <problem id="probfhsst_id2425">
+        <para id="id93613">Hydrogen and iodine gas react according to the following equation:</para>
+        <para id="id93620">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>I</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>H</m:mi>
+              <m:mi>I</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id93679">When 0.496 mol <m:math overflow="scroll"><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:math> and 0.181 mol <m:math overflow="scroll"><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:math> are heated at <m:math overflow="scroll"><m:msup><m:mn>450</m:mn><m:mi>o</m:mi></m:msup></m:math>C in a 1 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> container, the equilibrium mixture is found to contain 0.00749 mol <m:math overflow="scroll"><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:math>. Calculate the equilibrium constant for the reaction at <m:math overflow="scroll"><m:msup><m:mn>450</m:mn><m:mi>o</m:mi></m:msup></m:math>C.</para>   
+        </problem>
+        <solution id="solfhsst_id2464"><para id="uid325"/> <list id="listfhsst_id2464" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Calculate the number of moles of iodine used in the reaction. </label>
+        <para id="uid3235">Moles of iodine used = 0.181 - 0.00749 = 0.1735 mol</para> </item>
+        <item> <label> Calculate the number of moles of hydrogen that are used up in the reaction. </label>
+        <para id="id93818">The mole ratio of hydrogen:iodine = 1:1, therefore 0.1735 moles of hydrogen must also be used up in the reaction.</para>
+        </item> <item> <label> Calculate the number of moles of hydrogen iodide that are produced. </label>
+        <para id="id93829">The mole ratio of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>:I<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>:HI = 1:1:2, therefore the number of moles of HI produced is 0.1735 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 2 = 0.347 mol.</para>
+        <para id="id93868">So far, the table can be filled in as follows:</para>
+        <table id="id93874" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry/>
+                <entry>
+                  <emphasis effect="bold">H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> (g)</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">I<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">2HI</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Start of reaction</entry>
+                <entry>0.496</entry>
+                <entry>0.181</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>Used up</entry>
+                <entry>0.1735</entry>
+                <entry>0.1735</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>Produced</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0.347</entry>
+              </row>
+              <row>
+                <entry>Equilibrium</entry>
+                <entry>0.3225</entry>
+                <entry>0.0075</entry>
+                <entry>0.347</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> Calculate the concentration of each of the reactants and products at equilibrium. </label>
+        <equation id="id94108">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>c</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>n</m:mi>
+                <m:mi>V</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id94129">Therefore the equilibrium concentrations are as follows:</para>
+        <para id="id94133">[H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>] = 0.3225 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id94164">[I<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>] = 0.0075 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id94196">[HI] = 0.347 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        </item> <item> <label> Calculate K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> </label>
+        <equation id="id94233">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>K</m:mi>
+                <m:mi>c</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mo>[</m:mo>
+                  <m:mi>H</m:mi>
+                  <m:mi>I</m:mi>
+                  <m:mo>]</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>[</m:mo>
+                    <m:msub>
+                      <m:mi>I</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>]</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>347</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>3225</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>0075</m:mn>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>143</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>47</m:mn>
+            </m:mrow>
+          </m:math>
+        </equation>
+</item> </list> </solution>
+</exercise>
+<section id="secfhsst_id2594"><title> The equilibrium constant
+        </title>
+        <list id="id94340" display="block" list-type="enumerated">
+          <item id="uid131">Write the equilibrium constant expression, K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> for the following reactions:
+<list id="id94370" display="block" list-type="enumerated"><item id="uid132"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi> NO </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi> Cl </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mn>2</m:mn><m:mi> NOCl </m:mi></m:mrow></m:math></item><item id="uid133"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">I</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:mn>2</m:mn><m:mi> HI </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item></list></item>
+          <item id="uid134">The following reaction takes place:
+<m:math overflow="scroll"><m:mrow><m:msup><m:mi> Fe </m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:msubsup><m:mi> FeCl </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> for the reaction is 7.5 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math> mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>. At equilibrium, the concentration of FeCl<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:math> is 0.95 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow></m:msup></m:math> mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> and the concentration of free iron (Fe<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>) is 0.2 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>. Calculate the concentration of chloride ions at equilibrium.
+</item>
+          <item id="uid135">Ethanoic acid (CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>COOH) reacts with ethanol (CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>OH) to produce ethyl ethanoate and water. The reaction is:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:mi> COOH </m:mi><m:mo>+</m:mo><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi> CH </m:mi><m:mn>2</m:mn></m:msub><m:mi> OH </m:mi><m:mo>→</m:mo><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi> COOCH </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math>
+At the beginning of the reaction, there are 0.5 mols of ethanoic acid and 0.5 mols of ethanol. At equilibrium, 0.3 mols of ethanoic acid was left unreacted. The volume of the reaction container is 2 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. Calculate the value of K<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math>.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

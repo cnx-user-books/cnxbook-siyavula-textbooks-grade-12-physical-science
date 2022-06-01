@@ -1,0 +1,299 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The fertilizer industry</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39482</md:content-id>
+  <md:title>The fertilizer industry</md:title>
+  <md:abstract/>
+  <md:uuid>767d0a86-ef1f-4699-a39c-dda2730b43b5</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>The Fertiliser Industry</title>
+      <section id="uid82">
+        <title>The value of nutrients</title>
+        <para id="id204413">Nutrients are very important for life to exist. An <emphasis effect="bold">essential nutrient</emphasis> is any chemical element that is needed for a plant to be able to grow from a seed and complete its life cycle. The same is true for animals. A <emphasis effect="italics">macronutrient</emphasis> is one that is required in large quantities by the plant or animal, while a <emphasis effect="italics">micronutrient</emphasis> is one that only needs to be present in small amounts for a plant or an animal to function properly.</para>
+<definition id="fhsst_id452"><term id="termfhsst_id452"> Nutrient </term> <meaning id="meaningfhsst_id452">
+        <para id="id204443">A nutrient is a substance that is used in an organism's metabolism or physiology and which must be taken in from the environment.
+ </para>
+        </meaning></definition>
+        <para id="id204456">In plants, the macronutrients include carbon (C), hydrogen (H), oxygen (O), nitrogen (N), phosphorus (P) and potassium (K). The source of each of these nutrients for plants, and their function, is summarised in <link target-id="uid83"/>. Examples of micronutrients in plants include iron, chlorine, copper and zinc.</para>
+        <table id="uid83" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Nutrient</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Source</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Function</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Carbon</entry>
+                <entry>Carbon dioxide in the air</entry>
+                <entry>Component of organic molecules such as carbohydrates, lipids and proteins</entry>
+              </row>
+              <row>
+                <entry>Hydrogen</entry>
+                <entry>Water from the soil</entry>
+                <entry>Component of organic molecules</entry>
+              </row>
+              <row>
+                <entry>Oxygen</entry>
+                <entry>Water from the soil</entry>
+                <entry>Component of organic molecules</entry>
+              </row>
+              <row>
+                <entry>Nitrogen</entry>
+                <entry>Nitrogen compounds in the soil</entry>
+                <entry>Part of plant proteins and chlorophyll. Also boosts plant growth.</entry>
+              </row>
+              <row>
+                <entry>Phosphorus</entry>
+                <entry>Phosphates in the soil</entry>
+                <entry>Needed for photosynthesis, blooming and root growth</entry>
+              </row>
+              <row>
+                <entry>Potassium</entry>
+                <entry>Soil</entry>
+                <entry>Building proteins, part of chlorophyll and reduces diseases in plants</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>The source and function of the macronutrients in plants</caption>
+        </table>
+        <para id="id204700">Animals need similar nutrients in order to survive. However since animals can't photosynthesise, they rely on plants to supply them with the nutrients they need. Think for example of the human diet. We can't make our own food and so we either need to eat vegetables, fruits and seeds (all of which are direct plant products) or the meat of other animals which would have fed on plants during their life. So most of the nutrients that animals need are obtained either directly or indirectly from plants. <link target-id="uid84"/> summarises the functions of some of the macronutrients in animals.</para>
+        <table id="uid84" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Nutrient</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Function</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Carbon</entry>
+                <entry>Component of organic compounds</entry>
+              </row>
+              <row>
+                <entry>Hydrogen</entry>
+                <entry>Component of organic compounds</entry>
+              </row>
+              <row>
+                <entry>Oxygen</entry>
+                <entry>Component of organic compounds</entry>
+              </row>
+              <row>
+                <entry>Nitrogen</entry>
+                <entry>Component of nucleic acids and proteins</entry>
+              </row>
+              <row>
+                <entry>Phosphorus</entry>
+                <entry>Component of nucleic acids and phospholipids</entry>
+              </row>
+              <row>
+                <entry>Potassium</entry>
+                <entry>Helps in coordination and regulating the water balance in the body</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>The functions of animal macronutrients</caption>
+        </table>
+        <para id="id204886">Micronutrients also play an important function in animals. Iron for example, is found in haemoglobin, the blood pigment that is responsible for transporting oxygen to all the cells in the body.</para>
+        <para id="id204891">Nutrients then, are essential for the survival of life. Importantly, obtaining nutrients starts with plants, which are able either to photosynthesise or to absorb the required nutrients from the soil. It is important therefore that plants are always able to access the nutrients that they need so that they will grow and provide food for other forms of life.</para>
+      </section>
+      <section id="uid85">
+        <title>The Role of fertilisers</title>
+        <para id="id204910">Plants are only able to absorb soil nutrients in a particular form. Nitrogen for example, is absorbed as <emphasis effect="bold">nitrates</emphasis>, while phosphorus is absorbed as <emphasis effect="bold">phosphates</emphasis>. The <emphasis effect="bold">nitrogen cycle</emphasis> (Grade 10) describes the process that is involved in converting atmospheric nitrogen into a form that can be used by plants.</para>
+        <para id="id204933">However, all these natural processes of maintaining soil nutrients take a long time. As populations grow and the demand for food increases, there is more and more strain on the land to produce food. Often, cultivation practices don't give the soil enough time to recover and to replace the nutrients that have been lost. Today, <emphasis effect="bold">fertilisers</emphasis> play a very important role in restoring soil nutrients so that crop yields stay high. Some of these fertilisers are <emphasis effect="bold">organic</emphasis> (e.g. compost, manure and fishmeal), which means that they started off as part of something living. Compost for example is often made up of things like vegetable peels and other organic remains that have been thrown away. Others are <emphasis effect="bold">inorganic</emphasis> and can be made industrially. The advantage of these commercial fertilisers is that the nutrients are in a form that can be absorbed immediately by the plant.</para>
+<definition id="fhsst_id552"><term id="termfhsst_id552"> Fertiliser </term> <meaning id="meaningfhsst_id552">
+        <para id="id204970">A fertiliser is a compound that is given to a plant to promote growth. Fertilisers usually provide the three major plant nutrients and most are applied via the soil so that the nutrients are absorbed by plants through their roots.
+ </para>
+        </meaning></definition>
+        <para id="id204983">When you buy fertilisers from the shop, you will see three numbers on the back of the packet e.g. 18-24-6. These numbers are called the <emphasis effect="bold">NPK ratio</emphasis>, and they give the percentage of nitrogen, phosphorus and potassium in that fertiliser. Depending on the types of plants you are growing, and the way in which you would like them to grow, you may need to use a fertiliser with a slightly different ratio. If you want to encourage root growth in your plant for example, you might choose a fertiliser with a greater amount of phosphorus. Look at the table below, which gives an idea of the amounts of nitrogen, phosphorus and potassium there are in different types of fertilisers. Fertilisers also provide other nutrients such as calcium, sulfur and magnesium.</para>
+        <table id="uid86" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Description</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Grade (NPK %)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Ammonium nitrate</entry>
+                <entry>34-0-0</entry>
+              </row>
+              <row>
+                <entry>Urea</entry>
+                <entry>46-0-0</entry>
+              </row>
+              <row>
+                <entry>Bone Meal</entry>
+                <entry>4-21-1</entry>
+              </row>
+              <row>
+                <entry>Seaweed</entry>
+                <entry>1-1-5</entry>
+              </row>
+              <row>
+                <entry>Starter fertilisers</entry>
+                <entry>18-24-6</entry>
+              </row>
+              <row>
+                <entry>Equal NPK fertilisers</entry>
+                <entry>12-12-12</entry>
+              </row>
+              <row>
+                <entry>High N, low P and medium K fertilisers</entry>
+                <entry>25-5-15</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Common grades of some fertiliser materials</caption>
+        </table>
+      </section>
+      <section id="uid87">
+        <title>The Industrial Production of Fertilisers</title>
+        <para id="id205203">The industrial production of fertilisers may involve several processes.</para>
+        <list id="id205207" display="block" list-type="enumerated">
+          <item id="uid88"><emphasis effect="bold">Nitrogen fertilisers</emphasis>
+Making <emphasis effect="bold">nitrogen fertilisers</emphasis> involves producing <emphasis effect="italics">ammonia</emphasis>, which is then reacted with <emphasis effect="italics">oxygen</emphasis> to produce <emphasis effect="italics">nitric acid</emphasis>. Nitric acid is used to acidify phosphate rock to produce nitrogen fertilisers. The flow diagram below illustrates the processes that are involved. Each of these steps will be examined in more detail.
+<figure id="uid89"><media id="uid89_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_012.png" id="uid89_onlineimage" width="290"><!-- NOTE: attribute width changes image size online (pixels). original width is 290. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_012.eps" id="uid89_printimage"/></media><caption>Flow diagram showing steps in the production of nitrogen fertilisers</caption></figure><list id="id205267" display="block" list-type="enumerated"><item id="uid90"><emphasis effect="bold">The Haber Process</emphasis>
+The Haber process involves the reaction of nitrogen and hydrogen to produce ammonia. <emphasis effect="bold">Nitrogen</emphasis> is produced through the <emphasis effect="bold">fractional distillation</emphasis> of air. Fractional distillation is the separation of a mixture (remember that air is a mixture of different gases) into its component parts through various methods. <emphasis effect="bold">Hydrogen</emphasis> can be produced through <emphasis effect="bold">steam reforming</emphasis>. In this process, a hydrocarbon such as methane reacts with water to form carbon monoxide and hydrogen according to the following equation:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> CH </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:mi> CO </m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+Nitrogen and hydrogen are then used in the Haber process. The equation for the Haber process is:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+(The reaction takes place in the presence of an iron (Fe) catalyst under conditions of 200 atmospheres (atm) and 450-500 degrees Celsius)
+<note id="notfhsst_id613"><title> Interesting Fact </title>
+The Haber process developed in the early 20th century, before the start of World War 1. Before this, other sources of nitrogen for fertilisers had included saltpeter (NaNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) from Chile and guano. Guano is the droppings of seabirds, bats and seals. By the 20th century, a number of methods had been developed to 'fix' atmospheric nitrogen. One of these was the Haber process, and it advanced through the work of two German men, Fritz Haber and Karl Bosch (The process is sometimes also referred to as the 'Haber-Bosch process'). They worked out what the best conditions were in order to get a high yield of ammonia, and found these to be high temperature and high pressure. They also experimented with different catalysts to see which worked best in that reaction. During World War 1, the ammonia that was produced through the Haber process was used to make explosives. One of the advantages for Germany was that, having perfected the Haber process, they did not need to rely on other countries for the chemicals that they needed to make them.
+</note></item><item id="uid91"><emphasis effect="bold">The Ostwald Process</emphasis>
+The Ostwald process is used to produce nitric acid from ammonia. Nitric acid can then be used in reactions that produce fertilisers. Ammonia is converted to nitric acid in two stages. First, it is oxidised by heating with oxygen in the presence of a platinum catalyst to form nitric oxide and water. This step is strongly exothermic, making it a useful heat source.
+<m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>4</m:mn><m:mi> NO </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+
+Stage two, which combines two reaction steps, is carried out in the presence of water. Initially nitric oxide is oxidised again to yield nitrogen dioxide:
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi> NO </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> NO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+
+This gas is then absorbed by the water to produce nitric acid. Nitric oxide is also a product of this reaction. The nitric oxide (NO) is recycled, and the acid is concentrated to the required strength.
+<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:msub><m:mi> NO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi> NO </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid92"><emphasis effect="bold">The Nitrophosphate Process</emphasis>
+The nitrophosphate process involves acidifying phosphate rock with nitric acid to produce a mixture of phosphoric acid and calcium nitrate:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> Ca </m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> PO </m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>12</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi> PO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:mi> Ca </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> NO </m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>12</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math>
+
+When calcium nitrate and phosphoric acid react with ammonia, a compound fertiliser is produced.
+<m:math overflow="scroll"><m:mrow><m:mi> Ca </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> NO </m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi> PO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>8</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> CaHPO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>4</m:mn></m:msub><m:msub><m:mi> NO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>8</m:mn><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> NH </m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mi> HPO </m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>
+If potassium chloride or potassium sulphate is added, the result will be NPK fertiliser.
+</item><item id="uid93"><emphasis effect="bold">Other nitrogen fertilisers</emphasis><list id="id206103" display="block" list-type="bulleted"><item id="uid94">
+Urea ((NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CO) is a nitrogen-containing chemical product which is produced on a large scale worldwide. Urea has the highest nitrogen content of all solid nitrogeneous fertilisers in common use (46.4%) and is produced by reacting ammonia with carbon dioxide.
+Two reactions are involved in producing urea:
+<list id="id206152" display="block" list-type="enumerated"><item id="uid95"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">N</m:mi><m:mo>-</m:mo><m:msub><m:mi> COONH </m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math></item><item id="uid96"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">N</m:mi><m:mo>-</m:mo><m:msub><m:mi> COONH </m:mi><m:mn>4</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> NH </m:mi><m:mn>2</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mi> CO </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math></item></list></item><item id="uid97">Other common fertilisers are ammonium nitrate and ammonium sulphate. Ammonium nitrate is formed by reacting ammonia with nitric acid.
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> NH </m:mi><m:mn>4</m:mn></m:msub><m:msub><m:mi> NO </m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>
+Ammonium sulphate is formed by reacting ammonia with sulphuric acid.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> NH </m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math></item></list></item></list></item>
+          <item id="uid98"><emphasis effect="bold">Phosphate fertilisers</emphasis>
+The production of phosphate fertilisers also involves a number of processes. The first is the production of sulfuric acid through the <emphasis effect="bold">contact process</emphasis>. Sulfuric acid is then used in a reaction that produces phosphoric acid. Phosphoric acid can then be reacted with phosphate rock to produce triple superphosphates.
+<list id="id206465" display="block" list-type="enumerated"><item id="uid99"><emphasis effect="italics">The production of sulfuric acid</emphasis>
+Sulfuric acid is produced from sulfur, oxygen and water through the contact process. In the first step, sulfur is burned to produce sulfur dioxide.
+<m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">S</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi> SO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+This is then oxidised to sulfur trioxide using oxygen in the presence of a vanadium(V) oxide catalyst.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> SO </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> SO </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+Finally the sulfur trioxide is treated with water to produce 98-99% sulfuric acid.
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> SO </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid100"><emphasis effect="italics">The production of phosphoric acid</emphasis>
+The next step in the production of phosphate fertiliser is the reaction of sulfuric acid with phosphate rock to produce phosphoric acid (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>). In this example, the phosphate rock is fluoropatite (Ca<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>F(PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>).
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> Ca </m:mi><m:mn>5</m:mn></m:msub><m:mi mathvariant="normal">F</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> PO </m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>8</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:mn>5</m:mn><m:msub><m:mi> CaSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mi> HF </m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi> PO </m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math></item><item id="uid101"><emphasis effect="italics">The production of phosphates and superphosphates</emphasis>
+When concentrated phosphoric acid reacts with ground phosphate rock, triple superphosphate is produced.
+<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:msub><m:mi> Ca </m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> PO </m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>·</m:mo><m:msub><m:mi> CaF </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>12</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi> PO </m:mi><m:mn>4</m:mn></m:msub><m:mo>→</m:mo><m:mn>9</m:mn><m:mi> Ca </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> PO </m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi> CaF </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item></list></item>
+          <item id="uid102"><emphasis effect="bold">Potassium</emphasis>
+Potassium is obtained from <emphasis effect="bold">potash</emphasis>, an impure form of potassium carbonate (K<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>). Other potassium salts (e.g. KCl AND K<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O) are also sometimes included in fertilisers.
+</item>
+        </list>
+      </section>
+      <section id="uid103">
+        <title>Fertilisers and the Environment: Eutrophication</title>
+        <para id="id207131">Eutrophication is the enrichment of an ecosystem with chemical nutrients, normally by compounds that contain nitrogen or phosphorus. Eutrophication is considered a form of pollution because it promotes plant growth, favoring certain species over others. In aquatic environments, the rapid growth of certain types of plants can disrupt the normal functioning of an ecosystem, causing a variety of problems. Human society is impacted as well because eutrophication can decrease the resource value of rivers, lakes, and estuaries making recreational activities less enjoyable. Health-related problems can also occur if eutrophic conditions interfere with the treatment of drinking water.</para>
+<definition id="fhsst_id659"><term id="termfhsst_id659"> Eutrophication </term> <meaning id="meaningfhsst_id659">
+        <para id="id207146">Eutrophication refers to an increase in chemical nutrients in an ecosystem. These chemical nutrients usually contain nitrogen or phosphorus.
+ </para>
+        </meaning></definition>
+        <para id="id207158">In some cases, eutrophication can be a natural process that occurs very slowly over time. However, it can also be accelerated by certain human activities. Agricultural runoff, when excess fertilisers are washed off fields and into water, and sewage are two of the major causes of eutrophication. There are a number of impacts of eutrophication.</para>
+        <list id="id207164" display="block" list-type="bulleted">
+          <item id="uid104"><emphasis effect="italics">A decrease in biodiversity (the number of plant and animal species in an ecosystem)</emphasis>
+When a system is enriched with nitrogen, plant growth is rapid. When the number of plants increases in an aquatic system, they can block light from reaching deeper. Plants also consume oxygen for respiration, and if the oxygen content of the water decreases too much, this can cause other organisms such as fish to die.
+</item>
+          <item id="uid105"><emphasis effect="italics">Toxicity</emphasis>
+Sometimes, the plants that flourish during eutrophication can be toxic and may accumulate in the food chain.
+</item>
+        </list>
+<note id="notfhsst_id672"><title> Interesting Fact </title>
+        <para id="id207216">South Africa's Department of Water Affairs and Forestry has a 'National Eutrophication Monitoring Programme' which was set up to monitor eutrophication in impoundments such as dams, where no monitoring was taking place.</para>
+</note>
+        <para id="id207229">Despite the impacts, there are a number of ways of preventing eutrophication from taking place. <emphasis effect="bold">Cleanup measures</emphasis> can directly remove the excess nutrients such as nitrogen and phosphorus from the water. Creating <emphasis effect="bold">buffer zones</emphasis> near farms, roads and rivers can also help. These act as filters and cause nutrients and sediments to be deposited there instead of in the aquatic system. <emphasis effect="bold">Laws</emphasis> relating to the treatment and discharge of sewage can also help to control eutrophication. A final possible intervention is <emphasis effect="bold">nitrogen testing and modeling</emphasis>. By assessing exactly how much fertiliser is needed by crops and other plants, farmers can make sure that they only apply just enough fertiliser. This means that there is no excess to run off into neighbouring streams during rain. There is also a cost benefit for the farmer.</para>
+<section id="secfhsst_id676"><title> Discussion : Dealing with the consequences of eutrophication
+        </title>
+        <para id="id207276">In many cases, the damage from eutrophication is already done. In groups, do the following:</para>
+        <list id="id207282" display="block" list-type="enumerated">
+          <item id="uid106">List all the possible consequences of eutrophication that you can think of.
+</item>
+          <item id="uid107">Suggest ways to solve these problems, that arise because of eutrophication.
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id687"><title> Chemical industry: Fertilisers
+        </title>
+        <para id="id207334">
+          <emphasis effect="bold">Why we need fertilisers</emphasis>
+        </para>
+        <para id="id207345">
+          <quote id="id207345_quote" display="block">There is likely to be a gap between food production and demand in several parts of the world by 2020. Demand is influenced by population growth and urbanisation, as well as income levels and changes in dietary preferences.</quote>
+        </para>
+        <para id="id207353">
+          <quote id="id207353_quote" display="block">The facts are as follows:</quote>
+        </para>
+        <list id="id207361" display="block" list-type="bulleted">
+          <item id="uid108">There is an increasing world population to feed
+</item>
+          <item id="uid109">Most soils in the world used for large-scale, intensive production of crops lack the necessary nutrients for the crops
+</item>
+        </list>
+        <para id="id207395">
+          <quote id="id207395_quote" display="block">Conclusion: Fertilisers are needed!</quote>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id207408">The flow diagram below shows the main steps in the industrial preparation of two important solid fertilisers.</para>
+        <para id="id207412">
+          <figure id="id207415">
+            <media id="id207415_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C5_013.png" id="id207415_onlineimage" width="473"><!-- NOTE: attribute width changes image size online (pixels). original width is 473. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_013.eps" id="id207415_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id207422" display="block" list-type="enumerated">
+          <item id="uid110">Write down the balanced chemical equation for the formation of the brown gas.
+</item>
+          <item id="uid111">Write down the name of process Y.
+</item>
+          <item id="uid112">Write down the chemical formula of liquid E.
+</item>
+          <item id="uid113">Write down the chemical formulae of fertilisers C and D respectively.
+The following extract comes from an article on fertilisers:
+<emphasis effect="italics">A world without food for its people</emphasis><emphasis effect="italics">A world with an environment poisoned through the actions of man </emphasis><emphasis effect="italics">Are two contributing factors towards a disaster scenario.</emphasis></item>
+          <item id="uid114">Write down THREE ways in which the use of fertilisers poisons the environment.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

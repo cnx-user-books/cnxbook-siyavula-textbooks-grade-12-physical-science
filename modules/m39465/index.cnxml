@@ -1,0 +1,484 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Collision theory, measurement and mechanism</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39465</md:content-id>
+  <md:title>Collision theory, measurement and mechanism</md:title>
+  <md:abstract/>
+  <md:uuid>a433fc1b-e473-4eeb-9f3b-46e34d25c0d2</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Reaction rates and collision theory</title>
+      <para id="id85877">It should be clear now that the rate of a reaction varies depending on a number of factors. But how can we <emphasis effect="italics">explain</emphasis> why reactions take place at different speeds under different conditions? Why, for example, does an increase in the surface area of the reactants also increase the rate of the reaction? One way to explain this is to use <emphasis effect="bold">collision theory.</emphasis></para>
+      <para id="id85893">For a reaction to occur, the particles that are reacting must collide with one another. Only a fraction of all the collisions that take place actually cause a chemical change. These are called 'successful' collisions. When there is an increase in the <emphasis effect="italics">concentration</emphasis> of reactants, the chance that reactant particles will collide with each other also increases because there are more particles in that space. In other words, the <emphasis effect="italics">collision frequency</emphasis> of the reactants increases. The number of <emphasis effect="italics">successful</emphasis> collisions will therefore also increase, and so will the rate of the reaction. In the same way, if the <emphasis effect="italics">surface area</emphasis> of the reactants increases, there is also a greater chance that successful collisions will occur.</para>
+<definition id="fhsst_id765"><term id="termfhsst_id765"> Collision theory </term> <meaning id="meaningfhsst_id765">
+      <para id="id85933">Collision theory is a theory that explains how chemical reactions occur and why reaction rates differ for different reactions. The theory states that for a reaction to occur the reactant particles must collide, but that only a certain fraction of the total collisions, the <emphasis effect="italics">effective collisions</emphasis>, actually cause the reactant molecules to change into products. This is because only a small number of the molecules have enough energy and the right orientation at the moment of impact to break the existing bonds and form new bonds. </para>
+      </meaning></definition>
+      <para id="id85955">When the <emphasis effect="italics">temperature</emphasis> of the reaction increases, the average kinetic energy of the reactant particles increases and they will move around much more actively. They are therefore more likely to collide with one another (<link target-id="uid52"/>). Increasing the temperature also increases the number of particles whose energy will be greater than the activation energy for the reaction (refer <link target-id="cid6">"Mechanism of reaction and catalysis"</link>).</para>
+      <figure id="uid52">
+        <media id="uid52_media" alt="">
+          <image mime-type="image/png" src="../../media/CG12C3_004.png" id="uid52_onlineimage" width="263"><!-- NOTE: attribute width changes image size online (pixels). original width is 263. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_004.eps" id="uid52_printimage"/>
+        </media>
+        <caption>An increase in the temperature of a reaction increases the chances that the reactant particles (A and B) will collide because the particles have more energy and move around more.</caption>
+      </figure>
+<para id="eip-513"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/reactions-and-rates-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/reactions-and-rates-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/reactions-and-rates/reactions-and-rates_en.jnlp">run demo</link></para><section id="secfhsst_id776"><title> Rates of reaction
+      </title>
+      <para id="id86002">Hydrochloric acid and calcium carbonate react according to the following equation:</para>
+      <para id="id86009">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>H</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>l</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id86085">The volume of carbon dioxide that is produced during the reaction is measured at different times. The results are shown in the table below.</para>
+      <table id="id86089" summary="">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Time (mins)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Total Volume of CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> produced (cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>14</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>26</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>36</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>44</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>58</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>65</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>70</entry>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry>74</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>77</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id86363">
+        <emphasis effect="italics">Note: On a graph of production against time, it is the gradient of the graph that shows the rate of the reaction.</emphasis>
+      </para>
+      <para id="id86373">
+        <emphasis effect="bold">Questions:</emphasis>
+      </para>
+      <list id="id86380" display="block" list-type="enumerated">
+        <item id="uid53">Use the data in the table to draw a graph showing the volume of gas that is produced in the reaction, over a period of 10 minutes.
+</item>
+        <item id="uid54">At which of the following times is the reaction <emphasis effect="italics">fastest</emphasis>? Time = 1 minute; time = 6 minutes or time = 8 minutes.
+</item>
+        <item id="uid55">Suggest a reason why the reaction slows down over time.
+</item>
+        <item id="uid56">Use the graph to estimate the volume of gas that will have been produced after 11 minutes.
+</item>
+        <item id="uid57">After what time do you think the reaction will stop?
+</item>
+        <item id="uid58">If the experiment was repeated using a more concentrated hydrochloric acid solution...
+<list id="id86465" display="block" list-type="enumerated"><item id="uid59">would the rate of the reaction increase or decrease from the one shown in the graph?
+</item><item id="uid60">draw a rough line on the graph to show how you would expect the reaction to proceed with a more concentrated HCl solution.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid5">
+      <title>Measuring Rates of Reaction</title>
+      <para id="id86515">How the rate of a reaction is measured will depend on what the reaction is, and what product forms. Look back to the reactions that have been discussed so far. In each case, how was the rate of the reaction measured? The following examples will give you some ideas about other ways to measure the rate of a reaction:</para>
+      <list id="id86521" display="block" list-type="bulleted">
+        <item id="uid61"><emphasis effect="italics">Reactions that produce hydrogen gas:</emphasis>
+When a metal dissolves in an acid, hydrogen gas is produced. A lit splint can be used to test for hydrogen. The 'pop' sound shows that hydrogen is present. For example, magnesium reacts with sulfuric acid to produce magnesium sulphate and hydrogen.
+<m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mo>→</m:mo><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item>
+        <item id="uid62"><emphasis effect="italics">Reactions that produce carbon dioxide:</emphasis>
+When a carbonate dissolves in an acid, carbon dioxide gas is produced. When carbon dioxide is passes through limewater, it turns the limewater milky. This is a simple test for the presence of carbon dioxide. For example, calcium carbonate reacts with hydrochloric acid to produce calcium chloride, water and carbon dioxide.
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item>
+        <item id="uid63"><emphasis effect="italics">Reactions that produce gases such as oxygen or carbon dioxide:</emphasis>
+Hydrogen peroxide decomposes to produce oxygen. The volume of oxygen produced can be measured using the gas syringe method (<link target-id="uid64"/>). The gas collects in the syringe, pushing out against the plunger. The volume of gas that has been produced can be read from the markings on the syringe. For example, hydrogen peroxide decomposes in the presence of a manganese(IV) oxide catalyst to produce oxygen and water.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math><figure id="uid64"><media id="uid64_media" alt=""><image mime-type="image/png" src="../../media/CG12C3_005.png" id="uid64_onlineimage" width="508"><!-- NOTE: attribute width changes image size online (pixels). original width is 508. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_005.eps" id="uid64_printimage"/></media><caption>Gas Syringe Method</caption></figure></item>
+        <item id="uid65"><emphasis effect="italics">Precipitate reactions:</emphasis>
+In reactions where a <emphasis effect="italics">precipitate</emphasis> is formed, the amount of precipitate formed in a period of time can be used as a measure of the reaction rate. For example, when sodium thiosulphate reacts with an acid, a yellow precipitate of sulfur is formed. The reaction is as follows:
+<m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:msub><m:mi>a</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>S</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:mi>l</m:mi><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>S</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+One way to estimate the rate of this reaction is to carry out the investigation in a conical flask and to place a piece of paper with a black cross underneath the bottom of the flask. At the beginning of the reaction, the cross will be clearly visible when you look into the flask (<link target-id="uid66"/>). However, as the reaction progresses and more precipitate is formed, the cross will gradually become less clear and will eventually disappear altogether. Noting the time that it takes for this to happen will give an idea of the reaction rate. Note that it is not possible to collect the SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gas that is produced in the reaction, because it is very soluble in water.
+<figure id="uid66"><media id="uid66_media" alt=""><image mime-type="image/png" src="../../media/CG12C3_006.png" id="uid66_onlineimage" width="79"><!-- NOTE: attribute width changes image size online (pixels). original width is 79. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_006.eps" id="uid66_printimage"/></media><caption>At the beginning of the reaction beteen sodium thiosulphate and hydrochloric acid, when no precipitate has been formed, the cross at the bottom of the conical flask can be clearly seen.</caption></figure></item>
+        <item id="uid67"><emphasis effect="italics">Changes in mass:</emphasis>
+The rate of a reaction that produces a gas can also be measured by calculating the mass loss as the gas is formed and escapes from the reaction flask. This method can be used for reactions that produce carbon dioxide or oxygen, but are not very accurate for reactions that give off hydrogen because the mass is too low for accuracy. Measuring changes in mass may also be suitable for other types of reactions.
+</item>
+      </list>
+<section id="secfhsst_id920"><title> Experiment : Measuring reaction rates
+      </title>
+      <para id="id87109">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id87118">To measure the effect of concentration on the rate of a reaction.</para>
+      <para id="id87122">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <list id="id87131" display="block" list-type="bulleted">
+        <item id="uid68">300 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of sodium thiosulphate (Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>S<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) solution. Prepare a solution of sodium thiosulphate by adding 12 g of Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>S<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> to 300 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water. This is solution 'A'.
+</item>
+        <item id="uid69">300 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water
+</item>
+        <item id="uid70">100 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of 1:10 dilute hydrochloric acid. This is solution 'B'.
+</item>
+        <item id="uid71">Six 100 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> glass beakers
+</item>
+        <item id="uid72">Measuring cylinders
+</item>
+        <item id="uid73">Paper and marking pen
+</item>
+        <item id="uid74">Stopwatch or timer
+</item>
+      </list>
+      <para id="id87364">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <para id="id87373">One way to measure the rate of this reaction is to place a piece of paper with a cross underneath the reaction beaker to see how quickly the cross is made invisible by the formation of the sulfur precipitate.</para>
+      <list id="id87378" display="block" list-type="enumerated">
+        <item id="uid75">Set up six beakers on a flat surface and mark them from 1 to 6. Under each beaker you will need to place a piece of paper with a large black cross.
+</item>
+        <item id="uid76">Pour 60 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> solution A into the first beaker and add 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water
+</item>
+        <item id="uid77">Use the measuring cylinder to measure 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> HCl. Now add this HCl to the solution that is already in the first beaker (NB: Make sure that you always clean out the measuring cylinder you have used before using it for another chemical).
+</item>
+        <item id="uid78">Using a stopwatch with seconds, record the time it takes for the precipitate that forms to block out the cross.
+</item>
+        <item id="uid79">Now measure 50 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of solution A into the second beaker and add 30 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water. To this second beaker, add 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> HCl, time the reaction and record the results as you did before.
+</item>
+        <item id="uid80">Continue the experiment by diluting solution A as shown below.
+</item>
+      </list>
+      <table id="id87540" summary="">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Beaker</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Solution A (cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Water (cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Solution B (cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Time (s)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>60</entry>
+              <entry>20</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>50</entry>
+              <entry>30</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>40</entry>
+              <entry>40</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>30</entry>
+              <entry>50</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>20</entry>
+              <entry>60</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>70</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id87909">The equation for the reaction between sodium thiosulphate and hydrochloric acid is:</para>
+      <para id="id87913">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>N</m:mi>
+            <m:msub>
+              <m:mi>a</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>S</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mi>q</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>H</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mi>q</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>N</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mi>q</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mi>S</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mi>q</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>l</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mi>S</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>s</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id88054">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <list id="id88062" display="block" list-type="bulleted">
+        <item id="uid81">Calculate the reaction rate in each beaker. This can be done using the following equation:
+<equation id="id88078"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>R</m:mi><m:mi>a</m:mi><m:mi>t</m:mi><m:mi>e</m:mi><m:mspace width="4pt"/><m:mi>o</m:mi><m:mi>f</m:mi><m:mspace width="4pt"/><m:mi>r</m:mi><m:mi>e</m:mi><m:mi>a</m:mi><m:mi>c</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>n</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>m</m:mi><m:mi>e</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid82">Represent your results on a graph. <emphasis effect="bold">Concentration</emphasis> will be on the x-axis and <emphasis effect="bold">reaction rate</emphasis> on the y-axis. Note that the original volume of Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>S<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> can be used as a measure of concentration.
+</item>
+        <item id="uid83">Why was it important to keep the volume of HCl constant?
+</item>
+        <item id="uid84">Describe the relationship between concentration and reaction rate.
+</item>
+      </list>
+      <para id="id88230">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id88239">The rate of the reaction is fastest when the concentration of the reactants was the highest.
+ </para>
+</section>
+    </section>
+    <section id="cid6">
+      <title>Mechanism of reaction and catalysis</title>
+      <para id="id88259">Earlier it was mentioned that it is the <emphasis effect="italics">collision</emphasis> of particles that causes reactions to occur and that only some of these collisions are 'successful'. This is because the reactant particles have a wide range of kinetic energy, and only a small fraction of the particles will have enough energy to actually break bonds so that a chemical reaction can take place. The minimum energy that is needed for a reaction to take place is called the <emphasis effect="bold">activation energy</emphasis>. For more information on the energy of reactions, refer to Grade 11.</para>
+<definition id="fhsst_id1131"><term id="termfhsst_id1131"> Activation energy </term> <meaning id="meaningfhsst_id1131">
+      <para id="id88284">The energy that is needed to break the bonds in reactant molecules so that a chemical reaction can proceed. </para>
+      </meaning></definition>
+      <para id="id88297">Even at a fixed temperature, the energy of the particles varies, meaning that only some of them will have enough energy to be part of the chemical reaction, depending on the activation energy for that reaction. This is shown in <link target-id="uid85"/>. Increasing the reaction temperature has the effect of increasing the number of particles with enough energy to take part in the reaction, and so the reaction rate increases.</para>
+      <figure id="uid85">
+        <media id="uid85_media" alt="">
+          <image mime-type="image/png" src="../../media/CG12C3_007.png" id="uid85_onlineimage" width="224"><!-- NOTE: attribute width changes image size online (pixels). original width is 224. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_007.eps" id="uid85_printimage"/>
+        </media>
+        <caption>The distribution of particle kinetic energies at a fixed temperature</caption>
+      </figure>
+      <para id="id88320">A <emphasis effect="bold">catalyst</emphasis> functions slightly differently. The function of a catalyst is to lower the activation energy so that more particles now have enough energy to react. The catalyst itself is not changed during the reaction, but simply provides an alternative pathway for the reaction, so that it needs less energy. Some <emphasis effect="italics">metals</emphasis> e.g. platinum, copper and iron can act as catalysts in certain reactions. In our own human bodies, <emphasis effect="italics">enzymes</emphasis> are catalysts that help to speed up biological reactions. Catalysts generally react with one or more of the reactants to form a chemical intermediate which then reacts to form the final product. The chemical intermediate is sometimes called the <emphasis effect="bold">activated complex</emphasis>.</para>
+      <para id="id88352">The following is an example of how a reaction that involves a catalyst might proceed. C represents the catalyst, A and B are reactants and D is the product of the reaction of A and B.</para>
+      <para id="id88359"><emphasis effect="bold">Step 1:</emphasis> A + C <m:math overflow="scroll"><m:mo>→</m:mo></m:math> AC</para>
+      <para id="id88379"><emphasis effect="bold">Step 2:</emphasis> B + AC <m:math overflow="scroll"><m:mo>→</m:mo></m:math> ABC</para>
+      <para id="id88396"><emphasis effect="bold">Step 3:</emphasis> ABC <m:math overflow="scroll"><m:mo>→</m:mo></m:math> CD</para>
+      <para id="id88413"><emphasis effect="bold">Step 4:</emphasis> CD <m:math overflow="scroll"><m:mo>→</m:mo></m:math> C + D</para>
+      <para id="id88430">In the above, ABC represents the intermediate chemical. Although the catalyst (C) is consumed by reaction 1, it is later produced again by reaction 4, so that the overall reaction is as follows:</para>
+      <para id="id88437">A + B + C <m:math overflow="scroll"><m:mo>→</m:mo></m:math> D + C</para>
+      <para id="id88452">You can see from this that the catalyst is released at the end of the reaction, completely unchanged.</para>
+<definition id="fhsst_id1151"><term id="termfhsst_id1151"> Catalyst </term> <meaning id="meaningfhsst_id1151">
+      <para id="id88462">A catalyst speeds up a chemical reaction, without being altered in any way. It increases the reaction rate by lowering the activation energy for a reaction. </para>
+      </meaning></definition>
+      <para id="id88475">Energy diagrams are useful to illustrate the effect of a <emphasis effect="bold">catalyst</emphasis> on reaction rates. Catalysts decrease the activation energy required for a reaction to proceed (shown by the smaller 'hump' on the energy diagram in <link target-id="uid86"/>), and therefore increase the reaction rate.</para>
+      <figure id="uid86">
+        <media id="uid86_media" alt="">
+          <image mime-type="image/png" src="../../media/CG12C3_008.png" id="uid86_onlineimage" width="303"><!-- NOTE: attribute width changes image size online (pixels). original width is 303. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_008.eps" id="uid86_printimage"/>
+        </media>
+        <caption>The effect of a catalyst on the activation energy of a reaction</caption>
+      </figure>
+<section id="secfhsst_id1162"><title> Experiment : Catalysts and reaction rates
+      </title>
+      <para id="id88516">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id88525">To determine the effect of a catalyst on the rate of a reaction</para>
+      <para id="id88529">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id88538">Zinc granules, 0.1 M hydrochloric acid, copper pieces, one test tube and a glass beaker.</para>
+      <para id="id88542">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id88551" display="block" list-type="enumerated">
+        <item id="uid87">Place a few of the zinc granules in the test tube.
+</item>
+        <item id="uid88">Measure the mass of a few pieces of copper and keep them separate from the rest of the copper.
+</item>
+        <item id="uid89">Add about 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of HCl to the test tube. You will see that a gas is released. Take note of how quickly or slowly this gas is released. Write a balanced equation for the chemical reaction that takes place.
+</item>
+        <item id="uid90">Now add the copper pieces to the same test tube. What happens to the rate at which the gas is produced?
+</item>
+        <item id="uid91">Carefully remove the copper pieces from the test tube (do not get HCl on your hands), rinse them in water and alcohol and then weigh them again. Has the mass of the copper changed since the start of the experiment?
+</item>
+      </list>
+      <para id="id88634">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <para id="id88643">During the reaction, the gas that is released is hydrogen. The rate at which the hydrogen is produced <emphasis effect="italics">increases</emphasis> when the copper pieces (the catalyst) are added. The mass of the copper does not change during the reaction.</para>
+      <para id="id88654">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id88663">The copper acts as a <emphasis effect="italics">catalyst</emphasis> during the reaction. It speeds up the rate of the reaction, but is not changed in any way itself.
+ </para>
+</section>
+<section id="secfhsst_id1197"><title> Reaction rates
+      </title>
+      <list id="id88692" display="block" list-type="enumerated">
+        <item id="uid92">For each of the following, say whether the statement is <emphasis effect="bold">true</emphasis> or <emphasis effect="bold">false</emphasis>. If it is false, re-write the statement correctly.
+<list id="id88720" display="block" list-type="enumerated"><item id="uid93">A catalyst increases the energy of reactant molecules so that a chemical reaction can take place.
+</item><item id="uid94">Increasing the temperature of a reaction has the effect of increasing the number of reactant particles that have more energy that the activation energy.
+</item><item id="uid95">A catalyst does not become part of the final product in a chemical reaction.
+</item></list></item>
+        <item id="uid96">5 g of zinc granules are added to 400 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of 0.5 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> hydrochloric acid. To investigate the rate of the reaction, the change in the mass of the flask containing the zinc and the acid was measured by placing the flask on a direct reading balance. The reading on the balance shows that there is a decrease in mass during the reaction. The reaction which takes place is given by the following equation:
+<m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>Z</m:mi><m:mi>n</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math><list id="id88897" display="block" list-type="enumerated"><item id="uid97">Why is there a decrease in mass during the reaction?
+</item><item id="uid98">The experiment is repeated, this time using 5 g of powdered zinc instead of granulated zinc. How will this influence the rate of the reaction?
+</item><item id="uid99">The experiment is repeated once more, this time using 5 g of granulated zinc and 600 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of 0.5 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> hydrochloric acid. How does the rate of this reaction compare to the <emphasis effect="bold">original</emphasis> reaction rate?
+</item><item id="uid100">What effect would a catalyst have on the rate of this reaction?
+</item></list>
+(IEB Paper 2 2003)
+</item>
+        <item id="uid101">Enzymes are catalysts. Conduct your own research to find the names of common enzymes in the human body and which chemical reactions they play a role in.
+</item>
+        <item id="uid102">5 g of calcium carbonate powder reacts with 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of a 0.1 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> solution of hydrochloric acid. The gas that is produced at a temperature of 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mi>c</m:mi><m:mi>i</m:mi><m:mi>r</m:mi><m:mi>c</m:mi></m:mrow></m:msup></m:math>C is collected in a gas syringe.
+<list id="id89067" display="block" list-type="enumerated"><item id="uid103">Write a balanced chemical equation for this reaction.
+</item><item id="uid104">The rate of the reaction is determined by measuring the volume of gas thas is produced in the first minute of the reaction. How would the rate of the reaction be affected if:
+<list id="id89096" display="block" list-type="enumerated"><item id="uid105">a lump of calcium carbonate of the same mass is used
+</item><item id="uid106">40 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of 0.1 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> hydrochloric acid is used
+</item></list></item></list></item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

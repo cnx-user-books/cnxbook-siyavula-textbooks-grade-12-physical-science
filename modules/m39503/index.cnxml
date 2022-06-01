@@ -1,0 +1,978 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Shock waves and sonic booms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39503</md:content-id>
+  <md:title>Shock waves and sonic booms</md:title>
+  <md:abstract/>
+  <md:uuid>05d82947-dff2-4ec3-b985-5d198d3fb2d9</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Shock Waves and Sonic Booms</title>
+      <para id="id64922">Now we know that the waves move away from the source at the speed of sound. What happens if the source moves at the same time as emitting sounds? Once a sound wave has been emitted it is no longer connected to the source so if the source moves it doesn't change the way the sound wave is propagating through the medium. This means a source can actually catch up to the sound waves it has emitted.</para>
+      <para id="id64929">The speed of sound is very fast in air, about <m:math overflow="scroll"><m:mrow><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, so if we want to talk about a source catching up to sound waves then the source has to be able to move very fast. A good source of sound waves to discuss is a jet aircraft. Fighter jets can move very fast and they are very noisy so they are a good source of sound for our discussion. Here are the speeds for a selection of aircraft that can fly faster than the speed of sound.</para>
+      <table id="uid19" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>Aircraft</entry>
+              <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+              <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+            </row>
+            <row>
+              <entry>Concorde</entry>
+              <entry>2 330</entry>
+              <entry>647</entry>
+            </row>
+            <row>
+              <entry>Gripen</entry>
+              <entry>2 410</entry>
+              <entry>669</entry>
+            </row>
+            <row>
+              <entry>Mirage F1</entry>
+              <entry>2 573</entry>
+              <entry>715</entry>
+            </row>
+            <row>
+              <entry>Mig 27</entry>
+              <entry>1 885</entry>
+              <entry>524</entry>
+            </row>
+            <row>
+              <entry>F 15</entry>
+              <entry>2 660</entry>
+              <entry>739</entry>
+            </row>
+            <row>
+              <entry>F 16</entry>
+              <entry>2 414</entry>
+              <entry>671</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="uid20">
+        <title>Subsonic Flight</title>
+<definition id="fhsst_id824"><term id="termfhsst_id824"> Subsonic </term> <meaning id="meaningfhsst_id824">
+        <para id="id65254">Subsonic refers to speeds slower than the speed of sound. </para>
+        </meaning></definition>
+        <para id="id65266">When a source emits sound waves and is moving slower than the speed of sound you get the situation in this picture. Notice that the source moving means that the wavefronts, and therefore peaks in the wave, are actually closer together in the one direction and further apart in the other.</para>
+        <para id="id65272">
+          <figure id="id65275">
+            <media id="id65275_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_021.png" id="id65275_onlineimage" width="73"><!-- NOTE: attribute width changes image size online (pixels). original width is 73. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_021.eps" id="id65275_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id65282">If you measure the waves on the side where the peaks are closer together you'll measure a different wavelength than on the other side of the source. This means that the noise from the source will sound different on the different sides. This is called the <emphasis effect="italics">Doppler Effect</emphasis>.</para>
+<definition id="fhsst_id837"><term id="termfhsst_id837"> Doppler Effect </term> <meaning id="meaningfhsst_id837">
+        <para id="id65299">when the wavelength and frequency measured by an observer are different to those emitted by the source due to movement of the source or observer. </para>
+        </meaning></definition>
+      </section>
+      <section id="uid21">
+        <title>Supersonic Flight</title>
+<definition id="fhsst_id843"><term id="termfhsst_id843"> Supersonic </term> <meaning id="meaningfhsst_id843">
+        <para id="id65328">Supersonic refers to speeds faster than the speed of sound. </para>
+        </meaning></definition>
+        <para id="id65340">If a plane flies at exactly the speed of sound then the waves that it emits in the direction it is flying won't be able to get away from the plane. It also means that the next sound wave emitted will be exactly on top of the previous one, look at this picture to see what the wavefronts would look like:</para>
+        <para id="id65346">
+          <figure id="id65349">
+            <media id="id65349_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_022.png" id="id65349_onlineimage" width="98"><!-- NOTE: attribute width changes image size online (pixels). original width is 98. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_022.eps" id="id65349_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id65356">Sometimes we use the speed of sound as a reference to describe the speed of the object (aircraft in our discussion).</para>
+<definition id="fhsst_id856"><term id="termfhsst_id856"> Mach Number </term> <meaning id="meaningfhsst_id856">
+        <para id="id65366">The Mach Number is the ratio of the speed of an object to the speed of sound in the surrounding medium. </para>
+        </meaning></definition>
+        <para id="id65379">Mach number is tells you how many times faster than sound the aircraft is moving.</para>
+        <list id="id65383" display="block" list-type="bulleted">
+          <item id="uid22">Mach Number <m:math overflow="scroll"><m:mo>&lt;</m:mo></m:math> 1 : aircraft moving slower than the speed of sound
+</item>
+          <item id="uid23">Mach Number <m:math overflow="scroll"><m:mo>=</m:mo></m:math> 1 : aircraft moving at the speed of sound
+</item>
+          <item id="uid24">Mach Number <m:math overflow="scroll"><m:mo>&gt;</m:mo></m:math> 1 : aircraft moving faster than the speed of sound
+</item>
+        </list>
+        <para id="id65452">To work out the Mach Number divide the speed of the aircraft by the speed of sound.</para>
+        <equation id="id65456">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> Mach </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi> Number </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> aircraft </m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> sound </m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65498"><emphasis effect="bold">Remember:</emphasis> the units must be the same before you divide.</para>
+        <para id="id65509">If the aircraft is moving faster than the speed of sound then the wavefronts look like this:</para>
+        <para id="id65513">
+          <figure id="id65517">
+            <media id="id65517_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_023.png" id="id65517_onlineimage" width="120"><!-- NOTE: attribute width changes image size online (pixels). original width is 120. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_023.eps" id="id65517_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id65523">If the source moves faster than the speed of sound, a cone of wave fronts is created. This is called a Mach cone. From constructive interference, we know that two peaks that add together form a larger peak. In a Mach cone many, many peaks add together to form a very large peak. This is a sound wave so the large peak is a very, very loud sound wave. This sounds like a huge "boom" and we call the noise a <emphasis effect="italics">sonic boom</emphasis>.</para>
+<definition id="fhsst_id902"><term id="termfhsst_id902"> Sonic Boom </term> <meaning id="meaningfhsst_id902">
+        <para id="id65542">A sonic boom is the sound heard by an observer as a shockwave passes. </para>
+        </meaning></definition>
+<exercise id="secfhsst_id905"><title> Mach Speed I </title>
+        <problem id="probfhsst_id906">
+        <para id="id65567">An aircraft flies at 1300 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and the speed of sound in air is <m:math overflow="scroll"><m:mrow><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. What is the Mach Number of the aircraft? </para>
+        </problem>
+        <solution id="solfhsst_id909"> <list id="listfhsst_id909" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you are given </label>
+        <para id="id65650">We know we are dealing with Mach Number. We are given the speed of sound in air, <m:math overflow="scroll"><m:mrow><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, and the speed of the aircraft, 1300 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The speed of the aircraft is in different units to the speed of sound so we need to convert the units:</para>
+        <equation id="id65714">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi> km </m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">h</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi> km </m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">h</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi> km </m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">h</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>1000</m:mn>
+                        <m:mi mathvariant="normal">m</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>3600</m:mn>
+                        <m:mi mathvariant="normal">s</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi> km </m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">h</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>361</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">s</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id65907">We know that there is a relationship between the Mach Number, the speed of sound and the speed of the aircraft:</para>
+        <equation id="id65911">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> Mach </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi> Number </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> aircraft </m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> sound </m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65954">We can use this relationship to find the Mach Number.</para>
+        </item> <item> <label> Substitution </label>
+        <equation id="id65964">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Mach </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Number </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>s</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>u</m:mi>
+                        <m:mi>n</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Mach </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Number </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>361</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mn>340</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Mach </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Number </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>06</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id66098">The Mach Number is 1.06.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1148"><title> Mach Number </title>
+        <para id="id66123">In this exercise we will determine the Mach Number for the different aircraft in the previous table. To help you get started we have calculated the Mach Number for the Concord with a speed of sound <m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mi>s</m:mi><m:mi>o</m:mi><m:mi>u</m:mi><m:mi>n</m:mi><m:mi>d</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi> ms </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>.</para>
+        <para id="id66175">For the Condorde we know the speed and we know that:</para>
+        <equation id="id66179">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> Mach </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi> Number </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> aircraft </m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> sound </m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id66221">For the Concorde this means that</para>
+        <equation id="id66227">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Mach </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Number </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>647</m:mn>
+                    <m:mn>340</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>9</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <table id="uid25" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>Aircraft</entry>
+                <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>Mach Number</entry>
+              </row>
+              <row>
+                <entry>Concorde</entry>
+                <entry>2 330</entry>
+                <entry>647</entry>
+                <entry>1.9</entry>
+              </row>
+              <row>
+                <entry>Gripen</entry>
+                <entry>2 410</entry>
+                <entry>669</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mirage F1</entry>
+                <entry>2 573</entry>
+                <entry>715</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mig 27</entry>
+                <entry>1 885</entry>
+                <entry>524</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>F 15</entry>
+                <entry>2 660</entry>
+                <entry>739</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>F 16</entry>
+                <entry>2 414</entry>
+                <entry>671</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id66599">Now calculate the Mach Numbers for the other aircraft in the table.
+ </para>
+</section>
+      </section>
+      <section id="uid26">
+        <title>Mach Cone</title>
+        <para id="id66619">The shape of the Mach Cone depends on the speed of the aircraft. When the Mach Number is 1 there is no cone but as the aircraft goes faster and faster the angle of the cone gets smaller and smaller.</para>
+        <para id="id66624">If we go back to the supersonic picture we can work out what the angle of the cone must be.</para>
+        <para id="id66628">
+          <figure id="id66631">
+            <media id="id66631_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_024.png" id="id66631_onlineimage" width="120"><!-- NOTE: attribute width changes image size online (pixels). original width is 120. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_024.eps" id="id66631_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id66638">We build a triangle between how far the plane has moved and how far a wavefront at right angles to the direction the plane is flying has moved:</para>
+        <para id="id66642">An aircraft emits a sound wavefront. The wavefront moves at the speed of sound 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and the aircraft moves at Mach 1.5, which is <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mspace width="4pt"/><m:mo>×</m:mo><m:mspace width="4pt"/><m:mn>340</m:mn><m:mo>=</m:mo><m:mn>510</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. The aircraft travels faster than the wavefront. If we let the wavefront travel for a time <m:math overflow="scroll"><m:mi>t</m:mi></m:math> then the following diagram will apply:</para>
+        <para id="id66738">
+          <figure id="id66741">
+            <media id="id66741_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_025.png" id="id66741_onlineimage" width="164"><!-- NOTE: attribute width changes image size online (pixels). original width is 164. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_025.eps" id="id66741_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id66747">We know how fast the wavefront and the aircraft are moving so we know the distances that they have traveled:</para>
+        <para id="id66751">
+          <figure id="id66754">
+            <media id="id66754_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_026.png" id="id66754_onlineimage" width="294"><!-- NOTE: attribute width changes image size online (pixels). original width is 294. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_026.eps" id="id66754_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id66761">The angle between the cone that forms and the direction of the plane can be found from the right-angle triangle we have drawn into the figure. We know that <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi> opposite </m:mi><m:mi> hypotenuse </m:mi></m:mfrac></m:mrow></m:math> which in this figure means:</para>
+        <equation id="id66789">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi> opposite </m:mi>
+                    <m:mi> hypotenuse </m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>s</m:mi>
+                          <m:mi>o</m:mi>
+                          <m:mi>u</m:mi>
+                          <m:mi>n</m:mi>
+                          <m:mi>d</m:mi>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mo>×</m:mo>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>a</m:mi>
+                          <m:mi>i</m:mi>
+                          <m:mi>r</m:mi>
+                          <m:mi>c</m:mi>
+                          <m:mi>r</m:mi>
+                          <m:mi>a</m:mi>
+                          <m:mi>f</m:mi>
+                          <m:mi>t</m:mi>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mo>×</m:mo>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>s</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>u</m:mi>
+                        <m:mi>n</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id66961">In this case we have used sound and aircraft but a more general way of saying this is:</para>
+        <list id="id66965" display="block" list-type="bulleted">
+          <item id="uid27">aircraft = source
+</item>
+          <item id="uid28">sound = wavefront
+</item>
+        </list>
+        <para id="id66994">We often just write the equation as:</para>
+        <equation id="id66997">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>s</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>u</m:mi>
+                        <m:mi>n</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>s</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>u</m:mi>
+                      <m:mi>n</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>s</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>u</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>e</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>w</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>v</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>f</m:mi>
+                      <m:mi>r</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>n</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>s</m:mi>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>w</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id67228">From this equation, we can see that the faster the source (aircraft) moves, the smaller the angle of the Mach cone.</para>
+<section id="secfhsst_id1550"><title> Mach Cone </title>
+        <para id="id67239">In this exercise we will determine the Mach Cone Angle for the different aircraft in the table mentioned above. To help you get started we have calculated the Mach Cone Angle for the Concorde with a speed of sound <m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mi>s</m:mi><m:mi>o</m:mi><m:mi>u</m:mi><m:mi>n</m:mi><m:mi>d</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>.</para>
+        <para id="id67299">For the Condorde we know the speed and we know that:</para>
+        <equation id="id67303">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mrow>
+                    <m:mi>s</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>u</m:mi>
+                    <m:mi>n</m:mi>
+                    <m:mi>d</m:mi>
+                  </m:mrow>
+                </m:msub>
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mrow>
+                    <m:mi>a</m:mi>
+                    <m:mi>i</m:mi>
+                    <m:mi>r</m:mi>
+                    <m:mi>c</m:mi>
+                    <m:mi>r</m:mi>
+                    <m:mi>a</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id67364">For the Concorde this means that</para>
+        <equation id="id67370">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>340</m:mn>
+                    <m:mn>647</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mfrac>
+                      <m:mn>340</m:mn>
+                      <m:mn>647</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>31</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mn>7</m:mn>
+                      <m:mi mathvariant="normal">o</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <table id="uid29" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>Aircraft</entry>
+                <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>Mach Cone Angle (degrees)</entry>
+              </row>
+              <row>
+                <entry>Concorde</entry>
+                <entry>2 330</entry>
+                <entry>647</entry>
+                <entry>31.7</entry>
+              </row>
+              <row>
+                <entry>Gripen</entry>
+                <entry>2 410</entry>
+                <entry>669</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mirage F1</entry>
+                <entry>2 573</entry>
+                <entry>715</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mig 27</entry>
+                <entry>1 885</entry>
+                <entry>524</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>F 15</entry>
+                <entry>2 660</entry>
+                <entry>739</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>F 16</entry>
+                <entry>2 414</entry>
+                <entry>671</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id67788">Now calculate the Mach Cone Angles for the other aircraft in the table.
+ </para>
+</section>
+      </section>
+    </section>
+    <section id="cid8">
+      <title>End of Chapter Exercises</title>
+      <list id="id67808" display="block" list-type="enumerated">
+        <item id="uid30">In the diagram below the peaks of wavefronts are shown by black lines and the troughs by grey lines. Mark all the points where constructive interference between two waves is taking place and where destructive interference is taking place. Also note whether the interference results in a peak or a trough.
+<figure id="id67829"><media id="id67829_media" alt=""><image mime-type="image/png" src="../../media/PG12C6_027.png" id="id67829_onlineimage" width="307"><!-- NOTE: attribute width changes image size online (pixels). original width is 307. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_027.eps" id="id67829_printimage"/></media></figure></item>
+        <item id="uid31">For a slit of width 1300 nm, calculate the first 3 minima for light of the following wavelengths:
+<list id="id67848" display="block" list-type="enumerated"><item id="uid32">blue at 475 nm
+</item><item id="uid33">green at 510 nm
+</item><item id="uid34">yellow at 570 nm
+</item><item id="uid35">red at 650 nm
+</item></list></item>
+        <item id="uid36">For light of wavelength 540 nm, determine what the width of the slit needs to be to have the first minimum at:
+<list id="id67914" display="block" list-type="enumerated"><item id="uid37">7.76 degrees
+</item><item id="uid38">12.47 degrees
+</item><item id="uid39">21.1 degrees
+</item></list></item>
+        <item id="uid40">For light of wavelength 635 nm, determine what the width of the slit needs to be to have the second minimum at:
+<list id="id67968" display="block" list-type="enumerated"><item id="uid41">12.22 degrees
+</item><item id="uid42">18.51 degrees
+</item><item id="uid43">30.53 degrees
+</item></list></item>
+        <item id="uid44">If the first minimum is at 8.21 degrees and the second minimum is at 16.6 degrees, what is the wavelength of light and the width of the slit? (<emphasis effect="bold">Hint:</emphasis> solve simultaneously.)
+</item>
+        <item id="uid45">Determine the Mach Number, with a speed of sound of 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, for the following aircraft speeds:
+<list id="id68068" display="block" list-type="enumerated"><item id="uid46">640 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid47">980 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid48">500 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid49">450 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid50">1300 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid51">1450 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid52">1760 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item></list></item>
+        <item id="uid53">If an aircraft has a Mach Number of 3.3 and the speed of sound is 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, what is its speed?
+</item>
+        <item id="uid54">Determine the Mach Cone angle, with a speed of sound of 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, for the following aircraft speeds:
+<list id="id68415" display="block" list-type="enumerated"><item id="uid55">640 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid56">980 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid57">500 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid58">450 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid59">1300 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid60">1450 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid61">1760 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item></list></item>
+        <item id="uid62">Determine the aircraft speed, with a speed of sound of 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, for the following Mach Cone Angles:
+<list id="id68721" display="block" list-type="enumerated"><item id="uid63">58.21 degrees
+</item><item id="uid64">49.07 degrees
+</item><item id="uid65">45.1 degrees
+</item><item id="uid66">39.46 degrees
+</item><item id="uid67">31.54 degrees
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

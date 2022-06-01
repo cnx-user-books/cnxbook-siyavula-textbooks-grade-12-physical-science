@@ -1,0 +1,660 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Frames of reference</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39542</md:content-id>
+  <md:title>Frames of reference</md:title>
+  <md:abstract/>
+  <md:uuid>46c97f30-cb5a-4c41-9923-7004fc04853e</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Frames of Reference</title>
+      <section id="uid104">
+        <title>Introduction</title>
+        <figure id="uid105">
+          <media id="uid105_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C1_037.png" id="uid105_onlineimage" width="229"><!-- NOTE: attribute width changes image size online (pixels). original width is 229. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_037.eps" id="uid105_printimage"/>
+          </media>
+          <caption>Top view of a road with two people standing on opposite sides. A car drives past.</caption>
+        </figure>
+        <para id="id253302">Consider two people standing, facing each other on either side of a road. A car drives past them, heading West. For the person facing South, the car was moving toward the right. However, for the person facing North, the car was moving toward the left. This discrepancy is due to the fact that the two people used two different <emphasis effect="italics">frames of reference</emphasis> from which to investigate this system. If each person were asked in what direction the car were moving, they would give a different answer. The answer would be relative to their frame of reference.</para>
+      </section>
+      <section id="uid106">
+        <title>What is a <emphasis effect="italics">frame of reference</emphasis>?</title>
+<definition id="fhsst_id7512"><term id="termfhsst_id7512"> Frame of Reference </term> <meaning id="meaningfhsst_id7512">
+        <para id="id253337">A <emphasis effect="italics">frame of reference</emphasis> is the point of view from which a system is observed. </para>
+        </meaning></definition>
+        <para id="id253355">In practical terms, a frame of reference is a set of axes (specifying directions) with an origin. An observer can then measure the position and motion of all points in a system, as well as the orientation of objects in the system relative to the frame of reference.</para>
+        <para id="id253361">There are two types of reference frames: inertial and non-inertial. An inertial frame of reference travels at a constant velocity, which means that Newton's first law (inertia) holds true. A non-inertial frame of reference, such as a moving car or a rotating carousel, accelerates. Therefore, Newton's first law does not hold true in a non-inertial reference frame, as objects appear to accelerate without the appropriate forces.</para>
+      </section>
+      <section id="uid107">
+        <title>Why are frames of reference important?</title>
+        <para id="id253378">Frames of reference are important because (as we have seen in the introductory example) the velocity of a car can differ depending on which frame of reference is used.</para>
+<section id="secfhsst_id7521"><title> Frames of Reference and Special Relativity </title>
+        <para id="id253389">Frames of reference are especially important in special relativity, because when a frame of reference is moving at some significant fraction of the speed of light, then the flow of time in that frame does not necessarily apply in another reference frame. The speed of light is considered to be the only true constant between moving frames of reference. </para>
+</section>
+        <para id="id253403">The next worked example will explain this.</para>
+      </section>
+      <section id="uid108">
+        <title>Relative Velocity</title>
+        <para id="id253416">The velocity of an object is frame dependent. More specifically, the perceived velocity of an object depends on the velocity of the observer. For example, a person standing on shore would observe the velocity of a boat to be different than a passenger on the boat.</para>
+<exercise id="secfhsst_id7529"><title> Relative Velocity </title>
+        <problem id="probfhsst_id7530">
+        <para id="id253435">The speedometer of a motor boat reads 5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The boat is moving East across a river which has a current traveling 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> North. What would the velocity of the motor boat be according to an observer on the shore? </para>
+        </problem>
+        <solution id="solfhsst_id7533"> <list id="listfhsst_id7533" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> First, draw a diagram showing the velocities involved. </label>
+        <para id="id253510">
+          <figure id="id253514">
+            <media id="id253514_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_038.png" id="id253514_onlineimage" width="187"><!-- NOTE: attribute width changes image size online (pixels). original width is 187. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_038.eps" id="id253514_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Use the Theorem of Pythagoras to solve for the resultant of the two velocities. </label>
+        <equation id="id253525">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>R</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>3</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>5</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mn>34</m:mn>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="id253634">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">tan</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>5</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>59</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>04</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id253698">
+          <figure id="id253701">
+            <media id="id253701_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_039.png" id="id253701_onlineimage" width="181"><!-- NOTE: attribute width changes image size online (pixels). original width is 181. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_039.eps" id="id253701_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id253708">The observer on the shore sees the boat moving with a velocity of 5,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> at 59,04<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>east of north due to the current pushing the boat perpendicular to its velocity. This is contrary to the perspective of a passenger on the boat who perceives the velocity of the boat to be 5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> due East. Both perspectives are correct as long as the frame of the observer is considered. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id7668"><title> Relative Velocity 2 </title>
+        <problem id="probfhsst_id7669">
+        <para id="id253802">It takes a man 10 seconds to ride down an escalator. It takes the same man 15 s to walk back up the escalator against its motion. How long will it take the man to walk down the escalator at the same rate he was walking before? </para>
+        </problem>
+        <solution id="solfhsst_id7672"> <list id="listfhsst_id7672" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is required and what is given </label>
+        <para id="id253827">We are required to determine the time taken for a man to walk down an escalator, with its motion.</para>
+        <para id="id253831">We are given the time taken for the man to ride down the escalator and the time taken for the man to walk up the escalator, against it motion.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id253840">Select down as positive and assume that the escalator moves at a velocity <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>e</m:mi></m:msub></m:math>. If the distance of the escalator is <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>e</m:mi></m:msub></m:math> then:</para>
+        <equation id="uid109">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>e</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id253917">Now, assume that the man walks at a velocity <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>m</m:mi></m:msub></m:math>. Then we have that:</para>
+        <equation id="uid110">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>e</m:mi>
+              </m:msub>
+              <m:mo>-</m:mo>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>m</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+                <m:mrow>
+                  <m:mn>15</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id253991">We are required to find <m:math overflow="scroll"><m:mi>t</m:mi></m:math> in:</para>
+        <equation id="uid111">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>e</m:mi>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>m</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Solve the problem </label>
+        <para id="id254055">We find that we have three equations and three unknowns (<m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>e</m:mi></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>m</m:mi></m:msub></m:math> and <m:math overflow="scroll"><m:mi>t</m:mi></m:math>).</para>
+        <para id="id254095">Add <link target-id="uid110"/> to <link target-id="uid111"/> to get:</para>
+        <equation id="id254107">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>e</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+                <m:mrow>
+                  <m:mn>15</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>+</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id254163">Substitute from <link target-id="uid109"/> to get:</para>
+        <equation id="id254173">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+                <m:mrow>
+                  <m:mn>15</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>+</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id254242">Since <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>e</m:mi></m:msub></m:math> is not equal to zero we can divide throughout by <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>e</m:mi></m:msub></m:math>.</para>
+        <equation id="id254276">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mfrac>
+                <m:mn>2</m:mn>
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mrow>
+                  <m:mn>15</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>+</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id254327">Re-write:</para>
+        <equation id="id254333">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mfrac>
+                <m:mn>2</m:mn>
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>-</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mrow>
+                  <m:mn>15</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id254384">Multiply by <m:math overflow="scroll"><m:mi>t</m:mi></m:math>:</para>
+        <equation id="id254399">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>t</m:mi>
+              <m:mo>(</m:mo>
+              <m:mfrac>
+                <m:mn>2</m:mn>
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>-</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mrow>
+                  <m:mn>15</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>)</m:mo>
+              <m:mo>=</m:mo>
+              <m:mn>1</m:mn>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id254451">Solve for <m:math overflow="scroll"><m:mi>t</m:mi></m:math>:</para>
+        <equation id="id254466">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>t</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>2</m:mn>
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                  <m:mo>-</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mrow>
+                      <m:mn>15</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id254517">to get:</para>
+        <equation id="id254523">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>t</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>15</m:mn>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mspace width="0.166667em"/>
+              <m:mi mathvariant="normal">s</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id254555">The man will take 15/2 = 7,5 s
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id7963"><title> Frames of Reference </title>
+        <list id="id254577" display="block" list-type="enumerated">
+          <item id="uid112">A woman walks north at 3 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> on a boat that is moving east at 4 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. This situation is illustrated in the diagram below.
+<list id="id254644" display="block" list-type="enumerated"><item id="uid113">How fast is the woman moving according to her friend who is also on the boat?
+</item><item id="uid114">What is the woman's velocity according to an observer watching from the river bank?
+</item></list><figure id="id254676"><media id="id254676_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_040.png" id="id254676_onlineimage" width="180"><!-- NOTE: attribute width changes image size online (pixels). original width is 180. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_040.eps" id="id254676_printimage"/></media></figure></item>
+          <item id="uid115">A boy is standing inside a train that is moving at 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the left. The boy throws a ball in the air with a velocity of 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. What is the resultant velocity of the ball
+<list id="id254747" display="block" list-type="enumerated"><item id="uid116">according to the boy?
+</item><item id="uid117">according to someone outside the train?
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <para id="eip-347"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on momentum">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=g12momentum-100513091859-phpapp01&amp;stripped_title=g12-momentum&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid7">
+      <title>Summary</title>
+      <list id="id254795" display="block" list-type="enumerated">
+        <item id="uid118">Projectiles are objects that move through the air.
+</item>
+        <item id="uid119">Objects that move up and down (vertical projectiles) on the earth accelerate with a constant acceleration g which is approximately equal to 9,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>directed downwards towards the centre of the earth.
+</item>
+        <item id="uid120">The equations of motion can be used to solve vertical projectile problems.
+<equation id="id254863"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mo>+</m:mo><m:mi>g</m:mi><m:mi>t</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mrow><m:mo>(</m:mo><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mo>+</m:mo><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:mfrac><m:mi>t</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mi>t</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>g</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:msubsup><m:mi>v</m:mi><m:mi>f</m:mi><m:mn>2</m:mn></m:msubsup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msubsup><m:mi>v</m:mi><m:mi>i</m:mi><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>g</m:mi><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+        <item id="uid121">Graphs can be drawn for vertical projectile motion and are similar to the graphs for motion at constant acceleration. If upwards is taken as positive the <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> vs <m:math overflow="scroll"><m:mi>t</m:mi></m:math>, <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs <m:math overflow="scroll"><m:mi>t</m:mi></m:math> ans <m:math overflow="scroll"><m:mi>a</m:mi></m:math> vs <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graphs for an object being thrown upwards look like this:
+<figure id="id255117"><media id="id255117_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_041.png" id="id255117_onlineimage" width="823"><!-- NOTE: attribute width changes image size online (pixels). original width is 823. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_041.eps" id="id255117_printimage"/></media></figure></item>
+        <item id="uid122">Momentum is conserved in one and two dimensions.
+<equation id="id255136"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi>p</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>m</m:mi><m:mi>v</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>Δ</m:mi><m:mi>p</m:mi></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>m</m:mi><m:mi>Δ</m:mi><m:mi>v</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>Δ</m:mi><m:mi>p</m:mi></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>F</m:mi><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+        <item id="uid123">An elastic collision is a collision where both momentum and kinetic energy is conserved.
+<equation id="id255227"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>p</m:mi><m:mi> before </m:mi></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mi>p</m:mi><m:mi> after </m:mi></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>K</m:mi><m:msub><m:mi>E</m:mi><m:mi> before </m:mi></m:msub></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>K</m:mi><m:msub><m:mi>E</m:mi><m:mi> after </m:mi></m:msub></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+        <item id="uid124">An inelastic collision is where momentum is conserved but kinetic energy is not conserved.
+<equation id="id255311"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>p</m:mi><m:mi> before </m:mi></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mi>p</m:mi><m:mi> after </m:mi></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>K</m:mi><m:msub><m:mi>E</m:mi><m:mi> before </m:mi></m:msub></m:mrow></m:mtd><m:mtd><m:mo>≠</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>K</m:mi><m:msub><m:mi>E</m:mi><m:mi> after </m:mi></m:msub></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+        <item id="uid125">The frame of reference is the point of view from which a system is observed.
+</item>
+      </list>
+    </section>
+    <section id="cid8">
+      <title>End of chapter exercises</title>
+      <list id="id255407" display="block" list-type="enumerated">
+        <item id="uid126">[IEB 2005/11 HG] Two friends, Ann and Lindiwe decide to race each other by swimming across a river to the other side. They swim at identical speeds relative to the water. The river has a current flowing to the east.
+<figure id="id255427"><media id="id255427_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_042.png" id="id255427_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_042.eps" id="id255427_printimage"/></media></figure>
+Ann heads a little west of north so that she reaches the other side directly across from the starting point. Lindiwe heads north but is carried downstream, reaching the other side downstream of Ann.
+
+Who wins the race?
+<list id="id255439" display="block" list-type="enumerated"><item id="uid127">Ann
+</item><item id="uid128">Lindiwe
+</item><item id="uid129">It is a dead heat
+</item><item id="uid130">One cannot decide without knowing the velocity of the current.
+</item></list></item>
+        <item id="uid131">[SC 2001/11 HG1] A bullet fired vertically upwards reaches a maximum height and falls back to the ground.
+<figure id="id255508"><media id="id255508_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_043.png" id="id255508_onlineimage" width="48"><!-- NOTE: attribute width changes image size online (pixels). original width is 48. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_043.eps" id="id255508_printimage"/></media></figure>
+Which <emphasis effect="bold">one</emphasis> of the following statements is <emphasis effect="bold">true</emphasis> with reference to the acceleration of the bullet during its motion, if air resistance is ignored? The acceleration:
+<list id="id255531" display="block" list-type="enumerated"><item id="uid132">is always downwards
+</item><item id="uid133">is first upwards and then downwards
+</item><item id="uid134">is first downwards and then upwards
+</item><item id="uid135">decreases first and then increases
+</item></list></item>
+        <item id="uid136">[SC 2002/03 HG1] Thabo suspends a bag of tomatoes from a spring balance held vertically. The balance itself weighs 10 N and he notes that the balance reads 50 N. He then lets go of the balance and the balance and tomatoes fall freely. What would the reading be on the balance while falling?
+<figure id="id255605"><media id="id255605_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_044.png" id="id255605_onlineimage" width="87"><!-- NOTE: attribute width changes image size online (pixels). original width is 87. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_044.eps" id="id255605_printimage"/></media></figure><list id="id255611" display="block" list-type="enumerated"><item id="uid137">50 N
+</item><item id="uid138">40 N
+</item><item id="uid139">10 N
+</item><item id="uid140">0 N
+</item></list></item>
+        <item id="uid141">[IEB 2002/11 HG1] Two balls, P and Q, are simultaneously thrown into the air from the same height above the ground. P is thrown vertically upwards and Q vertically downwards with the same initial speed. Which of the following is true of both balls just before they hit the ground? (Ignore any air resistance. Take downwards as the positive direction.)
+<table id="id255679" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="bold">Velocity</emphasis></entry><entry><emphasis effect="bold">Acceleration</emphasis></entry></row><row><entry>A</entry><entry>The same</entry><entry>The same</entry></row><row><entry>B</entry><entry>P has a greater velocity than Q</entry><entry>P has a negative acceleration; Q has a positive acceleration</entry></row><row><entry>C</entry><entry>P has a greater velocity than Q</entry><entry>The same</entry></row><row><entry>D</entry><entry>The same</entry><entry>P has a negative acceleration; Q has a positive acceleration</entry></row></tbody></tgroup></table></item>
+        <item id="uid142">[IEB 2002/11 HG1] An observer on the ground looks up to see a bird flying overhead along a straight line on bearing 130<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> (40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> S of E). There is a steady wind blowing from east to west. In the vector diagrams below, I, II and III represent the following:
+I       the velocity of the bird relative to the air
+II     the velocity of the air relative to the ground
+III   the resultant velocity of the bird relative to the ground
+Which diagram correctly shows these three velocities?
+<figure id="id255911"><media id="id255911_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_045.png" id="id255911_onlineimage" width="455"><!-- NOTE: attribute width changes image size online (pixels). original width is 455. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_045.eps" id="id255911_printimage"/></media></figure></item>
+        <item id="uid143">[SC 2003/11] A ball X of mass <m:math overflow="scroll"><m:mi>m</m:mi></m:math> is projected vertically upwards at a speed <m:math overflow="scroll"><m:msub><m:mi>u</m:mi><m:mi>x</m:mi></m:msub></m:math> from a bridge 20 m high. A ball Y of mass <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>m</m:mi></m:mrow></m:math> is projected vertically downwards from the same bridge at a speed of <m:math overflow="scroll"><m:msub><m:mi>u</m:mi><m:mi>y</m:mi></m:msub></m:math>. The two balls reach the water at the same speed. Air friction can be ignored.
+Which of the following is true with reference to the speeds with which the balls are projected?
+<list id="id255986" display="block" list-type="enumerated"><item id="uid144"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>u</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>u</m:mi><m:mi>y</m:mi></m:msub></m:mrow></m:math></item><item id="uid145"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>u</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>u</m:mi><m:mi>y</m:mi></m:msub></m:mrow></m:math></item><item id="uid146"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>u</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:mn>2</m:mn><m:msub><m:mi>u</m:mi><m:mi>y</m:mi></m:msub></m:mrow></m:math></item><item id="uid147"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>u</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:mn>4</m:mn><m:msub><m:mi>u</m:mi><m:mi>y</m:mi></m:msub></m:mrow></m:math></item></list></item>
+        <item id="uid148">[SC 2002/03 HG1] A stone falls freely from rest from a certain height. Which one of the following quantities could be represented on the <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-axis of the graph below?
+<figure id="id256164"><media id="id256164_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_047.png" id="id256164_onlineimage" width="244"><!-- NOTE: attribute width changes image size online (pixels). original width is 244. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_047.eps" id="id256164_printimage"/></media></figure><list id="id256170" display="block" list-type="enumerated"><item id="uid149">velocity
+</item><item id="uid150">acceleration
+</item><item id="uid151">momentum
+</item><item id="uid152">displacement
+</item></list></item>
+        <item id="uid153">
+A man walks towards the back of a train at 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>while the train moves forward at 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The magnitude of the man's velocity with respect to the ground is
+<list id="id256286" display="block" list-type="enumerated"><item id="uid154">2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid155">8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid156">10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid157">12 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item></list></item>
+        <item id="uid158">A stone is thrown vertically upwards and it returns to the ground. If friction is ignored, its acceleration as it reaches the highest point of its motion is
+<list id="id256447" display="block" list-type="enumerated"><item id="uid159">greater than just after it left the throwers hand.
+</item><item id="uid160">less than just before it hits the ground.
+</item><item id="uid161">the same as when it left the throwers hand.
+</item><item id="uid162">less than it will be when it strikes the ground.
+</item></list></item>
+        <item id="uid163">
+An exploding device is thrown vertically upwards. As it reaches its highest point, it explodes and breaks up into three pieces of <emphasis effect="bold">equal mass</emphasis>. Which one of the following combinations is possible for the motion of the three pieces if they all move in a vertical line?
+<table id="id256520" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">Mass 1</emphasis></entry><entry><emphasis effect="bold">Mass 2</emphasis></entry><entry><emphasis effect="bold">Mass 3</emphasis></entry></row><row><entry>A</entry><entry>v downwards</entry><entry>v downwards</entry><entry>v upwards</entry></row><row><entry>B</entry><entry>v upwards</entry><entry>2v downwards</entry><entry>v upwards</entry></row><row><entry>C</entry><entry>2v upwards</entry><entry>v downwards</entry><entry>v upwards</entry></row><row><entry>D</entry><entry>v upwards</entry><entry>2v downwards</entry><entry>v downwards</entry></row></tbody></tgroup></table></item>
+        <item id="uid164">[IEB 2004/11 HG1] A stone is thrown vertically up into the air. Which of the following graphs best shows the resultant force exerted on the stone against time while it is in the air? (Air resistance is negligible.)
+<figure id="uid165"><media id="uid165_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_048.png" id="uid165_onlineimage" width="288"><!-- NOTE: attribute width changes image size online (pixels). original width is 288. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_048.eps" id="uid165_printimage"/></media></figure></item>
+        <item id="uid166">What is the velocity of a ball just as it hits the ground if it is thrown upward at 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>from a height 5 meters above the ground?
+</item>
+        <item id="uid167">[IEB 2005/11 HG1]
+A breeze of 50 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> blows towards the west as a pilot flies his light plane from town A to village B. The trip from A to B takes 1 h. He then turns west, flying for <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> h until he reaches a dam at point C. He turns over the dam and returns to town A. The diagram shows his flight plan. It is not to scale.
+<figure id="id256852"><media id="id256852_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_049.png" id="id256852_onlineimage" width="368"><!-- NOTE: attribute width changes image size online (pixels). original width is 368. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_049.eps" id="id256852_printimage"/></media></figure>
+The pilot flies at the same altitude at a constant speed of 130 km.h<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> relative to the air throughout this flight.
+<list id="id256879" display="block" list-type="enumerated"><item id="uid168">Determine the magnitude of the pilot's resultant velocity from the town A to the village B.
+</item><item id="uid169">How far is village B from town A?
+</item><item id="uid170">What is the plane's speed relative to the ground as it travels from village B to the dam at C?
+</item><item id="uid171">Determine the following, by calculation or by scale drawing:
+<list id="id256933" display="block" list-type="enumerated"><item id="uid172">The distance from the village B to the dam C.
+</item><item id="uid173">The displacement from the dam C back home to town A.
+</item></list></item></list></item>
+        <item id="uid174">A cannon (assumed to be at ground level) is fired off a flat surface at an angle, <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> above the horizontal with an initial speed of <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mn>0</m:mn></m:msub></m:math>.
+<list id="id257001" display="block" list-type="enumerated"><item id="uid175">What is the initial horizontal component of the velocity?
+</item><item id="uid176">What is the initial vertical component of the velocity?
+</item><item id="uid177">What is the horizontal component of the velocity at the highest point of the trajectory?
+</item><item id="uid178">What is the vertical component of the velocity at that point?
+</item><item id="uid179">What is the horizontal component of the velocity when the projectile lands?
+</item><item id="uid180">What is the vertical component of the velocity when it lands?
+</item></list></item>
+        <item id="uid181">[IEB 2004/11 HG1] Hailstones fall vertically on the hood of a car parked on a horizontal stretch of road. The average terminal velocity of the hailstones as they descend is 8,0 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and each has a mass of 1,2 g.
+<list id="id257111" display="block" list-type="enumerated"><item id="uid182">Calculate the magnitude of the momentum of a hailstone just before it strikes the hood of the car.
+</item><item id="uid183">If a hailstone rebounds at 6,0 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> after hitting the car's hood, what is the magnitude of its change in momentum?
+</item><item id="uid184">The hailstone is in contact with the car's hood for 0,002 s during its collision with the hood of the car. What is the magnitude of the resultant force exerted on the hood if the hailstone rebounds at 6,0 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>?
+</item><item id="uid185">A car's hood can withstand a maximum impulse of 0,48 N<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s without leaving a permanent dent. Calculate the minimum mass of a hailstone that will leave a dent in the hood of the car, if it falls at 8,0 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and rebounds at 6,0 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> after a collision lasting 0,002 s.
+</item></list></item>
+        <item id="uid186">[IEB 2003/11 HG1 - Biathlon] Andrew takes part in a biathlon race in which he first swims across a river and then cycles. The diagram below shows his points of entry and exit from the river, A and P, respectively.
+<figure id="id257260"><media id="id257260_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_050.png" id="id257260_onlineimage" width="307"><!-- NOTE: attribute width changes image size online (pixels). original width is 307. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_050.eps" id="id257260_printimage"/></media></figure>
+During the swim, Andrew maintains a constant velocity of 1,5 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> East relative to the water. The water in the river flows at a constant velocity of 2,5 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> in a direction 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> North of East. The width of the river is 100 m.
+The diagram below is a velocity-vector diagram used to determine the resultant velocity of Andrew relative to the river bed.
+<figure id="id257325"><media id="id257325_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_051.png" id="id257325_onlineimage" width="217"><!-- NOTE: attribute width changes image size online (pixels). original width is 217. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_051.eps" id="id257325_printimage"/></media></figure><list id="id257331" display="block" list-type="enumerated"><item id="uid187">Which of the vectors (AB, BC and AC) refer to each of the following?
+<list id="id257347" display="block" list-type="enumerated"><item id="uid188">The velocity of Andrew relative to the water.
+</item><item id="uid189">The velocity of the water relative to the water bed.
+</item><item id="uid190">The resultant velocity of Andrew relative to the river bed.
+</item></list></item><item id="uid191">Determine the magnitude of Andrew's velocity relative to the river bed either by calculations or by scale drawing, showing your method clearly.
+</item><item id="uid192">How long (in seconds) did it take Andrew to cross the river?
+</item><item id="uid193">At what distance along the river bank (QP) should Peter wait with Andrew's bicycle ready for the next stage of the race?
+</item></list></item>
+        <item id="uid194">[IEB 2002/11 HG1 - Bouncing Ball]
+A ball bounces vertically on a hard surface after being thrown vertically up into the air by a boy standing on the ledge of a building.
+Just before the ball hits the ground for the first time, it has a velocity of magnitude 15 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Immediately, after bouncing, it has a velocity of magnitude 10 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+The graph below shows the velocity of the ball as a function of time from the moment it is thrown upwards into the air until it reaches its maximum height after bouncing once.
+<figure id="id257492"><media id="id257492_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_052.png" id="id257492_onlineimage" width="682"><!-- NOTE: attribute width changes image size online (pixels). original width is 682. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_052.eps" id="id257492_printimage"/></media></figure><list id="id257499" display="block" list-type="enumerated"><item id="uid195">At what velocity does the boy throw the ball into the air?
+</item><item id="uid196">What can be determined by calculating the gradient of the graph during the first two seconds?
+</item><item id="uid197">Determine the gradient of the graph over the first two seconds. State its units.
+</item><item id="uid198">How far below the boy's hand does the ball hit the ground?
+</item><item id="uid199">Use an equation of motion to calculate how long it takes, from the time the ball was thrown, for the ball to reach its maximum height after bouncing.
+</item><item id="uid200">What is the position of the ball, measured from the boy's hand, when it reaches its maximum height after bouncing?
+</item></list></item>
+        <item id="uid201">[IEB 2001/11 HG1] - <emphasis effect="bold">Free Falling?</emphasis>
+A parachutist steps out of an aircraft, flying high above the ground. She falls for the first 8 seconds before opening her parachute. A graph of her velocity is shown in Graph A below.
+<figure id="id257606"><media id="id257606_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_053.png" id="id257606_onlineimage" width="353"><!-- NOTE: attribute width changes image size online (pixels). original width is 353. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_053.eps" id="id257606_printimage"/></media></figure><list id="id257612" display="block" list-type="enumerated"><item id="uid202">Use the information from the graph to calculate an approximate height of the aircraft when she stepped out of it (to the nearest 10 m).
+</item><item id="uid203">What is the magnitude of her velocity during her descent with the parachute fully open?
+The air resistance acting on the parachute is related to the speed at which the parachutist descends. Graph B shows the relationship between air resistance and velocity of the parachutist descending with the parachute open.
+<figure id="id257684"><media id="id257684_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_054.png" id="id257684_onlineimage" width="447"><!-- NOTE: attribute width changes image size online (pixels). original width is 447. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_054.eps" id="id257684_printimage"/></media></figure></item><item id="uid204">Use Graph B to find the magnitude of the air resistance on her parachute when she was descending with the parachute open.
+</item><item id="uid205">Assume that the mass of the parachute is negligible. Calculate the mass of the parachutist showing your reasoning clearly.
+</item></list></item>
+        <item id="uid206">
+An aeroplane travels from Cape Town and the pilot must reach Johannesburg, which is situated 1300 km from Cape Town on a bearing of 50<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> in 5 hours. At the height at which the plane flies, a wind is blowing at 100 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>on a bearing of 130 <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> for the whole trip.
+<figure id="id257789"><media id="id257789_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_055.png" id="id257789_onlineimage" width="222"><!-- NOTE: attribute width changes image size online (pixels). original width is 222. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_055.eps" id="id257789_printimage"/></media></figure><list id="id257795" display="block" list-type="enumerated"><item id="uid207">Calculate the magnitude of the average resultant velocity of the aeroplane, in km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, if it is to reach its destination on time.
+</item><item id="uid208">Calculate ther average velocity, in km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, in which the aeroplane should be travelling in order to reach Johannesburg in the prescribed 5 hours. Include a labelled, rough vector diagram in your answer.
+(If an accurate scale drawing is used, a scale of 25 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>= 1 cm must be used.)
+</item></list></item>
+        <item id="uid209">
+Niko, in the basket of a hot-air balloon, is stationary at a height of 10 m above the level from where his friend, Bongi, will throw a ball. Bongi intends throwing the ball upwards and Niko, in the basket, needs to <emphasis effect="bold">descend</emphasis> (move downwards) to catch the ball at its maximum height.
+<figure id="id257931"><media id="id257931_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_056.png" id="id257931_onlineimage" width="297"><!-- NOTE: attribute width changes image size online (pixels). original width is 297. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_056.eps" id="id257931_printimage"/></media></figure>
+Bongi throws the ball upwards with a velocity of 13 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Niko starts his descent at the same instant the ball is thrown upwards, by letting air escape from the balloon, causing it to accelerate downwards. Ignore the effect of air friction on the ball.
+<list id="id257969" display="block" list-type="enumerated"><item id="uid210">Calculate the maximum height reached by the ball.
+</item><item id="uid211">Calculate the magnitude of the minimum average acceleration the balloon must have in order for Niko to catch the ball, if it takes 1,3 s for the ball to rach its maximum height.
+</item></list></item>
+        <item id="uid212">
+Lesedi (mass 50 kg) sits on a massless trolley. The trolley is travelling at a constant speed of 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. His friend Zola (mass 60 kg) jumps on the trolley with a velocity of 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. What is the final velocity of the combination (Lesedi, Zola and trolley) if Zola jumps on the trolley from
+<list id="id258064" display="block" list-type="enumerated"><item id="uid213">the front
+</item><item id="uid214">behind
+</item><item id="uid215">the side
+</item></list>
+(Ignore all kinds of friction)
+<figure id="id258111"><media id="id258111_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_057.png" id="id258111_onlineimage" width="337"><!-- NOTE: attribute width changes image size online (pixels). original width is 337. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_057.eps" id="id258111_printimage"/></media></figure></item>
+      </list>
+    </section>
+  </content>
+</document>

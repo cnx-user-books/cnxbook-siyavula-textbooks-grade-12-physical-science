@@ -1,0 +1,480 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Applications</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39424</md:content-id>
+  <md:title>Applications</md:title>
+  <md:abstract/>
+  <md:uuid>5e251495-e86f-44b3-b690-9015bd55ca23</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Applications of electrochemistry</title>
+      <para id="id154274">Electrochemistry has a number of different uses, particularly in industry. We are going to look at a few examples.</para>
+      <section id="uid189">
+        <title>Electroplating</title>
+        <para id="id154287">Electroplating is the process of using electrical current to coat an electrically conductive object with a thin layer of metal. Mostly, this application is used to deposit a layer of metal that has some desired property (e.g. abrasion and wear resistance, corrosion protection, improvement of aesthetic qualities etc.) onto a surface that doesn't have that property. Electro-refining (also sometimes called <emphasis effect="italics">electrowinning</emphasis> is electroplating on a large scale. Electrochemical reactions are used to deposit pure metals from their ores. One example is the electrorefining of copper.</para>
+        <para id="id154300">Copper plays a major role in the electrical reticulation industry as it is very conductive and is used in electric cables. One of the problems though is that copper must be pure if it is to be an effective current carrier. One of the methods used to purify copper, is electrowinning. The copper electrowinning process is as follows:</para>
+        <list id="id154309" display="block" list-type="enumerated">
+          <item id="uid190">Bars of crude (impure) copper containing other metallic
+impurities is placed on the <emphasis effect="italics">anodes</emphasis>.
+</item>
+          <item id="uid191">The <emphasis effect="italics">cathodes</emphasis> are made up of pure copper with few impurities.
+</item>
+          <item id="uid192">The electrolyte is a solution of aqueous <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>u</m:mi><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>.
+</item>
+          <item id="uid193">When current passes through the cell, electrolysis takes place. The impure copper anode dissolves to form Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions in solution. These positive ions are attracted to the negative cathode, where reduction takes place to produce pure copper metal. The reactions that take place are as follows:
+At the <emphasis effect="italics">anode</emphasis>:
+<equation id="id154447"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></equation>
+At the <emphasis effect="italics">cathode</emphasis>:
+<equation id="id154513"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mspace width="4pt"/><m:mspace width="4pt"/><m:mspace width="4pt"/><m:mspace width="4pt"/><m:mspace width="4pt"/></m:mrow><m:mrow><m:mo>(</m:mo><m:mo>&gt;</m:mo><m:mn>99</m:mn><m:mo>%</m:mo><m:mi> purity </m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+          <item id="uid194">The other metal impurities (Zn, Au, Ag, Fe and Pb) do not
+dissolve and form a solid sludge at the bottom of the tank or
+remain in solution in the electrolyte.
+</item>
+        </list>
+        <figure id="uid195">
+          <media id="uid195_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C4_010.png" id="uid195_onlineimage" width="254"><!-- NOTE: attribute width changes image size online (pixels). original width is 254. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C4_010.eps" id="uid195_printimage"/>
+          </media>
+          <caption>A simplified diagram to illustrate what happens during the electrowinning of copper</caption>
+        </figure>
+      </section>
+      <section id="uid196">
+        <title>The production of chlorine</title>
+        <para id="id154640">Electrolysis can also be used to produce chlorine gas from brine/seawater (NaCl). This is sometimes referred to as the 'Chlor-alkali' process. The reactions that take place are as follows:</para>
+        <para id="id154645">At the <emphasis effect="italics">anode</emphasis> the reaction is:</para>
+        <equation id="id154656">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>C</m:mi>
+                    <m:msup>
+                      <m:mi>l</m:mi>
+                      <m:mo>-</m:mo>
+                    </m:msup>
+                    <m:mo>→</m:mo>
+                    <m:mi>C</m:mi>
+                    <m:msub>
+                      <m:mi>l</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:msup>
+                      <m:mi>e</m:mi>
+                      <m:mo>-</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id154717">whereas at the <emphasis effect="italics">cathode</emphasis>, the following happens:</para>
+        <equation id="id154726">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>N</m:mi>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:msup>
+                      <m:mi>e</m:mi>
+                      <m:mo>-</m:mo>
+                    </m:msup>
+                    <m:mo>→</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>N</m:mi>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>O</m:mi>
+                    <m:msup>
+                      <m:mi>H</m:mi>
+                      <m:mo>-</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id154818">The overall reaction is:</para>
+        <equation id="id154822">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>N</m:mi>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>C</m:mi>
+                    <m:msup>
+                      <m:mi>l</m:mi>
+                      <m:mo>-</m:mo>
+                    </m:msup>
+                    <m:mo>→</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>N</m:mi>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>O</m:mi>
+                    <m:msup>
+                      <m:mi>H</m:mi>
+                      <m:mo>-</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>H</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                    <m:msub>
+                      <m:mi>l</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <figure id="uid197">
+          <media id="uid197_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C4_011.png" id="uid197_onlineimage" width="225"><!-- NOTE: attribute width changes image size online (pixels). original width is 225. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C4_011.eps" id="uid197_printimage"/>
+          </media>
+          <caption>The electrolysis of sodium chloride</caption>
+        </figure>
+        <para id="id154940">Chlorine is a very important chemical. It is used as a bleaching agent, a disinfectant, in solvents, pharmaceuticals, dyes and even plastics such as polyvinlychloride (PVC).</para>
+      </section>
+      <section id="uid198">
+        <title>Extraction of aluminium</title>
+        <para id="id154955">Aluminum metal is a commonly used metal in industry where its properties of being both light and strong can be utilized. It is also used in the manufacture of products such as aeroplanes and motor cars. The metal is present in
+deposits of bauxite which is a mixture of silicas, iron oxides and hydrated alumina (<m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math> x <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>).</para>
+        <para id="id155003">Electrolysis can be used to extract aluminum from bauxite. The process described below produces <m:math overflow="scroll"><m:mrow><m:mn>99</m:mn><m:mo>%</m:mo></m:mrow></m:math> pure aluminum:</para>
+        <list id="id155022" display="block" list-type="enumerated">
+          <item id="uid199">Aluminum is melted along with cryolite (<m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:msub><m:mi>a</m:mi><m:mn>3</m:mn></m:msub><m:mi>A</m:mi><m:mi>l</m:mi><m:msub><m:mi>F</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math>) which acts as the electrolyte. Cryolite helps to lower the melting point and dissolve the ore.
+</item>
+          <item id="uid200">The <emphasis effect="italics">anode</emphasis> carbon rods provide sites for the oxidation of <m:math overflow="scroll"><m:msup><m:mi>O</m:mi><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math>
+and <m:math overflow="scroll"><m:msup><m:mi>F</m:mi><m:mo>-</m:mo></m:msup></m:math> ions. Oxygen and flourine gas are given off at the anodes and
+also lead to anode consumption.
+</item>
+          <item id="uid201">At the <emphasis effect="italics">cathode</emphasis> cell lining, the <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:msup><m:mi>l</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:mrow></m:math> ions are reduced and metal
+aluminum deposits on the lining.
+</item>
+          <item id="uid202">The <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mi>l</m:mi><m:msubsup><m:mi>F</m:mi><m:mrow><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:mrow></m:math> electrolyte is stable and remains in its molten state.
+</item>
+        </list>
+        <para id="id155197">The basic electrolytic reactions involved are as follows:
+At the <emphasis effect="italics">cathode</emphasis>:</para>
+        <equation id="id155206">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:msup>
+                      <m:mi>l</m:mi>
+                      <m:mrow>
+                        <m:mo>+</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:msup>
+                      <m:mi>e</m:mi>
+                      <m:mo>-</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>l</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>s</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mrow>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="4pt"/>
+                    </m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>99</m:mn>
+                    <m:mo>%</m:mo>
+                    <m:mi> purity </m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id155293">At the <emphasis effect="italics">anode</emphasis>:</para>
+        <equation id="id155302">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:msup>
+                      <m:mi>O</m:mi>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo>-</m:mo>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:msup>
+                      <m:mi>e</m:mi>
+                      <m:mo>-</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id155367">The overall reaction is as follows:</para>
+        <equation id="id155371">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>A</m:mi>
+                    <m:msub>
+                      <m:mi>l</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mi>A</m:mi>
+                    <m:mi>l</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id155433">The only problem with this process is that the reaction is <emphasis effect="italics">endothermic</emphasis> and large amounts of electricity are needed to drive the reaction. The process is therefore very expensive.</para>
+      </section>
+    </section>
+    <para id="eip-727"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=electrochemicalcells-100512093021-phpapp02&amp;stripped_title=electrochemical-cells&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid8">
+      <title>Summary</title>
+      <list id="id155454" display="block" list-type="bulleted">
+        <item id="uid203">An <emphasis effect="bold">electrochemical reaction</emphasis> is one where either a chemical reaction produces an external voltage, or where an external voltage causes a chemical reaction to take place.
+</item>
+        <item id="uid204">In a <emphasis effect="bold">galvanic cell</emphasis> a chemical reaction produces a current in the external circuit. An example is the zinc-copper cell.
+</item>
+        <item id="uid205">A galvanic cell has a number of <emphasis effect="bold">components</emphasis>. It consists of two <emphasis effect="bold">electrodes</emphasis>, each of which is placed in a separate beaker in an <emphasis effect="bold">electrolyte</emphasis> solution. The two electrolytes are connected by a <emphasis effect="bold">salt bridge</emphasis>. The electrodes are connected two each other by an external circuit wire.
+</item>
+        <item id="uid206">One of the electrodes is the <emphasis effect="bold">anode</emphasis>, where <emphasis effect="bold">oxidation</emphasis> takes place. The <emphasis effect="bold">cathode</emphasis> is the electrode where <emphasis effect="bold">reduction</emphasis> takes place.
+</item>
+        <item id="uid207">In a galvanic cell, the build up of electrons at the anode sets up a potential difference between the two electrodes, and this causes a <emphasis effect="bold">current</emphasis> to flow in the external circuit.
+</item>
+        <item id="uid208">A <emphasis effect="bold">galvanic cell</emphasis> is therefore an electrochemical cell that uses a chemical reaction between two dissimilar electrodes dipped in an electrolyte to generate an electric current.
+</item>
+        <item id="uid209">The standard notation for a galvanic cell such as the zinc-copper cell is as follows:
+<equation id="id155620"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mo>|</m:mo><m:mi>Z</m:mi></m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mi>C</m:mi></m:mrow><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>|</m:mo><m:mi>C</m:mi><m:mi>u</m:mi></m:mrow></m:mrow></m:math></equation>
+where
+<equation id="id155681"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mo>|</m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi mathvariant="normal">a</m:mi><m:mspace width="4pt"/><m:mi> phase </m:mi><m:mspace width="4pt"/><m:mi> boundary </m:mi><m:mspace width="4pt"/><m:mo>(</m:mo><m:mi> solid </m:mi><m:mo>/</m:mo><m:mi> aqueous </m:mi><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi> the </m:mi><m:mspace width="4pt"/><m:mi> salt </m:mi><m:mspace width="4pt"/><m:mi> bridge </m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+        <item id="uid210">The galvanic cell is used in <emphasis effect="bold">batteries</emphasis> and in <emphasis effect="bold">electroplating</emphasis>.
+</item>
+        <item id="uid211">An <emphasis effect="bold">electrolytic cell</emphasis> is an electrochemical cell that uses electricity to drive a non-spontaneous reaction. In an electrolytic cell, <emphasis effect="bold">electrolysis</emphasis> occurs, which is a process of separating elements and compounds using an electric current.
+</item>
+        <item id="uid212">One example of an electrolytic cell is the electrolysis of copper sulphate to produce copper and sulphate ions.
+</item>
+        <item id="uid213">Different metals have different <emphasis effect="bold">reaction potentials</emphasis>. The reaction potential of metals (in other words, their ability to ionise), is recorded in a <emphasis effect="bold">standard table of electrode potential</emphasis>. The more negative the value, the greater the tendency of the metal to be oxidised. The more positive the value, the greater the tendency of the metal to be reduced.
+</item>
+        <item id="uid214">The values on the standard table of electrode potentials are measured relative to the <emphasis effect="bold">standard hydrogen electrode</emphasis>.
+</item>
+        <item id="uid215">The emf of a cell can be calculated using one of the following equations:
+E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (right) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (left)
+E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (reduction half reaction) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (oxidation half reaction)
+E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (oxidising agent) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (reducing agent)
+E<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mn>0</m:mn></m:msubsup></m:math> = E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (cathode) - E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> (anode)
+</item>
+        <item id="uid216">It is possible to predict whether a reaction is <emphasis effect="bold">spontaneous</emphasis> or not, either by looking at the sign of the cell's emf or by comparing the electrode potentials of the two half cells.
+</item>
+        <item id="uid217">It is possible to <emphasis effect="bold">balance</emphasis> redox equations using the half-reactions that take place.
+</item>
+        <item id="uid218">There are a number of important <emphasis effect="bold">applications</emphasis> of electrochemistry. These include <emphasis effect="bold">electroplating</emphasis>, the <emphasis effect="bold">production of chlorine</emphasis> and the <emphasis effect="bold">extraction of aluminium</emphasis>.
+</item>
+      </list>
+<section id="secfhsst_id4645"><title> Summary exercise
+      </title>
+      <list id="id156205" display="block" list-type="enumerated">
+        <item id="uid219">For each of the following, say whether the statement is <emphasis effect="bold">true</emphasis> or <emphasis effect="bold">false</emphasis>. If it is false, re-write the statement correctly.
+<list id="id156233" display="block" list-type="enumerated"><item id="uid220">The anode in an electrolytic cell has a negative charge.
+</item><item id="uid221">The reaction <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> KClO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi> KCl </m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> is an example of a redox reaction.
+</item><item id="uid222">Lead is a stronger oxidising agent than nickel.
+</item></list></item>
+        <item id="uid223">For each of the following questions, choose the <emphasis effect="bold">one correct</emphasis> answer.
+<list id="id156331" display="block" list-type="enumerated"><item id="uid224">Which one of the following reactions is a redox reaction?
+<list id="id156347" display="block" list-type="enumerated"><item id="uid225"><m:math overflow="scroll"><m:mrow><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi><m:mo>+</m:mo><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>O</m:mi><m:mi>H</m:mi><m:mo>→</m:mo><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:mi>l</m:mi><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math></item><item id="uid226"><m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mi>g</m:mi><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>I</m:mi><m:mo>→</m:mo><m:mi>A</m:mi><m:mi>g</m:mi><m:mi>I</m:mi><m:mo>+</m:mo><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math></item><item id="uid227"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>F</m:mi><m:mi>e</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>+</m:mo><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>F</m:mi><m:mi>e</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid228"><m:math overflow="scroll"><m:mrow><m:mi>B</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mo>→</m:mo><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>B</m:mi><m:mi>a</m:mi><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math></item></list>
+(IEB Paper 2, 2003)
+</item><item id="uid229">Consider the reaction represented by the following equation:
+<m:math overflow="scroll"><m:mrow><m:mi>B</m:mi><m:msub><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msubsup><m:mi>I</m:mi><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo>-</m:mo></m:msubsup><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>B</m:mi><m:msubsup><m:mi>r</m:mi><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo>-</m:mo></m:msubsup><m:mo>+</m:mo><m:msub><m:mi>I</m:mi><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:msub></m:mrow></m:math>
+Which one of the following statements about this reaction is correct?
+<list id="id156767" display="block" list-type="enumerated"><item id="uid230">bromine is oxidised
+</item><item id="uid231">bromine acts as a reducing agent
+</item><item id="uid232">the iodide ions are oxidised
+</item><item id="uid233">iodine acts as a reducing agent
+</item></list>
+(IEB Paper 2, 2002)
+</item><item id="uid234">The following equations represent two hypothetical half-reactions:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>X</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mn>2</m:mn><m:msup><m:mi>X</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (+1.09 V) and
+<m:math overflow="scroll"><m:mrow><m:msup><m:mi>Y</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:mi>Y</m:mi></m:mrow></m:math> (-2.80 V)
+Which one of the following substances from these half-reactions has the greatest tendency to donate electrons?
+<list id="id156918" display="block" list-type="enumerated"><item id="uid235">X<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math></item><item id="uid236">X<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid237">Y
+</item><item id="uid238">Y<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math></item></list></item><item id="uid239">Which one of the following redox reactions will <emphasis effect="bold">not</emphasis> occur spontaneously at room temperature?
+<list id="id157025" display="block" list-type="enumerated"><item id="uid240"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>→</m:mo><m:mi>M</m:mi><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mi>C</m:mi><m:mi>u</m:mi></m:mrow></m:math></item><item id="uid241"><m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mi>S</m:mi><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mo>→</m:mo><m:mi>Z</m:mi><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math></item><item id="uid242"><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>→</m:mo><m:mi>F</m:mi><m:mi>e</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>N</m:mi><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math></item><item id="uid243"><m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>S</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>M</m:mi><m:mi>n</m:mi><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mo>→</m:mo><m:mn>5</m:mn><m:mi>S</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>M</m:mi><m:msup><m:mi>n</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math></item></list></item><item id="uid244">Which statement is CORRECT for a Zn-Cu galvanic cell that operates under standard conditions?
+<list id="id157388" display="block" list-type="enumerated"><item id="uid245">The concentration of the Zn<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions in the zinc half-cell gradually decreases.
+</item><item id="uid246">The concentration of the Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions in the copper half-cell gradually increases.
+</item><item id="uid247">Negative ions migrate from the zinc half-cell to the copper half-cell.
+</item><item id="uid248">The intensity of the colour of the electrolyte in the copper half-cell gradually decreases.
+</item></list>
+(DoE Exemplar Paper 2, 2008)
+</item></list></item>
+        <item id="uid249">In order to investigate the rate at which a reaction proceeds, a learner places a beaker containing concentrated nitric acid on a sensitive balance. A few pieces of copper metal are dropped into the nitric acid.
+<list id="id157494" display="block" list-type="enumerated"><item id="uid250">Use the relevant half-reactions from the table of Standard Reduction Potentials to derive the balanced nett ionic equation for the reaction that takes place in the beaker.
+</item><item id="uid251">What chemical property of nitric acid is illustrated by this reaction?
+</item><item id="uid252">List three observations that this learner would make during the investigation.
+</item></list>
+(IEB Paper 2, 2005)
+</item>
+        <item id="uid253">The following reaction takes place in an electrochemical cell:
+<equation id="id157553"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>C</m:mi><m:mi>u</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>A</m:mi><m:mi>g</m:mi><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>A</m:mi><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation><list id="id157655" display="block" list-type="enumerated"><item id="uid254">Give an equation for the oxidation half reaction.
+</item><item id="uid255">Which metal is used as the anode?
+</item><item id="uid256">Determine the emf of the cell under standard conditions.
+</item></list>
+(IEB Paper 2, 2003)
+</item>
+        <item id="uid257">The nickel-cadmium (NiCad) battery is small and light and is made in a sealed unit. It is used in portable appliances such as calculators and electric razors. The following two half reactions occur when electrical energy is produced by the cell.
+Half reaction 1: <m:math overflow="scroll"><m:mrow><m:mi> Cd </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi> Cd </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi> OH </m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+Half reaction 2: <m:math overflow="scroll"><m:mrow><m:mi> NiO </m:mi><m:mrow><m:mo>(</m:mo><m:mi> OH </m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi> Ni </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi> OH </m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math><list id="id157912" display="block" list-type="enumerated"><item id="uid258">Which half reaction (1 or 2) occurs at the anode? Give a reason for your answer.
+</item><item id="uid259">Which substance is oxidised?
+</item><item id="uid260">Derive a balanced ionic equation for the overall cell reaction for the discharging process.
+</item><item id="uid261">Use your result above to state in which direction the cell reaction will proceed (forward or reverse) when the cell is being charged.
+</item></list>
+(IEB Paper 2, 2001)
+</item>
+        <item id="uid262">An electrochemical cell is constructed by placing a lead rod in a porous pot containing a solution of lead nitrate (see sketch). The porous pot is then placed in a large aluminium container filled with a solution of aluminium sulphate. The lead rod is then connected to the aluminium container by a copper wire and voltmeter as shown.
+<figure id="id157989"><media id="id157989_media" alt=""><image mime-type="image/png" src="../../media/CG12C4_012.png" id="id157989_onlineimage" width="370"><!-- NOTE: attribute width changes image size online (pixels). original width is 370. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C4_012.eps" id="id157989_printimage"/></media></figure><list id="id157996" display="block" list-type="enumerated"><item id="uid263">Define the term <emphasis effect="italics">reduction</emphasis>.
+</item><item id="uid264">In which direction do electrons flow in the copper wire? (Al to Pb or Pb to Al)
+</item><item id="uid265">Write balanced equations for the reactions that take place at...
+<list id="id158042" display="block" list-type="enumerated"><item id="uid266">the anode
+</item><item id="uid267">the cathode
+</item></list></item><item id="uid268">Write a balanced nett ionic equation for the reaction which takes place in this cell.
+</item><item id="uid269">What are the two functions of the porous pot?
+</item><item id="uid270">Calculate the emf of this cell under standard conditions.
+</item></list>
+(IEB Paper 2, 2005)
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

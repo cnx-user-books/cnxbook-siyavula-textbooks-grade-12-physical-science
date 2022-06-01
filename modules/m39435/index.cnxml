@@ -1,0 +1,350 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Polymers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39435</md:content-id>
+  <md:title>Polymers</md:title>
+  <md:abstract/>
+  <md:uuid>82da24b4-4032-4322-b7f5-38f106c3a56d</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Organic Macromolecules</title>
+      <para id="id62175">As its name suggests, a macromolecule is a large molecule that forms when lots of smaller molecules are joined together. In this chapter, we will be taking a closer look at the structure and properties of different macromolecules, and at how they form.</para>
+    </section>
+    <section id="cid2">
+      <title>Polymers</title>
+      <para id="id62190">Some macromolecules are made up of lots of repeating structural units called <emphasis effect="bold">monomers</emphasis>. To put it more simply, a monomer is like a building block. When lots of similar monomers are joined together by covalent bonds, they form a <emphasis effect="bold">polymer</emphasis>. In an <emphasis effect="bold">organic polymer</emphasis>, the monomers are joined by the <emphasis effect="italics">carbon</emphasis> atoms of the polymer 'backbone'. A polymer can also be <emphasis effect="bold">inorganic</emphasis>, in which case there may be atoms such as <emphasis effect="italics">silicon</emphasis> in the place of carbon atoms. The key feature that makes a polymer different from other macromolecules, is the repetition of identical or similar monomers in the polymer chain. The examples shown below will help to make these concepts clearer.</para>
+<definition id="fhsst_id48"><term id="termfhsst_id48"> Polymer </term> <meaning id="meaningfhsst_id48">
+      <para id="id62573">Polymer is a term used to describe large molecules consisting of repeating structural units, or monomers, connected by covalent chemical bonds. </para>
+      </meaning></definition>
+      <list id="id62585" display="block" list-type="enumerated">
+        <item id="uid1"><emphasis effect="bold">Polyethene</emphasis>
+Chapter <link target-id=""/> looked at the structure of a group of hydrocarbons called the <emphasis effect="italics">alkenes</emphasis>. One example is the molecule <emphasis effect="bold">ethene</emphasis>. The structural formula of ethene is is shown in <link target-id="uid2"/>. When lots of ethene molecules bond together, a polymer called <emphasis effect="bold">polyethene</emphasis> is formed. Ethene is the <emphasis effect="italics">monomer</emphasis> which, when joined to other ethene molecules, forms the <emphasis effect="italics">polymer</emphasis><emphasis effect="bold">polyethene</emphasis>. Polyethene is a cheap plastic that is used to make plastic bags and bottles.
+<figure id="uid2"><media id="uid2_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_001.png" id="uid2_onlineimage" width="284"><!-- NOTE: attribute width changes image size online (pixels). original width is 284. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_001.eps" id="uid2_printimage"/></media><caption>(a) Ethene monomer and (b) polyethene polymer</caption></figure>
+A polymer may be a chain of thousands of monomers, and so it is impossible to draw the entire polymer. Rather, the structure of a polymer can be condensed and represented as shown in <link target-id="uid3"/>. The monomer is enclosed in brackets and the 'n' represents the number of ethene molecules in the polymer, where 'n' is any whole number. What this shows is that the ethene monomer is repeated an indefinite number of times in a molecule of polyethene.
+<figure id="uid3"><media id="uid3_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_002.png" id="uid3_onlineimage" width="136"><!-- NOTE: attribute width changes image size online (pixels). original width is 136. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_002.eps" id="uid3_printimage"/></media><caption>A simplified representation of a polyethene molecule</caption></figure></item>
+        <item id="uid4"><emphasis effect="bold">Polypropene</emphasis>
+Another example of a polymer is <emphasis effect="italics">polypropene</emphasis> (fig <link target-id="uid5"/>). Polypropene is also a plastic, but is stronger than polyethene and is used to make crates, fibres and ropes. In this polymer, the monomer is the alkene called <emphasis effect="bold">propene</emphasis>.
+<figure id="uid5"><media id="uid5_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_003.png" id="uid5_onlineimage" width="434"><!-- NOTE: attribute width changes image size online (pixels). original width is 434. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_003.eps" id="uid5_printimage"/></media><caption>(a) Propene monomer and (b) polypropene polymer</caption></figure></item>
+      </list>
+    </section>
+    <section id="cid3">
+      <title>How do polymers form?</title>
+      <para id="id62737">Polymers are formed through a process called <emphasis effect="bold">polymerisation</emphasis>, where monomer molecules react together to form a polymer chain. Two types of polymerisation reactions are <emphasis effect="bold">addition polymerisation</emphasis> and <emphasis effect="bold">condensation polymerisation</emphasis>.</para>
+<definition id="fhsst_id65"><term id="termfhsst_id65"> Polymerisation </term> <meaning id="meaningfhsst_id65">
+      <para id="id62763">In chemistry, polymerisation is a process of bonding monomers, or <emphasis effect="italics">single units</emphasis> together through a variety of reaction mechanisms to form longer chains called polymers.
+ </para>
+      </meaning></definition>
+      <section id="uid6">
+        <title>Addition polymerisation</title>
+        <para id="id62789">In this type of reaction, monomer molecules are added to a growing polymer chain one at a time. No small molecules are eliminated in the process. An example of this type of reaction is the formation of <emphasis effect="italics">polyethene</emphasis> from <emphasis effect="italics">ethene</emphasis> (fig <link target-id="uid2"/>). When molecules of ethene are joined to each other, the only thing that changes is that the double bond between the carbon atoms in each ethene monomer is replaced by a single bond so that a new carbon-carbon bond can be formed with the next monomer in the chain. In other words, the monomer is an <emphasis effect="italics">unsaturated</emphasis> compound which, after an addition reaction, becomes a <emphasis effect="italics">saturated</emphasis> compound.</para>
+<section id="secfhsst_id72"><title> Initiation, propagation and termination
+        </title>
+        <para id="id62833">There are three stages in the process of addition polymerisation. <emphasis effect="bold">Initiation</emphasis> refers to a chemical reaction that triggers off another reaction. In other words, initiation is the starting point of the polymerisation reaction. <emphasis effect="bold">Chain propagation</emphasis> is the part where monomers are continually added to form a longer and longer polymer chain. During chain propagation, it is the reactive end groups of the polymer chain that react in each propagation step, to add a new monomer to the chain. Once a monomer has been added, the reactive part of the polymer is now in this last monomer unit so that propagation will continue. <emphasis effect="bold">Termination</emphasis> refers to a chemical reaction that destroys the reactive part of the polymer chain so that propagation stops.
+ </para>
+</section>
+<exercise id="secfhsst_id77"><title> Polymerisation reactions
+        </title>
+        <problem id="probfhsst_id79">
+        <para id="id62883">A polymerisation reaction takes place and the following polymer is formed:</para>
+        <para id="id62889">
+          <figure id="id62892">
+            <media id="id62892_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C2_004.png" id="id62892_onlineimage" width="125"><!-- NOTE: attribute width changes image size online (pixels). original width is 125. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_004.eps" id="id62892_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id62898">Note: W, X, Y and Z could represent a number of different atoms or combinations of atoms e.g. H, F, Cl or CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>.</para>
+        <list id="id62915" display="block" list-type="enumerated">
+          <item id="uid7">Give the structural formula of the monomer of this polymer.
+</item>
+          <item id="uid8">To what group of organic compounds does this monomer belong?
+</item>
+          <item id="uid9">What type of polymerisation reaction has taken place to join these monomers to form the polymer?
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id100"> <list id="listfhsst_id100" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Look at the structure of the repeating unit in the polymer to determine the monomer. </label>
+        <para id="id62975">The monomer is:</para>
+        <para id="id62979">
+          <figure id="id62982">
+            <media id="id62982_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C2_005.png" id="id62982_onlineimage" width="37"><!-- NOTE: attribute width changes image size online (pixels). original width is 37. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_005.eps" id="id62982_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Look at the atoms and bonds in the monomer to determine which group of organic compounds it belongs to. </label>
+        <para id="id62992">The monomer has a double bond between two carbon atoms. The monomer must be an alkene.</para>
+        </item> <item> <label> Determine the type of polymerisation reaction. </label>
+        <para id="id63000">In this example, unsaturated monomers combine to form a saturated polymer. No atoms are lost or gained for the bonds between monomers to form. They are simply added to each other. This is an addition reaction.
+ </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid10">
+        <title>Condensation polymerisation</title>
+        <para id="id63026">In this type of reaction, two monomer molecules form a covalent bond and a small molecule such as water is lost in the bonding process. Nearly all biological reactions are of this type. <emphasis effect="bold">Polyester</emphasis> and <emphasis effect="bold">nylon</emphasis> are examples of polymers that form through condensation polymerisation.</para>
+        <list id="id63042" display="block" list-type="enumerated">
+          <item id="uid11"><emphasis effect="bold">Polyester</emphasis>
+Polyesters are a group of polymers that contain the <emphasis effect="bold">ester</emphasis> functional group in their main chain. Although there are many forms of polyesters, the term <emphasis effect="italics">polyester</emphasis> usually refers to polyethylene terephthalate (PET). PET is made from ethylene glycol (an alcohol) and terephthalic acid (a carboxylic acid). In the reaction, a hydrogen atom is lost from the alcohol, and a hydroxyl group is lost from the carboxylic acid. Together these form one water molecule which is lost during condensation reactions. A new bond is formed between an oxygen and a carbon atom. This bond is called an <emphasis effect="bold">ester linkage</emphasis>. The reaction is shown in <link target-id="uid12"/>.
+<figure id="uid12"><media id="uid12_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_006.png" id="uid12_onlineimage" width="738"><!-- NOTE: attribute width changes image size online (pixels). original width is 738. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_006.eps" id="uid12_printimage"/></media><caption>An acid and an alcohol monomer react (a) to form a molecule of the polyester 'polyethylene terephthalate' (b).</caption></figure>
+Polyesters have a number of characteristics which make them very useful. They are resistant to stretching and shrinking, they are easily washed and dry quickly, and they are resistant to mildew. It is for these reasons that polyesters are being used more and more in <emphasis effect="bold">textiles</emphasis>. Polyesters are stretched out into fibres and can then be made into fabric and articles of clothing. In the home, polyesters are used to make clothing, carpets, curtains, sheets, pillows and upholstery.
+<note id="notfhsst_id127"><title> Interesting Fact </title>
+Polyester is not just a textile. Polyethylene terephthalate is in fact a plastic which can also be used to make plastic drink bottles. Many drink bottles are recycled by being reheated and turned into polyester fibres. This type of recycling helps to reduce disposal problems.
+</note></item>
+          <item id="uid13"><emphasis effect="bold">Nylon</emphasis>
+Nylon was the first polymer to be commercially successful. Nylon replaced silk, and was used to make parachutes during World War 2. Nylon is very strong and resistant, and is used in fishing line, shoes, toothbrush bristles, guitar strings and machine parts to name just a few. Nylon is formed from the reaction of an amine (1,6-diaminohexane) and an acid monomer (adipic acid) (<link target-id="uid14"/>). The bond that forms between the two monomers is called an <emphasis effect="bold">amide linkage</emphasis>. An amide linkage forms between a nitrogen atom in the amine monomer and the carbonyl group in the carboxylic acid.
+<figure id="uid14"><media id="uid14_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_009.png" id="uid14_onlineimage" width="676"><!-- NOTE: attribute width changes image size online (pixels). original width is 676. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_009.eps" id="uid14_printimage"/></media><caption>An amine and an acid monomer (a) combine to form a section of a nylon polymer (b).</caption></figure></item>
+        </list>
+<note id="notfhsst_id135"><title> Interesting Fact </title>
+        <para id="id63182">Nylon was first introduced around 1939 and was in high demand to make stockings. However, as World War 2 progressed, nylon was used more and more to make parachutes, and so stockings became more difficult to buy. After the war, when manufacturers were able to shift their focus from parachutes back to stockings, a number of riots took place as women queued to get stockings. In one of the worst disturbances, 40 000 women queued up for 13 000 pairs of stockings, which led to fights breaking out!</para>
+</note>
+<section id="secfhsst_id138"><title> Polymers
+        </title>
+        <list id="id63213" display="block" list-type="enumerated">
+          <item id="uid15">The following monomer is a reactant in a polymerisation reaction:
+<figure id="id63231"><media id="id63231_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_011.png" id="id63231_onlineimage" width="40"><!-- NOTE: attribute width changes image size online (pixels). original width is 40. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_011.eps" id="id63231_printimage"/></media></figure><list id="id63237" display="block" list-type="enumerated"><item id="uid16">What is the IUPAC name of this monomer?
+</item><item id="uid17">Give the structural formula of the polymer that is formed in this polymerisation reaction.
+</item><item id="uid18">Is the reaction an addition or condensation reaction?
+</item></list></item>
+          <item id="uid19">The polymer below is the product of a polymerisation reaction.
+<figure id="id63292"><media id="id63292_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_012.png" id="id63292_onlineimage" width="329"><!-- NOTE: attribute width changes image size online (pixels). original width is 329. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_012.eps" id="id63292_printimage"/></media></figure><list id="id63298" display="block" list-type="enumerated"><item id="uid20">Give the structural formula of the monomer in this polymer.
+</item><item id="uid21">What is the name of the monomer?
+</item><item id="uid22">Draw the abbreviated structural formula for the polymer.
+</item><item id="uid23">Has this polymer been formed through an addition or condensation polymerisation reaction?
+</item></list></item>
+          <item id="uid24">A condensation reaction takes place between methanol and methanoic acid.
+<list id="id63362" display="block" list-type="enumerated"><item id="uid25">Give the structural formula for...
+<list id="id63376" display="block" list-type="enumerated"><item id="uid26">methanol
+</item><item id="uid27">methanoic acid
+</item><item id="uid28">the product of the reaction
+</item></list></item><item id="uid29">What is the name of the product? (Hint: The product is an ester)
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid4">
+      <title>The chemical properties of polymers</title>
+      <para id="id63447">The attractive forces between polymer chains play a large part in determining a polymer's properties. Because polymer chains are so long, these interchain forces are very important. It is usually the side groups on the polymer that determine what types of intermolecular forces will exist. The greater the strength of the intermolecular forces, the greater will be the tensile strength and melting point of the polymer. Below are some examples:</para>
+      <list id="id63454" display="block" list-type="bulleted">
+        <item id="uid30"><emphasis effect="bold">Hydrogen bonds between adjacent chains</emphasis>
+Polymers that contain amide or carbonyl groups can form <emphasis effect="italics">hydrogen bonds</emphasis> between adjacent chains. The positive hydrogen atoms in the N-H groups of one chain are strongly attracted to the oxygen atoms (more precisely, the lone-pairs on the oxygen) in the C=O groups on another. Polymers that contain <emphasis effect="italics">urea</emphasis> linkages would fall into this category. The structural formula for urea is shown in <link target-id="uid31"/>. Polymers that contain urea linkages have high tensile strength and a high melting point.
+<figure id="uid31"><media id="uid31_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_013.png" id="uid31_onlineimage" width="77"><!-- NOTE: attribute width changes image size online (pixels). original width is 77. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_013.eps" id="uid31_printimage"/></media><caption>The structural formula for urea</caption></figure></item>
+        <item id="uid32"><emphasis effect="bold">Dipole-dipole bonds between adjacent chains</emphasis>
+Polyesters have <emphasis effect="italics">dipole-dipole bonding</emphasis> between their polymer chains. Dipole bonding is not as strong as hydrogen bonding, so a polyester's melting point and strength are lower than those of the polymers where there are hydrogen bonds between the chains. However, the weaker bonds between the chains means that polyesters have greater flexibility. The greater the flexibility of a polymer, the more likely it is to be moulded or stretched into fibres.
+</item>
+        <item id="uid33"><emphasis effect="bold">Weak van der Waal's forces</emphasis>
+Other molecules such as ethene do not have a permanent dipole and so the attractive forces between polyethene chains arise from weak <emphasis effect="italics">van der Waals</emphasis> forces. Polyethene therefore has a lower melting point than many other polymers.
+</item>
+      </list>
+    </section>
+    <section id="cid5">
+      <title>Types of polymers</title>
+      <para id="id63572">There are many different types of polymers. Some are organic, while others are inorganic. Organic polymers can be broadly grouped into either synthetic/semi-synthetic (artificial) or biological (natural) polymers. We are going to take a look at two groups of organic polymers: <emphasis effect="italics">plastics</emphasis>, which are usually synthetic or semi-synthetic and <emphasis effect="italics">biological macromolecules</emphasis> which are natural polymers. Both of these groups of polymers play a very important role in our lives.</para>
+    </section>
+    <section id="cid6">
+      <title>Plastics</title>
+      <para id="id63599">In today's world, we can hardly imagine life without plastic. From cellphones to food packaging, fishing line to plumbing pipes, compact discs to electronic equipment, plastics have become a very important part of our daily lives. "Plastics" cover a range of synthetic and semi-synthetic organic polymers. Their name comes from the fact that they are 'malleable', in other words their shape can be changed and moulded.</para>
+<definition id="fhsst_id186"><term id="termfhsst_id186"> Plastic </term> <meaning id="meaningfhsst_id186">
+      <para id="id63612">Plastic covers a range of synthetic or semisynthetic organic polymers. Plastics may contain other substances to improve their performance. Their name comes from the fact that many of them are malleable, in other words they have the property of plasticity. </para>
+      </meaning></definition>
+      <para id="id63624">It was only in the nineteenth century that it was discovered that plastics could be made by chemically changing natural polymers. For centuries before this, only natural organic polymers had been used. Examples of natural organic polymers include <emphasis effect="italics">waxes</emphasis> from plants, <emphasis effect="italics">cellulose</emphasis> (a plant polymer used in fibres and ropes) and <emphasis effect="italics">natural rubber</emphasis> from rubber trees. But in many cases, these natural organic polymers didn't have the characteristics that were needed for them to be used in specific ways. Natural rubber for example, is sensitive to temperature and becomes sticky and smelly in hot weather and brittle in cold weather.</para>
+      <para id="id63648">In 1834 two inventors, Friedrich Ludersdorf of Germany and Nathaniel Hayward of the US, independently discovered that adding sulfur to raw rubber helped to stop the material from becoming sticky. After this, Charles Goodyear discovered that heating this modified rubber made it more resistant to abrasion, more elastic and much less sensitive to temperature. What these inventors had done was to improve the properties of a natural polymer so that it could be used in new ways. An important use of rubber now is in vehicle tyres, where these properties of rubber are critically important.</para>
+<note id="notfhsst_id191"><title> Interesting Fact </title>
+      <para id="id63664">The first true plastic (i.e. one that was not based on any material found in nature) was <emphasis effect="italics">Bakelite</emphasis>, a cheap, strong and durable plastic. Some of these plastics are still used for example in electronic circuit boards, where their properties of insulation and heat resistance are very important.</para>
+</note>
+      <section id="uid34">
+        <title>The uses of plastics</title>
+        <para id="id63691">There is such a variety of different plastics available, each having their own specific properties and uses. The following are just a few examples.</para>
+        <list id="id63695" display="block" list-type="bulleted">
+          <item id="uid35"><emphasis effect="bold">Polystyrene</emphasis>
+Polystyrene (<link target-id="uid36"/>) is a common plastic that is used in model kits, disposable eating utensils and a variety of other products. In the polystyrene polymer, the monomer is <emphasis effect="italics">styrene</emphasis>, a liquid hydrocarbon that is manufactured from petroleum.
+<figure id="uid36"><media id="uid36_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_014.png" id="uid36_onlineimage" width="405"><!-- NOTE: attribute width changes image size online (pixels). original width is 405. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_014.eps" id="uid36_printimage"/></media><caption>The polymerisation of a styrene monomer to form a polystyrene polymer</caption></figure></item>
+          <item id="uid37"><emphasis effect="bold">Polyvinylchloride (PVC)</emphasis>
+Polyvinyl chloride (PVC) (<link target-id="uid38"/>) is used in plumbing, gutters, electronic equipment, wires and food packaging. The side chains of PVC contain chlorine atoms, which give it its particular characteristics.
+<figure id="uid38"><media id="uid38_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_015.png" id="uid38_onlineimage" width="151"><!-- NOTE: attribute width changes image size online (pixels). original width is 151. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_015.eps" id="uid38_printimage"/></media><caption>Polyvinyl chloride</caption></figure>
+<note id="notfhsst_id204"><title> Interesting Fact </title>
+Many vinyl products have other chemicals added to them to give them particular properties. Some of these chemicals, called additives, can leach out of the vinyl products. In PVC, <emphasis effect="italics">plasticizers</emphasis> are used to make PVC more flexible. Because many baby toys are made from PVC, there is concern that some of these products may leach into the mouths of the babies that are chewing on them. In the USA, most companies have stopped making PVC toys. There are also concerns that some of the plasticizers added to PVC may cause a number of health conditions including cancer.
+</note></item>
+          <item id="uid39"><emphasis effect="bold">Synthetic rubber</emphasis>
+Another plastic that was critical to the World War 2 effort was <emphasis effect="italics">synthetic rubber</emphasis>, which was produced in a variety of forms. Not only were worldwide natural rubber supplies limited, but most rubber-producing areas were under Japanese control. Rubber was needed for tyres and parts of war machinery. After the war, synthetic rubber also played an important part in the space race and nuclear arms race.
+</item>
+          <item id="uid40"><emphasis effect="bold">Polyethene/polyethylene (PE)</emphasis>
+Polyethylene (<link target-id="uid2"/>) was discovered in 1933. It is a cheap, flexible and durable plastic and is used to make films and packaging materials, containers and car fittings. One of the most well known polyethylene products is 'Tupperware', the sealable food containers designed by Earl Tupper and promoted through a network of housewives!
+</item>
+          <item id="uid41"><emphasis effect="bold">Polytetrafluoroethylene (PTFE)</emphasis>
+Polytetrafluoroethylene (<link target-id="uid42"/>) is more commonly known as 'Teflon' and is most well known for its use in non-stick frying pans. Teflon is also used to make the breathable fabric Gore-Tex.
+<figure id="uid42"><media id="uid42_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_016.png" id="uid42_onlineimage" width="219"><!-- NOTE: attribute width changes image size online (pixels). original width is 219. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_016.eps" id="uid42_printimage"/></media><caption>A tetra fluoroethylene monomer and polytetrafluoroethylene polymer</caption></figure></item>
+        </list>
+        <para id="id63901"><link target-id="uid43"/> summarises the formulae, properties and uses of some of the most common plastics.</para>
+        <table id="uid43" summary="">
+          <tgroup cols="5">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Name</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Formula</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Monomer</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Properties</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Uses</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Polyethene (low density)</entry>
+                <entry>-(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>-CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-</entry>
+                <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+                <entry>soft, waxy solid</entry>
+                <entry>film wrap and plastic bags</entry>
+              </row>
+              <row>
+                <entry>Polyethene (high density)</entry>
+                <entry>-(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>-CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-</entry>
+                <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+                <entry>rigid</entry>
+                <entry>electrical insulation, bottles and toys</entry>
+              </row>
+              <row>
+                <entry>Polypropene</entry>
+                <entry>-[CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>-CH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)]<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-</entry>
+                <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CHCH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+                <entry>different grades: some are soft and others hard</entry>
+                <entry>carpets and upholstery</entry>
+              </row>
+              <row>
+                <entry>Polyvinylchloride (PVC)</entry>
+                <entry>-(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>-CHCl)<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-</entry>
+                <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CHCl</entry>
+                <entry>strong, rigid</entry>
+                <entry>pipes, flooring</entry>
+              </row>
+              <row>
+                <entry>Polystyrene</entry>
+                <entry>-[CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>-CH(C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>)]<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math></entry>
+                <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CHC<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math></entry>
+                <entry>hard, rigid</entry>
+                <entry>toys, packaging</entry>
+              </row>
+              <row>
+                <entry>Polytetrafluoroethylene</entry>
+                <entry>-(CF<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>-CF<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-</entry>
+                <entry>CF<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CF<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+                <entry>resistant, smooth, solid</entry>
+                <entry>non-stick surfaces, electrical insulation</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>A summary of the formulae, properties and uses of some common plastics</caption>
+        </table>
+<section id="secfhsst_id285"><title> Plastics
+        </title>
+        <list id="id64655" display="block" list-type="enumerated">
+          <item id="uid44">
+It is possible for macromolecules to be composed of more than one type of repeating monomer. The resulting polymer is called a <emphasis effect="bold">copolymer</emphasis>. Varying the monomers that combine to form a polymer, is one way of controlling the properties of the resulting material. Refer to the table below which shows a number of different copolymers of rubber, and answer the questions that follow:
+<table id="id64679" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Monomer A</emphasis></entry><entry><emphasis effect="bold">Monomer B</emphasis></entry><entry><emphasis effect="bold">Copolymer</emphasis></entry><entry><emphasis effect="bold">Uses</emphasis></entry></row><row><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=CHCl</entry><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=CCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry>Saran</entry><entry>films and fibres</entry></row><row><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=CHC<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math></entry><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=C-CH=CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry>SBR (styrene butadiene rubber)</entry><entry>tyres</entry></row><row><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=CHCN</entry><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=C-CH=CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry>Nitrile rubber</entry><entry>adhesives and hoses</entry></row><row><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=C(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=C-CH=CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry>Butyl rubber</entry><entry>inner tubes</entry></row><row><entry>F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=CF(CF<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)</entry><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>C=CHF</entry><entry>Viton</entry><entry>gaskets</entry></row></tbody></tgroup></table><list id="id65166" display="block" list-type="enumerated"><item id="uid45">Give the structural formula for each of the monomers of nitrile rubber.
+</item><item id="uid46">Give the structural formula of the copolymer viton.
+</item><item id="uid47">In what ways would you expect the properties of SBR to be different from nitrile rubber?
+</item><item id="uid48">Suggest a reason why the properties of these polymers are different.
+</item></list></item>
+          <item id="uid49">In your home, find as many examples of different types of plastics that you can. Bring them to school and show them to your group. Together, use your examples to complete the following table:
+<table id="id65235" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Object</emphasis></entry><entry><emphasis effect="bold">Type of plastic</emphasis></entry><entry><emphasis effect="bold">Properties</emphasis></entry><entry><emphasis effect="bold">Uses</emphasis></entry></row><row><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid50">
+        <title>Thermoplastics and thermosetting plastics</title>
+        <para id="id62108">A <emphasis effect="bold">thermoplastic</emphasis> is a plastic that can be melted to a liquid when it is heated and freezes to a brittle, glassy state when it is cooled enough. These properties of thermoplastics are mostly due to the fact that the forces between chains are weak. This also means that these plastics can be easily stretched or moulded into any shape. Examples of thermoplastics include nylon, polystyrene, polyethylene, polypropylene and PVC. Thermoplastics are more easily recyclable than some other plastics.</para>
+        <para id="id62121"><emphasis effect="bold">Thermosetting plastics</emphasis> differ from thermoplastics because once they have been formed, they cannot be remelted or remoulded. Examples include bakelite, vulcanised rubber, melanine (used to make furniture), and many glues. Thermosetting plastics are generally stronger than thermoplastics and are better suited to being used in situations where there are high temperatures. They are not able to be recycled. Thermosetting plastics have strong covalent bonds between chains and this makes them very strong.</para>
+<section id="secfhsst_id305"><title> Case Study : Biodegradable plastics </title>
+        <para id="id65690">
+          <emphasis effect="italics">Read the article below and then answer the questions that follow.</emphasis>
+        </para>
+        <para id="id65699">Our whole world seems to be wrapped in plastic. Almost every product we buy, most of the food we eat and many of the liquids we drink come encased in plastic. Plastic packaging provides excellent protection for the product, it is cheap to manufacture and seems to last forever. Lasting forever, however, is proving to be a major environmental problem. Another problem is that traditional plastics are manufactured from non-renewable resources - oil, coal and natural gas. In an effort to overcome these problems, researchers and engineers have been trying to develop biodegradable plastics that are made from renewable resources, such as plants.</para>
+        <para id="id65710">The term biodegradable means that a substance can be broken down into simpler substances by the activities of living organisms, and therefore is unlikely to remain in the environment. The reason most plastics are not biodegradable is because their long polymer molecules are too large and too tightly bonded together to be broken apart and used by decomposer organisms. However, plastics based on natural plant polymers that come from wheat or corn starch have molecules that can be more easily broken down by microbes.</para>
+        <para id="id65719">Starch is a natural polymer. It is a white, granular carbohydrate produced by plants during photosynthesis and it serves as the plant's energy store. Many plants contain large amounts of starch. Starch can be processed directly into a bioplastic but, because it is soluble in water, articles made from starch will swell and deform when exposed to moisture, and this limits its use. This problem can be overcome by changing starch into a different polymer. First, starch is harvested from corn, wheat or potatoes, then microorganisms transform it into lactic acid, a monomer. Finally, the lactic acid is chemically treated to cause the molecules of lactic acid to link up into long chains or polymers, which bond together to form a plastic called polylactide (PLA).</para>
+        <para id="id65737">PLA can be used for products such as plant pots and disposable nappies. It has been commercially available in some countries since 1990, and certain blends have proved successful in medical implants, sutures and drug delivery systems because they are able to dissolve away over time. However, because PLA is much more expensive than normal plastics, it has not become as popular as one would have hoped.</para>
+        <para id="id65746">
+          <emphasis effect="bold">Questions</emphasis>
+        </para>
+        <list id="id65754" display="block" list-type="enumerated">
+          <item id="uid51">In your own words, explain what is meant by a 'biodegradable plastic'.
+</item>
+          <item id="uid52">Using your knowledge of chemical bonding, explain why some polymers are biodegradable and others are not.
+</item>
+          <item id="uid53">Explain why lactic acid is a more useful monomer than starch, when making a biodegradable plastic.
+</item>
+          <item id="uid54">If you were a consumer (shopper), would you choose to buy a biodegradable plastic rather than another? Explain your answer.
+</item>
+          <item id="uid55">What do you think could be done to make biodegradable plastics more popular with consumers?
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid56">
+        <title>Plastics and the environment</title>
+        <para id="id65840">Although plastics have had a huge impact globally, there is also an environmental price that has to be paid for their use. The following are just some of the ways in which plastics can cause damage to the environment.</para>
+        <list id="id65845" display="block" list-type="enumerated">
+          <item id="uid57"><emphasis effect="bold">Waste disposal</emphasis>
+Plastics are not easily broken down by micro-organisms and therefore most are not easily biodegradeable. This leads to waste dispoal problems.
+</item>
+          <item id="uid58"><emphasis effect="bold">Air pollution</emphasis>
+When plastics burn, they can produce toxic gases such as carbon monoxide, hydrogen cyanide and hydrogen chloride (particularly from PVC and other plastics that contain chlorine and nitrogen).
+</item>
+          <item id="uid59"><emphasis effect="bold">Recycling</emphasis>
+It is very difficult to recycle plastics because each type of plastic has different properties and so different recycling methods may be needed for each plastic. However, attempts are being made to find ways of recycling plastics more effectively. Some plastics can be remelted and re-used, while others can be ground up and used as a filler. However, one of the problems with recycling plastics is that they have to be sorted according to plastic <emphasis effect="italics">type</emphasis>. This process is difficult to do with machinery, and therefore needs a lot of labour. Alternatively, plastics should be re-used. In many countries, including South Africa, shoppers must now pay for plastic bags. This encourages people to collect and re-use the bags they already have.
+</item>
+        </list>
+<section id="secfhsst_id345"><title> Case Study : Plastic pollution in South Africa
+        </title>
+        <para id="id65933">
+          <emphasis effect="italics">Read the following extract, taken from 'Planet Ark' (September 2003), and then answer the questions that follow.</emphasis>
+        </para>
+        <para id="id65943">
+          <quote id="id65943_quote" display="block">South Africa launches a programme this week to exterminate its "national flower" - the millions of used plastic bags that litter the landscape.</quote>
+        </para>
+        <para id="id65952">
+          <quote id="id65952_quote" display="block">Beginning on Friday, plastic shopping bags used in the country must be both thicker and more recyclable, a move officials hope will stop people from simply tossing them away. "Government has targeted plastic bags because they are the most visible kind of waste," said Phindile Makwakwa, spokeswoman for the Department of Environmental Affairs and Tourism. "But this is mostly about changing people's mindsets about the environment."</quote>
+        </para>
+        <para id="id65963">
+          <quote id="id65963_quote" display="block">South Africa is awash in plastic pollution. Plastic bags are such a common eyesore that they are dubbed "roadside daisies" and referred to as the national flower. Bill Naude of the Plastics Federation of South Africa said the country used about eight billion plastic bags annually, a figure which could drop by 50 percent if the new law works.</quote>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id65981">It is difficult sometimes to imagine exactly how much waste is produced in our country every year. Where does all of this go to? You are going to do some simple calculations to try to estimate the volume of plastic packets that is produced in South Africa every year.</para>
+        <list id="id65986" display="block" list-type="enumerated">
+          <item id="uid60">Take a plastic shopping packet and squash it into a tight ball.
+<list id="id66002" display="block" list-type="enumerated"><item id="uid61">Measure the approximate length, breadth and depth of your squashed plastic bag.
+</item><item id="uid62">Calculate the approximate volume that is occupied by the packet.
+</item><item id="uid63">Now calculate the approximate volume of your classroom by measuring its length, breadth and height.
+</item><item id="uid64">Calculate the number of squashed plastic packets that would fit into a classroom of this volume.
+</item><item id="uid65">If South Africa produces an average of 8 billion plastic bags each year, how many clasrooms would be filled if all of these bags were thrown away and not re-used?
+</item></list></item>
+          <item id="uid66">What has South Africa done to try to reduce the number of plastic bags that are produced?
+</item>
+          <item id="uid67">Do you think this has helped the situation?
+</item>
+          <item id="uid68">What can <emphasis effect="italics">you</emphasis> do to reduce the amount of plastic that you throw away?
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

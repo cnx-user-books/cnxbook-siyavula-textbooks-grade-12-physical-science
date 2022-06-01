@@ -1,0 +1,423 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Biological macromolecules</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39433</md:content-id>
+  <md:title>Biological macromolecules</md:title>
+  <md:abstract/>
+  <md:uuid>7435836c-453e-4daa-8a6d-281e9d3857f7</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Biological Macromolecules</title>
+      <para id="id66134">A <emphasis effect="italics">biological macromolecule</emphasis> is one that is found in living organisms. Biological macromolecules include molecules such as carbohydrates, proteins and nucleic acids. Lipids are also biological macromolecules. They are essential for all known forms of life to survive.</para>
+<definition id="fhsst_id383"><term id="termfhsst_id383"> Biological macromolecule </term> <meaning id="meaningfhsst_id383">
+      <para id="id66151">A biological macromolecule is a polymer that occurs naturally in living organisms. These molecules are essential to the survival of life. </para>
+      </meaning></definition>
+      <section id="uid69">
+        <title>Carbohydrates</title>
+        <para id="id66173"><emphasis effect="bold">Carbohydrates</emphasis> include the sugars and their polymers. One key characteristic of the carbohydrates is that they contain only the elements carbon, hydrogen and oxygen. In the carbohydrate monomers, every carbon except one has a hydroxyl group attached to it, and the remaining carbon atom is double bonded to an oxygen atom to form a carbonyl group. One of the most important monomers in the carbohydrates is <emphasis effect="bold">glucose</emphasis> (<link target-id="uid70"/>). The glucose molecule can exist in an open-chain (acyclic) and ring (cyclic) form.</para>
+        <figure id="uid70">
+          <media id="uid70_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C2_017.png" id="uid70_onlineimage" width="222"><!-- NOTE: attribute width changes image size online (pixels). original width is 222. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_017.eps" id="uid70_printimage"/>
+          </media>
+          <caption>The open chain (a) and cyclic (b) structure of a glucose molecule</caption>
+        </figure>
+        <para id="id66208">Glucose is produced during <emphasis effect="bold">photosynthesis</emphasis>, which takes place in plants. During photosynthesis, sunlight (solar energy), water and carbon dioxide are involved in a chemical reaction that produces glucose and oxygen. This glucose is stored in various ways in the plant.</para>
+        <para id="id66219">The photosynthesis reaction is as follows:</para>
+        <para id="id66223">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>6</m:mn>
+              <m:msub>
+                <m:mi> CO </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>6</m:mn>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi> sunlight </m:mi>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">C</m:mi>
+                <m:mn>6</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>12</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>6</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>6</m:mn>
+              <m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id66317">Glucose is an important source of <emphasis effect="bold">energy</emphasis> for both the plant itself, and also for the other animals and organisms that may feed on it. Glucose plays a critical role in <emphasis effect="bold">cellular respiration</emphasis>, which is a chemical reaction that occurs in the cells of all living organisms. During this reaction, glucose and oxygen react to produce carbon dioxide, water and Adenosine Triphosphate (ATP). ATP is a molecule that cells use for energy so that the body's cells can function normally. The purpose of <emphasis effect="italics">eating</emphasis> then, is to obtain glucose which the body can then convert into the ATP it needs to be able to survive.</para>
+        <para id="id66342">The reaction for cellular respiration is as follows:</para>
+        <para id="id66348">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>6</m:mn>
+              <m:msub>
+                <m:mi mathvariant="normal">C</m:mi>
+                <m:mn>6</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>12</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>6</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mn>60</m:mn>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mn>6</m:mn>
+              <m:msub>
+                <m:mi> CO </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>6</m:mn>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi> ATP </m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id66440">We don't often eat glucose in its simple form. More often, we eat complex carbohydrates that our bodies have to break down into individual glucose molecules before they can be used in cellular respiration. These complex carbohydrates are polymers, which form through condensation polymerisation reactions (<link target-id="uid71"/>). <emphasis effect="italics">Starch</emphasis> and <emphasis effect="italics">cellulose</emphasis> are two example of carbohydrates that are polymers composed of glucose monomers.</para>
+        <figure id="uid71">
+          <media id="uid71_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C2_018.png" id="uid71_onlineimage" width="637"><!-- NOTE: attribute width changes image size online (pixels). original width is 637. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_018.eps" id="uid71_printimage"/>
+          </media>
+          <caption>Two glucose monomers (a) undergo a condensation reaction to produce a section of a carbohydrate polymer (b). One molecule of water is produced for every two monomers that react.</caption>
+        </figure>
+        <list id="id66475" display="block" list-type="bulleted">
+          <item id="uid72"><emphasis effect="bold">Starch</emphasis>
+Starch is used by plants to store excess glucose, and consists of long chains of glucose monomers. Potatoes are made up almost entirely of starch. This is why potatoes are such a good source of energy. Animals are also able to store glucose, but in this case it is stored as a compound called <emphasis effect="bold">glycogen</emphasis>, rather than as starch.
+</item>
+          <item id="uid73"><emphasis effect="bold">Cellulose</emphasis>
+Cellulose is also made up of chains of glucose molecules, but the bonding between the polymers is slightly different from that in starch. Cellulose is found in the cell walls of plants and is used by plants as a building material.
+<note id="notfhsst_id494"><title> Interesting Fact </title>
+It is very difficult for animals to digest the cellulose in plants that they may have been feeding on. However, fungi and some protozoa are able to break down cellulose. Many animals, including termites and cows, use these organisms to break cellulose down into glucose, which they can then use more easily.
+</note></item>
+        </list>
+      </section>
+      <section id="uid74">
+        <title>Proteins</title>
+        <para id="id66558">Proteins are an incredibly important part of any cell, and they carry out a number of functions such as support, storage and transport within the body. The monomers of proteins are called <emphasis effect="bold">amino acids</emphasis>. An amino acid is an organic molecule that contains a carboxyl and an amino group, as well as a carbon side chain. The carbon side chain varies from one amino acid to the next, and is sometimes simply represented by the letter 'R' in a molecule's structural formula. <link target-id="uid75"/> shows some examples of different amino acids.</para>
+        <figure id="uid75">
+          <media id="uid75_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C2_019.png" id="uid75_onlineimage" width="351"><!-- NOTE: attribute width changes image size online (pixels). original width is 351. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_019.eps" id="uid75_printimage"/>
+          </media>
+          <caption>Three amino acids: glycine, alanine and serine</caption>
+        </figure>
+        <para id="id66588">Although each of these amino acids has the same basic structure, their side chains ('R' groups) are different. In the amino acid glycine, the side chain consists only of a hydrogen atom, while alanine has a <emphasis effect="italics">methyl</emphasis> side chain. The 'R' group in serine is CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> - OH. Amongst other things, the side chains affect whether the amino acid is <emphasis effect="italics">hydrophilic</emphasis> (attracted to water) or <emphasis effect="italics">hydrophobic</emphasis> (repelled by water). If the side chain is <emphasis effect="italics">polar</emphasis>, then the amino acid is hydrophilic, but if the side chain is <emphasis effect="italics">non-polar</emphasis> then the amino acid is hydrophobic. Glycine and alanine both have non-polar side chains, while serine has a polar side chain.</para>
+<section id="secfhsst_id511"><title> Charged regions in an amino acid
+        </title>
+        <para id="id66650">In an amino acid, the amino group acts as a base because the nitrogen atom has a pair of unpaired electrons which it can use to bond to a hydrogen ion. The amino group therefore attracts the hydrogen ion from the carboxyl group, and ends up having a charge of +1. The carboxyl group from which the hydrogen ion has been taken then has a charge of -1. The amino acid glycine can therefore also be represented as shown in the figure below.</para>
+        <para id="id66659">
+          <figure id="id66662">
+            <media id="id66662_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C2_020.png" id="id66662_onlineimage" width="111"><!-- NOTE: attribute width changes image size online (pixels). original width is 111. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_020.eps" id="id66662_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+</section>
+        <para id="id66678">When two amino acid monomers are close together, they may be joined to each other by <emphasis effect="bold">peptide bonds</emphasis> (<link target-id="uid76"/>) to form a <emphasis effect="bold">polypeptide</emphasis> chain. . The reaction is a condensation reaction. Polypeptides can vary in length from a few amino acids to a thousand or more. The polpeptide chains are then joined to each other in different ways to form a <emphasis effect="bold">protein</emphasis>. It is the sequence of the amino acids in the polymer that gives a protein its particular properties.</para>
+        <para id="id66707">The sequence of the amino acids in the chain is known as the protein's <emphasis effect="bold">primary structure</emphasis>. As the chain grows in size, it begins to twist, curl and fold upon itself. The different parts of the polypeptide are held together by hydrogen bonds, which form between hydrogen atoms in one part of the chain and oxygen or nitrogen atoms in another part of the chain. This is known as the <emphasis effect="bold">secondary structure</emphasis> of the protein. Sometimes, in this coiled helical structure, bonds may form between the side chains (R groups) of the amino acids. This results in even more irregular contortions of the protein. This is called the <emphasis effect="bold">tertiary structure</emphasis> of the protein.</para>
+        <figure id="uid76">
+          <media id="uid76_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C2_021.png" id="uid76_onlineimage" width="525"><!-- NOTE: attribute width changes image size online (pixels). original width is 525. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_021.eps" id="uid76_printimage"/>
+          </media>
+          <caption>Two amino acids (glycine and alanine) combine to form part of a polypeptide chain. The amino acids are joined by a peptide bond between a carbon atom of one amino acid and a nitrogen atom of the other amino acid.</caption>
+        </figure>
+<note id="notfhsst_id533"><title> Interesting Fact </title>
+        <para id="id66755">There are twenty different amino acids that exist in nature. All cells, both plant and animal, build their proteins from only twenty amino acids. At first, this seems like a very small number, especially considering the huge number of different proteins that exist. However, if you consider that most proteins are made up of polypeptide chains that contain at least 100 amino acids, you will start to realise the endless possible combinations of amino acids that are available.</para>
+</note>
+        <section id="id66770">
+          <title>The functions of proteins</title>
+          <para id="id66777">Proteins have a number of functions in living organisms.</para>
+          <list id="id66781" display="block" list-type="bulleted">
+            <item id="uid77"><emphasis effect="italics">Structural proteins</emphasis> such as collagen in animal connective tissue and keratin in hair, horns and feather quills, all provide support.
+</item>
+            <item id="uid78"><emphasis effect="italics">Storage proteins</emphasis> such as albumin in egg white provide a source of energy. Plants store proteins in their seeds to provide energy for the new growing plant.
+</item>
+            <item id="uid79"><emphasis effect="italics">Transport proteins</emphasis> transport other substances in the body. Haemoglobin in the blood for example, is a protein that contains iron. Haemoglobin has an affinity (attraction) for oxygen and so this is how oxygen is transported around the body in the blood.
+</item>
+            <item id="uid80"><emphasis effect="italics">Hormonal proteins</emphasis> coordinate the body's activities. Insulin for example, is a hormonal protein that controls the sugar levels in the blood.
+</item>
+            <item id="uid81"><emphasis effect="italics">Enzymes</emphasis> are chemical catalysts and speed up chemical reactions. Digestive enzymes such as amylase in your saliva, help to break down polymers in food. Enzymes play an important role in all cellular reactions such as respiration, photosynthesis and many others.
+</item>
+          </list>
+<section id="secfhsst_id551"><title> Research Project : Macromolecules in our daily diet
+          </title>
+          <list id="id66888" display="block" list-type="enumerated">
+            <item id="uid82">
+In order to keep our bodies healthy, it is important that we eat a balanced diet with the right amounts of carbohydrates, proteins and fats. Fats are an important source of energy, they provide insulation for the body, and they also provide a protective layer around many vital organs. Our bodies also need certain essential vitamins and minerals. Most food packaging has a label that provides this information.
+Choose a number of different food items that you eat. Look at the food label for each, and then complete the following table:
+<table id="id66913" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Food</emphasis></entry><entry><emphasis effect="bold">Carbohydrates (%)</emphasis></entry><entry><emphasis effect="bold">Proteins (%)</emphasis></entry><entry><emphasis effect="bold">Fats (%)</emphasis></entry></row><row><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/></row></tbody></tgroup></table><list id="id67132" display="block" list-type="enumerated"><item id="uid83">Which food type contains the largest proportion of protein?
+</item><item id="uid84">Which food type contains the largest proportion of carbohydrates?
+</item><item id="uid85">Which of the food types you have listed would you consider to be the 'healthiest'? Give a reason for your answer.
+</item></list></item>
+            <item id="uid86">In an effort to lose weight, many people choose to <emphasis effect="italics">diet</emphasis>. There are many diets on offer, each of which is based on particular theories about how to lose weight most effectively. Look at the list of diets below:
+<list id="id67194" display="block" list-type="bulleted"><item id="uid87">Vegetarian diet
+</item><item id="uid88">Low fat diet
+</item><item id="uid89">Atkin's diet
+</item><item id="uid90">Weight Watchers
+</item></list>
+For each of these diets, answer the following questions:
+<list id="id67251" display="block" list-type="enumerated"><item id="uid91">What theory of weight loss does each type of diet propose?
+</item><item id="uid92">What are the <emphasis effect="italics">benefits</emphasis> of the diet?
+</item><item id="uid93">What are the potential <emphasis effect="italics">problems</emphasis> with the diet?
+</item></list></item>
+          </list>
+          
+</section>
+<section id="secfhsst_id575"><title> Carbohydrates and proteins
+          </title>
+          <list id="id67327" display="block" list-type="enumerated">
+            <item id="uid94">Give the structural formula for each of the following:
+<list id="id67342" display="block" list-type="enumerated"><item id="uid95">A polymer chain, consisting of three glucose molecules.
+</item><item id="uid96">A polypeptide chain, consisting of two molecules of alanine and one molecule of serine.
+</item></list></item>
+            <item id="uid97">Write balanced equations to show the polymerisation reactions that produce the polymers described above.
+</item>
+            <item id="uid98">The following polypeptide is the end product of a polymerisation reaction:
+<figure id="id67401"><media id="id67401_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_022.png" id="id67401_onlineimage" width="478"><!-- NOTE: attribute width changes image size online (pixels). original width is 478. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_022.eps" id="id67401_printimage"/></media></figure><list id="id67408" display="block" list-type="enumerated"><item id="uid99">Give the structural formula of the monomers that make up the polypeptide.
+</item><item id="uid100">On the structural formula of the first monomer, label the amino group and the carboxyl group.
+</item><item id="uid101">What is the chemical formula for the carbon side chain in the second monomer?
+</item><item id="uid102">Name the bond that forms between the monomers of the polypeptide.
+</item></list></item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+      <section id="uid103">
+        <title>Nucleic Acids</title>
+        <para id="id67483">You will remember that we mentioned earlier that each protein is different because of its unique sequence of amino acids. But what controls how the amino acids arrange themselves to form the specific proteins that are needed by an organism? This task is for the <emphasis effect="bold">gene</emphasis>. A gene contains DNA (deoxyribonucleic acid) which is a polymer that belongs to a class of compounds called the <emphasis effect="bold">nucleic acids</emphasis>. DNA is the genetic material that organisms inherit from their parents. It is DNA that provides the genetic coding that is needed to form the specific proteins that an organism needs. Another nucleic acid is RNA (ribonucleic acid). The diagram in <link target-id="uid104"/> shows an RNA molecule.</para>
+        <para id="id67508">The DNA polymer is made up of monomers called <emphasis effect="bold">nucleotides</emphasis>. Each nucleotide has three parts: a sugar, a phosphate and a nitrogenous base. DNA is a double-stranded helix (a helix is basically a coil). Or you can think of it as two RNA molecules bonded together.</para>
+        <figure id="uid104">
+          <media id="uid104_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C2_023.png" id="uid104_onlineimage" width="314"><!-- NOTE: attribute width changes image size online (pixels). original width is 314. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_023.eps" id="uid104_printimage"/>
+          </media>
+          <caption>Nucleotide monomers make up the RNA polymer</caption>
+        </figure>
+        <para id="id67534">There are five different nitrogenous bases: adenine (A), guanine (G), cytosine (C), thymine (T) and uracil (U). It is the sequence of the nitrogenous bases in a DNA polymer that will determine the genetic code for that organism. Three consecutive nitrogenous bases provide the coding for one amino acid. So, for example, if the nitrogenous bases on three nucleotides are <emphasis effect="italics">uracil</emphasis>, <emphasis effect="italics">cytosine</emphasis> and <emphasis effect="italics">uracil</emphasis> (in that order), one <emphasis effect="bold">serine</emphasis> amino acid will become part of the polypeptide chain. The polypeptide chain is built up in this way until it is long enough (and with the right amino acid sequence) to be a protein. Since proteins control much of what happens in living organisms, it is easy to see how important nucleic acids are as the starting point of this process.</para>
+<note id="notfhsst_id607"><title> Interesting Fact </title>
+        <para id="id67572">A single defect in even one nucleotide, can be devastating to an organism. One example of this is a disease called <emphasis effect="bold">sickle cell anaemia</emphasis>. Because of one wrong nucletide in the genetic code, the body produces a protein called <emphasis effect="bold">sickle haemoglobin</emphasis>. Haemoglobin is the protein in red blood cells that helps to transport oxygen around the body. When sickle haemoglobin is produced, the red blood cells change shape. This process damages the red blood cell membrane, and can cause the cells to become stuck in blood vessels. This then means that the red blood cells, whcih are carrying oxygen, can't get to the tissues where they are needed. This can cause serious organ damage. Individuals who have sickle cell anaemia generally have a lower life expectancy.</para>
+</note>
+        <para id="id67601"><link target-id="uid105"/> shows some other examples of genetic coding for different amino acids.</para>
+        <table id="uid105" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Nitrogenous base sequence</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Amino acid</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>UUU</entry>
+                <entry>Phenylalanine</entry>
+              </row>
+              <row>
+                <entry>CUU</entry>
+                <entry>Leucine</entry>
+              </row>
+              <row>
+                <entry>UCU</entry>
+                <entry>Serine</entry>
+              </row>
+              <row>
+                <entry>UAU</entry>
+                <entry>Tyrosine</entry>
+              </row>
+              <row>
+                <entry>UGU</entry>
+                <entry>Cysteine</entry>
+              </row>
+              <row>
+                <entry>GUU</entry>
+                <entry>Valine</entry>
+              </row>
+              <row>
+                <entry>GCU</entry>
+                <entry>Alanine</entry>
+              </row>
+              <row>
+                <entry>GGU</entry>
+                <entry>Glycine</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Nitrogenouse base sequences and the corresponding amino acid</caption>
+        </table>
+<section id="secfhsst_id658"><title> Nucleic acids
+        </title>
+        <list id="id67837" display="block" list-type="enumerated">
+          <item id="uid106">For each of the following, say whether the statement is <emphasis effect="bold">true</emphasis> or <emphasis effect="bold">false</emphasis>. If the statement is <emphasis effect="italics">false</emphasis>, give a reason for your answer.
+<list id="id67870" display="block" list-type="enumerated"><item id="uid107">Deoxyribonucleic acid (DNA) is an example of a <emphasis effect="italics">polymer</emphasis> and a nucleotide is an example of a <emphasis effect="italics">monomer</emphasis>.
+</item><item id="uid108">Thymine and uracil are examples of nucleotides.
+</item><item id="uid109">A person's DNA will determine what proteins their body will produce, and therefore what characteristics they will have.
+</item><item id="uid110">An amino acid is a protein monomer.
+</item><item id="uid111">A polypeptide that consists of five amino acids, will also contain five nucleotides.
+</item></list></item>
+          <item id="uid112">For each of the following sequences of nitrogenous bases, write down the amino acid/s that will be part of the polypeptide chain.
+<list id="id67962" display="block" list-type="enumerated"><item id="uid113">UUU
+</item><item id="uid114">UCUUUU
+</item><item id="uid115">GGUUAUGUUGGU
+</item></list></item>
+          <item id="uid116">A polypeptide chain consists of three amino acids. The sequence of nitrogenous bases in the nucleotides of the DNA is GCUGGUGCU. Give the structural formula of the polypeptide.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid8">
+      <title>Summary</title>
+      <list id="id68036" display="block" list-type="bulleted">
+        <item id="uid117">A <emphasis effect="bold">polymer</emphasis> is a macromolecule that is made up of many repeating structural units called <emphasis effect="bold">monomers</emphasis> which are joined by covalent bonds.
+</item>
+        <item id="uid118">Polymers that contain carbon atoms in the main chain are called <emphasis effect="bold">organic polymers</emphasis>.
+</item>
+        <item id="uid119">Organic polymers can be divided into <emphasis effect="bold">natural organic polymers</emphasis> (e.g. natural rubber) or <emphasis effect="bold">synthetic organic polymers</emphasis> (e.g. polystyrene).
+</item>
+        <item id="uid120">The polymer <emphasis effect="bold">polyethene</emphasis> for example, is made up of many ethene monomers that have been joined into a polymer chain.
+</item>
+        <item id="uid121">Polymers form through a process called <emphasis effect="bold">polymerisation</emphasis>.
+</item>
+        <item id="uid122">Two examples of polymerisation reactions are <emphasis effect="bold">addition</emphasis> and <emphasis effect="bold">condensation</emphasis> reactions.
+</item>
+        <item id="uid123">An <emphasis effect="bold">addition reaction</emphasis> occurs when unsaturated monomers (e.g. alkenes) are added to each other one by one. The breaking of a double bond between carbon atoms in the monomer, means that a bond can form with the next monomer. The polymer <emphasis effect="bold">polyethene</emphasis> is formed through an addition reaction.
+</item>
+        <item id="uid124">In a <emphasis effect="bold">condensation reaction</emphasis>, a molecule of water is released as a product of the reaction. The water molecule is made up of atoms that have been lost from each of the monomers. Polyesters and nylon are polymers that are produced through a condensation reaction.
+</item>
+        <item id="uid125">The <emphasis effect="bold">chemical properties</emphasis> of polymers (e.g. tensile strength and melting point) are determined by the types of atoms in the polymer, and by the strength of the bonds between adjacent polymer chains. The stronger the bonds, the greater the strength of the polymer, and the higher its melting point.
+</item>
+        <item id="uid126">One group of synthetic organic polymers, are the <emphasis effect="bold">plastics</emphasis>.
+</item>
+        <item id="uid127"><emphasis effect="bold">Polystyrene</emphasis> is a plastic that is made up of styrene monomers. Polystyrene is used a lot in packaging.
+</item>
+        <item id="uid128"><emphasis effect="bold">Polyvinyl chloride</emphasis> (PVC) consists of vinyl chloride monomers. PVC is used to make pipes and flooring.
+</item>
+        <item id="uid129"><emphasis effect="bold">Polyethene</emphasis>, or <emphasis effect="bold">polyethylene</emphasis>, is made from ethene monomers. Polyethene is used to make film wrapping, plastic bags, electrical insulation and bottles.
+</item>
+        <item id="uid130"><emphasis effect="bold">Polytetrafluoroethylene</emphasis> is used in non-stick frying pans and electrical insulation.
+</item>
+        <item id="uid131">A <emphasis effect="bold">thermoplastic</emphasis> can be heated and melted to a liquid. It freezes to a brittle, glassy state when cooled very quickly. Examples of thermoplastics are polyethene and PVC.
+</item>
+        <item id="uid132">A <emphasis effect="bold">thermoset</emphasis> plastic cannot be melted or re-shaped once formed. Examples of thermoset plastics are vulcanised rubber and melanine.
+</item>
+        <item id="uid133">It is not easy to <emphasis effect="bold">recycle</emphasis> all plastics, and so they create environmental problems.
+</item>
+        <item id="uid134">Some of these <emphasis effect="bold">environmental problems</emphasis> include issues of waste disposal, air pollution and recycling.
+</item>
+        <item id="uid135">A <emphasis effect="bold">biological macromolecule</emphasis> is a polymer that occurs naturally in living organisms.
+</item>
+        <item id="uid136">Examples of biological macromolecules include <emphasis effect="bold">carbohydrates</emphasis> and <emphasis effect="bold">proteins</emphasis>, both of which are essential for life to survive.
+</item>
+        <item id="uid137">Carbohydrates include the <emphasis effect="bold">sugars</emphasis> and their polymers, and are an important source of <emphasis effect="bold">energy</emphasis> in living organisms.
+</item>
+        <item id="uid138"><emphasis effect="bold">Glucose</emphasis> is a carbohydrate monomer. Glucose is the molecule that is needed for <emphasis effect="bold">cellular respiration</emphasis>.
+</item>
+        <item id="uid139">The glucose monomer is also a building block for carbohydrate polymers such as <emphasis effect="bold">starch</emphasis>, <emphasis effect="bold">glycogen</emphasis> and <emphasis effect="bold">cellulose</emphasis>.
+</item>
+        <item id="uid140"><emphasis effect="bold">Proteins</emphasis> have a number of important functions. These include their roles in structures, transport, storage, hormonal proteins and enzymes.
+</item>
+        <item id="uid141">A protein consists of monomers called <emphasis effect="bold">amino acids</emphasis>, which are joined by <emphasis effect="bold">peptide bonds</emphasis>.
+</item>
+        <item id="uid142">A protein has a <emphasis effect="bold">primary</emphasis>, <emphasis effect="bold">secondary</emphasis> and <emphasis effect="bold">tertiary</emphasis> structure.
+</item>
+        <item id="uid143">An amino acid is an organic molecule, made up of a <emphasis effect="bold">carboxyl</emphasis> and an <emphasis effect="bold">amino</emphasis> group, as well as a carbon <emphasis effect="bold">side chain</emphasis> of varying lengths.
+</item>
+        <item id="uid144">It is the <emphasis effect="bold">sequence</emphasis> of amino acids that determines the nature of the protein.
+</item>
+        <item id="uid145">It is the <emphasis effect="bold">DNA</emphasis> of an organism that determines the order in which amino acids combine to make a protein.
+</item>
+        <item id="uid146">DNA is a <emphasis effect="bold">nucleic acid</emphasis>. DNA is a polymer, and is made up of monomers called <emphasis effect="bold">nucleotides</emphasis>.
+</item>
+        <item id="uid147">Each nucleotide consists of a <emphasis effect="bold">sugar</emphasis>, a <emphasis effect="bold">phosphate</emphasis> and a <emphasis effect="bold">nitrogenous base</emphasis>. It is the sequence of the nitrogenous bases that provides the 'code' for the arrangement of the amino acids in a protein.
+</item>
+      </list>
+<section id="secfhsst_id746"><title> Summary exercise
+      </title>
+      <list id="id68732" display="block" list-type="enumerated">
+        <item id="uid148">Give one word for each of the following descriptions:
+<list id="id68747" display="block" list-type="enumerated"><item id="uid149">A chain of monomers joined by covalent bonds.
+</item><item id="uid150">A polymerisation reaction that produces a molecule of water for every two monomers that bond.
+</item><item id="uid151">The bond that forms between an alcohol and a carboxylic acid monomer during a polymerisation reaction.
+</item><item id="uid152">The name given to a protein monomer.
+</item><item id="uid153">A six-carbon sugar monomer.
+</item><item id="uid154">The monomer of DNA, which determines the sequence of amino acids that will make up a protein.
+</item></list></item>
+        <item id="uid155">For each of the following questions, choose the one correct answer from the list provided.
+<list id="id68840" display="block" list-type="enumerated"><item id="uid156">A polymer is made up of monomers, each of which has the formula CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CHCN. The formula of the polymer is:
+<list id="id68870" display="block" list-type="enumerated"><item id="uid157">-(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>=CHCN)<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-
+</item><item id="uid158">-(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>-CHCN)<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-
+</item><item id="uid159">-(CH-CHCN)<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-
+</item><item id="uid160">-(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>-CHCN)<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-
+</item></list></item><item id="uid161">A polymer has the formula -[CO(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>CO-NH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)6NH]<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>n</m:mi></m:msub></m:math>-. Which of the following statements is <emphasis effect="bold">true</emphasis>?
+<list id="id69084" display="block" list-type="enumerated"><item id="uid162">The polymer is the product of an addition reaction.
+</item><item id="uid163">The polymer is a polyester.
+</item><item id="uid164">The polymer contains an amide linkage.
+</item><item id="uid165">The polymer contains an ester linkage.
+</item></list></item><item id="uid166">Glucose...
+<list id="id69150" display="block" list-type="enumerated"><item id="uid167">is a monomer that is produced during cellular respiration
+</item><item id="uid168">is a sugar polymer
+</item><item id="uid169">is the monomer of starch
+</item><item id="uid170">is a polymer produced during photosynthesis
+</item></list></item></list></item>
+        <item id="uid171">The following monomers are involved in a polymerisation reaction:
+<figure id="id69222"><media id="id69222_media" alt=""><image mime-type="image/png" src="../../media/CG12C2_024.png" id="id69222_onlineimage" width="423"><!-- NOTE: attribute width changes image size online (pixels). original width is 423. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C2_024.eps" id="id69222_printimage"/></media></figure><list id="id69229" display="block" list-type="enumerated"><item id="uid172">Give the structural formula of the polymer that is produced.
+</item><item id="uid173">Is the reaction an addition or condensation reaction?
+</item><item id="uid174">To what group of organic compounds do the two monomers belong?
+</item><item id="uid175">What is the name of the monomers?
+</item><item id="uid176">What type of bond forms between the monomers in the final polymer?
+</item></list></item>
+        <item id="uid177">The table below shows the melting point for three plastics. Suggest a reason why the melting point of PVC is <emphasis effect="italics">higher</emphasis> than the melting point for polyethene, but <emphasis effect="italics">lower</emphasis> than that for polyester.
+<table id="id69320" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Plastic</emphasis></entry><entry><emphasis effect="bold">Melting point</emphasis> (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</entry></row><row><entry>Polyethene</entry><entry>105 - 115</entry></row><row><entry>PVC</entry><entry>212</entry></row><row><entry>Polyester</entry><entry>260</entry></row></tbody></tgroup></table></item>
+        <item id="uid178">An amino acid has the formula H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>NCH(CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SCH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)COOH.
+<list id="id69502" display="block" list-type="enumerated"><item id="uid179">Give the structural formula of this amino acid.
+</item><item id="uid180">What is the chemical formula of the carbon side chain in this molecule?
+</item><item id="uid181">Are there any peptide bonds in this molecule? Give a reason for your answer.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

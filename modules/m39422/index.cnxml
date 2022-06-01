@@ -1,0 +1,999 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Balancing redox reactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39422</md:content-id>
+  <md:title>Balancing redox reactions</md:title>
+  <md:abstract/>
+  <md:uuid>0047dc3e-4330-4283-ba9f-57e180273141</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Balancing redox reactions</title>
+      <para id="id151302">Half reactions can be used to balance redox reactions. We are going to use some worked examples to help explain the method.</para>
+<exercise id="secfhsst_id3275"><title> Balancing redox reactions
+      </title>
+      <problem id="probfhsst_id3277">
+      <para id="id151325">Magnesium reduces copper (II) oxide to copper. In the process, magnesium is oxidised to magnesium ions. Write a balanced equation for this reaction.</para>
+      
+      </problem>
+      <solution id="solfhsst_id3281"> <list id="listfhsst_id3281" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Write down the unbalanced oxidation half reaction. </label>
+      <para id="id151355">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>M</m:mi>
+            <m:mi>g</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>M</m:mi>
+            <m:msup>
+              <m:mi>g</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Balance the number of atoms on both sides of the equation. </label>
+      <para id="id151395">You are allowed to add hydrogen ions (H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>) and water molecules if the reaction takes place in an acid medium. If the reaction takes place in a basic medium, you can add either hydroxide ions (OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>) or water molecules. In this case, there is one magnesium atom on the left and one on the right, so no additional atoms need to be added.</para>
+      </item> <item> <label> Once the atoms are balanced, check that the <emphasis effect="italics">charges</emphasis> balance. </label>
+      <para id="id151439">Charges can be balanced by adding electrons to either side. The charge on the left of the equation is 0, but the charge on the right is +2. Therefore, two electrons must be added to the right hand side so that the charges balance. The half reaction is now:</para>
+      <para id="id151444">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>M</m:mi>
+            <m:mi>g</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>M</m:mi>
+            <m:msup>
+              <m:mi>g</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Repeat the above steps, but this time using the reduction half reaction. </label>
+      <para id="id151495">The reduction half reaction is:</para>
+      <para id="id151499">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>u</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>u</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id151529">The atoms balance but the charges don't. Two electrons must be added to the right hand side.</para>
+      <para id="id151534">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>u</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>u</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Multiply each half reaction by a suitable number so that the number of electrons <emphasis effect="italics">released</emphasis> in the oxidation half reaction is made equal to the number of electrons that are accepted in the reduction half reaction. </label>
+      <para id="id151590">No multiplication is needed because there are two electrons on either side.</para>
+      </item> <item> <label> Combine the two half reactions to get a final equation for the overall reaction. </label>
+      <para id="id151601"><m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msup><m:mi>u</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mi>M</m:mi><m:msup><m:mi>g</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mi>C</m:mi><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (The electrons on either side cancel and you get...)</para>
+      <para id="id151678">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>M</m:mi>
+            <m:mi>g</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>u</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mi>M</m:mi>
+            <m:msup>
+              <m:mi>g</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>u</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Do a final check to make sure that the equation is balanced </label>
+      <para id="id151738">In this case, it is.
+ </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3412"><title> Balancing redox reactions
+      </title>
+      <problem id="probfhsst_id3414">
+      <para id="id151772">Chlorine gas oxidises Fe(II) ions to Fe(III) ions. In the process, chlorine is reduced to chloride ions. Write a balanced equation for this reaction.</para>
+      
+      </problem>
+      <solution id="solfhsst_id3418"> <list id="listfhsst_id3418" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Write down the oxidation half reaction. </label>
+      <para id="id151802">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mi>F</m:mi>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Balance the number of atoms on both sides of the equation. </label>
+      <para id="id151850">There is one iron atom on the left and one on the right, so no additional atoms need to be added.</para>
+      </item> <item> <label> Once the atoms are balanced, check that the <emphasis effect="italics">charges</emphasis> balance. </label>
+      <para id="id151866">The charge on the left of the equation is +2, but the charge on the right is +3. Therefore, one electron must be added to the right hand side so that the charges balance. The half reaction is now:</para>
+      <para id="id151871">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mi>F</m:mi>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Repeat the above steps, but this time using the reduction half reaction. </label>
+      <para id="id151929">The reduction half reaction is:</para>
+      <para id="id151932">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>l</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>l</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id151965">The atoms don't balance, so we need to multiply the right hand side by two to fix this. Two electrons must be added to the left hand side to balance the charges.</para>
+      <para id="id151970">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>l</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>l</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      </item> <item> <label> Multiply each half reaction by a suitable number so that the number of electrons <emphasis effect="italics">released</emphasis> in the oxidation half reaction is made equal to the number of electrons that are accepted in the reduction half reaction. </label>
+      <para id="id152027">We need to multiply the oxidation half reaction by two so that the number of electrons on either side are balanced. This gives:</para>
+      <para id="id152031">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>F</m:mi>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>F</m:mi>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Combine the two half reactions to get a final equation for the overall reaction. </label>
+      <para id="id152095">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>F</m:mi>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>l</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>F</m:mi>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>l</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Do a final check to make sure that the equation is balanced </label>
+      <para id="id152172">The equation is balanced.
+ </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3600"><title> Balancing redox reactions in an acid medium
+      </title>
+      <problem id="probfhsst_id3602">
+      <para id="id152206">The following reaction takes place in an acid medium:</para>
+      <para id="id152212">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>r</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msubsup>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mn>7</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>S</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>r</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mi>S</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id152279">Write a balanced equation for this reaction.</para>
+      
+      </problem>
+      <solution id="solfhsst_id3645"> <list id="listfhsst_id3645" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Write down the oxidation half reaction. </label>
+      <para id="id152305">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>r</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msubsup>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mn>7</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>r</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Balance the number of atoms on both sides of the equation. </label>
+      <para id="id152365">We need to multiply the right side by two so that the number of Cr atoms will balance. To balance the oxygen atoms, we will need to add water molecules to the right hand side.</para>
+      <para id="id152370">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>r</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msubsup>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mn>7</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>r</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>7</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id152437">Now the oxygen atoms balance but the hydrogens don't. Because the reaction takes place in an acid medium, we can add hydrogen ions to the left side.</para>
+      <para id="id152441">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>r</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msubsup>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mn>7</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>+</m:mo>
+            <m:mn>14</m:mn>
+            <m:msup>
+              <m:mi>H</m:mi>
+              <m:mo>+</m:mo>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>r</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>7</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Once the atoms are balanced, check that the <emphasis effect="italics">charges</emphasis> balance. </label>
+      <para id="id152533">The charge on the left of the equation is (-2+14) = +12, but the charge on the right is +6. Therefore, six electrons must be added to the left hand side so that the charges balance. The half reaction is now:</para>
+      <para id="id152538">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>r</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msubsup>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mn>7</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>+</m:mo>
+            <m:mn>14</m:mn>
+            <m:msup>
+              <m:mi>H</m:mi>
+              <m:mo>+</m:mo>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>6</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>r</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>7</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Repeat the above steps, but this time using the reduction half reaction. </label>
+      <para id="id152637">The reduction half reaction after the charges have been balanced is:</para>
+      <para id="id152641">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msup>
+              <m:mi>S</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mi>S</m:mi>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Multiply each half reaction by a suitable number so that the number of electrons <emphasis effect="italics">released</emphasis> in the oxidation half reaction is made equal to the number of electrons that are accepted in the reduction half reaction. </label>
+      <para id="id152694">We need to multiply the reduction half reaction by three so that the number of electrons on either side are balanced. This gives:</para>
+      <para id="id152699">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>3</m:mn>
+            <m:msup>
+              <m:mi>S</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>S</m:mi>
+            <m:mo>+</m:mo>
+            <m:mn>6</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Combine the two half reactions to get a final equation for the overall reaction. </label>
+      <para id="id152750">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>r</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msubsup>
+              <m:mi>O</m:mi>
+              <m:mrow>
+                <m:mn>7</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>+</m:mo>
+            <m:mn>14</m:mn>
+            <m:msup>
+              <m:mi>H</m:mi>
+              <m:mo>+</m:mo>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:msup>
+              <m:mi>S</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>-</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>S</m:mi>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:msup>
+              <m:mi>r</m:mi>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>7</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Do a final check to make sure that the equation is balanced </label>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3929"><title> Balancing redox reactions in an alkaline medium
+      </title>
+      <problem id="probfhsst_id3931">
+      <para id="id152891">If ammonia solution is added to a solution that contains cobalt(II) ions, a complex ion is formed, called the hexaaminecobalt(II) ion (Co(NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msubsup></m:math>). In a chemical reaction with hydrogen peroxide solution, hexaaminecobalt ions are oxidised by hydrogen peroxide solution to the hexaaminecobalt(III) ion Co(NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msubsup></m:math>. Write a balanced equation for this reaction.</para>
+      
+      </problem>
+      <solution id="solfhsst_id3935"> <list id="listfhsst_id3935" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Write down the oxidation half reaction </label>
+      <para id="id152990">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>o</m:mi>
+            <m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>N</m:mi>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>o</m:mi>
+            <m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>N</m:mi>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msubsup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Balance the number of atoms on both sides of the equation. </label>
+      <para id="id153076">The number of atoms are the same on both sides.</para>
+      </item> <item> <label> Once the atoms are balanced, check that the <emphasis effect="italics">charges</emphasis> balance. </label>
+      <para id="id153092">The charge on the left of the equation is +2, but the charge on the right is +3. One elctron must be added to the right hand side to balance the charges in the equation.The half reaction is now:</para>
+      <para id="id153097">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>o</m:mi>
+            <m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>N</m:mi>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>o</m:mi>
+            <m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>N</m:mi>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>+</m:mo>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Repeat the above steps, but this time using the reduction half reaction. </label>
+      <para id="id153193">Although you don't actually know what product is formed when hydrogen peroxide is reduced, the most logical product is OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>. The reduction half reaction is:</para>
+      <para id="id153211">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:mi>O</m:mi>
+            <m:msup>
+              <m:mi>H</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      <para id="id153252">After the atoms and charges have been balanced, the final equation for the reduction half reaction is:</para>
+      <para id="id153257">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>O</m:mi>
+            <m:msup>
+              <m:mi>H</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Multiply each half reaction by a suitable number so that the number of electrons <emphasis effect="italics">released</emphasis> in the oxidation half reaction is made equal to the number of electrons that are accepted in the reduction half reaction. </label>
+      <para id="id153323">We need to multiply the oxidation half reaction by two so that the number of electrons on both sides are balanced. This gives:</para>
+      <para id="id153328">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:mi>o</m:mi>
+            <m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>N</m:mi>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:mi>o</m:mi>
+            <m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>N</m:mi>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:msup>
+              <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Combine the two half reactions to get a final equation for the overall reaction. </label>
+      <para id="id153430">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:mi>o</m:mi>
+            <m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>N</m:mi>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>C</m:mi>
+            <m:mi>o</m:mi>
+            <m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>N</m:mi>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>+</m:mo>
+              </m:mrow>
+            </m:msubsup>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>O</m:mi>
+            <m:msup>
+              <m:mi>H</m:mi>
+              <m:mo>-</m:mo>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Do a final check to make sure that the equation is balanced </label>
+      
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id4223"><title> Balancing redox reactions
+      </title>
+      <list id="id153579" display="block" list-type="enumerated">
+        <item id="uid171">Balance the following equations.
+<list id="id153594" display="block" list-type="enumerated"><item id="uid172"><m:math overflow="scroll"><m:mrow><m:mi>H</m:mi><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi>P</m:mi><m:mi>b</m:mi><m:mi>S</m:mi><m:mo>→</m:mo><m:mi>P</m:mi><m:mi>b</m:mi><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mi>N</m:mi><m:mi>O</m:mi><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math></item><item id="uid173"><m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>I</m:mi><m:mo>+</m:mo><m:mi>F</m:mi><m:msub><m:mi>e</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mo>(</m:mo><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>F</m:mi><m:mi>e</m:mi><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mi>N</m:mi><m:msub><m:mi>a</m:mi><m:mn>2</m:mn></m:msub><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math></item></list></item>
+        <item id="uid174">Manganate(VII) ions (MnO<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:math>) oxidise hydrogen peroxide (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) to oxygen gas. The reaction is done in an acid medium. During the reaction, the manganate(VII) ions are reduced to manganese(II) ions (Mn<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>). Write a balanced equation for the reaction.
+</item>
+        <item id="uid175">Chlorine gas is prepared in the laboratory by adding concentrated hydrochloric acid to manganese dioxide powder. The mixture is carefully heated.
+<list id="id153860" display="block" list-type="enumerated"><item id="uid176">Write down a balanced equation for the reaction which takes place.
+</item><item id="uid177">Using standard electrode potentials, show by calculations why this mixture needs to be heated.
+</item><item id="uid178">Besides chlorine gas which is formed during the reaction, hydrogen chloride gas is given off when the conentrated hydrochloric acid is heated. Explain why the hydrogen chloride gas is removed from the gas mixture when the gas is bubbled through water.
+(IEB Paper 2, 2004)
+</item></list></item>
+        <item id="uid179">The following equation can be deduced from the table of standard electrode potentials:
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> Cr </m:mi><m:mn>2</m:mn></m:msub><m:msubsup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>16</m:mn><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>4</m:mn><m:msup><m:mi> Cr </m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>8</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> = +0.10V)
+This equation implies that an acidified solution of aqueous potassium dichromate (orange) should react to form Cr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> (green). Yet aqueous laboratory solutions of potassium dichromate remain orange for years. Which ONE of the following best explains this?
+<list id="id154099" display="block" list-type="enumerated"><item id="uid180">Laboratory solutions of aqueous potassium dichromate are not acidified
+</item><item id="uid181">The E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> value for this reaction is only +0.10V
+</item><item id="uid182">The activation energy is too low
+</item><item id="uid183">The reaction is non-spontaneous
+</item></list>
+(IEB Paper 2, 2002)
+</item>
+        <item id="uid184">Sulfur dioxide gas can be prepared in the laboratory by heating a mixture of copper turnings and concentrated sulfuric acid in a suitable flask.
+<list id="id154182" display="block" list-type="enumerated"><item id="uid185">Derive a balanced ionic equation for this reaction using the half-reactions that take place.
+</item><item id="uid186">Give the E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> value for the overall reaction.
+</item><item id="uid187">Explain why it is necessary to heat the reaction mixture.
+</item><item id="uid188">The sulfur dioxide gas is now bubbled through an aqueous solution of potassium dichromate. Describe and explain what changes occur during this process.
+</item></list>
+(IEB Paper 2, 2002)
+</item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

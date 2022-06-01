@@ -1,0 +1,614 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Photoelectric effect</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39551</md:content-id>
+  <md:title>Photoelectric effect</md:title>
+  <md:abstract/>
+  <md:uuid>2bab3fcc-2c78-485b-9646-7aeba59fa6c9</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>The photoelectric effect</title>
+      <para id="id129415">Around the turn of the twentieth century, it was observed by a number of physicists (including Hertz, Thomson and Von Lenard) that when light was shone on a metal, electrons were emitted by the metal. This is called the photoelectric effect. (<emphasis effect="italics">photo</emphasis>- for light, <emphasis effect="italics">electric</emphasis>- for the electron.)</para>
+<definition id="fhsst_id229"><term id="termfhsst_id229"> The photoelectric effect </term> <meaning id="meaningfhsst_id229">
+      <para id="id129437">The photoelectric effect is the process whereby an electron is emitted by a metal when light shines on it. </para>
+      </meaning></definition>
+      <para id="id129449">At that time, light was thought to be purely a wave. Therefore, physicists thought that if a more intense (i.e. brighter) light was shone on a metal, then the electrons would be knocked out with greater kinetic energies than if a faint light was shone on them. However, Von Lenard observed that this did not happen at all. The <emphasis effect="italics">intensity</emphasis> of the light made <emphasis effect="italics">no difference</emphasis> to the kinetic energy of the emitted electrons! Also, it was observed that the electrons were emitted immediately when light was shone on the metal - there was no time delay.</para>
+      <para id="id129467">Einstein solved this problem by proposing that light is made up of packets of energy called <emphasis effect="italics">quanta</emphasis> (now called photons) which interacted with the electrons in the metal like particles instead of waves. Each incident photon would transfer all its energy to one electron in the metal. For a specific colour of light (i.e. a certain wavelength or frequency), the energy of the photons is given by <m:math overflow="scroll"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>f</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>c</m:mi><m:mo>/</m:mo><m:mi>λ</m:mi></m:mrow></m:math>, where <m:math overflow="scroll"><m:mi>h</m:mi></m:math> is Planck's constant. The energy needed to knock an electron out of the metal is called the <emphasis effect="bold">work function</emphasis> (symbol <m:math overflow="scroll"><m:mi>φ</m:mi></m:math>) of the metal. Therefore, the amount of energy left over as the kinetic energy (<m:math overflow="scroll"><m:msub><m:mi>E</m:mi><m:mi>k</m:mi></m:msub></m:math>) of the emitted electron would be the difference between the incoming photon's energy and the energy needed to knock out the electron (work function of the metal):</para>
+      <equation id="id129542">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>E</m:mi>
+                  <m:mi>k</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mi>f</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mi>φ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id129580">Increasing the intensity of the light (i.e. making it brighter) did not change the wavelength of the light and therefore the electrons would be emitted with <emphasis effect="italics">the same</emphasis> kinetic energy as before! This solved the paradox and showed that light has <emphasis effect="italics">both</emphasis> a <emphasis effect="bold">wave nature</emphasis> and a <emphasis effect="bold">particle nature</emphasis>. Einstein won the Nobel prize for this quantum theory and his explanation of the photoelectric effect.</para>
+      <para id="id129608">Increasing the intensity of the light actually means increasing the <emphasis effect="italics">number</emphasis> of incident photons. Therefore, since each photon only gives energy to one electron, more incident photons means <emphasis effect="italics">more</emphasis> electrons would be knocked out of the metal, but their kinetic energies would be <emphasis effect="italics">the same</emphasis> as before.</para>
+      <figure id="uid11">
+        <media id="uid11_media" alt="">
+          <image mime-type="image/png" src="../../media/Photoelectric_effect.png" id="uid11_onlineimage" width="594"><!-- NOTE: attribute width changes image size online (pixels). original width is 594. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/Photoelectric_effect.eps" id="uid11_printimage"/>
+        </media>
+        <caption>The photoelectric effect: Incoming photons on the left hit the electrons inside the metal surface. The electrons absorb the energy from the photons, and are ejected from the metal surface.</caption>
+      </figure>
+<note id="notfhsst_id268"><title> Interesting Fact </title>
+      <para id="id129648">The photoelectric effect was first observed in the experiments of Heinrich Hertz in 1887. In 1899 J.J. Thomson proved that it was electrons that were emitted. The photoelectric effect was theoretically explained by Albert Einstein in 1905.</para>
+</note>
+      <para id="eip-289"><figure id="id63458"><media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/photoelectric-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/photoelectric-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/photoelectric/photoelectric_en.jnlp">run demo</link></para><para id="id129660">The discovery and understanding of the photoelectric effect was one of the major breakthroughs in science in the twentieth century as it provided concrete evidence of the particle nature of light. It overturned previously held views that light was composed purely of a continuous transverse wave. On the one hand, the wave nature is a good description of phenomena such as diffraction and interference for light, and on the other hand, the photoelectric effect demonstrates the particle nature of light. This is now known as the `dual-nature' of light. (dual means two)</para>
+      <para id="id129673">While solving problems we need to decide for ourselves whether we should consider the wave property or the particle property of light. For example, when dealing with interference and diffraction, light should be treated as a wave, whereas when dealing with photoelectric effect we consider the particle nature.</para>
+      <section id="uid12">
+        <title>Applications of the photoelectric effect</title>
+        <para id="id129688">We have learnt that a metal contains electrons that are free to move between the valence and conduction bands. When a photon strikes the surface of a metal, it gives <emphasis effect="italics">all</emphasis> its energy to one electron in the metal.</para>
+        <list id="id129698" display="block" list-type="bulleted">
+          <item id="uid13">If the photon energy is <emphasis effect="italics">equal</emphasis> to the energy between two energy levels then the electron is excited to the higher energy level.
+</item>
+          <item id="uid14">If the photon energy is <emphasis effect="italics">greater</emphasis> than or <emphasis effect="italics">equal to</emphasis> the work function (energy needed to escape from the metal), then the electron is emitted from the surface of the metal (the photoelectric effect).
+</item>
+        </list>
+        <para id="id129743">The work function is different for different elements. The smaller the work function, the easier it is for electrons to be emitted from the metal. Metals with low work functions make good conductors. This is because the electrons are attached less strongly to their surroundings and can move more easily through these materials. This reduces the resistance of the material to the flow of current i.e. it conducts well. <link target-id="uid15"/> shows the work functions for a range of elements.</para>
+        <table id="uid15" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>Element    </entry>
+                <entry>     Work Function (<m:math overflow="scroll"><m:mi mathvariant="normal">J</m:mi></m:math>)</entry>
+              </row>
+              <row>
+                <entry>Aluminium</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+              <row>
+                <entry>Beryllium</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+              <row>
+                <entry>Calcium</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+              <row>
+                <entry>Copper</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+              <row>
+                <entry>Gold</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+              <row>
+                <entry>Lead</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+              <row>
+                <entry>Silicon</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+              <row>
+                <entry>Silver</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+              <row>
+                <entry>Sodium</entry>
+                <entry>    <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>7</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Work functions of selected elements determined from the photoelectric effect. (From the <emphasis effect="italics">Handbook of Chemistry and Physics.)</emphasis></caption>
+        </table>
+<note id="notfhsst_id330"><title> Interesting Fact </title>
+        <para id="id130316">The <emphasis effect="bold">electron volt</emphasis> (eV) is the kinetic energy gained by an electron passing through a potential difference of one volt (1 <m:math overflow="scroll"><m:mi mathvariant="normal">V</m:mi></m:math>). A <emphasis effect="bold">volt</emphasis> is not a measure of energy, but the <emphasis effect="bold">electron volt</emphasis> is a unit of energy. When you connect a <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math> battery to a circuit, you can give <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mspace width="3.33333pt"/><m:mi> eV </m:mi></m:mrow></m:math> of energy to every electron.</para>
+</note>
+        
+        
+<exercise id="secfhsst_id339"><title> The photoelectric effect - I </title>
+        <problem id="probfhsst_id340">
+        <para id="id130497">Ultraviolet radiation with a wavelength of 250 nm is incident on a silver foil (work function <m:math overflow="scroll"><m:mi>φ</m:mi></m:math> = <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math>). What is the maximum kinetic energy of the emitted electrons? </para>
+        </problem>
+        <solution id="solfhsst_id343"> <list id="listfhsst_id343" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is required and how to approach the problem </label>
+        <para id="id130558">We need to determine the maximum kinetic energy of an electron ejected from a silver foil by ultraviolet radiation.</para>
+        <para id="id130563">The photoelectric effect tells us that:</para>
+        <equation id="id130566">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>k</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow>
+                        <m:mi>p</m:mi>
+                        <m:mi>h</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>t</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:mi>φ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>k</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>h</m:mi>
+                    <m:mfrac>
+                      <m:mi>c</m:mi>
+                      <m:mi>λ</m:mi>
+                    </m:mfrac>
+                    <m:mo>-</m:mo>
+                    <m:mi>φ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id130655">We also have:</para>
+        <para id="id130658">Work function of silver: <m:math overflow="scroll"><m:mrow><m:mi>φ</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math> J</para>
+        <para id="id130696">UV radiation wavelength = 250 nm = <m:math overflow="scroll"><m:mrow><m:mn>250</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math> m</para>
+        <para id="id130725">Planck's constant: <m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>63</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>34</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup><m:mi> kg </m:mi><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+        <para id="id130792">speed of light: <m:math overflow="scroll"><m:mrow><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">m</m:mi><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+        </item> <item> <label> Solve the problem </label>
+        <equation id="id130848">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>k</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>h</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                      <m:mi>λ</m:mi>
+                    </m:mfrac>
+                    <m:mo>-</m:mo>
+                    <m:mi>φ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>[</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>63</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>34</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>×</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo>×</m:mo>
+                          <m:msup>
+                            <m:mn>10</m:mn>
+                            <m:mn>8</m:mn>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>250</m:mn>
+                          <m:mo>×</m:mo>
+                          <m:msup>
+                            <m:mn>10</m:mn>
+                            <m:mrow>
+                              <m:mo>-</m:mo>
+                              <m:mn>9</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>]</m:mo>
+                    </m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>06</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id131021">The maximum kinetic energy of the emitted electron will be <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>06</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id524"><title> The photoelectric effect - II </title>
+        <problem id="probfhsst_id525">
+        <para id="id131084">If we were to shine the same ultraviolet radiation (<m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>15</m:mn></m:msup><m:mspace width="3.33333pt"/><m:mi> Hz </m:mi></m:mrow></m:math>), on a gold foil (work function <m:math overflow="scroll"><m:mrow><m:mo>=</m:mo><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>), would any electrons be emitted from the surface of the gold foil? </para>
+        </problem>
+        <solution id="solfhsst_id528"> 
+<para id="id131174">For the electrons to be emitted from the surface, the energy of each photon needs to be <emphasis effect="italics">greater</emphasis> than the work function of the material.</para>
+<list id="listfhsst_id528" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+        <item> <label> Calculate the energy of the incident photons </label>
+        <equation id="id131190">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mi>h</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>h</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>63</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>34</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>×</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>15</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>7</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>96</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id131322">Therefore each photon of ultraviolet light has an energy of <m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>96</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math>.</para>
+        </item> <item> <label> Write down the work function for gold. </label>
+        <equation id="id131365">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>φ</m:mi>
+                    <m:mrow>
+                      <m:mi>g</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>l</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>8</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Is the energy of the photons greater or smaller than the work function? </label>
+        <equation id="id131436">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>7</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>96</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>&lt;</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>8</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mi>h</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>n</m:mi>
+                      <m:mi>s</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>&lt;</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>φ</m:mi>
+                    <m:mrow>
+                      <m:mi>g</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>l</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id131563">The energy of each photon is less than the work function of gold, therefore, the photons do not have enough energy to knock electrons out of the gold. No electrons would be emitted from the gold foil. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id734"><title> Units of energy </title>
+        <para id="id131586">When dealing with calculations at a small scale (like at the level of electrons) it is more convenient to use different units for energy rather than the joule (J). We define a unit called the electron-volt (eV) as the kinetic energy gained by an electron passing through a potential difference of one volt.</para>
+        <equation id="id131594">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>E</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>q</m:mi>
+              <m:mo>×</m:mo>
+              <m:mi>V</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id131615">where <m:math overflow="scroll"><m:mi>q</m:mi></m:math> is the charge of the electron and <m:math overflow="scroll"><m:mi>V</m:mi></m:math> is the potential difference applied. The charge of 1 electron is <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math> C, so 1 eV is calculated to be:</para>
+        <equation id="id131667">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>1</m:mn>
+              <m:mspace width="0.277778em"/>
+              <m:mi> eV </m:mi>
+              <m:mo>=</m:mo>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mo>,</m:mo>
+                <m:msup>
+                  <m:mn>610</m:mn>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>19</m:mn>
+                  </m:mrow>
+                </m:msup>
+                <m:mspace width="0.277778em"/>
+                <m:mi mathvariant="normal">C</m:mi>
+                <m:mo>×</m:mo>
+                <m:mn>1</m:mn>
+                <m:mspace width="0.277778em"/>
+                <m:mi mathvariant="normal">V</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mn>1</m:mn>
+              <m:mo>,</m:mo>
+              <m:mn>6</m:mn>
+              <m:mo>×</m:mo>
+              <m:msup>
+                <m:mn>10</m:mn>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>19</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mspace width="0.166667em"/>
+              <m:mi mathvariant="normal">J</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id131756">You can see that <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math> J is a very small amount of energy and so using electron-volts (eV) at this level is easier.</para>
+        <para id="id131791">Hence, 1eV = <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mo>-</m:mo></m:msup><m:mn>19</m:mn></m:mrow></m:math> J which means that 1 J = <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>.</m:mo><m:mn>241</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>18</m:mn></m:msup></m:mrow></m:math> eV
+ </para>
+</section>
+      </section>
+      <section id="uid16">
+        <title>Real-life applications</title>
+        <section id="uid17">
+          <title>Solar Cells</title>
+          <para id="id131871">The photo-electric effect may seem like a very easy way to produce electricity from the sun.
+This is why people choose to make solar panels out of materials like silicon, to generate electricity.
+In real-life however, the amount of electricity generated is less than expected. This is because not every photon knocks out an electron. Other processes such as reflection or scattering also happen. This means that only a fraction <m:math overflow="scroll"><m:mrow><m:mo>≈</m:mo><m:mn>10</m:mn><m:mo>%</m:mo></m:mrow></m:math> (depends on the material) of the photons produce photoelectrons. This drop in efficiency results in a lower current. Much work is being done in industry to improve this efficiency so that the panels can generate as high a current as possible, and create as much electricity as possible from the sun. But even these smaller electrical currents are useful in applications like solar-powered calculators.</para>
+<section id="secfhsst_id803"><title> The photoelectric effect </title>
+          <list id="id131903" display="block" list-type="enumerated">
+            <item id="uid18">Describe the photoelectric effect.
+</item>
+            <item id="uid19">List two reasons why the observation of the photoelectric effect was significant.
+</item>
+            <item id="uid20">Refer to <link target-id="uid15"/>: If I shine ultraviolet light with a wavelength of 288 nm onto some aluminium foil, what would be the kinetic energy of the emitted electrons?
+</item>
+            <item id="uid21">I shine a light of an unknown wavelength onto some silver foil. The light has only enough energy to eject electrons from the silver foil but not enough to give them kinetic energy. (Refer to <link target-id="uid15"/> when answering the questions below:)
+<list id="id131971" display="block" list-type="enumerated"><item id="uid22">If I shine the same light onto some copper foil, would electrons be ejected?
+</item><item id="uid23">If I shine the same light onto some silicon, would electrons be ejected?
+</item><item id="uid24">If I increase the intensity of the light shining on the silver foil, what happens?
+</item><item id="uid25">If I increase the frequency of the light shining on the silver foil, what happens?
+</item></list></item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

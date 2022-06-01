@@ -1,0 +1,606 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Deformation of materials</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39533</md:content-id>
+  <md:title>Deformation of materials</md:title>
+  <md:abstract/>
+  <md:uuid>fe06ffb1-38d5-4e66-8c1e-47ece1cc89a9</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id146698">In this chapter we will look at some mechanical (physical) properties of various materials that we use. The mechanical properties of a material are those properties that are affected by forces being applied to the material. These properties are important to consider when we are constructing buildings, structures or modes of transport like an aeroplane.</para>
+    </section>
+    <section id="cid3">
+      <title>Deformation of materials</title>
+      <section id="uid1">
+        <title>Hooke's Law</title>
+        <para id="id147060">Deformation (change of shape) of a solid is caused by a force that can either be compressive or tensile when applied in one direction (plane). Compressive forces try to compress the object (make it smaller or more compact) while tensile forces try to tear it apart.
+We can study these effects by looking at what happens when you compress or expand a spring.</para>
+        <para id="id147067">Hooke's Law relates the restoring force of a spring to its displacement from equilibrium length.</para>
+        <para id="id147071">The equilibrium length of a spring is its length when no forces are applied to it. When a force is applied to a spring, e.g., by attaching a weight to one end, the spring will expand and become longer. The difference between the new length and the equilibrium length is the displacement.</para>
+<note id="notfhsst_id57"><title> Hooke's Law </title> Hooke's law is named after the seventeenth century physicist Robert Hooke who discovered it in 1660 (18 July 1635 - 3 March 1703).</note>
+<definition id="fhsst_id58"><term id="termfhsst_id58"> Hooke's Law </term> <meaning id="meaningfhsst_id58">
+        <para id="id147090">In an elastic spring, the extension varies linearly with the force applied.</para>
+        <para id="id147096">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>F</m:mi>
+              <m:mo>=</m:mo>
+              <m:mo>-</m:mo>
+              <m:mi>k</m:mi>
+              <m:mi>x</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id147115">where <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is the restoring force in newtons (N), <m:math overflow="scroll"><m:mi>k</m:mi></m:math> is the spring constant in <m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:mo>·</m:mo><m:msup><m:mi>m</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>x</m:mi></m:math> is the displacement of the spring from its equilibrium length in metres (m). </para>
+        </meaning></definition>
+        <figure id="uid2">
+          <media id="uid2_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C2_001.png" id="uid2_onlineimage" width="158"><!-- NOTE: attribute width changes image size online (pixels). original width is 158. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C2_001.eps" id="uid2_printimage"/>
+          </media>
+          <caption>Hooke's Law - the relationship between a spring's restoring force and its displacement from equilibrium length.</caption>
+        </figure>
+<section id="secfhsst_id80"><title> Experiment : Hooke's Law </title>
+        <para id="id147192">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id147200">Verify Hooke's Law.</para>
+        <para id="id147206">
+          <emphasis effect="bold">Apparatus:</emphasis>
+        </para>
+        <list id="id147214" display="block" list-type="bulleted">
+          <item id="uid3">weights
+</item>
+          <item id="uid4">spring
+</item>
+          <item id="uid5">ruler
+</item>
+        </list>
+        <para id="id147252">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id147260" display="block" list-type="enumerated">
+          <item id="uid6">Set up a spring vertically in such a way that you are able to hang weights from it.
+</item>
+          <item id="uid7">Measure the equilibrium length, <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub></m:math>, of the spring (i.e. the length of the spring when nothing is attached to it).
+</item>
+          <item id="uid8">Measure the extension of the spring for a range of different weights. Note: the extension is the difference between the spring's equilibrium length and the new length when a weight is attached to it, <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math>.
+</item>
+          <item id="uid9">Draw a table of force (weight) in newtons and corresponding extension.
+</item>
+          <item id="uid10">Draw a graph of force versus extension for your experiment.
+</item>
+        </list>
+        <para id="id147359">
+          <emphasis effect="bold">Conclusions:</emphasis>
+        </para>
+        <list id="id147367" display="block" list-type="enumerated">
+          <item id="uid11">What do you observe about the relationship between the applied force and the extension?
+</item>
+          <item id="uid12">Determine the gradient (slope) of the graph.
+</item>
+          <item id="uid13">Now calculate the spring constant for your spring.
+</item>
+        </list>
+        
+</section>
+<para id="eip-68"><figure id="springs" class="phetsim">
+	  <title>Phet simulation for Hooke's Law</title>
+	  <media id="phet_sim" display="block" alt="springs phet simulation">
+	  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="mass-spring-lab.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><para id="eip-803"><figure id="springs1" class="khanacademy">
+	  <title>Khan academy video on springs and Hooke's law</title>
+	  <media id="yt-media1" display="block" alt="video on springs1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/ZzwuHS9ldbY&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id124"><title> Hooke's Law I </title>
+        <problem id="probfhsst_id125">
+        <para id="id147427">A spring is extended by 7 cm by a force of 56 N.</para>
+        <para id="id147433">Calculate the spring constant for this spring.
+ </para>
+        </problem>
+        <solution id="solfhsst_id130"> <list id="listfhsst_id130" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Use Hooke's Law </label>
+        <equation id="id147455">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi mathvariant="normal">F</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi> kx </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>56</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi mathvariant="normal">k</m:mi>
+                    <m:mo>×</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>07</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="id146620">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi mathvariant="normal">k</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>56</m:mn>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>07</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>800</m:mn>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">m</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id223"><title> Hooke's Law II </title>
+        <problem id="probfhsst_id224">
+        <para id="id147796">A spring of length 20cm stretches to 24cm when a load of 0,6N is applied to it.</para>
+        <list id="id147802" display="block" list-type="enumerated">
+          <item id="uid14">Calculate the spring constant for the spring.
+</item>
+          <item id="uid15">Determine the extension of the spring if a load of 0,5N is applied to it.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id234"> <list id="listfhsst_id234" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what information you have: </label>
+        <para id="id147852">We know:</para>
+        <para id="id147855"><m:math overflow="scroll"><m:mi>F</m:mi></m:math> = 0,6 N</para>
+        <para id="id147867">The equilibrium spring length is 20 cm</para>
+        <para id="id147872">The expanded spring length is 24 cm</para>
+        </item> <item> <label> Use Hooke's Law to find the spring constant </label>
+        <para id="id147883">First we need to calculate the displacement of the spring from its equilibrium length:</para>
+        <equation id="id147887">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>x</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>24</m:mn>
+                    <m:mi> cm </m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>20</m:mn>
+                    <m:mi> cm </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mi> cm </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>04</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id147956">Now use Hooke's Law to find the spring constant:</para>
+        <equation id="id147960">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>F</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi>k</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi>k</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.222222em"/>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>04</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>k</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>15</m:mn>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> The second part of the question asks us to find the spring's extension if a 0,5 N load is attached to it. We have: </label>
+        <para id="id148063"><m:math overflow="scroll"><m:mi>F</m:mi></m:math> = 0,5 N</para>
+        <para id="id148073">We know from the first part of the question that</para>
+        <para id="id148078"><m:math overflow="scroll"><m:mi>k</m:mi></m:math> = -15 <m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>.</m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+        <para id="id148115">So, using Hooke's Law:</para>
+        <equation id="id148120">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>F</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi>k</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>x</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mfrac>
+                      <m:mi>F</m:mi>
+                      <m:mi>k</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>15</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>033</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mi> cm </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id451"><title> Hooke's Law III </title>
+        <problem id="probfhsst_id452">
+        <para id="id148266">A spring has a spring constant of <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>400</m:mn></m:mrow></m:math> N.m<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. By how much will it stretch if a load of 50 N is applied to it?
+ </para>
+        </problem>
+        <solution id="solfhsst_id456"> <list id="listfhsst_id456" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Use Hooke's Law </label>
+        <equation id="id148315">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi mathvariant="normal">F</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi> kx </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>50</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>400</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mi mathvariant="normal">x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="id148374">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi mathvariant="normal">x</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>50</m:mn>
+                    <m:mn>400</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>125</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>12</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mi> cm </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid16">
+        <title>Deviation from Hooke's Law</title>
+        <para id="id148469">We know that if you have a small spring and you pull it apart too much it stops 'working'. It bends out of shape and loses its springiness. When this happens, Hooke's Law no longer applies, the spring's behaviour deviates from Hooke's Law.</para>
+        <para id="id148474">Depending on what type of material we are dealing with, the manner in which it deviates from Hooke's Law is different. We give classify materials by this deviation. The following graphs show the relationship between force and extension for different materials and they all deviate from Hooke's Law. Remember that a straight line show proportionality so as soon as the graph is no longer a straight line, Hooke's Law no longer applies.</para>
+        <section id="uid17">
+          <title>Brittle material</title>
+          <figure id="uid18">
+            <media id="uid18_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C2_002.png" id="uid18_onlineimage" width="122"><!-- NOTE: attribute width changes image size online (pixels). original width is 122. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C2_002.eps" id="uid18_printimage"/>
+            </media>
+            <caption>A hard, brittle substance</caption>
+          </figure>
+          <para id="id148501">This graph shows the relationship between force and extension for a brittle, but strong material. Note that there is very little extension for a large force but then the material suddenly fractures.
+Brittleness is the property of a material that makes it break easily without bending.</para>
+          <para id="id148506">Have you ever dropped something made of glass and seen it shatter? Glass does this because it is brittle.</para>
+        </section>
+        <section id="uid19">
+          <title>Plastic material</title>
+          <figure id="uid20">
+            <media id="uid20_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C2_003.png" id="uid20_onlineimage" width="104"><!-- NOTE: attribute width changes image size online (pixels). original width is 104. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C2_003.eps" id="uid20_printimage"/>
+            </media>
+            <caption>A plastic material's response to an applied force.</caption>
+          </figure>
+          <para id="id148532">Here the graph shows the relationship between force and extension for a plastic material. The material extends under a small force but it does not fracture easily, and it does not return to its original length when the force is removed.</para>
+        </section>
+        <section id="uid21">
+          <title>Ductile material</title>
+          <figure id="uid22">
+            <media id="uid22_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C2_004.png" id="uid22_onlineimage" width="135"><!-- NOTE: attribute width changes image size online (pixels). original width is 135. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C2_004.eps" id="uid22_printimage"/>
+            </media>
+            <caption>A ductile substance.</caption>
+          </figure>
+          <para id="id148558">In this graph the relationship between force and extension is for a material that is ductile. The material shows plastic behaviour over a range of forces before the material finally fractures. Ductility is the ability of a material to be stretched into a new shape without breaking. Ductility is one of the characteristic properties of metals.</para>
+          <para id="id148564">A good example of this is aluminium, many things are made of aluminium. Aluminium is used for making everything from cooldrink cans to aeroplane parts and even engine blocks for cars. Think about squashing and bending a cooldrink can.</para>
+          <para id="id148569">Brittleness is the opposite of ductility.</para>
+          <para id="id148573">When a material reaches a point where Hooke's Law is no longer valid, we say it has reached its <emphasis effect="italics">limit of proportionality</emphasis>. After this point, the material will not return to its original shape after the force has been removed. We say it has reached its <emphasis effect="italics">elastic limit</emphasis>.</para>
+<definition id="fhsst_id589"><term id="termfhsst_id589"> Elastic limit </term> <meaning id="meaningfhsst_id589">
+          <para id="id148595">The elastic limit is the point beyond which permanent deformation takes place. </para>
+          </meaning></definition>
+<definition id="fhsst_id592"><term id="termfhsst_id592"> Limit of proportionality </term> <meaning id="meaningfhsst_id592">
+          <para id="id148612">The limit of proportionality is the point beyond which Hooke's Law is no longer obeyed. </para>
+          </meaning></definition>
+<section id="secfhsst_id595"><title> Hooke's Law and deformation of materials </title>
+          <list id="id148631" display="block" list-type="enumerated">
+            <item id="uid23">What causes deformation?
+</item>
+            <item id="uid24">Describe Hooke's Law in words and mathematically.
+</item>
+            <item id="uid25">List similarities and differences between ductile, brittle and plastic (polymeric) materials, with specific reference to their force-extension graphs.
+</item>
+            <item id="uid26">Describe what is meant by the <emphasis effect="italics">elastic limit</emphasis>.
+</item>
+            <item id="uid27">Describe what is meant by the <emphasis effect="italics">limit of proportionality</emphasis>.
+</item>
+            <item id="uid28">A spring of length 15 cm stretches to 27 cm when a load of 0,4 N is applied to it.
+<list id="id148718" display="block" list-type="enumerated"><item id="uid29">Calculate the spring constant for the spring.
+</item><item id="uid30">Determine the extension of the spring if a load of 0,35 N is applied to it.
+</item></list></item>
+            <item id="uid31">A spring has a spring constant of <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>200</m:mn></m:mrow></m:math> N.m<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. By how much will it stretch if a load of 25 N is applied to it?
+</item>
+            <item id="uid32">A spring of length 20 cm stretches to 24 cm when a load of 0,6 N is applied to it.
+<list id="id148804" display="block" list-type="enumerated"><item id="uid33">Calculate the spring constant for the spring.
+</item><item id="uid34">Determine the extension of the spring if a load of 0,8 N is applied to it.
+</item></list></item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

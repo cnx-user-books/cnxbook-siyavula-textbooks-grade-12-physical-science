@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The chloralkali industry</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39479</md:content-id>
+  <md:title>The chloralkali industry</md:title>
+  <md:abstract/>
+  <md:uuid>aa7150af-f836-461c-81f1-d3dd128f2b37</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>The Chloralkali Industry</title>
+      <para id="id202486">The chlorine-alkali (chloralkali) industry is an important part of the chemical industry, and produces <emphasis effect="bold">chlorine</emphasis> and <emphasis effect="bold">sodium hydroxide</emphasis> through the electrolysis of table salt (NaCl). The main raw material is <emphasis effect="bold">brine</emphasis> which is a saturated solution of sodium chloride (NaCl) that is obtained from natural salt deposits.</para>
+      <para id="id202510">The products of this industry have a number of important uses. <emphasis effect="bold">Chlorine</emphasis> is used to purify water, and is used as a disinfectant. It is also used in the manufacture of many every-day items such as hypochlorous acid, which is used to kill bacteria in drinking water. Chlorine is also used in paper production, antiseptics, food, insecticides, paints, petroleum products, plastics (such as polyvinyl chloride or PVC), medicines, textiles, solvents, and many other consumer products. Many chemical products such as chloroform and carbon tetrachloride also contain chlorine.</para>
+      <para id="id202530"><emphasis effect="bold">Sodium hydroxide</emphasis> (also known as 'caustic soda') has a number of uses, which include making soap and other cleaning agents, purifying bauxite (the ore of aluminium), making paper and making rayon (artificial silk).</para>
+      <section id="uid48">
+        <title>The Industrial Production of Chlorine and Sodium Hydroxide</title>
+        <para id="id202551">Chlorine and sodium hydroxide can be produced through a number of different reactions. However, one of the problems is that when chlorine and sodium hydroxide are produced together, the chlorine combines with the sodium hydroxide to form chlorate (<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>l</m:mi><m:msup><m:mi>O</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>) and chloride (<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>l</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>) ions. This produces sodium chlorate, NaClO, a component of household bleach. To overcome this problem the chlorine and sodium hydroxide must be separated from each other so that they don't react. There are three industrial processes that have been designed to overcome this problem, and to produce chlorine and sodium hydroxide. All three methods involve <emphasis effect="bold">electrolytic cells</emphasis> (chapter <link target-id=""/>).</para>
+<note id="notfhsst_id331" type="tip"><title><emphasis effect="bold">Electrolytic cells</emphasis></title>
+        <para id="id202615">Electrolytic cells are used to transform reactants into products by using electric current. They are made up of an <emphasis effect="bold">electrolyte</emphasis> and two electrodes, the <emphasis effect="bold">cathode</emphasis> and the <emphasis effect="bold">anode</emphasis>. An electrolytic cell is activated by applying an external electrical current. This creates an electrical potential across the cathode and anode, and forces a chemical reaction to take place in the electrolyte. Cations flow towards the cathode and are reduced. Anions flow to the anode and are oxidised. Two new products are formed, one product at the cathode and one at the anode.</para></note>
+        <list id="id202643" display="block" list-type="enumerated">
+          <item id="uid49"><emphasis effect="bold">The Mercury Cell</emphasis>
+In the mercury-cell (<link target-id="uid50"/>), brine passes through a chamber which has a carbon electrode (the anode) suspended from the top. Mercury flows along the floor of this chamber and acts as the cathode. When an electric current is applied to the circuit, chloride ions in the electrolyte are oxidised to form chlorine gas.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msubsup><m:mi> Cl </m:mi><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>-</m:mo></m:msubsup><m:mo>→</m:mo><m:msub><m:mi> Cl </m:mi><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+At the cathode, sodium ions are reduced to sodium.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msubsup><m:mi> Na </m:mi><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> Na </m:mi><m:mrow><m:mo>(</m:mo><m:mi> Hg </m:mi><m:mo>)</m:mo></m:mrow></m:msub></m:mrow></m:math>
+The sodium dissolves in the mercury, forming an amalgam of sodium and mercury. The amalgam is then poured into a separate vessel, where it decomposes into sodium and mercury. The sodium reacts with water in the vessel and produces sodium hydroxide (caustic soda) and hydrogen gas, while the mercury returns to the electrolytic cell to be used again.
+
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> Na </m:mi><m:mrow><m:mo>(</m:mo><m:mi> Hg </m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> NaOH </m:mi><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:msub></m:mrow></m:math><figure id="uid50"><media id="uid50_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_004.png" id="uid50_onlineimage" width="311"><!-- NOTE: attribute width changes image size online (pixels). original width is 311. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_004.eps" id="uid50_printimage"/></media><caption>The Mercury Cell</caption></figure>
+This method, however, only produces a fraction of the chlorine and sodium hydroxide that is used by industry as it has certain disadvantages: mercury is expensive and toxic, and although it is returned to the electrolytic cell, some always escapes with the brine that has been used. The mercury reacts with the brine to form mercury(II) chloride. In the past this effluent was released into lakes and rivers, causing mercury to accumulate in fish and other animals feeding on the fish. Today, the brine is treated before it is discharged so that the environmental impact is lower.
+</item>
+          <item id="uid51"><emphasis effect="bold">The Diaphragm Cell</emphasis>
+In the diaphragm-cell (<link target-id="uid52"/>), a porous diaphragm divides the electrolytic cell, which contains brine, into an anode compartment and a cathode compartment. The brine is introduced into the anode compartment and flows through the diaphragm into the cathode compartment. When an electric current passes through the brine, the salt's chlorine ions and sodium ions move to the electrodes. Chlorine gas is produced at the anode. At the cathode, sodium ions react with water, forming caustic soda and hydrogen gas. Some salt remains in the solution with the caustic soda and can be removed at a later stage.
+<figure id="uid52"><media id="uid52_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_005.png" id="uid52_onlineimage" width="266"><!-- NOTE: attribute width changes image size online (pixels). original width is 266. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_005.eps" id="uid52_printimage"/></media><caption>Diaphragm Cell</caption></figure>
+This method uses less energy than the mercury cell, but the sodium hydroxide is not as easily concentrated and precipitated into a useful substance.
+<note id="notfhsst_id348"><title> Interesting Fact </title>
+To separate the chlorine from the sodium hydroxide, the two half-cells were traditionally separated by a porous asbestos diaphragm, which needed to be replaced every two months. This was damaging to the environment, as large quantities of asbestos had to be disposed. Today, the asbestos is being replaced by other polymers which do not need to be replaced as often.
+</note></item>
+          <item id="uid53"><emphasis effect="bold">The Membrane Cell</emphasis>
+The membrane cell (<link target-id="uid54"/>) is very similar to the diaphragm cell, and the same reactions occur. The main difference is that the two electrodes are separated by an ion-selective membrane, rather than by a diaphragm. The structure of the membrane is such that it allows cations to pass through it between compartments of the cell. It does not allow anions to pass through. This has nothing to do with the size of the pores, but rather with the charge on the ions. Brine is pumped into the anode compartment, and only the positively charged sodium ions pass into the cathode compartment, which contains pure water.
+<figure id="uid54"><media id="uid54_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_006.png" id="uid54_onlineimage" width="235"><!-- NOTE: attribute width changes image size online (pixels). original width is 235. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_006.eps" id="uid54_printimage"/></media><caption>Membrane Cell</caption></figure>
+At the positively charged anode, <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>l</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> ions from the brine are oxidised to <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> gas.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> Cl </m:mi><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+At the negatively charged cathode, hydrogen ions in the water are reduced to hydrogen gas.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msubsup><m:mi mathvariant="normal">H</m:mi><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:msub></m:mrow></m:math>
+The Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ions flow through the membrane to the cathode compartment and react with the remaining hydroxide (<m:math overflow="scroll"><m:mrow><m:mi>O</m:mi><m:msup><m:mi>H</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>) ions from the water to form sodium hydroxide (NaOH). The chloride ions cannot pass through, so the chlorine does not come into contact with the sodium hydroxide in the cathode compartment. The sodium hydroxide is removed from the cell. The overall equation is as follows:
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi> NaCl </m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:msub><m:mi> Cl </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mi> NaOH </m:mi></m:mrow></m:math>
+The advantage of using this method is that the sodium hydroxide that is produced is very pure because it is kept separate from the sodium chloride solution. The caustic soda therefore has very little salt contamination. The process also uses less electricity and is cheaper to operate.
+</item>
+        </list>
+<section id="secfhsst_id364"><title> The Chloralkali industry
+        </title>
+        <list id="id203316" display="block" list-type="enumerated">
+          <item id="uid55">Refer to the flow diagram below which shows the reactions that take place in the membrane cell, and then answer the questions that follow.
+<figure id="id203336"><media id="id203336_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_007.png" id="id203336_onlineimage" width="426"><!-- NOTE: attribute width changes image size online (pixels). original width is 426. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_007.eps" id="id203336_printimage"/></media></figure><list id="id203342" display="block" list-type="enumerated"><item id="uid56">What liquid is present in the cathode compartment at (a)?
+</item><item id="uid57">Identify the gas that is produced at (b).
+</item><item id="uid58">Explain one feature of this cell that allows the Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> and OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ions to react at (c).
+</item><item id="uid59">Give a balanced equation for the reaction that takes place at (c).
+</item></list></item>
+          <item id="uid60">Summarise what you have learnt about the three types of cells in the chloralkali industry by completing the table below:
+<table id="id203436" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">Mercury cell</emphasis></entry><entry><emphasis effect="bold">Diaphragm cell</emphasis></entry><entry><emphasis effect="bold">Membrane cell</emphasis></entry></row><row><entry>Main raw material</entry><entry/><entry/><entry/></row><row><entry>Mechanism of separating Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and NaOH</entry><entry/><entry/><entry/></row><row><entry>Anode reaction</entry><entry/><entry/><entry/></row><row><entry>Cathode reaction</entry><entry/><entry/><entry/></row><row><entry>Purity of NaOH produced</entry><entry/><entry/><entry/></row><row><entry>Energy consumption</entry><entry/><entry/><entry/></row><row><entry>Environmental impact</entry><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid61">
+        <title>Soaps and Detergents</title>
+        <para id="id203761">Another important part of the chloralkali industry is the production of <emphasis effect="bold">soaps</emphasis> and <emphasis effect="bold">detergents</emphasis>. You will remember from an earlier chapter, that water has the property of <emphasis effect="italics">surface tension</emphasis>. This means that it tends to bead up on surfaces and this slows down the wetting process and makes cleaning difficult. You can observe this property of surface tension when a drop of water falls onto a table surface. The drop holds its shape and does not spread. When cleaning, this surface tension must be reduced so that the water can spread. Chemicals that are able to do this are called <emphasis effect="bold">surfactants</emphasis>. Surfactants also loosen, disperse and hold particles in suspension, all of which are an important part of the cleaning process. Soap is an example of one of these surfactants. Detergents contain one or more surfactants. We will go on to look at these in more detail.</para>
+<definition id="fhsst_id382"><term id="termfhsst_id382"> Surfactant </term> <meaning id="meaningfhsst_id382">
+        <para id="id203801">A surfactant is a wetting agent that lowers the surface tension of a liquid, allowing it to spread more easily.
+ </para>
+        </meaning></definition>
+        <list id="id203813" display="block" list-type="enumerated">
+          <item id="uid62"><emphasis effect="bold">Soaps</emphasis>
+In chapter <link target-id=""/>, a number of important biological macromolecules were discussed, including carbohydrates, proteins and nucleic acids. <emphasis effect="bold">Fats</emphasis> are also biological macromolecules. A fat is made up of an alcohol called glycerol, attached to three fatty acids (<link target-id="uid63"/>). Each <emphasis effect="bold">fatty acid</emphasis> is made up of a carboxylic acid attached to a long hydrocarbon chain. An <emphasis effect="bold">oil</emphasis> has the same structure as a fat, but is a liquid rather than a solid. Oils are found in plants (e.g. olive oil, sunflower oil) and fats are found in animals.
+<figure id="uid63"><media id="uid63_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_008.png" id="uid63_onlineimage" width="165"><!-- NOTE: attribute width changes image size online (pixels). original width is 165. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_008.eps" id="uid63_printimage"/></media><caption>The structure of a fat, composed of an alcohol and three fatty acids</caption></figure>
+To make soap, sodium hydroxide (NaOH) or potassium hydroxide (KOH) must be added to a fat or an oil. During this reaction, the glycerol is separated from the fatty acid in the fat, and is replaced by either potassium or sodium ions (<link target-id="uid64"/>). Soaps are the water-soluble sodium or potassium salts of fatty acids.
+<figure id="uid64"><media id="uid64_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_009.png" id="uid64_onlineimage" width="477"><!-- NOTE: attribute width changes image size online (pixels). original width is 477. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_009.eps" id="uid64_printimage"/></media><caption>Sodium hydroxide reacts with a fat to produce glycerol and sodium salts of the fatty acids</caption></figure>
+<note id="notfhsst_id392"><title> Interesting Fact </title>
+Soaps can be made from either fats or oils. Beef fat is a common source of fat, and vegetable oils such as palm oil are also commonly used.
+</note>Fatty acids consist of two parts: a carboxylic acid group and a hydrocarbon chain. The hydrocarbon chain is <emphasis effect="italics">hydrophobic</emphasis>, meaning that it is repelled by water. However, it is attracted to grease, oils and other dirt. The carboxylic acid is <emphasis effect="italics">hydrophilic</emphasis>, meaning that it is attracted to water. Let's imagine that we have added soap to water in order to clean a dirty rugby jersey. The hydrocarbon chain will attach itself to the soil particles in the jersey, while the carboxylic acid will be attracted to the water. In this way, the soil is pulled free of the jersey and is suspended in the water. In a washing machine or with vigourous handwashing, this suspension can be rinsed off with clean water.
+<definition id="fhsst_id396"><term id="termfhsst_id396"> Soap </term> <meaning id="meaningfhsst_id396">
+Soap is a surfactant that is used with water for washing and cleaning. Soap is made by reacting a fat with either sodium hydroxide (NaOH) or potassium hydroxide (KOH). 
+</meaning></definition></item>
+          <item id="uid65"><emphasis effect="bold">Detergents</emphasis>
+<definition id="fhsst_id401"><term id="termfhsst_id401"> Detergent </term> <meaning id="meaningfhsst_id401">
+Detergents are compounds or mixtures of compounds that are used to assist cleaning. The term is often used to distinguish between soap and other chemical surfactants for cleaning.
+ 
+</meaning></definition>Detergents are also cleaning products, but are composed of one or more surfactants. Depending on the type of cleaning that is needed, detergents may contain one or more of the following:
+<list id="id203998" display="block" list-type="bulleted"><item id="uid66"><emphasis effect="italics">Abrasives</emphasis> to scour a surface.
+</item><item id="uid67"><emphasis effect="italics">Oxidants</emphasis> for bleaching and disinfection.
+</item><item id="uid68"><emphasis effect="italics">Enzymes</emphasis> to digest proteins, fats or carbohydrates in stains. These are called <emphasis effect="italics">biological detergents</emphasis>.
+</item></list></item>
+        </list>
+<section id="secfhsst_id411"><title> The choralkali industry
+        </title>
+        <para id="id204072">
+          <figure id="id204075">
+            <media id="id204075_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C5_010.png" id="id204075_onlineimage" width="544"><!-- NOTE: attribute width changes image size online (pixels). original width is 544. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_010.eps" id="id204075_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id204082" display="block" list-type="enumerated">
+          <item id="uid69">The diagram above shows the sequence of steps that take place in the mercury cell.
+<list id="id204098" display="block" list-type="enumerated"><item id="uid70">Name the 'raw material' in step 1.
+</item><item id="uid71">Give the chemical equation for the reaction that produces chlorine in step 2.
+</item><item id="uid72">What other product is formed in step 2.
+</item><item id="uid73">Name the reactants in step 4.
+</item></list></item>
+          <item id="uid74">Approximately 30 million tonnes of chlorine are used throughout the world annually. Chlorine is produced industrially by the electrolysis of brine. The diagram represents a membrane cell used in the production of Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gas.
+<figure id="id204182"><media id="id204182_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_011.png" id="id204182_onlineimage" width="235"><!-- NOTE: attribute width changes image size online (pixels). original width is 235. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_011.eps" id="id204182_printimage"/></media></figure><list id="id204188" display="block" list-type="enumerated"><item id="uid75">What ions are present in the electrolyte in the left hand compartment of the cell?
+</item><item id="uid76">Give the equation for the reaction that takes place at the anode.
+</item><item id="uid77">Give the equation for the reaction that takes place at the cathode.
+</item><item id="uid78">What ion passes through the membrane while these reactions are taking place?
+Chlorine is used to purify drinking water and swimming pool water. The substance responsible for this process is the weak acid, hypochlorous acid (HOCl).
+</item><item id="uid79">One way of putting HOCl into a pool is to bubble chlorine gas through the water. Give an equation showing how bubbling Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(g) through water produces HOCl.
+</item><item id="uid80">A common way of treating pool water is by adding 'granular chlorine'. Granular chlorine consists of the salt calcium hypochlorite, Ca(OCl)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>. Give an equation showing how this salt dissolves in water. Indicate the phase of each substance in the equation.
+</item><item id="uid81">The OCl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ion undergoes hydrolysis , as shown by the following equation:
+<m:math overflow="scroll"><m:mrow><m:msup><m:mi> OCl </m:mi><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>⇌</m:mo><m:mi> HOCl </m:mi><m:mo>+</m:mo><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+Will the addition of granular chlorine to pure water make the water acidic, basic or will it remain neutral? Briefly explain your answer.
+</item></list>
+(IEB Paper 2, 2003)
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

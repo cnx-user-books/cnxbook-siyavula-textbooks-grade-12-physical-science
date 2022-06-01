@@ -1,0 +1,840 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Principles of digital electronics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39530</md:content-id>
+  <md:title>Principles of digital electronics</md:title>
+  <md:abstract/>
+  <md:uuid>5ca88a2d-741c-493e-a239-9ef7646087fe</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>The Principles of Digital Electronics</title>
+      <para id="id270817">The circuits and components we have discussed are very useful. You can build a radio or television with them. You can make a telephone. Even if that was all there was to electronics, it would still be very useful. However, the great breakthrough in the last fifty years or so has been in <emphasis effect="bold">digital</emphasis> electronics. This is the subject which gave us the computer. The computer has revolutionized the way business, engineering and science are done. Small computers programmed to do a specific job (called microprocessors) are now used in almost every electronic machine from cars to washing machines. Computers have also changed the way we communicate. We used to have telegraph or telephone wires passing up and down a country — each one carrying one telephone call or signal. We now have optic fibres each capable of carrying tens of thousands of telephone calls using <emphasis effect="bold">digital</emphasis> signals.</para>
+      <para id="id270844">So, what is a digital signal? Look at <link target-id="uid85"/>. A normal signal, called an <emphasis effect="bold">analogue</emphasis> signal, carries a smooth wave. At any time, the voltage of the signal could take any value. It could be 2,00 V or 3,53 V or anything else. A digital signal can only take certain voltages. The simplest case is shown in the figure — the voltage takes one of two values. It is either <emphasis effect="bold">high</emphasis>, or it is <emphasis effect="bold">low</emphasis>. It never has any other value.</para>
+      <para id="id270876">These two special voltages are given symbols. The low voltage level is written 0, while the high voltage level is written as 1. When you send a digital signal, you set the voltage you want (0 or 1), then keep this fixed for a fixed amount of time (for example 0.01 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>s), then you send the next 0 or 1. The digital signal in <link target-id="uid85"/> could be written 01100101.</para>
+      <figure id="uid85">
+        <media id="uid85_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C9_016.png" id="uid85_onlineimage" width="576"><!-- NOTE: attribute width changes image size online (pixels). original width is 576. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_016.eps" id="uid85_printimage"/>
+        </media>
+        <caption>The difference between normal (analogue) signals and digital signals.</caption>
+      </figure>
+      <para id="id270909">Why are digital signals so good?</para>
+      <list id="id270912" display="block" list-type="enumerated">
+        <item id="uid86">Using a computer, any information can be turned into a pattern of 0s and 1s. Pictures, recorded music, text and motion pictures can all be turned into a string of 0s and 1s and transmitted or stored in the same way. The computer receiving the signal at the other end converts it back again. A Compact Disc (CD) for example, can store music or text or pictures, and all can be read using a computer.
+</item>
+        <item id="uid87">The 0 and the 1 look very different. You can immediately tell if a 0 or a 1 is being sent. Even if there is interference, you can still tell whether the sender sent a 0 or a 1. This means that fewer mistakes are made when reading a digital signal. This is why the best music recording technologies, and the most modern cameras, for example, all use digital technology.
+</item>
+        <item id="uid88">Using the 0s and 1s you can count, and do all kinds of mathematics. This will be explained in more detail in the next section.
+</item>
+      </list>
+      <para id="id270960">The simplest digital circuits are called <emphasis effect="bold">logic gates</emphasis>. Each logic gate makes a decision based on the information it receives. Different logic gates are set up to make the decisions in different ways. Each logic gate will be made of many microscopic transistors connected together within a thin wafer of silicon. This tiny circuit is called an Integrated Circuit or I.C. - all the parts are in one place (integrated) on the silicon wafer.</para>
+      <section id="uid89">
+        <title>Logic Gates</title>
+        <para id="id270982">There are five main types of logic gate: NOT, AND, OR, NAND and NOR. Each one makes its decision in a different way.</para>
+        <section id="uid90">
+          <title>The NOT Gate</title>
+          <para id="id270995"><emphasis effect="bold">Problem:</emphasis> You want an automatic circuit in your office to turn on the heating in the winter. You already have a digital electronic temperature sensor. When the temperature is high, it sends out a 1. When the office is cold, it sends out a 0. If this signal were sent straight to the heater, the heater would turn on (1) when it was already hot, and would stay off when it was cold. This is wrong! To make the heater work, we need a circuit which will change a 0 (from the sensor) into a 1 (to send to the heater). This will make the heater come on when it is cold. You also want it to change a 1 (from the sensor) into a 0 (to send to the heater). This will turn the heater off when the room is hot. This circuit is called an <emphasis effect="bold">inverter</emphasis> or <emphasis effect="bold">NOT gate</emphasis>. It changes 0 into 1 (1 is NOT 0). It changes 1 into 0 (0 is NOT 1). It changes a signal into what it is NOT.</para>
+          <para id="id271022">The symbol for the NOT gate is:</para>
+          <para id="id271026">
+            <figure id="id271029">
+              <media id="id271029_media" alt="">
+                <image mime-type="image/png" src="../../media/PG12C9_017.png" id="id271029_onlineimage" width="72"><!-- NOTE: attribute width changes image size online (pixels). original width is 72. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_017.eps" id="id271029_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id271036">The action of the NOT gate can be written in a table called a <emphasis effect="bold">truth table</emphasis>. The left column shows the possible inputs on different rows. The right column shows what the output (decision) of the circuit will be for that input. The truth table for the NOT gate is shown below.</para>
+          <table id="id271047" summary="">
+            <tgroup cols="2">
+              <tbody>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">Input</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Output</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id271128">When you read the truth table, the top row says, “If the input is 0, the output will be 1.” For our heater, this means, “If the room is cold, the heater will turn on.” The bottom row says, “If the input is 1, the output will be 0.” For our heater, this means, “If the room is hot, the heater will switch off.”</para>
+        </section>
+        <section id="uid91">
+          <title>The AND Gate</title>
+          <para id="id271147"><emphasis effect="bold">Problem:</emphasis> An airliner has two toilets. Passengers get annoyed if they get up from their seat only to find that both toilets are being used and they have to go back to their seat and wait. You want to fit an automatic circuit to light up a display if both toilets are in use. Then passengers know that if the light is off, there will be a free toilet for them to use. There is a sensor in each toilet. It gives out a 0 of the toilet is free, and a 1 if it is in use. You want to send a 1 to the display unit if <emphasis effect="bold">both</emphasis> sensors are sending 1s. To do this, you use an AND gate.</para>
+          <para id="id271165">The symbol for the AND gate is:</para>
+          <figure id="uid92">
+            <media id="uid92_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C9_018.png" id="uid92_onlineimage" width="78"><!-- NOTE: attribute width changes image size online (pixels). original width is 78. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_018.eps" id="uid92_printimage"/>
+            </media>
+            <caption>Symbol for the AND logic gate.</caption>
+          </figure>
+          <para id="id271181">The truth table for the AND gate is shown below. An AND gate has two inputs (the NOT gate only had one). This means we need four rows in the truth table, one for each possible set of inputs. The first row, for example, tells us what the AND gate will do if both inputs are 0. In our airliner, this means that both toilets are free. The right column has a 0 showing that the output will be 0, so the display will not light up. The second row has inputs of 0 and 1 (the first toilet is free, the other is in use). Again the output is 0. The third row tells us what will happen if the inputs are 1 and 0 (the first toilet is in use, and the second is free). Finally, the last line tells us what will happen if both inputs are 1 (the first toilet is in use and the second toilet is in use). It is only in this case that the output is 1 and the display lights up.</para>
+          <table id="id271192" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">
+                    <emphasis effect="bold">Inputs</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Output</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>A</entry>
+                  <entry>B</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id271375">This device is called an AND gate, because the output is only 1 if one input AND the other input are both 1.</para>
+<section id="secfhsst_id838"><title> Using 0 and 1 to mean True and False </title>
+          <para id="id271385">When we use logic gates we use the low voltage state 0 to represent `false'. The high voltage state 1 represents `true'. This is why the word AND is so appropriate. A AND B is true (1) if, and only if, A is true (1) AND B is true (1). </para>
+</section>
+<section id="secfhsst_id841"><title> AND and multiplication </title>
+          <para id="id271405">Sometimes, the AND operation is written as multiplication. A AND B is written AB. If either A or B are 0, then AB will also be 0. For AB to be 1, we need A and B to both be 1. Multiplication of the numbers 0 and 1 does exactly the same job as an AND gate. </para>
+</section>
+        </section>
+        <section id="uid93">
+          <title>The NAND Gate</title>
+          <para id="id271429"><emphasis effect="bold">Problem:</emphasis> You build the circuit for the airliner toilets using an AND gate. Your customer is pleased, but she says that it would be better if the display lit up when there <emphasis effect="bold">was</emphasis> a free toilet. In other words, the display should light up unless both toilets are in use. To do this we want a circuit which does the opposite of an AND gate. We want a circuit which would give the output 0 where an AND gate would give 1. We want a circuit which would give the output 1 where an AND gate would give 0. This circuit is called a NAND gate.</para>
+          <para id="id271446">The symbol for the NAND gate is:</para>
+          <figure id="uid94">
+            <media id="uid94_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C9_019.png" id="uid94_onlineimage" width="78"><!-- NOTE: attribute width changes image size online (pixels). original width is 78. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_019.eps" id="uid94_printimage"/>
+            </media>
+          </figure>
+          <para id="id271459">The truth table for the NAND gate is shown below.</para>
+          <table id="id271462" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">
+                    <emphasis effect="bold">Inputs</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Output</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>A</entry>
+                  <entry>B</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id271646">You may have noticed that we could have done this job on the airliner by using our earlier circuit, with a NOT gate added between the original AND gate and the display. This is where the word NAND comes from — it is short for NotAND.</para>
+        </section>
+        <section id="uid95">
+          <title>The OR Gate</title>
+          <para id="id271663"><emphasis effect="bold">Problem:</emphasis> A long, dark corridor has two light switches — one at each end of the corridor. The switches each send an output of 0 to the control unit if no-one has pressed the switch. If someone presses the switch, its output is 1. The lights in the corridor should come on if either switch is pressed. To do this job, the control unit needs an OR gate. The symbol for the OR gate is:</para>
+          <figure id="uid96">
+            <media id="uid96_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C9_020.png" id="uid96_onlineimage" width="78"><!-- NOTE: attribute width changes image size online (pixels). original width is 78. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_020.eps" id="uid96_printimage"/>
+            </media>
+            <caption>Symbol for the OR logic gate.</caption>
+          </figure>
+          <para id="id271689">The truth table for the OR gate is shown.</para>
+          <table id="id271693" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">
+                    <emphasis effect="bold">Inputs</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Output</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>A</entry>
+                  <entry>B</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id271876">You can see that the output is 1 (and the lights come on in the corridor) if either one switch OR the other is pressed. Pressing both switches also turns on the lights, as the last row in the table shows.</para>
+<section id="secfhsst_id956"><title> OR and addition </title>
+          <para id="id271887">Sometimes you will see A OR B written mathematically as A+B. This makes sense, since if A=0 and B=0, then A OR B = A+B = 0. Similarly, if A=0 and B=1, then A OR B = A+B = 1. If A=1 and B=0, then A OR B = A+B = 1 once again. The only case where the OR function differs from normal addition is when A=1 and B=1. Here A OR B = 1 in logic, but A+B=2 in arithmetic. However, there is no such thing as `2' in logic, so we define + to mean `OR', and write 1+1=1 with impunity!</para>
+          <para id="id271897">If you wish, you can prove that the normal rules of algebra still work using this notation: A+(B+C) = (A+B)+C, A(BC) = (AB)C, and A(B+C) = AB + AC. This special kind of algebra where variables can only be 0 (representing false) or 1 (representing true) is called Boolean algebra. </para>
+</section>
+        </section>
+        <section id="uid97">
+          <title>The NOR Gate</title>
+          <para id="id271918">The last gate you need to know is the NOR gate. This is opposite to the OR gate. The output is 1 if both inputs are 0. In other words, the output switches on if neither the first NOR the second input is 1. The symbol for the NOR gate is:</para>
+          <figure id="uid98">
+            <media id="uid98_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C9_021.png" id="uid98_onlineimage" width="78"><!-- NOTE: attribute width changes image size online (pixels). original width is 78. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_021.eps" id="uid98_printimage"/>
+            </media>
+            <caption>Symbol for the NOR logic gate.</caption>
+          </figure>
+          <para id="id271936">The truth table for the NOR gate is shown below.</para>
+          <table id="id271940" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">
+                    <emphasis effect="bold">Inputs</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Output</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>A</entry>
+                  <entry>B</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id272123">The examples given were easy. Each job only needed one logic gate. However any `decision making' circuit can be built with logic gates, no matter how complicated the decision. Here is an example.</para>
+<exercise id="secfhsst_id1016"><title> An Economic Heating Control </title>
+          <problem id="probfhsst_id1017">
+          <para id="id272141">A sensor in a building detects whether a room is being used. If it is empty, the output is 0, if it is in use, the output is 1. Another sensor measures the temperature of the room. If it is cold, the output is 0. If it is hot, the output is 1. The heating comes on if it receives a 1. Design a control circuit so that the heating only comes on if the room is in use and it is cold. </para>
+          </problem>
+          <solution id="solfhsst_id1020"> <list id="listfhsst_id1020" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Think about what each sensor does </label>
+          <para id="id272167">The first sensor tells us whether the room is occupied. The second sensor tells us whether the room is hot. The heating must come on if the room is occupied AND cold. This means that the heating should come on if the room is occupied AND (NOT hot).</para>
+          </item> <item> <label> Decide which gates to use and draw the circuit </label>
+          <para id="id272177">To build the circuit, we first attach a NOT gate to the output of the temperature sensor. This output of the NOT gate will be 1 only if the room is cold. We then attach this output to an AND gate, together with the output from the other sensor. The output of the AND gate will only be 1 if the room is occupied AND the output of the NOT gate is also 1. So the heating will only come on if the room is in use and is cold. The circuit is shown below.</para>
+          <para id="id272184">
+            <figure id="id272187">
+              <media id="id272187_media" alt="">
+                <image mime-type="image/png" src="../../media/PG12C9_022.png" id="id272187_onlineimage" width="157"><!-- NOTE: attribute width changes image size online (pixels). original width is 157. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_022.eps" id="id272187_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1036"><title> Solving a circuit with two logic gates </title>
+          <problem id="probfhsst_id1037">
+          <para id="id272222">Compile the truth table for the circuit below.</para>
+          <para id="id272228">
+            <figure id="id272232">
+              <media id="id272232_media" alt="">
+                <image mime-type="image/png" src="../../media/PG12C9_023.png" id="id272232_onlineimage" width="126"><!-- NOTE: attribute width changes image size online (pixels). original width is 126. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_023.eps" id="id272232_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </problem>
+          <solution id="solfhsst_id1049"> <list id="listfhsst_id1049" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Firstly, we label the inputs A and B. We also label the point where the two gates are connected C. </label>
+          <para id="id272260">
+            <figure id="id272264">
+              <media id="id272264_media" alt="">
+                <image mime-type="image/png" src="../../media/PG12C9_024.png" id="id272264_onlineimage" width="160"><!-- NOTE: attribute width changes image size online (pixels). original width is 160. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_024.eps" id="id272264_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Next we prepare a truth table. </label>
+          <para id="id272274">There is a column for each of the inputs, for the intermediate point C and also for the output. The truth table has four rows, since there are four possible inputs — 00, 01, 10 and 11.</para>
+          <table id="id272281" summary="">
+            <tgroup cols="4">
+              <tbody>
+                <row>
+                  <entry>A</entry>
+                  <entry>B</entry>
+                  <entry>C</entry>
+                  <entry>Output</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id272465">Next we fill in the C column given that we know what a NOR gate does.</para>
+          <table id="id272469" summary="">
+            <tgroup cols="4">
+              <tbody>
+                <row>
+                  <entry>A</entry>
+                  <entry>B</entry>
+                  <entry>C</entry>
+                  <entry>Output</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id272658">Next, we can fill in the output, since it will always be the opposite of C (because of the NOT gate).</para>
+          <table id="id272662" summary="">
+            <tgroup cols="4">
+              <tbody>
+                <row>
+                  <entry>A</entry>
+                  <entry>B</entry>
+                  <entry>C</entry>
+                  <entry>Output</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          </item> <item> <label> Write the final answer </label>
+          <para id="id272858">Finally we see that this combination of gates does the same job as an OR gate.
+ </para>
+          </item> </list> </solution>
+</exercise>
+          <para id="id272874">Each logic gate is manufactured from two or more transistors. Other circuits can be made using logic gates, as we shall see in the next section. We shall show you how to count and store numbers using logic gates. This means that if you have enough transistors, and you connect them correctly to make the right logic gates, you can make circuits which count and store numbers.</para>
+          <para id="id272881">In practice, the cheapest gate to manufacture is usually the NAND gate. Additionally, Charles Peirce showed that NAND gates alone (as well as NOR gates alone) can be used to reproduce all the other logic gates.</para>
+<section id="secfhsst_id1181"><title> The Principles of Digital Electronics </title>
+          <list id="id272893" display="block" list-type="enumerated">
+            <item id="uid99">Why is digital electronics important to modern technology and information processing?
+</item>
+            <item id="uid100">What two symbols are used in digital electronics, to represent a “high" and a “low"? What is this system known as?
+</item>
+            <item id="uid101">What is a logic gate?
+</item>
+            <item id="uid102">What are the five main types of logic gates? Draw the symbol for each logic gate.
+</item>
+            <item id="uid103">Write out the truth tables for each of the five logic gates.
+</item>
+            <item id="uid104">Write out the truth table for the following circuit. Which single gate is this circuit equivalent to?
+<figure id="id272977"><media id="id272977_media" alt=""><image mime-type="image/png" src="../../media/PG12C9_025.png" id="id272977_onlineimage" width="140"><!-- NOTE: attribute width changes image size online (pixels). original width is 140. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_025.eps" id="id272977_printimage"/></media></figure></item>
+            <item id="uid105">Write out the truth table for the following circuit. Which single gate is this circuit equivalent to?
+<figure id="id272999"><media id="id272999_media" alt=""><image mime-type="image/png" src="../../media/PG12C9_026.png" id="id272999_onlineimage" width="120"><!-- NOTE: attribute width changes image size online (pixels). original width is 120. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_026.eps" id="id272999_printimage"/></media></figure></item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+    <section id="cid7">
+      <title>Using and Storing Binary Numbers</title>
+      <para id="id273026">In the previous section, we saw how the numbers 0 and 1 could represent `false' and `true' and could be used in decision making. Often we want to program a computer to count with numbers. To do this we need a way of writing any number using nothing other than 0 and 1. When written in this way, numbers are called <emphasis effect="bold">binary numbers</emphasis>.</para>
+<definition id="fhsst_id1206"><term id="termfhsst_id1206"> Binary Number System </term> <meaning id="meaningfhsst_id1206">
+      <para id="id273044">A way of writing any number using only the digits 0 and 1. </para>
+      </meaning></definition>
+      <section id="uid106">
+        <title>Binary numbers</title>
+        <para id="id273065">In normal (denary) numbers, we write 9+1 as 10. The fact that the `1' in 10 is the second digit from the right tells us that it actually means 10 and not 1. Similarly, the `3' in 365 represents 300 because it is the third digit from the right. You could write 365 as <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:mn>100</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math>. You will notice the pattern that the <m:math overflow="scroll"><m:mi>n</m:mi></m:math>th digit from the right represents <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. In binary, we use the <m:math overflow="scroll"><m:mi>n</m:mi></m:math>th digit from the right to represent <m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mrow><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Thus 2 is written as 10 in binary. Similarly <m:math overflow="scroll"><m:mrow><m:msup><m:mn>2</m:mn><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math> is written as 100 in binary, and <m:math overflow="scroll"><m:mrow><m:msup><m:mn>2</m:mn><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>8</m:mn></m:mrow></m:math> is written as 1000 in binary.</para>
+<exercise id="secfhsst_id1212"><title> Conversion of Binary Numbers to Denary Numbers </title>
+        <problem id="probfhsst_id1213">
+        <para id="id273209">Convert the binary number 10101 to its denary equivalent. </para>
+        </problem>
+        <solution id="solfhsst_id1216"> <list id="listfhsst_id1216" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Use what you know about converting numbers </label>
+        <para id="id273233">We start on the right. The `1' on the right does indeed represent one. The next `1' is in the third place from the right, and represents <m:math overflow="scroll"><m:mrow><m:msup><m:mn>2</m:mn><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math>. The next `1' is in the fifth place from the right and represents <m:math overflow="scroll"><m:mrow><m:msup><m:mn>2</m:mn><m:mn>4</m:mn></m:msup><m:mo>=</m:mo><m:mn>16</m:mn></m:mrow></m:math>. Accordingly, the binary number 10101 represents 16+4+1 = 21 in denary notation. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1221"><title> Conversion of Denary Numbers to Binary Numbers </title>
+        <problem id="probfhsst_id1222">
+        <para id="id273302">Convert the decimal number 12 to its binary equivalent. </para>
+        </problem>
+        <solution id="solfhsst_id1225"> <list id="listfhsst_id1225" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Rewrite as a sum of powers and convert </label>
+        <para id="id273326">Firstly we write 12 as a sum of powers of 2, so 12 = 8+4. In binary, eight is 1000, and four is 100. This means that twelve = eight + four must be 1000+100 = 1100 in binary. You could also write 12 as <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mo>×</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mo>×</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>1100</m:mn></m:mrow></m:math> in binary. </para>
+        </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id1230"><title> Interesting Fact </title>
+        <para id="id273394">How do you write numbers as a sum of powers of two? The first power of two (the largest) is the largest power of two which is not larger than the number you are working with. In our last example, where we wanted to know what twelve was in binary, the largest power of two which is not larger than 12 is 8. Thus 12 = 8 + something. By arithmetic, the `something' must be 4, and the largest power of two not larger than this is 4 exactly. Thus 12 = 8 + 4, and we have finished.</para>
+        <para id="id273404">A more complicated example would be to write one hundred in binary. The largest power of two not larger than 100 is 64 (1000000 in binary). Subtracting 64 from 100 leaves 36. The largest power of two not larger than 36 is 32 (100000 in binary). Removing this leaves a remainder of 4, which is a power of two itself (100 in binary). Thus one hundred is 64 + 32 + 4, or in binary 1000000 + 100000 + 100 = 1100100.</para>
+</note>
+        <para id="id273420">Once a number is written in binary, it can be represented using the low and high voltage levels of digital electronics. We demonstrate how this is done by showing you how an electronic counter works.</para>
+      </section>
+      <section id="uid107">
+        <title>Counting circuits</title>
+        <para id="id273435">To make a counter you need several `T flip flops', sometimes called `divide by two' circuits. A T flip flop is a digital circuit which swaps its output (from 0 to 1 or from 1 to 0) whenever the input changes from 1 to 0. When the input changes from 0 to 1 it doesn't change its output. It is called a <emphasis effect="bold">flip flop</emphasis> because it changes (flips or flops) each time it receives a pulse.</para>
+        <para id="id273447">If you put a series of pulses 10101010 into a T flip flop, the result is 01100110. <link target-id="uid108"/> makes this clearer.</para>
+        <figure id="uid108">
+          <media id="uid108_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C9_027.png" id="uid108_onlineimage" width="342"><!-- NOTE: attribute width changes image size online (pixels). original width is 342. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_027.eps" id="uid108_printimage"/>
+          </media>
+          <caption>The output of a T flip flop, or `divide by two' circuit when a square wave is connected to the input. The output changes state when the input goes from 1 to 0.</caption>
+        </figure>
+        <para id="id273470">As you can see from <link target-id="uid108"/>, there are half as many pulses in the output. This is why it is called a `divide by two' circuit.</para>
+        <para id="id273479">If we connect T flip flops in a chain, then we make a counter which can count pulses. As an example, we connect three T flip flops in a chain. This is shown in <link target-id="uid109"/>.</para>
+        <figure id="uid109">
+          <media id="uid109_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C9_028.png" id="uid109_onlineimage" width="517"><!-- NOTE: attribute width changes image size online (pixels). original width is 517. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_028.eps" id="uid109_printimage"/>
+          </media>
+          <caption>Three T flip flops connected together in a chain to make a counter. The input of each flip flop is labelled T, while each output is labelled Q. The pulses are connected to the input on the left. The outputs <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>0</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> give the three digits of the binary number as the pulses are counted. This is explained in the text and in the next table.</caption>
+        </figure>
+        <para id="id273548">When this circuit is fed with a stream of pulses, the outputs of the different stages change. The table below shows how this happens. Each row shows a different stage, with the first stage at the top. We assume that all of the flip flops have 0 as their output to start with.</para>
+        <table id="id273554" summary="">
+          <tgroup cols="6">
+            <tbody>
+              <row>
+                <entry>Input</entry>
+                <entry>Output 1</entry>
+                <entry>Output 2</entry>
+                <entry>Output 3</entry>
+                <entry>Number of pulse</entry>
+                <entry>Number in binary</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>000</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>001</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>001</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>2</entry>
+                <entry>010</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>2</entry>
+                <entry>010</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>3</entry>
+                <entry>011</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>3</entry>
+                <entry>011</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>4</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>4</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>5</entry>
+                <entry>101</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>5</entry>
+                <entry>101</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>6</entry>
+                <entry>110</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>6</entry>
+                <entry>110</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>7</entry>
+                <entry>111</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>7</entry>
+                <entry>111</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>8</entry>
+                <entry>1000</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>8</entry>
+                <entry>1000</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>9</entry>
+                <entry>1101</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>9</entry>
+                <entry>1101</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id274606">The binary numbers in the right hand column count the pulses arriving at the input. You will notice that the output of the first flip flop gives the right most digit of the pulse count (in binary). The output of the second flip flop gives the second digit from the right (the `twos' digit) of the pulse count. The output of the third flip flop gives the third digit from the right (the `fours' digit) of the pulse count. As there are only three flip flops, there is nothing to provide the next digit (the `eights' digit), and so the eighth pulse is recorded as 000, not 1000.</para>
+        <para id="id274614">This device is called a <emphasis effect="bold">modulo 8</emphasis> counter because it can count in eight stages from 000 to 111 before it goes back to 000. If you put four flip flops in the counter, it will count in sixteen stages from 0000 to 1111, and it is called a modulo 16 counter because it counts in sixteen stages before going back to 0000.</para>
+<definition id="fhsst_id1426"><term id="termfhsst_id1426"> Modulo </term> <meaning id="meaningfhsst_id1426">
+        <para id="id274632">The modulo of a counter tells you how many stages (or pulses) it receives before going back to 0 as its output. Thus a modulo 8 counter counts in eight stages 000, 001, 010, 011, 100, 101, 110, 111, then returns to 000 again. </para>
+        </meaning></definition>
+<note id="notfhsst_id1429"><title> Interesting Fact </title>
+        <para id="id274652">If a counter contains <m:math overflow="scroll"><m:mi>n</m:mi></m:math> flip flops, it will be a modulo <m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi>n</m:mi></m:msup></m:math> counter. It will count from 0 to <m:math overflow="scroll"><m:mrow><m:msup><m:mn>2</m:mn><m:mi>n</m:mi></m:msup><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math>.</para>
+</note>
+      </section>
+      <section id="uid110">
+        <title>Storing binary numbers</title>
+        <para id="id274715">Counting is important. However, it is equally important to be able to remember the numbers. Computers can convert almost anything to a string of 0s and 1s, and therefore to a binary number. Unless this number can be stored in the computer's memory, the computer would be useless.</para>
+        <para id="id274721">The memory in the computer contains many parts. Each part is able to store a single 0 or 1. Since 0 and 1 are the two binary digits, we say that each part of the memory stores one <emphasis effect="bold">bit</emphasis>.</para>
+<definition id="fhsst_id1437"><term id="termfhsst_id1437"> Bit </term> <meaning id="meaningfhsst_id1437">
+        <para id="id274738">One bit is a short way of saying one `binary digit'. It is a single 0 or 1. </para>
+        </meaning></definition>
+<note id="notfhsst_id1440"><title> Interesting Fact </title>
+        <para id="id274756">If you have eight bits, you can store a binary number from 00000000 to 11111111 (0 to 255 in denary). This gives you enough permutations of 0s and 1s to have one for each letter of the alphabet (in upper and lower case), each digit from 0 to 9, each punctuation mark and each control code used by a computer in storing a document. When you type text into a word processor, each character is stored as a set of eight bits. Each set of eight bits is called a <emphasis effect="bold">byte</emphasis>. Computer memories are graded according to how many bytes they store. There are 1024 bytes in a kilobyte (kB), <m:math overflow="scroll"><m:mrow><m:mn>1024</m:mn><m:mo>×</m:mo><m:mn>1024</m:mn></m:mrow></m:math> bytes in a megabyte (MB), and <m:math overflow="scroll"><m:mrow><m:mn>1024</m:mn><m:mo>×</m:mo><m:mn>1024</m:mn><m:mo>×</m:mo><m:mn>1024</m:mn></m:mrow></m:math> bytes in a gigabyte (GB).</para>
+</note>
+        <para id="id274813">To store a bit we need a circuit which can `remember' a 0 or a 1. This is called a <emphasis effect="bold">bistable</emphasis> circuit because it has two stable states. It can stay indefinitely either as a 0 or a 1. An example of a bistable circuit is shown in <link target-id=""/>. It is made from two NOR gates.</para>
+        <para id="id274828">
+          <figure id="id274831">
+            <media id="id274831_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C9_029.png" id="id274831_onlineimage" width="154"><!-- NOTE: attribute width changes image size online (pixels). original width is 154. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_029.eps" id="id274831_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id274838">
+          <figure id="id274841">
+            <media id="id274841_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C9_030.png" id="id274841_onlineimage" width="154"><!-- NOTE: attribute width changes image size online (pixels). original width is 154. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_030.eps" id="id274841_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id274848">A bistable circuit made from two NOR gates. This circuit is able to store one bit of digital information. With the two inputs set to 0, you can see that the output could be (and will remain) either 0 or 1. The circuit on the top shows an output of 0, the circuit underneath shows an output of 1. Wires carrying high logic levels (1) are drawn thicker. The output of the bistable is labelled Q.</para>
+        <para id="id274854">To store the 0 or the 1 in the bistable circuit, you set one of the inputs to 1, then put it back to 0 again. If the input labelled `S' (set) is raised, the output will immediately become 1. This is shown in <link target-id="uid111"/>.</para>
+        <figure id="uid111">
+          <media id="uid111_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C9_031.png" id="uid111_onlineimage" width="154"><!-- NOTE: attribute width changes image size online (pixels). original width is 154. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_031.eps" id="uid111_printimage"/>
+          </media>
+          <caption>The output of a bistable circuit is <emphasis effect="bold">set</emphasis> (made 1) by raising the `S' input to 1. Wires carrying high logic levels (1) are shown with thicker lines.</caption>
+        </figure>
+        <para id="id274884">To store a 0, you raise the `R' (reset) input to 1. This is shown in <link target-id="uid112"/>.</para>
+        <figure id="uid112">
+          <media id="uid112_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C9_032.png" id="uid112_onlineimage" width="154"><!-- NOTE: attribute width changes image size online (pixels). original width is 154. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C9_032.eps" id="uid112_printimage"/>
+          </media>
+          <caption>The output of a bistable circuit is <emphasis effect="bold">reset</emphasis> (made 0) by raising the `R' input to 1. Wires carrying high logic levels (1) are shown with thicker lines.</caption>
+        </figure>
+        <para id="id274912">Once you have used the S or R inputs to set or reset the bistable circuit, you then bring both inputs back to 0. The bistable `remembers' the state. Because of the ease with which the circuit can be Reset and Set it is also called an <emphasis effect="bold">RS flip flop</emphasis> circuit.</para>
+        <para id="id274924">Computer memory can store millions or billions of bits. If it used our circuit above, it would need millions or billions of NOR gates, each of which is made from several transistors. Computer memory is made of many millions of transistors.</para>
+<note id="notfhsst_id1479"><title> Interesting Fact </title>
+        <para id="id274935">The bistable circuits drawn here don't remember 0s or 1s forever — they lose the information if the power is turned off. The same is true for the RAM (Random Access Memory) used to store working and temporary data in a computer. Some modern circuits contain special memory which can remember its state even if the power is turned off. This is used in FLASH drives, commonly found in USB data sticks and on the memory cards used with digital cameras. These bistable circuits are much more complex.</para>
+</note>
+        <para id="id274953">You can also make T flip flops out of logic gates, however these are more complicated to design.</para>
+<section id="secfhsst_id1483"><title> Counting Circuits </title>
+        <list id="id274964" display="block" list-type="enumerated">
+          <item id="uid113">What is the term <emphasis effect="italics">bit</emphasis> short for?
+</item>
+          <item id="uid114">What is 43 in binary?
+</item>
+          <item id="uid115">What is 1100101 in denary?
+</item>
+          <item id="uid116">What is the highest number a modulo 64 counter can count to? How many T flip flops does it contain?
+</item>
+          <item id="uid117">What is the difference between an RS flip flop and a T flip flop?
+</item>
+          <item id="uid118">Draw a circuit diagram for a bistable circuit (RS flip flop). Make three extra copies of your diagram. On the first diagram, colour in the wires which will carry high voltage levels (digital 1) if the R input is low, and the S input is high. On the second diagram, colour in the wires which carry high voltage levels if the S input of the first circuit is now made low. On the third diagram, colour in the wires which carry high voltage levels if the R input is now made high. On the final diagram, colour in the wires carrying high voltage levels if the R input is now made low again.
+</item>
+          <item id="uid119">Justify the statement: a modern computer contains millions of transistors.
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id1502"><title> End of Chapter Exercises </title>
+        <list id="id275082" display="block" list-type="enumerated">
+          <item id="uid120">Calculate the reactance of a 3 mH inductor at a frequency of 50 Hz.
+</item>
+          <item id="uid121">Calculate the reactance of a 30 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>F capacitor at a frequency of 1 kHz.
+</item>
+          <item id="uid122">Calculate the impedance of a series circuit containing a 5 mH inductor, a 400 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>F capacitor and a 2 k<m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor at a frequency of 50 kHz.
+</item>
+          <item id="uid123">Calculate the frequency at which the impedance of the circuit in the previous question will be the smallest.
+</item>
+          <item id="uid124">Which component can be used to block low frequencies?
+</item>
+          <item id="uid125">Draw a circuit diagram with a battery, diode and resistor in series. Make sure that the diode is forward biased so that a current will flow through it.
+</item>
+          <item id="uid126">When building a complex electronic circuit which is going to be powered by a battery, it is always a good idea to put a diode in series with the battery. Explain how this will protect the circuit if the user puts the battery in the wrong way round.
+</item>
+          <item id="uid127">Summarize the differences betwen a bipolar and field effect transistor.
+</item>
+          <item id="uid128">What does an operational amplifier (op-amp) do?
+</item>
+          <item id="uid129">What is the difference between a digital signal and an analogue signal?
+</item>
+          <item id="uid130">What are the advantages of digital signals over analogue signals?
+</item>
+          <item id="uid131">Draw the symbols for the five logic gates, and write down their truth tables.
+</item>
+          <item id="uid132">Draw a circuit diagram with an AND gate. Each input should be connected to the output of a separate NOT gate. By writing truth tables show that this whole circuit behaves as a NOR gate.
+</item>
+          <item id="uid133">Convert the denary number 99 into binary.
+</item>
+          <item id="uid134">Convert the binary number 11100111 into denary.
+</item>
+          <item id="uid135">Explain how three T flip flops can be connected together to make a modulo 8 counter. What is the highest number it can count up to?
+</item>
+          <item id="uid136">Draw the circuit diagram for an RS flip flop (bistable) using two NOR gates.
+</item>
+          <item id="uid137">Show how the circuit you have just drawn can have a stable output of 0 or 1 when both inputs are 0.
+</item>
+          <item id="uid138">Operational (and other) amplifiers, logic gates, and flip flops all contain transistors, and would not work without them. Write a short newspaper article for an intelligent reader who knows nothing about electronics. Explain how important transistors are in modern society.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+  </content>
+</document>

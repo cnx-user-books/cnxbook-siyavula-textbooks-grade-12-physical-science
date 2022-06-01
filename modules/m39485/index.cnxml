@@ -1,0 +1,435 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Electrochemistry and batteries</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39485</md:content-id>
+  <md:title>Electrochemistry and batteries</md:title>
+  <md:abstract/>
+  <md:uuid>03f8e0f6-e8bc-4de8-acff-b3711e8a82aa</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Electrochemistry and batteries</title>
+      <para id="id207539">You will remember from chapter <link target-id=""/> that a <emphasis effect="bold">galvanic</emphasis> cell (also known as a <emphasis effect="italics">voltaic</emphasis> cell) is a type of electrochemical cell where a chemical reaction produces electrical energy. The <emphasis effect="bold">electromotive force</emphasis> (emf) of a galvanic cell is the difference in voltage between the two half cells that make it up. Galvanic cells have a number of applications, but one of the most important is their use in <emphasis effect="bold">batteries</emphasis>. You will know from your own experience that we use batteries in a number of ways, including cars, torches, sound systems and cellphones to name just a few.</para>
+      <section id="uid115">
+        <title>How batteries work</title>
+        <para id="id207581">A battery is a device in which <emphasis effect="bold">chemical energy</emphasis> is directly converted to <emphasis effect="bold">electrical energy</emphasis>. It consists of one or more voltaic cells, each of which is made up of two half cells that are connected in series by a conductive electrolyte. The voltaic cells are connected in series in a battery. Each cell has a positive electrode (cathode), and a negative electrode (anode). These do not touch each other but are immersed in a solid or liquid electrolyte.</para>
+        <para id="id207600">Each half cell has a net electromotive force (emf) or voltage. The voltage of the battery is the difference between the voltages of the half-cells. This potential difference between the two half cells is what causes an electric current to flow.</para>
+        <para id="id207608">Batteries are usually divided into two broad classes:</para>
+        <list id="id207614" display="block" list-type="bulleted">
+          <item id="uid116"><emphasis effect="italics">Primary batteries</emphasis> irreversibly transform chemical energy to electrical energy. Once the supply of reactants has been used up, the battery can't be used any more.
+</item>
+          <item id="uid117"><emphasis effect="italics">Secondary batteries</emphasis> can be recharged, in other words, their chemical reactions can be reversed if electrical energy is supplied to the cell. Through this process, the cell returns to its original state. Secondary batteries can't be recharged forever because there is a gradual loss of the active materials and electrolyte. Internal corrosion can also take place.
+</item>
+        </list>
+      </section>
+      <section id="uid118">
+        <title>Battery capacity and energy</title>
+        <para id="id207665">The <emphasis effect="bold">capacity</emphasis> of a battery, in other words its ability to produce an electric charge, depends on a number of factors. These include:</para>
+        <list id="id207675" display="block" list-type="bulleted">
+          <item id="uid119"><emphasis effect="bold">Chemical reactions</emphasis>
+The chemical reactions that take place in each of a battery's half cells will affect the voltage across the cell, and therefore also its capacity. For example, nickel-cadmium (NiCd) cells measure about 1.2 V, and alkaline and carbon-zinc cells both measure about 1.5 V. However, in other cells such as Lithium cells, the changes in electrochemical potential are much higher because of the reactions of lithium compounds, and so lithium cells can produce as much as 3 volts or more. The concentration of the chemicals that are involved will also affect a battery's capacity. The higher the concentration of the chemicals, the greater the capacity of the battery.
+</item>
+          <item id="uid120"><emphasis effect="bold">Quantity of electrolyte and electrode material in cell</emphasis>
+The greater the amount of electrolyte in the cell, the greater its capacity. In other words, even if the chemistry in two cells is the same, a larger cell will have a greater capacity than a small one. Also, the greater the surface area of the electrodes, the greater will be the capacity of the cell.
+</item>
+          <item id="uid121"><emphasis effect="bold">Discharge conditions</emphasis>
+A unit called an <emphasis effect="bold">Ampere hour</emphasis> (Ah) is used to describe how long a battery will last. An ampere hour (more commonly known as an <emphasis effect="bold">amp hour</emphasis>) is the amount of electric charge that is transferred by a current of one ampere for one hour. Battery manufacturers use a standard method to rate their batteries. So, for example, a 100 Ah battery will provide a current of 5 A for a period of 20 hours at room temperature. The capacity of the battery will depend on the rate at which it is discharged or used. If a 100 Ah battery is discharged at 50 A (instead of 5 A), the capacity will be <emphasis effect="italics">lower</emphasis> than expected and the battery will run out <emphasis effect="italics">before</emphasis> the expected 2 hours.
+The relationship between the current, discharge time and capacity of a battery is expressed by <emphasis effect="bold">Peukert's law</emphasis>:
+<equation id="id207784"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mrow><m:msub><m:mi>C</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:msup><m:mi>I</m:mi><m:mi>k</m:mi></m:msup><m:mi>t</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+In the equation, 'C<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>p</m:mi></m:msub></m:math>' represents the battery's capacity (Ah), I is the discharge current (A), k is the Peukert constant and t is the time of discharge (hours).
+</item>
+        </list>
+      </section>
+      <section id="uid122">
+        <title>Lead-acid batteries</title>
+        <para id="id207850">In a <emphasis effect="bold">lead-acid battery</emphasis>, each cell consists of electrodes of lead (Pb) and lead (IV) oxide (PbO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) in an electrolyte of sulfuric acid (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>). When the battery discharges, both electrodes turn into lead (II) sulphate (PbSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) and the electrolyte loses sulfuric acid to become mostly water.</para>
+        <para id="id207913">The chemical half reactions that take place at the anode and cathode when the battery is <emphasis effect="bold">discharging</emphasis> are as follows:</para>
+        <para id="id207925">Anode (oxidation): <m:math overflow="scroll"><m:mrow><m:msub><m:mi> Pb </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:msubsup><m:mi> SO </m:mi><m:mrow><m:mn>4</m:mn><m:mspace width="4pt"/><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>⇌</m:mo><m:msub><m:mi> PbSO </m:mi><m:mrow><m:mn>4</m:mn><m:mspace width="4pt"/><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> = -0.356 V)</para>
+        <para id="id208031">Cathode (reduction): <m:math overflow="scroll"><m:mrow><m:msub><m:mi> PbO </m:mi><m:mrow><m:mn>2</m:mn><m:mspace width="4pt"/><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:msubsup><m:mi> SO </m:mi><m:mrow><m:mn>4</m:mn><m:mspace width="4pt"/><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇌</m:mo><m:msub><m:mi> PbSO </m:mi><m:mrow><m:mn>4</m:mn><m:mspace width="4pt"/><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:msub></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> = 1.685 V)</para>
+        <para id="id208188">The overall reaction is as follows:</para>
+        <para id="id208193">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi> PbO </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>4</m:mn>
+              <m:msup>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi> aq </m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msubsup>
+                <m:mi> SO </m:mi>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>-</m:mo>
+                </m:mrow>
+              </m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi> aq </m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mi> Pb </m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi> PbSO </m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">l</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id208334">The emf of the cell is calculated as follows:</para>
+        <para id="id208338">EMF = E (cathode)- E (anode)</para>
+        <para id="id208344">EMF = +1.685 V - (-0.356 V)</para>
+        <para id="id208348">EMF = +2.041 V</para>
+        <para id="id208351">Since most batteries consist of six cells, the total voltage of the battery is approximately 12 V.</para>
+        <para id="id208358">One of the important things about a lead-acid battery is that it can be <emphasis effect="bold">recharged</emphasis>. The recharge reactions are the <emphasis effect="italics">reverse</emphasis> of those when the battery is discharging.</para>
+        <para id="id208374">The lead-acid battery is made up of a number of <emphasis effect="italics">plates</emphasis> that maximise the surface area on which chemical reactions can take place. Each plate is a rectangular grid, with a series of holes in it. The holes are filled with a mixture of lead and sulfuric acid. This paste is pressed into the holes and the plates are then stacked together, with suitable separators between them. They are then placed in the battery container, after which acid is added (<link target-id="uid123"/>).</para>
+        <figure id="uid123">
+          <media id="uid123_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C5_014.png" id="uid123_onlineimage" width="771"><!-- NOTE: attribute width changes image size online (pixels). original width is 771. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_014.eps" id="uid123_printimage"/>
+          </media>
+          <caption>A lead-acid battery</caption>
+        </figure>
+        <para id="id208405">Lead-acid batteries have a number of applications. They can supply high surge currents, are relatively cheap, have a long shelf life and can be recharged. They are ideal for use in cars, where they provide the high current that is needed by the starter motor. They are also used in forklifts and as standby power sources in telecommunication facilities, generating stations and computer data centres. One of the disadvantages of this type of battery is that the battery's lead must be recycled so that the environment doesn't become contaminated. Also, sometimes when the battery is charging, hydrogen gas is generated at the cathode and this can cause a small explosion if the gas comes into contact with a spark.</para>
+      </section>
+      <section id="uid124">
+        <title>The zinc-carbon dry cell</title>
+        <para id="id208424">A simplified diagram of a zinc-carbon cell is shown in <link target-id="uid125"/>.</para>
+        <figure id="uid125">
+          <media id="uid125_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C5_015.png" id="uid125_onlineimage" width="315"><!-- NOTE: attribute width changes image size online (pixels). original width is 315. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_015.eps" id="uid125_printimage"/>
+          </media>
+          <caption>A zinc-carbon dry cell</caption>
+        </figure>
+        <para id="id208445">A zinc-carbon cell is made up of an outer zinc container, which acts as the <emphasis effect="bold">anode</emphasis>. The <emphasis effect="bold">cathode</emphasis> is the central carbon rod, surrounded by a mixture of carbon and manganese (IV) oxide (MnO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>). The <emphasis effect="bold">electrolyte</emphasis> is a paste of ammonium chloride (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>Cl). A fibrous fabric separates the two electrodes, and a brass pin in the centre of the cell conducts electricity to the outside circuit.</para>
+        <para id="id208496">The paste of ammonium chloride reacts according to the following half-reaction:</para>
+        <para id="id208502">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msubsup>
+                <m:mi> NH </m:mi>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+                <m:mo>+</m:mo>
+              </m:msubsup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi> aq </m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi> NH </m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id208589">The manganese(IV) oxide in the cell removes the hydrogen produced above, according to the following reaction:</para>
+        <para id="id208596">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi> MnO </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi> Mn </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">l</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id208701">The combined result of these two reactions can be represented by the following half reaction, which takes place at the cathode:</para>
+        <para id="id208708">Cathode: <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> MnO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> Mn </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+        <para id="id208855">The anode half reaction is as follows:</para>
+        <para id="id208861">Anode: <m:math overflow="scroll"><m:mrow><m:mi> Zn </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msup><m:mi> Zn </m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></para>
+        <para id="id208910">The overall equation for the cell is:</para>
+        <para id="id208916"><m:math overflow="scroll"><m:mrow><m:mi> Zn </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> MnO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup><m:mo>→</m:mo><m:msub><m:mi> Mn </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:mi> Zn </m:mi><m:msubsup><m:mrow><m:mo>(</m:mo><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (E<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math> = 1.5 V)</para>
+        <para id="id209076"><emphasis effect="bold">Alkaline batteries</emphasis> are almost the same as zinc-carbon batteries, except that the electrolyte is potassium hydroxide (KOH), rather than ammonium chloride. The two half reactions in an alkaline battery are as follows:</para>
+        <para id="id209085">Anode: <m:math overflow="scroll"><m:mrow><m:mi> Zn </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi> Zn </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi> OH </m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></para>
+        <para id="id209170">Cathode: <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> MnO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> Mn </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+        <para id="id209289">Zinc-carbon and alkaline batteries are cheap primary batteries and are therefore very useful in appliances such as remote controls, torches and radios where the power drain is not too high. The disadvantages are that these batteries can't be recycled and can leak. They also have a short shelf life. Alkaline batteries last longer than zinc-carbon batteries.</para>
+<note id="notfhsst_id983"><title> Interesting Fact </title>
+        <para id="id209304">The idea behind today's common 'battery' was created by Georges Leclanche in France in the 1860's. The anode was a zinc and mercury alloyed rod, the cathode was a porous cup containing crushed MnO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>. A carbon rod was inserted into this cup. The electrolyte was a liquid solution of ammonium chloride, and the cell was therefore called a <emphasis effect="italics">wet cell</emphasis>. This was replaced by the <emphasis effect="italics">dry cell</emphasis> in the 1880's. In the dry cell, the zinc can which contains the electrolyte, has become the anode, and the electrolyte is a paste rather than a liquid.</para>
+</note>
+      </section>
+      <section id="uid126">
+        <title>Environmental considerations</title>
+        <para id="id209353">While batteries are very convenient to use, they can cause a lot of damage to the environment. They use lots of valuable resources as well as some potentially hazardous chemicals such as lead, mercury and cadmium. Attempts are now being made to recycle the different parts of batteries so that they are not disposed of in the environment, where they could get into water supplies, rivers and other ecosystems.</para>
+<section id="secfhsst_id990"><title> Electrochemistry and batteries
+        </title>
+        <para id="id209373">A dry cell, as shown in the diagram below, does not contain a liquid electrolyte. The electrolyte in a typical zinc-carbon cell is a moist paste of ammonium chloride and zinc chloride.</para>
+        <para id="id209380">(<emphasis effect="underline"><emphasis effect="bold">NOTE TO SELF: Insert diagram</emphasis></emphasis>)</para>
+        <para id="id209395">The paste of ammonium chloride reacts according to the following half-reaction:</para>
+        <para id="id209401"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (a)</para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id209500">Manganese(IV) oxide is included in the cell to remove the hydrogen produced during half-reaction (a), according to the following reaction:</para>
+        <para id="id209504"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> MnO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi> Mn </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (b)</para>
+        <para id="id209613">The combined result of these two half-reactions can be represented by the following half reaction:</para>
+        <para id="id209617"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> MnO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> Mn </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (c)</para>
+        <list id="id209764" display="block" list-type="enumerated">
+          <item id="uid127">Explain why it is important that the hydrogen produced in half-reaction (a) is removed by the manganese(IV) oxide.
+<emphasis effect="italics">In a zinc-carbon cell, such as the one above, half-reaction (c) and the half-reaction that takes place in the Zn/Zn<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> half-cell, produce an emf of 1,5 V under standard conditions.</emphasis></item>
+          <item id="uid128">Write down the half-reaction occurring at the anode.
+</item>
+          <item id="uid129">Write down the net ionic equation occurring in the zinc-carbon cell.
+</item>
+          <item id="uid130">Calculate the reduction potential for the cathode half-reaction.
+</item>
+          <item id="uid131">When in use the zinc casing of the dry cell becomes thinner, because it is oxidised. When not in use, it still corrodes. Give a reason for the latter observation.
+</item>
+          <item id="uid132">Dry cells are generally discarded when 'flat'. Why is the carbon rod the most useful part of the cell, even when the cell is flat?
+</item>
+        </list>
+        <para id="id209869">(DoE Exemplar Paper 2, 2007)
+ </para>
+</section>
+      </section>
+    </section>
+    <section id="cid7">
+      <title>Summary</title>
+      <list id="id209889" display="block" list-type="bulleted">
+        <item id="uid133">The growth of South Africa's <emphasis effect="bold">chemical industry</emphasis> was largely because of the mines, which needed explosives for their operations. One of South Africa's major chemical companies is <emphasis effect="bold">Sasol</emphasis>. Other important chemical industries in the country are the <emphasis effect="bold">chloralkali</emphasis> and <emphasis effect="bold">fertiliser</emphasis> industries.
+</item>
+        <item id="uid134">All countries need energy resources such as oil and natural gas. Since South Africa doesn't have either of these resources, Sasol technology has developed to convert <emphasis effect="bold">coal</emphasis> into liquid fuels.
+</item>
+        <item id="uid135">Sasol has three main operation focus areas: Firstly, the conversion of <emphasis effect="bold">coal to liquid fuel</emphasis>, secondly the production and <emphasis effect="bold">refinement of crude oil</emphasis> which has been imported, and thirdly the production of <emphasis effect="bold">liquid fuels from natural gas</emphasis>.
+</item>
+        <item id="uid136">The conversion of coal to liquid fuels involves a <emphasis effect="bold">Sasol/Lurgi gasification</emphasis> process, followed by the conversion of this synthesis gas into a range of hydrocarbons, using the <emphasis effect="bold">Fischer-Tropsch technology</emphasis> in <emphasis effect="bold">SAS reactors</emphasis>.
+</item>
+        <item id="uid137">Heavy hydrocarbons can be converted into light hydrcarbons through a process called <emphasis effect="bold">cracking</emphasis>. Common forms of cracking are <emphasis effect="bold">hydrocracking</emphasis> and <emphasis effect="bold">steam cracking</emphasis>.
+</item>
+        <item id="uid138">With regard to crude oil, Sasol imports crude oil from Gabon and then refines this at the <emphasis effect="bold">Natref refinery</emphasis>.
+</item>
+        <item id="uid139">Gas from Mozambique can be used to produce liquid fuels, through two processes: First, the gas must pass through an autothermal reactor to produce a synthesis gas. Secondly, this synthesis gas is passed through a <emphasis effect="bold">Sasol Slurry Phase Distillate</emphasis> process to convert the gas to hydrocarbons.
+</item>
+        <item id="uid140">All industries have an impact on the <emphasis effect="bold">environment</emphasis> through the consumption of natural resources such as water, and through the production of pollution gases such as carbon dioxide, hydrogen sulfides, nitrogen oxides and others.
+</item>
+        <item id="uid141">The <emphasis effect="bold">chloralkali industry</emphasis> produces <emphasis effect="bold">chlorine</emphasis> and <emphasis effect="bold">sodium hydroxide</emphasis>. The main raw material is <emphasis effect="bold">brine</emphasis> (NaCl).
+</item>
+        <item id="uid142">In industry, <emphasis effect="bold">electrolytic cells</emphasis> are used to split the sodium chloride into its component ions to produce chlorine and sodium hydroxide. One of the challenges in this process is to keep the products of the electrolytic reaction (i.e. the chlorine and the sodium hydroxide) separate so that they don't react with each other. Specially designed electrolytic cells are needed to do this.
+</item>
+        <item id="uid143">There are three types of electrolytic cells that are used in this process: <emphasis effect="bold">mercury cell</emphasis>, the <emphasis effect="bold">diaphragm cell</emphasis> and the <emphasis effect="bold">membrane cell</emphasis>.
+</item>
+        <item id="uid144">The <emphasis effect="bold">mercury cell</emphasis> consists of two reaction vessels. The first reaction vessel contains a mercury cathode and a carbon anode. An electric current passed through the brine produces Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> and Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ions. The Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ions are oxidised to form chlorine gas at the anode. Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ions combine with the mercury cathode to form a sodium-mercury amalgam. The sodium-mercury amalgam passes into the second reaction vessel containing water, where the Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ions react with hydroxide ions from the water. Sodium hydroxide is the product of this reaction.
+</item>
+        <item id="uid145">One of the <emphasis effect="bold">environmental impacts</emphasis> of using this type of cell, is the use of <emphasis effect="bold">mercury</emphasis>, which is highly toxic.
+</item>
+        <item id="uid146">In the <emphasis effect="bold">diaphragm cell</emphasis>, a porous diaphragm separates the anode and the cathode compartments. Chloride ions are oxidised to chlorine gas at the anode, while sodium ions produced at the cathode react with water to produce sodium hydroxide.
+</item>
+        <item id="uid147">The <emphasis effect="bold">membrane cell</emphasis> is very similar to the diaphragm cell, except that the anode and cathode compartments are separated by an <emphasis effect="bold">ion-selective membrane</emphasis> rather than by a diaphragm. Brine is only pumped into the anode compartment. Positive sodium ions pass through the membrane into the cathode compartment, which contains water. As with the other two cells, chlorine gas is produced at the anode and sodium hydroxide at the cathode.
+</item>
+        <item id="uid148">One use of sodium hydroxide is in the production of <emphasis effect="bold">soaps and detergents</emphasis>, and so this is another important part of the chloralkali industry.
+</item>
+        <item id="uid149">To make soap, sodium hydroxide or potassium hydroxide react with a fat or an oil. In the reaction, the sodium or potassium ions replace the alcohol in the fat or oil. The product, a <emphasis effect="bold">sodium or potassium salt of a fatty acid</emphasis>, is what soap is made of.
+</item>
+        <item id="uid150">The fatty acids in soap have a <emphasis effect="bold">hydrophilic</emphasis> and a <emphasis effect="bold">hydrophobic</emphasis> part in each molecule, and this helps to loosen dirt and clean items.
+</item>
+        <item id="uid151"><emphasis effect="bold">Detergents</emphasis> are also cleaning products, but are made up of a mixture of compounds. They may also have other components added to them to give certain characteristics. Some of these additives may be abrasives, oxidants or enzymes.
+</item>
+        <item id="uid152">The <emphasis effect="bold">fertiliser industry</emphasis> is another important chemical industry.
+</item>
+        <item id="uid153">All plants need certain <emphasis effect="bold">macronutrients</emphasis> (e.g. carbon, hydrogen, oxygen, potassium, nitrogen and phosphorus) and <emphasis effect="bold">micronutrients</emphasis> (e.g. iron, chlorine, copper and zinc) in order to survive. Fertilisers provide these nutrients.
+</item>
+        <item id="uid154">In plants, most nutrients are obtained from the atmosphere or from the soil.
+</item>
+        <item id="uid155">Animals also need similar nutrients, but they obtain most of these directly from plants or plant products. They may also obtain them from other animals, whcih may have fed on plants during their life.
+</item>
+        <item id="uid156">The fertiliser industry is very important in ensuring that plants and crops receive the correct nutrients in the correct quantities to ensure maximum growth.
+</item>
+        <item id="uid157"><emphasis effect="bold">Nitrogen fertilisers</emphasis> can be produced industrially using a number of chemical processes: The <emphasis effect="bold">Haber process</emphasis> reacts nitrogen and hydrogen to produce <emphasis effect="bold">ammonia</emphasis>; the <emphasis effect="bold">Ostwald process</emphasis> reacts oxygen and ammonia to produce <emphasis effect="bold">nitric acid</emphasis>; the <emphasis effect="bold">nitrophosphate process</emphasis> reacts nitric acid with phosphate rock to produce compound fertilisers.
+</item>
+        <item id="uid158"><emphasis effect="bold">Phosphate fertilisers</emphasis> are also produced through a series of reactions. The <emphasis effect="bold">contact process</emphasis> produces <emphasis effect="bold">sulfuric acid</emphasis>. Sulfuric acid then reacts with phosphate rock to produce <emphasis effect="bold">phosphoric acid</emphasis>, after which phosphoric acid reacts with ground phosphate rock to produce fertilisers such as <emphasis effect="bold">triple superphosphate</emphasis>.
+</item>
+        <item id="uid159">Potassium is obtained from <emphasis effect="bold">potash</emphasis>.
+</item>
+        <item id="uid160">Fertilisers can have a damaging effect on the environment when they are present in high quantities in ecosystems. They can lead to <emphasis effect="bold">eutrophication</emphasis>. A number of preventative actions can be taken to reduce these impacts.
+</item>
+        <item id="uid161">Another important part of the chemical industry is the production of <emphasis effect="bold">batteries</emphasis>.
+</item>
+        <item id="uid162">A battery is a device that changes chemical energy into electrical energy.
+</item>
+        <item id="uid163">A battery consists of one or more <emphasis effect="bold">voltaic cells</emphasis>, each of which is made up of two half cells that are connected in series by a conductive electrolyte. Each half cell has a net electromotive force (emf) or voltage. The net voltage of the battery is the difference between the voltages of the half-cells. This potential difference between the two half cells is what causes an electric current to flow.
+</item>
+        <item id="uid164">A <emphasis effect="bold">primary battery</emphasis> cannot be recharged, but a <emphasis effect="bold">secondary battery</emphasis> can be recharged.
+</item>
+        <item id="uid165">The <emphasis effect="bold">capacity</emphasis> of a battery depends on the <emphasis effect="bold">chemical reactions</emphasis> in the cells, the <emphasis effect="bold">quantity of electrolyte and electrode material</emphasis> in the cell, and the <emphasis effect="bold">discharge conditions</emphasis> of the battery.
+</item>
+        <item id="uid166">The relationship between the current, discharge time and capacity of a battery is expressed by <emphasis effect="bold">Peukert's law</emphasis>:
+<equation id="id210770"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mrow><m:msub><m:mi>C</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:msup><m:mi>I</m:mi><m:mi>k</m:mi></m:msup><m:mi>t</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+In the equation, 'C<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>p</m:mi></m:msub></m:math>' represents the battery's capacity (Ah), I is the discharge current (A), k is the Peukert constant and t is the time of discharge (hours).
+</item>
+        <item id="uid167">Two common types of batteries are <emphasis effect="bold">lead-acid batteries</emphasis> and the <emphasis effect="bold">zinc-carbon dry cell</emphasis>.
+</item>
+        <item id="uid168">In a <emphasis effect="bold">lead-acid battery</emphasis>, each cell consists of electrodes of lead (Pb) and lead (IV) oxide (PbO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) in an electrolyte of sulfuric acid (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>). When the battery discharges, both electrodes turn into lead (II) sulphate (PbSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) and the electrolyte loses sulfuric acid to become mostly water.
+</item>
+        <item id="uid169">A <emphasis effect="bold">zinc-carbon cell</emphasis> is made up of an outer zinc container, which acts as the <emphasis effect="bold">anode</emphasis>. The cathode is the central carbon rod, surrounded by a mixture of carbon and manganese (IV) oxide (MnO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>). The electrolyte is a paste of ammonium chloride (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>Cl). A fibrous fabric separates the two electrodes, and a brass pin in the centre of the cell conducts electricity to the outside circuit.
+</item>
+        <item id="uid170">Despite their many advantages, batteries are made of potentially toxic materials and can be damaging to the <emphasis effect="bold">environment</emphasis>.
+</item>
+      </list>
+<section id="secfhsst_id1102"><title> Summary Exercise
+      </title>
+      <list id="id211005" display="block" list-type="enumerated">
+        <item id="uid171">Give one word or term for each of the following descriptions:
+<list id="id211021" display="block" list-type="enumerated"><item id="uid172">A solid organic compound that can be used to produce liquid fuels.
+</item><item id="uid173">The process used to convert heavy hydrocarbons into light hydrocarbons.
+</item><item id="uid174">The process of separating nitrogen from liquid air.
+</item><item id="uid175">The main raw material in the chloralkali industry.
+</item><item id="uid176">A compound given to a plant to promote growth.
+</item><item id="uid177">An electrolyte used in lead-acid batteries.
+</item></list></item>
+        <item id="uid178">Indicate whether each of the following statements is true or false. If the statement is false, rewrite the statement correctly.
+<list id="id211113" display="block" list-type="enumerated"><item id="uid179">The longer the hydrocarbon chain in an organic compound, the more likely it is to be a solid at room temperature.
+</item><item id="uid180">The main elements used in fertilisers are nitrogen, phosphorus and potassium.
+</item><item id="uid181">A soap molecule is composed of an alcohol molecule and three fatty acids.
+</item><item id="uid182">During the industrial preparation of chlorine and sodium hydroxide, chemical energy is converted to electrical energy.
+</item></list></item>
+        <item id="uid183">For each of the following questions, choose the one correct answer from the list provided.
+<list id="id211182" display="block" list-type="enumerated"><item id="uid184">The sequence of processes that best describes the conversion of coal to liquid fuel is:
+<list id="id211198" display="block" list-type="enumerated"><item id="uid185">coal <m:math overflow="scroll"><m:mo>→</m:mo></m:math> gas purification <m:math overflow="scroll"><m:mo>→</m:mo></m:math> SAS reactor <m:math overflow="scroll"><m:mo>→</m:mo></m:math> liquid hydrocarbon
+</item><item id="uid186">coal <m:math overflow="scroll"><m:mo>→</m:mo></m:math> autothermal reactor <m:math overflow="scroll"><m:mo>→</m:mo></m:math> Sasol slurry phase F-T reactor <m:math overflow="scroll"><m:mo>→</m:mo></m:math> liquid hydrocarbon
+</item><item id="uid187">coal <m:math overflow="scroll"><m:mo>→</m:mo></m:math> coal purification <m:math overflow="scroll"><m:mo>→</m:mo></m:math> synthesis gas <m:math overflow="scroll"><m:mo>→</m:mo></m:math> oil
+</item><item id="uid188">coal <m:math overflow="scroll"><m:mo>→</m:mo></m:math> coal gasification <m:math overflow="scroll"><m:mo>→</m:mo></m:math> gas purification <m:math overflow="scroll"><m:mo>→</m:mo></m:math> SAS reactor <m:math overflow="scroll"><m:mo>→</m:mo></m:math> liquid hydrocarbons
+</item></list></item><item id="uid189">The half-reaction that takes place at the cathode of a mercury cell in the chloralkali industry is:
+<list id="id211383" display="block" list-type="enumerated"><item id="uid190"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> Cl </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></item><item id="uid191"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi> Na </m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:mi> Na </m:mi></m:mrow></m:math></item><item id="uid192"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid193"><m:math overflow="scroll"><m:mrow><m:mi> NaCl </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:mi> NaOH </m:mi><m:mo>+</m:mo><m:mi> HCl </m:mi></m:mrow></m:math></item></list></item><item id="uid194">In a zinc-carbon dry cell...
+<list id="id211600" display="block" list-type="enumerated"><item id="uid195">the electrolyte is manganese (IV) oxide
+</item><item id="uid196">zinc is oxidised to produce electrons
+</item><item id="uid197">zinc is reduced to produce electrons
+</item><item id="uid198">manganese (IV) dioxide acts as a reducing agent
+</item></list></item></list></item>
+        <item id="uid199"><emphasis effect="bold">Chloralkali manufacturing process</emphasis>
+The chloralkali (also called 'chlorine-caustic') industry is one of the largest electrochemical technologies in the world. Chlorine is produced using three types of electrolytic cells. The simplified diagram below shows a membrane cell.
+<figure id="id211682"><media id="id211682_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_016.png" id="id211682_onlineimage" width="344"><!-- NOTE: attribute width changes image size online (pixels). original width is 344. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_016.eps" id="id211682_printimage"/></media></figure><list id="id211689" display="block" list-type="enumerated"><item id="uid200">Give two reasons why the membrane cell is the preferred cell for the preparation of chlorine.
+</item><item id="uid201">Why do you think it is advisable to use inert electrodes in this process?
+</item><item id="uid202">Write down the equation for the half-reaction taking place at electrode M.
+</item><item id="uid203">Which gas is chlorine gas? Write down only Gas A or Gas B.
+</item><item id="uid204">Briefly explain how sodium hydroxide forms in this cell.
+</item></list>
+(DoE Exemplar Paper 2,2007)
+</item>
+        <item id="uid205">
+The production of nitric acid is very important in the manufacture of fertilisers. Look at the diagram below, which shows part of the fertiliser production process, and then answer the questions that follow.
+<figure id="id211777"><media id="id211777_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_017.png" id="id211777_onlineimage" width="302"><!-- NOTE: attribute width changes image size online (pixels). original width is 302. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_017.eps" id="id211777_printimage"/></media></figure><list id="id211784" display="block" list-type="enumerated"><item id="uid206">Name the process at (1).
+</item><item id="uid207">Name the gas at (2).
+</item><item id="uid208">Name the process at (3) that produces gas (2).
+</item><item id="uid209">Name the product at (4).
+</item><item id="uid210">Name two fertilisers that can be produced from nitric acid.
+</item></list></item>
+        <item id="uid211">
+A lead-acid battery has a number of different components. Match the description in Column A with the correct word or phrase in Column B. All the descriptions in Column A relate to lead-acid batteries.
+<table id="id211864" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Column A</emphasis></entry><entry><emphasis effect="bold">Column B</emphasis></entry></row><row><entry>The electrode metal</entry><entry>Lead sulphate</entry></row><row><entry>Electrolyte</entry><entry>Mercury</entry></row><row><entry>A product of the overall cell reaction</entry><entry>Electrolytic</entry></row><row><entry>An oxidising agent in the cathode half-reaction</entry><entry>Lead</entry></row><row><entry>Type of cells in a lead-acid battery</entry><entry>Sulfuric acid</entry></row><row><entry/><entry>Ammonium chloride</entry></row><row><entry/><entry>Lead oxide</entry></row><row><entry/><entry>Galvanic</entry></row></tbody></tgroup></table></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

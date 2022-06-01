@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Transmission and scattering of light</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39560</md:content-id>
+  <md:title>Transmission and scattering of light</md:title>
+  <md:abstract/>
+  <md:uuid>1a7ec145-0a8c-4b21-8e9c-fe021d31da04</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id128471">For centuries physicists argued about whether light was a particle or a wave. It was assumed that light could only be one or the other, but not both.</para>
+      <para id="id128476">In earlier chapters on waves and optics, you studied how light or other electromagnetic radiation propagates like a wave. The wave nature of light was demonstrated by the propagation of light in examples such as diffraction, interference, and polarisation of light.</para>
+      <para id="id128481">You also saw in Electromagnetic Radiation how light sometimes behaves as a particle. This chapter looks at evidence supporting the <emphasis effect="italics">particle model of light</emphasis>. The idea that light can have both wave and particle properties was one of the most important discoveries of the twentieth century.</para>
+    </section>
+    <section id="cid3">
+      <title>The transmission and scattering of light</title>
+      <section id="uid1">
+        <title>Energy levels of an electron</title>
+        <para id="id128848">We have seen that the electrons in an atom have different energy levels. When the electron receives enough energy, it can jump up to a higher energy level. This is called <emphasis effect="italics">'exciting'</emphasis> the electron. When the electron in a high energy level sheds some energy, it drops to a lower energy level.</para>
+        <para id="id128859">We have also seen that the energy associated with light at a specific wavelength is given by:</para>
+        <equation id="id128864">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>E</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mi>c</m:mi>
+                </m:mrow>
+                <m:mi>λ</m:mi>
+              </m:mfrac>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id128889">In the particle model of light, this means that each packet of light (photon) at a wavelength <m:math overflow="scroll"><m:mi>λ</m:mi></m:math> has energy:</para>
+        <equation id="id128903">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>E</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mi>c</m:mi>
+                </m:mrow>
+                <m:mi>λ</m:mi>
+              </m:mfrac>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id128928">For the electron to receive energy, it <emphasis effect="italics">absorbs</emphasis> a photon and gets its energy. When an electron loses energy to drop to a lower level, it <emphasis effect="italics">emits</emphasis> (gives off) a photon with that energy.</para>
+      </section>
+      <section id="uid2">
+        <title>Interaction of light with metals</title>
+        <para id="id128952">When light encounters or passes through a material, the photons of the light interact with the atoms or molecules of the material. Depending on the strength of the interactions and how often they happen, the light will pass through the material or be scattered in some other direction.</para>
+        <para id="id128958">Each wavelength of light relates to a particular energy, and the closer that energy is to the energy difference between two of the levels of the atom, the likelier the photon is to interact with the atom.</para>
+        <para id="id128963">When visible or ultraviolet (UV) radiation shines on a metal, the photons are <emphasis effect="italics">absorbed</emphasis> by the electrons in the metal. The electrons are then excited up to a higher energy level. When an electron returns to a lower energy level, another photon is emitted. This is how light appears to be <emphasis effect="bold">reflected</emphasis> off a metal surface.</para>
+        <para id="id128979">In previous chapters, you have studied geometrical optics, which tells us what happens to rays of light when they are reflected off a surface or refracted through a lens. That tells us what happens to light rays, made up of many photons, on a large scale. If you look at a smaller level, i.e. on a microscopic scale, then reflection and refraction happen by all the photons interacting with the atoms of the lens or mirror. The photons get absorbed and re-emitted many times before emerging as the finals rays of light that we see.</para>
+        <para id="id128991">Scattering of light is responsible for many effects in everyday life.
+We see that certain materials are red or blue, for example, since they contain materials that have energy level differences that correspond to the energies of the photons that make up red or blue light. These materials then reflect the red or blue light and absorb the other wavelengths in the visible spectrum. White objects reflect photons of all wavelengths in the visual spectrum, while black objects absorb these photons.</para>
+<note id="notfhsst_id122"><title> Interesting Fact </title>
+        <para id="id129004">Because a truly black object absorbs all the visual wavelengths of light, and does not re-emit photons at visual wavelengths, we can say that 'black' is not a colour itself, but rather a <emphasis effect="italics">lack of</emphasis> colour! Also, since black objects absorb visual light, they heat up more than objects of other colours which reflect light at certain wavelengths.</para>
+</note>
+<section id="secfhsst_id125"><title> Investigation : Reflection and absorption </title>
+        <para id="id129030">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id129038">Investigate the interaction of light with differently coloured metal objects</para>
+        <para id="id129044">
+          <emphasis effect="bold">Apparatus:</emphasis>
+        </para>
+        <para id="id129052">Find some differently coloured metal objects (at least 5) which will not be damaged if left in the sun for 15 minutes. Make sure to include at least one white item and one black item.</para>
+        <para id="id129059">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <para id="id129067">At the start of your lesson set out your objects in direct sunlight. Leave them there for around 15 minutes.</para>
+        <para id="id129073">Alternatively, if it is a sunny day, you can use your teachers' cars for this experiment - as long as there are some cars of different colours and they have been standing in direct sunlight for the same length of time!</para>
+        <para id="id129079">After 15 minutes is up, touch each of the items/cars (be careful not to burn yourself!) and compare their temperatures (rate them from 1 to 5 with 1 being cold and 5 being very hot) in a table such as the example table below:</para>
+        <table id="id129084" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Object</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Colour</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Temperature rating</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>e.g. car 1</entry>
+                <entry>e.g. red</entry>
+                <entry>e.g. 3</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id129179">
+          <emphasis effect="bold">Questions:</emphasis>
+        </para>
+        <list id="id129185" display="block" list-type="enumerated">
+          <item id="uid3">Which object was the hottest and what was it made of?
+</item>
+          <item id="uid4">Which object was the coolest and what was it made of?
+</item>
+          <item id="uid5">How did the temperatures of the black and white objects compare to each other? (which one was hotter and which was cooler?)
+</item>
+          <item id="uid6">Try to explain the reasons for the different temperatures of the objects with respect to their colours and the materials of which they are made.
+</item>
+        </list>
+        
+</section>
+        <para id="id129247">Metals generally reflect most wavelengths of visible light, but they will reflect the light in a certain direction, given by the laws of reflection in geometrical optics. This is different to most materials, like wood or fabric, which reflect light in all directions. Metals have this property since they have electrons that are not bound to atoms and can move freely through the metal. This is unlike most other materials that have their electrons bound closely to the atoms. These free electrons in metals can then absorb and reflect photons of a wide range of energies.</para>
+        <para id="id129255"><emphasis effect="italics">Ultraviolet light</emphasis> (which has shorter wavelengths than visible light) will pass through some substances, such as many plastics, because they do not have the right energy levels to absorb it and re-emit it. <emphasis effect="italics">X-rays</emphasis> (also short wavelengths) will also pass through most materials, since the energies of X-rays correspond to the energy levels of atomic nuclei. Such nuclei are much smaller than atoms, so it is much less likely for an X-ray to hit a nucleus instead of the whole atom.</para>
+        <para id="id129272">Most materials will absorb <emphasis effect="italics">infrared radiation</emphasis> (longer wavelengths than visible light), since the energies of that radiation often correspond to rotational or vibrational energy levels of molecules.</para>
+        <figure id="uid7">
+          <media id="uid7_media" alt="">
+            <image mime-type="image/png" src="../../media/photon_scatter_transmission.png" id="uid7_onlineimage" width="552"><!-- NOTE: attribute width changes image size online (pixels). original width is 552. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/photon_scatter_transmission.eps" id="uid7_printimage"/>
+          </media>
+          <caption>Diagrams of photon transmission (left) and scattering (right).</caption>
+        </figure>
+      </section>
+      <section id="uid8">
+        <title>Why is the sky blue?</title>
+        <para id="id129303">The sun emits light at many different wavelengths, including all of the visible wavelengths. Light which is made up of all the visible wavelengths appears white. So what causes the sky to look blue?</para>
+        <para id="id129308">The atmosphere consists of molecules of different gases as well as tiny dust grains. Light from the sun scatters off the molecules in the air (called <emphasis effect="bold">Rayleigh scattering</emphasis>).
+The chance that the light will scatter off the gas molecules is <emphasis effect="italics">higher</emphasis> for <emphasis effect="italics">shorter</emphasis> wavelengths. The <emphasis effect="italics">short wavelength</emphasis><emphasis effect="bold">blue light</emphasis> is therefore scattered more than the other colours. At noon, when the light from the sun is coming straight down (see the picture), the scattered blue light reaches your eyes from all directions and so the sky appears blue. The other wavelengths do not get scattered much and therefore miss your line of sight and are not seen. At sunrise or sunset, the direction of the light coming from the sun is now straight towards your eyes (see the picture). Therefore the scattered blue light can't be seen because it is scattered out of your line of sight. The redder colours (oranges and reds) can now be seen because they are not scattered as much and still fall in your line of sight.</para>
+        <para id="id129345">
+          <figure id="id129348">
+            <media id="id129348_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C10_002.png" id="id129348_onlineimage" width="222"><!-- NOTE: attribute width changes image size online (pixels). original width is 222. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C10_002.eps" id="id129348_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id129354">
+          <figure id="id129357">
+            <media id="id129357_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C10_003.png" id="id129357_onlineimage" width="244"><!-- NOTE: attribute width changes image size online (pixels). original width is 244. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C10_003.eps" id="id129357_printimage"/>
+            </media>
+          </figure>
+        </para>
+<section id="secfhsst_id215"><title> Transmission and scattering of light </title>
+        <list id="id129370" display="block" list-type="enumerated">
+          <item id="uid9">Explain how visible light is reflected from metals.
+</item>
+          <item id="uid10">Explain why the sky is blue.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

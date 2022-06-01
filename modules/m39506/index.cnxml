@@ -1,0 +1,856 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Colour and light</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39506</md:content-id>
+  <md:title>Colour and light</md:title>
+  <md:abstract/>
+  <md:uuid>18b561a8-d0ff-4c07-be86-91ca80495e32</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id127242">The light that human beings can see is called <emphasis effect="italics">visible light</emphasis>. Visible light is actually just a small part of the large spectrum of electromagnetic radiation which you will learn more about in <link target-id="m33652"/>. We can think of electromagnetic radiation and visible light as transverse waves. We know that transverse waves can be described by their amplitude, frequency (or wavelength) and velocity. The velocity of a wave is given by the product of its frequency and wavelength:</para>
+      <equation id="uid1">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>v</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>f</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>λ</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id127620">However, electromagnetic radiation, including visible light, is special because, no matter what the frequency, it all moves at a <emphasis effect="bold">constant velocity</emphasis> (in vacuum) which is known as the speed of light. The speed of light has the symbol <m:math overflow="scroll"><m:mi>c</m:mi></m:math> and is:</para>
+      <equation id="id127639">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>c</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>8</m:mn>
+                  </m:msup>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mrow>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id127704">Since the <emphasis effect="italics">speed of light</emphasis> is <m:math overflow="scroll"><m:mi>c</m:mi></m:math>, we can then say:</para>
+      <equation id="uid2">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>c</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>f</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>λ</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+    </section>
+    <section id="cid3">
+      <title>Colour and Light</title>
+      <para id="id127752">Our eyes are sensitive to visible light over a range of wavelengths from 390 nm to 780 nm (1 nm = <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math> m). The different <emphasis effect="bold">colours</emphasis> of light we see are related to specific <emphasis effect="italics">frequencies</emphasis> (and <emphasis effect="italics">wavelengths</emphasis>) of visible light. The wavelengths and frequencies are listed in <link target-id="uid3"/>.</para>
+      <table id="uid3" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Colour</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Wavelength range (nm)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Frequency range (Hz)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>violet</entry>
+              <entry>390 - 455</entry>
+              <entry>769 - 659 <m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>blue</entry>
+              <entry>455 - 492</entry>
+              <entry>659 - 610 <m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>green</entry>
+              <entry>492 - 577</entry>
+              <entry>610 - 520 <m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>yellow</entry>
+              <entry>577 - 597</entry>
+              <entry>520 - 503 <m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>orange</entry>
+              <entry>597 - 622</entry>
+              <entry>503 - 482 <m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>red</entry>
+              <entry>622 - 780</entry>
+              <entry>482 - 385 <m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Colours, wavelengths and frequencies of light in the visible spectrum.</caption>
+      </table>
+      <para id="id128102">You can see from <link target-id="uid3"/> that <emphasis effect="bold">violet</emphasis> light has the <emphasis effect="italics">shortest wavelengths</emphasis> and <emphasis effect="italics">highest frequencies</emphasis> while <emphasis effect="bold">red</emphasis> light has the <emphasis effect="italics">longest wavelengths</emphasis> and <emphasis effect="italics">lowest frequencies</emphasis>.</para>
+<exercise id="secfhsst_id183"><title> Calculating the frequency of light given the wavelength </title>
+      <problem id="probfhsst_id184">
+      <para id="id128153">A streetlight emits light with a wavelength of 520 nm.</para>
+      <list id="id128159" display="block" list-type="enumerated">
+        <item id="uid4">What colour is the light? (Use <link target-id="uid3"/> to determine the colour)
+</item>
+        <item id="uid5">What is the frequency of the light?
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id194"> <list id="listfhsst_id194" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> What is being asked and what information are we given? </label>
+      <para id="id128211">We need to determine the colour and frequency of light with a wavelength of <m:math overflow="scroll"><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mn>520</m:mn></m:mrow></m:math> nm = <m:math overflow="scroll"><m:mrow><m:mn>520</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math> m.</para>
+      </item> <item> <label> Compare the wavelength of the light to those given in <link target-id="uid3"/>  </label>
+      <para id="id128259">We see from <link target-id="uid3"/> that light with wavelengths between 492 - 577 nm is green. 520 nm falls into this range, therefore the colour of the light is green.</para>
+      </item> <item> <label> Next we need to calculate the frequency of the light </label>
+      <para id="id128271">We know that</para>
+      <equation id="id128274">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>c</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id128305">We know <m:math overflow="scroll"><m:mi>c</m:mi></m:math> and we are given that <m:math overflow="scroll"><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mn>520</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math> m. So we can substitute in these values and solve for the frequency <m:math overflow="scroll"><m:mi>f</m:mi></m:math>.
+(<emphasis effect="bold">NOTE:</emphasis> Don't forget to always change units into S.I. units! 1 nm = <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math> m.)</para>
+      <equation id="id128380">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>c</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>520</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>577</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>12</m:mn>
+                  </m:msup>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi> Hz </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id128479">The frequency of the green light is <m:math overflow="scroll"><m:mrow><m:mn>577</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz
+ </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id296"><title> Calculating the wavelength of light given the frequency </title>
+      <problem id="probfhsst_id297">
+      <para id="id128524">A streetlight also emits light with a frequency of 490<m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz.</para>
+      <list id="id128546" display="block" list-type="enumerated">
+        <item id="uid6">What colour is the light? (Use <link target-id="uid3"/> to determine the colour)
+</item>
+        <item id="uid7">What is the wavelength of the light?
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id307"> <list id="listfhsst_id307" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> What is being asked and what information are we given? </label>
+      <para id="id128600">We need to find the colour and wavelength of light which has a frequency of 490<m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz and which is emitted by the streetlight.</para>
+      </item> <item> <label> Compare the wavelength of the light to those given in <link target-id="uid3"/> </label>
+      <para id="id128632">We can see from <link target-id="uid3"/> that orange light has frequencies between 503 - 482<m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz. The light from the streetlight has <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mn>490</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz which fits into this range. Therefore the light must be orange in colour.</para>
+      </item> <item> <label> Next we need to calculate the wavelength of the light </label>
+      <para id="id128687">We know that</para>
+      <equation id="id128690">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>c</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id128722">We know <m:math overflow="scroll"><m:mrow><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="3.33333pt"/><m:mspace width="3.33333pt"/><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>.</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:math> and we are given that <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mn>490</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz. So we can substitute in these values and solve for the wavelength <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>.</para>
+      <equation id="id128812">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>c</m:mi>
+                  <m:mi>f</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>490</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>12</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>122</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>10</m:mn>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>612</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>612</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi> nm </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id129150">Therefore the orange light has a wavelength of 612 nm.</para>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id444"><title> Frequency of Green </title>
+      <problem id="probfhsst_id445">
+      <para id="id129179">The wavelength of green light ranges between 500 nm an d 565 nm. Calculate the range of frequencies that correspond to this range of wavelengths. </para>
+      </problem>
+      <solution id="solfhsst_id448"> <list id="listfhsst_id448" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine how to approach the problem </label>
+      <para id="id129205">Use</para>
+      <equation id="id129208">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>c</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>f</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>λ</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id129229">to determine <m:math overflow="scroll"><m:mi>f</m:mi></m:math>.</para>
+      </item> <item> <label> Calculate frequency corresponding to upper limit of wavelength range </label>
+      <equation id="id129248">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>c</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>c</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>565</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>31</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>14</m:mn>
+                  </m:msup>
+                  <m:mspace width="0.277778em"/>
+                  <m:mi> Hz </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate frequency corresponding to lower limit of wavelength range </label>
+      <equation id="id129407">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>c</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>c</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>500</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>00</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>14</m:mn>
+                  </m:msup>
+                  <m:mspace width="0.277778em"/>
+                  <m:mi> Hz </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Write final answer </label>
+      <para id="id129566">The range of frequencies of green light is <m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>31</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>14</m:mn></m:msup><m:mspace width="0.277778em"/><m:mi> Hz </m:mi></m:mrow></m:math> to <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>00</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>14</m:mn></m:msup><m:mspace width="0.277778em"/><m:mi> Hz </m:mi></m:mrow></m:math>.
+ </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id662"><title> Calculating wavelengths and frequencies of light </title>
+      <list id="id129649" display="block" list-type="enumerated">
+        <item id="uid8">Calculate the frequency of light which has a wavelength of 400 nm. (Remember to use S.I. units)
+</item>
+        <item id="uid9">Calculate the wavelength of light which has a frequency of <m:math overflow="scroll"><m:mrow><m:mn>550</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz.
+</item>
+        <item id="uid10">What colour is light which has a wavelength of <m:math overflow="scroll"><m:mrow><m:mn>470</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math> m and what is its frequency?
+</item>
+        <item id="uid11">What is the wavelength of light with a frequency of <m:math overflow="scroll"><m:mrow><m:mn>510</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:math> Hz and what is its color?
+</item>
+      </list>
+      
+</section>
+      <section id="uid12">
+        <title>Dispersion of white light</title>
+        <para id="id129784">White light, like the light which comes from the sun, is made up of <emphasis effect="italics">all</emphasis> the visible wavelengths of light. In other words, white light is a <emphasis effect="italics">combination</emphasis> of all the colours of visible light.</para>
+        <para id="id129800">You learnt that the speed of light is different in different substances. The speed of light in different substances depends on the frequency of the light. For example, when white light travels through glass, light of the different frequencies is slowed down by different amounts. The lower the frequency, the less the speed is reduced which means that red light (lowest frequency) is slowed down <emphasis effect="italics">less</emphasis> than violet light (highest frequency). We can see this when white light is incident on a glass prism.</para>
+        <para id="id129813">Have a look at the picture below. When the white light hits the edge of the prism, the light which travels through the glass is refracted as it moves from the less dense medium (air) to the more dense medium (glass).</para>
+        <para id="id129818">
+          <figure id="id129821">
+            <media id="id129821_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C5_001.png" id="id129821_onlineimage" width="224"><!-- NOTE: attribute width changes image size online (pixels). original width is 224. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C5_001.eps" id="id129821_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id129828" display="block" list-type="bulleted">
+          <item id="uid13">The <emphasis effect="bold">red</emphasis> light which is slowed down the <emphasis effect="italics">least</emphasis>, is refracted the <emphasis effect="italics">least</emphasis>.
+</item>
+          <item id="uid14">The <emphasis effect="bold">violet</emphasis> light which is slowed down the <emphasis effect="italics">most</emphasis>, is refracted the <emphasis effect="italics">most</emphasis>.
+</item>
+        </list>
+        <para id="id129891">When the light hits the other side of the prism it is again refracted but the angle of the prism edge allows the light to remain separated into its different colours.
+White light is therefore separated into its different colours by the prism and we say that the white light has been <emphasis effect="bold">dispersed</emphasis> by the prism.</para>
+        <para id="id129903">The dispersion effect is also responsible for why we see rainbows. When sunlight hits drops of water in the atmosphere, the white light is dispersed into its different colours by the water.</para>
+      </section>
+    </section>
+    <section id="cid4">
+      <title>Addition and Subtraction of Light</title>
+      <section id="uid15">
+        <title>Additive Primary Colours</title>
+        <para id="id129926">The primary colours of light are <emphasis effect="bold">red</emphasis>, <emphasis effect="bold">green</emphasis> and <emphasis effect="bold">blue</emphasis>. When all the primary colours are superposed (added together), white light is produced. Red, green and blue are therefore called the <emphasis effect="italics">additive primary colours</emphasis>. All the other colours can be produced by different combinations of red, green and blue.</para>
+      </section>
+      <section id="uid16">
+        <title>Subtractive Primary Colours</title>
+        <para id="id129966">The subtractive primary colours are obtained by subtracting one of the three additive primary colours from white light. The subtractive primary colours are <emphasis effect="bold">yellow</emphasis>, <emphasis effect="bold">magenta</emphasis> and <emphasis effect="bold">cyan</emphasis>. Magenta appears as a pinkish-purplish colour and cyan looks greenish-blue. You can see how the primary colours of light add up to the different subtractive colours in the illustration below.</para>
+        <para id="id129989">
+          <figure id="id129993">
+            <media id="id129993_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C5_002.png" id="id129993_onlineimage" width="249"><!-- NOTE: attribute width changes image size online (pixels). original width is 249. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C5_002.eps" id="id129993_printimage"/>
+            </media>
+          </figure>
+        </para>
+<section id="secfhsst_id716"><title> Experiment : Colours of light </title>
+        <para id="id130007">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id130016">To investigate the additive properties of colours and determine the complementary colours of light.</para>
+        <para id="id130022">
+          <emphasis effect="bold">Apparatus:</emphasis>
+        </para>
+        <para id="id130031">You will need two battery operated torches with flat bulb fronts, a large piece of white paper, and some pieces of cellophane paper of the following colours: red, blue, green, yellow, cyan, magenta. (You should easily be able to get these from a newsagents.)</para>
+        <para id="id130039">Make a table in your workbook like the one below:</para>
+        <table id="id130045" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Colour 1</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Colour 2</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Final colour prediction</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Final colour measured</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>red</entry>
+                <entry>blue</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>red</entry>
+                <entry>green</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>green</entry>
+                <entry>blue</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>magenta</entry>
+                <entry>green</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>yellow</entry>
+                <entry>blue</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>cyan</entry>
+                <entry>red</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id130311">Before you begin your experiment, use what you know about colours of light to write down in the third column "Final colour prediction", what you think the result of adding the two colours of light will be. You will then be able to test your predictions by making the following measurements:</para>
+        <para id="id130319">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <para id="id130328">Proceed according to the table above. Put the correct colour of cellophane paper over each torch bulb. e.g. the first test will be to put red cellophane on one torch and blue cellophane on the other. Switch on the torch with the red cellophane over it and shine it onto the piece of white paper.</para>
+        <para id="id130336">What colour is the light?</para>
+        <para id="id130342">Turn off that torch and turn on the one with blue cellophane and shine it onto the white paper.</para>
+        <para id="id130349">What colour is the light?</para>
+        <para id="id130355">Now shine both torches with their cellophane coverings onto the same spot on the white paper. What is the colour of the light produced? Write this down in the fourth column of your table.</para>
+        <para id="id130362">Repeat the experiment for the other colours of cellophane so that you can complete your table.</para>
+        <para id="id130368">
+          <emphasis effect="bold">Questions:</emphasis>
+        </para>
+        <list id="id130375" display="block" list-type="enumerated">
+          <item id="uid17">How did your predictions match up to your measurements?
+</item>
+          <item id="uid18">Complementary colours of light are defined as the colours of light which, when added to one of the primary colours, produce white light. From your completed table, write down the complementary colours for red, blue and green.
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid19">
+        <title>Complementary Colours</title>
+        <para id="id130425">Complementary colours are two colours of light which add together to give white.</para>
+<section id="secfhsst_id807"><title> Investigation : Complementary colours for red, green and blue </title>
+        <para id="id130436">Complementary colours are two colours which add together to give white. Place a tick in the box where the colours in the first column added to the colours in the top row give white.</para>
+        <table id="id130443" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry/>
+                <entry>
+                  <emphasis effect="bold">magenta</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">yellow</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">cyan</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>(=red+blue)</entry>
+                <entry>(=red+green)</entry>
+                <entry>(=blue+green)</entry>
+              </row>
+              <row>
+                <entry>red</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>green</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>blue</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        
+</section>
+        <para id="id130643">You should have found that the complementary colours for red, green and blue are:</para>
+        <list id="id130647" display="block" list-type="bulleted">
+          <item id="uid20">Red and Cyan
+</item>
+          <item id="uid21">Green and Magenta
+</item>
+          <item id="uid22">Blue and Yellow
+</item>
+        </list>
+      </section>
+      <section id="uid23">
+        <title>Perception of Colour</title>
+        <para id="id130698">The light-sensitive lining on the back inside half of the human eye is called the retina.
+The retina contains two kinds of light sensitive cells or <emphasis effect="italics">photoreceptors</emphasis>: the rod cells (sensitive to low light) and the cone cells (sensitive to normal daylight) which enable us to see. The rods are not sensitive to colour but work well in dimly lit conditions. This is why it is possible to see in a dark room, but it is hard to see any colours. Only your rods are sensitive to the low light levels and so you can only see in black, white and grey.
+The cones enable us to see colours.
+Normally, there are three kinds of cones, each containing a different pigment. The cones are activated when the pigments absorb light.
+The three types of cones are sensitive to (i.e. absorb) red, blue and green light respectively. Therefore we can perceive <emphasis effect="italics">all</emphasis> the different colours in the visible spectrum when the different types of cones are stimulated by different amounts since they are just combinations of the three primary colours of light.</para>
+        <para id="id130721">The rods and cones have different response times to light. The cones react quickly when bright light falls on them. The rods take a longer time to react. This is why it takes a while (about 10 minutes) for your eyes to adjust when you enter a dark room after being outside on a sunny day.</para>
+<note id="notfhsst_id872"><title> Interesting Fact </title> Color blindness in humans is the inability to perceive differences between some or all colors that other people can see. Most often it is a genetic problem, but may also occur because of eye, nerve, or brain damage, or due to exposure to certain chemicals. The most common forms of human color blindness result from problems with either the middle or long wavelength sensitive cone systems, and involve difficulties in discriminating reds, yellows, and greens from one another. This is called "red-green color blindness". Other forms of color blindness are much rarer. They include problems in discriminating blues from yellows, and the rarest forms of all, complete color blindness or monochromasy, where one cannot distinguish any color from grey, as in a black-and-white movie or photograph.</note>
+<para id="eip-350"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/color-vision-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/color-vision-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/color-vision/color-vision_en.jnlp">run demo</link></para><exercise id="secfhsst_id873"><title> Seeing Colours </title>
+        <problem id="probfhsst_id874">
+        <para id="id130752">When blue and green light fall on an eye, is cyan light being created? Discuss. </para>
+        </problem>
+        <solution id="solfhsst_id877"> <list id="listfhsst_id877" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Think about what happens when light hits the eyes </label>
+        <para id="id130777">Cyan light is not created when blue and green light fall on the eye. The blue and green receptors are stimulated to make the brain believe that cyan light is being created. </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid24">
+        <title>Colours on a Television Screen</title>
+        <para id="id130803">If you look very closely at a colour cathode-ray television screen or cathode-ray computer screen, you will see that there are very many small red, green and blue dots called <emphasis effect="italics">phosphors</emphasis> on it. These dots are caused to fluoresce (glow brightly) when a beam of electrons from the cathode-ray tube behind the screen hits them. Since different combinations of the three primary colours of light can produce any other colour, only red, green and blue dots are needed to make pictures containing all the colours of the visible spectrum.</para>
+<section id="secfhsst_id886"><title> Colours of light </title>
+        <list id="id130824" display="block" list-type="enumerated">
+          <item id="uid25">List the three primary colours of light.
+</item>
+          <item id="uid26">What is the term for the phenomenon whereby white light is split up into its different colours by a prism?
+</item>
+          <item id="uid27">What is meant by the term “complementary colour” of light?
+</item>
+          <item id="uid28">When white light strikes a prism which colour of light is refracted the most and which is refracted the least? Explain your answer in terms of the speed of light in a medium.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Failure and strength of materials</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39537</md:content-id>
+  <md:title>Failure and strength of materials</md:title>
+  <md:abstract/>
+  <md:uuid>81f6e0a1-1394-4771-9030-c216a1b78d28</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Elasticity, plasticity, fracture, creep</title>
+      <section id="uid35">
+        <title>Elasticity and plasticity</title>
+        <para id="id148863">Materials are classified as plastic or elastic depending on how they respond to an applied force. It is important to note that plastic substances are not necessarily a type of plastic (polymer) they only behave like plastic. Think of them as being like plastic which you will be familiar with.</para>
+        <para id="id148869">A rubber band is a material that has elasticity. It returns to its original shape after an applied force is removed, providing that the material is not stretched beyond its elastic limit.</para>
+        <para id="id148874">Plasticine is an example of a material that is plastic. If you flatten a ball of plasticine, it will stay flat. A plastic material does not return to its original shape after an applied force is removed.</para>
+        <list id="id148879" display="block" list-type="bulleted">
+          <item id="uid36">Elastic materials return to their original shape.
+</item>
+          <item id="uid37">Plastic materials deform easily and do not return to their original shape.
+</item>
+        </list>
+      </section>
+      <section id="uid38">
+        <title>Fracture, creep and fatigue</title>
+        <para id="id148918">Some materials are neither plastic nor elastic. These substances will break or fracture when a large enough force is applied to them. The brittle glass we mentioned earlier is an example.</para>
+        <para id="id148923">Creep occurs when a material deforms over a long period of time because of an applied force. An example of creep is the bending of a shelf over time when a heavy object is put on it. Creep may eventually lead to the material fracturing. The application of heat may lead to an increase in creep in a material.</para>
+        <para id="id148929">Fatigue is similar to creep. The difference between the two is that fatigue results from the force being applied and then removed repeatedly over a period of time. With metals this results in failure because of metal fatigue.</para>
+        <list id="id148934" display="block" list-type="bulleted">
+          <item id="uid39">Fracture is an abrupt breaking of the material.
+</item>
+          <item id="uid40">Creep is a slow deformation process due to a continuous force over a long time.
+</item>
+          <item id="uid41">Fatigue is weakening of the material due to short forces acting many many times.
+</item>
+        </list>
+<section id="secfhsst_id650"><title> Elasticity, plasticity, fracture and creep </title>
+        <list id="id148984" display="block" list-type="enumerated">
+          <item id="uid42">List the similarities and differences between elastic and plastic deformation.
+</item>
+          <item id="uid43">List the similarities and differences between creep and fracture as modes of failure in material.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid5">
+      <title>Failure and strength of materials</title>
+      <section id="uid44">
+        <title>The properties of matter</title>
+        <para id="id149042">The strength of a material is defined as the stress (the force per unit cross-sectional area) that it can withstand. Strength is measured in newtons per square metre (<m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:mo>·</m:mo><m:msup><m:mi>m</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math>).</para>
+        <para id="id149070"><emphasis effect="italics">Stiffness</emphasis> is a measure of how flexible a material is. In Science we measure the stiffness of a material by calculating its Young's Modulus. The Young's modulus is a ratio of how much it bends to the load applied to it. Stiffness is measure in newtons per metre (<m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:mo>·</m:mo><m:msup><m:mi>m</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>).</para>
+        <para id="id149103"><emphasis effect="italics">Hardness</emphasis> of a material can be measured by determining what force will cause a permanent deformation in the material. Hardness can also be measured using a scale like Mohs hardness scale. On this scale, diamond is the hardest at 10 and talc is the softest at 1.</para>
+<note id="notfhsst_id668"><title> Interesting Fact </title> Remembering that the Mohs scale is the hardness scale and that the softest substance is talc will often come in handy for general knowledge quizes.</note>
+        <para id="id149119">The <emphasis effect="italics">toughness</emphasis> of a material is a measure of how it can resist breaking when it is stressed. It is scientifically defined as the amount of energy that a material can absorb before fracturing.</para>
+        <para id="id149130">A ductile material is a substance that can undergo large plastic deformation without fracturing. Many metals are very ductile and they can be drawn into wires, e.g. copper, silver, aluminium and gold.</para>
+        <para id="id149135">A <emphasis effect="italics">malleable</emphasis> material is a substance that can easily undergo plastic deformation by hammering or rolling. Again, metals are malleable substances, e.g. copper can be hammered into sheets and aluminium can be rolled into aluminium foil.</para>
+        <para id="id149145">A brittle material fractures with very little or no plastic deformation. Glassware and ceramics are brittle.</para>
+      </section>
+      <section id="uid45">
+        <title>Structure and failure of materials</title>
+        <para id="id149160">Many substances fail because they have a weakness in their atomic structure. There are a number of problems that can cause these weaknesses in structure. These are vacancies, dislocations, grain boundaries and impurities.</para>
+        <para id="id149165"><emphasis effect="italics">Vacancies</emphasis> occur when there are spaces in the structure of a crystalline solid. These vacancies cause weakness and such materials often fail at these places. Think about bricks in a wall, if you started removing bricks the wall would get weaker.</para>
+        <para id="id149175"><emphasis effect="italics">Dislocations</emphasis> result in weakened bonding between layers of atoms in a crystal lattice and this creates a critical boundary. If sufficient force is applied along the boundary, it can break the weakened bonds, allowing the two sides of the crystal to slide against one another. The two pieces of the crystal keep their shape and structure.</para>
+        <para id="id149185"><emphasis effect="italics">Impurities</emphasis> in a crystal structure can cause a weak region in the crystal lattice around the impurity. Like vacancies, the substance often fail from these places in the lattice. This you can think of as bricks in a wall which don't fit properly, they are the wrong kind of bricks (atoms) to make the structure strong.</para>
+      </section>
+      <section id="uid46">
+        <title>Controlling the properties of materials</title>
+        <para id="id149206">There are a number of processes that can be used to make materials less likely to fail. We shall look at a few methods in this section.</para>
+      </section>
+      <section id="id149211">
+        <title>Cold working</title>
+        <para id="id149218">Cold working is a process in which a metal is <emphasis effect="italics">strengthened</emphasis> by repeatedly being reshaped. This is carried out at a temperature below the melting point of the metal. The repeated shaping of the metal results in dislocations which then prevent restrict the motion of dislocations in the metal. Cold working increases the strength of the metal but in so doing, the metal loses its ductility. We say the metal is <emphasis effect="italics">work-hardened</emphasis>.</para>
+      </section>
+      <section id="id149237">
+        <title>Annealing</title>
+        <para id="id149243">Annealing is a process of heating and cooling a material to relax the crystal structure and reduce weakness due to impurities and structural flaws.
+During annealing, the material is heated to a high temperature that is below the material's melting point. At a sufficiently high temperature, atoms with weakened bonds can rearrange themselves into a stronger structure. Slowly cooling the material ensures that the atoms will remain in these stronger locations. Annealing is often used before cold working.</para>
+      </section>
+      <section id="id149254">
+        <title>Introduction of Impurities</title>
+        <para id="id149261">Most pure metals are relatively weak because dislocations can move easily within them. However, if impurities are added to a metal (e.g., carbon is added to an iron sample), they can disturb the regular structure of the metal and so prevent dislocations from spreading. This makes the metal stronger.</para>
+      </section>
+      <section id="id149268">
+        <title>Alloying</title>
+        <para id="id149275">An alloy is a mixture of a metal with other substances. In other words, alloying involves adding impurities to a metal sample. The other substances can be metal or non-metal. An alloy often has properties that are very different to the properties of the substances from which it is made. The added substances strengthen the metal by preventing dislocations from spreading. Ordinary steel is an alloy of iron and carbon. The carbon impurities trap dislocations. There are many types of steel that also include other metals with iron and carbon. Brass is an alloy of copper and Zinc. Bronze is an alloy of copper and tin. Gold and silver that is used in coins or jewellery are also alloyed.</para>
+      </section>
+      <section id="id146989">
+        <title>Tempering</title>
+        <para id="id146996">Tempering is a process in which a metal is melted then quickly cooled. The rapid cooling is called quenching. Usually tempering is done a number of times before a metal has the correct properties that are needed for a particular application.</para>
+      </section>
+      <section id="id147002">
+        <title>Sintering</title>
+        <para id="id147009">Sintering is used for making ceramic objects among other things. In this process the substance is heated so that its particles stick together. It is used with substances that have a very high melting point. The resulting product is often very pure and it is formed in the process into the shape that is wanted. Unfortunately, sintered products are brittle.</para>
+      </section>
+      <section id="uid47">
+        <title>Steps of Roman Swordsmithing</title>
+        <list id="id147025" display="block" list-type="bulleted">
+          <item id="uid48">Purifying the iron ore.
+</item>
+          <item id="uid49">Heating the iron blocks in a furnace with charcoal.
+</item>
+          <item id="uid50">Hammering and getting into the needed shape. The smith used a hammer to pound the metal into blade shape. He usually used tongs to hold the iron block in place.
+</item>
+          <item id="uid51">Reheating. When the blade cooled, the smith reheated it to keep it workable. While reheated and hammered repeatedly.
+</item>
+          <item id="uid52"><emphasis effect="italics">Quenching</emphasis> which involved the process of white heating and cooling in water. Quenching made the blade harder and stronger. At the same time it made the blade quite brittle, which was a considerable problem for the sword smiths.
+</item>
+          <item id="uid53"><emphasis effect="italics">Tempering</emphasis> was then done to avoid brittleness the blade was tempered. In another words it was reheated a final time to a very specific temperature. How the Romans do balanced the temperature? The smith was guided only by the blade's color and his own experience.
+</item>
+        </list>
+<section id="secfhsst_id726"><title> Failure and strength of materials </title>
+        <list id="id149489" display="block" list-type="enumerated">
+          <item id="uid54">List the similarities and differences between the brittle and ductile modes of failure.
+</item>
+          <item id="uid55">What is meant by the following terms:
+<list id="id149517" display="block" list-type="enumerated"><item id="uid56">vacancies
+</item><item id="uid57">dislocations
+</item><item id="uid58">impurities
+</item><item id="uid59">grain boundaries
+</item></list></item>
+          <item id="uid60">What four terms can be used to describe a material's mechanical properties?
+</item>
+          <item id="uid61">What is meant by the following:
+<list id="id149595" display="block" list-type="enumerated"><item id="uid62">cold working
+</item><item id="uid63">annealing
+</item><item id="uid64">tempering
+</item><item id="uid65">introduction of impurities
+</item><item id="uid66">alloying
+</item><item id="uid67">sintering
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Summary</title>
+      <list id="id149693" display="block" list-type="enumerated">
+        <item id="uid68">Hooke's Law gives the relationship between the extension of a spring and the force applied to it. The law says they are proportional.
+</item>
+        <item id="uid69">Materials can be classified as plastic or elastic depending on how they respond to an applied force.
+</item>
+        <item id="uid70">Materials can fracture or undergo creep or fatigue when forces are applied to them.
+</item>
+        <item id="uid71">Materials have the following mechanical properties to a greater or lesser degree: strength, hardness, ductility, malleability, brittleness, stiffness.
+</item>
+        <item id="uid72">Materials can be weakened by have the following problems in their crystal lattice: vacancies, dislocations, impurities, difference in grain size.
+</item>
+        <item id="uid73">Materials can have their mechanical properties improved by one or more of the following processes: cold working, annealing, adding impurities, tempering, sintering.
+</item>
+      </list>
+    </section>
+    <section id="cid7">
+      <title>End of chapter exercise</title>
+      <list id="id149785" display="block" list-type="enumerated">
+        <item id="uid74">State Hooke's Law in words.
+</item>
+        <item id="uid75">What do we mean by the following terms with respect to Hooke's Law?
+<list id="id149813" display="block" list-type="enumerated"><item id="uid76">elastic limit
+</item><item id="uid77">limit of proportionality
+</item></list></item>
+        <item id="uid78">A spring is extended by 18 cm by a force of 90 N. Calculate the spring constant for this spring.
+</item>
+        <item id="uid79">A spring of length 8 cm stretches to 14 cm when a load of 0,8 N is applied to it.
+<list id="id149869" display="block" list-type="enumerated"><item id="uid80">Calculate the spring constant for the spring.
+</item><item id="uid81">Determine the extension of the spring if a load of 0,7 N is applied to it.
+</item></list></item>
+        <item id="uid82">A spring has a spring constant of <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>150</m:mn></m:mrow></m:math> N.m<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. By how much will it stretch if a load of 80 N is applied to it?
+</item>
+        <item id="uid83">What do we mean by the following terms when speaking about properties of materials?
+<list id="id149954" display="block" list-type="enumerated"><item id="uid84">hardness
+</item><item id="uid85">toughness
+</item><item id="uid86">ductility
+</item><item id="uid87">malleability
+</item><item id="uid88">stiffness
+</item><item id="uid89">strength
+</item></list></item>
+        <item id="uid90">What is Young's modulus?
+</item>
+        <item id="uid91">In what different ways can we improve the material properties of substances?
+</item>
+        <item id="uid92">What is a metal alloy?
+</item>
+        <item id="uid93">What do we call an alloy of:
+<list id="id150080" display="block" list-type="enumerated"><item id="uid94">iron and carbon
+</item><item id="uid95">copper and zinc
+</item><item id="uid96">copper and tin
+</item></list></item>
+        <item id="uid97">Do some research on what added substances can do to the properties of steel. Present your findings in a suitable table.
+</item>
+      </list>
+    </section>
+  </content>
+</document>

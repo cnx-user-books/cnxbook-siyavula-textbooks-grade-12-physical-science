@@ -1,0 +1,2014 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Vertical projectile motion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39546</md:content-id>
+  <md:title>Vertical projectile motion</md:title>
+  <md:abstract/>
+  <md:uuid>86e923ab-903f-40bb-b207-08bb57768704</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id233056">In Grade 10, we studied motion in one dimension and briefly looked at vertical motion. In this chapter we will discuss vertical motion and also look at motion in two dimensions. In Grade 11, we studied the conservation of momentum and looked at applications in one dimension. In this chapter we will look at momentum in two dimensions.</para>
+    </section>
+    <section id="cid3">
+      <title>Vertical Projectile Motion</title>
+      <para id="id233071">In Grade 10, we studied the motion of objects in free fall and we saw that an object in free fall falls with gravitational acceleration <m:math overflow="scroll"><m:mi>g</m:mi></m:math>.
+Now we can consider the motion of objects that are thrown upwards and then fall back to the Earth. We call this <emphasis effect="italics">projectile motion</emphasis> and we will only consider the situation where the object is thrown straight upwards and then falls straight downwards - this means that there is no horizontal displacement of the object, only a vertical displacement.</para>
+      <section id="uid1">
+        <title>Motion in a Gravitational Field</title>
+        <para id="id233438">When an object is in the earth's gravitational field, it always accelerates downwards, towards the centre of the earth, with a constant acceleration <m:math overflow="scroll"><m:mi>g</m:mi></m:math>, no matter whether the object is moving upwards or downwards. This is shown in <link target-id="uid2"/>.</para>
+<note id="notfhsst_id56" type="tip">Projectiles moving upwards or downwards in the earth's gravitational field always accelerate downwards with a constant acceleration <m:math overflow="scroll"><m:mi>g</m:mi></m:math>. Note: acceleration means that the velocity <emphasis effect="italics">changes</emphasis>; it either becomes greater <emphasis effect="italics">or</emphasis> smaller.</note>
+        <figure id="uid2">
+          <media id="uid2_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C1_001.png" id="uid2_onlineimage" width="602"><!-- NOTE: attribute width changes image size online (pixels). original width is 602. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_001.eps" id="uid2_printimage"/>
+          </media>
+          <caption>Objects moving upwards or downwards, always accelerate downwards.</caption>
+        </figure>
+        <para id="id233493">This means that if an object is moving upwards, its velocity decreases until it stops (<m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>). This is the maximum height that the object reaches, because after this, the object starts to fall.</para>
+<note id="notfhsst_id65" type="tip">Projectiles have zero velocity at their greatest height.</note>
+        <para id="id233546">Consider an object thrown upwards from a vertical height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:math>. We have seen that the object will travel upwards with decreasing velocity until it stops, at which point it starts falling. The time that it takes for the object to fall down to height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:math> is the same as the time taken for the object to reach its maximum height from height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:math>.</para>
+        <figure id="uid3">
+          <media id="uid3_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C1_002.png" id="uid3_onlineimage" width="580"><!-- NOTE: attribute width changes image size online (pixels). original width is 580. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_002.eps" id="uid3_printimage"/>
+          </media>
+          <caption>(a) An object is thrown upwards from height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>0</m:mn></m:msub></m:math>. (b) After time <m:math overflow="scroll"><m:msub><m:mi>t</m:mi><m:mi>m</m:mi></m:msub></m:math>, the object reaches its maximum height, and starts to fall. (c) After a time <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi>t</m:mi><m:mi>m</m:mi></m:msub></m:mrow></m:math> the object returns to height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>0</m:mn></m:msub></m:math>.</caption>
+        </figure>
+<note id="notfhsst_id74" type="tip">Projectiles take the same time to go from the point of launch to the greatest height as the time they take to fall back to the point of launch.</note>
+      </section>
+      <section id="uid4">
+        <title>Equations of Motion</title>
+        <para id="id233678">The equations of motion that were used in Chapter <link target-id=""/> to describe free fall can be used for projectile motion. These equations are the same as those equations that were derived in Chapter <link target-id=""/>, but with acceleration from gravity: <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mi>g</m:mi></m:mrow></m:math>. We use <m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math> for our calculations.</para>
+        <para id="id233921">Remember that when you use these equations, you are dealing with vectors which have magnitude <emphasis effect="italics">and</emphasis> direction. Therefore, you need to decide which direction will be the positive direction so that your vectors have the correct signs.</para>
+        <equation id="id233932"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi> initial velocity</m:mi><m:mspace width="3pt"/>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo><m:mspace width="3pt"/>
+                      <m:mi> at time</m:mi><m:mspace width="3pt"/>
+                    </m:mrow>
+                    <m:mi mathvariant="normal">t</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi> final velocity</m:mi><m:mspace width="3pt"/>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo><m:mspace width="3pt"/>
+                      <m:mi> at time</m:mi><m:mspace width="3pt"/>
+                    </m:mrow>
+                    <m:mi mathvariant="normal">t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> vertical displacement</m:mi><m:mspace width="3pt"/>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>t</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> time </m:mi><m:mspace width="3pt"/>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> time interval</m:mi><m:mspace width="3pt"/>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>g</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> acceleration due to gravity</m:mi><m:mspace width="3pt"/>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="uid5">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                        <m:mo>+</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mi>t</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>g</m:mi>
+                    <m:msup>
+                      <m:mi>t</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msubsup>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msubsup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msubsup>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>g</m:mi>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+<para id="eip-785">This simulation allows you to fire various objects from a cannon and see where they land. If you aim the cannon straight up (angle of 90) then you will have vertical projectile motion.
+ <figure id="projectile-motion" class="phetsim"><title>Phet simulation for projectile motion</title><media id="phet_sim" display="block" alt="projectile motion phet simulation">
+	  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="projectile-motion.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id353"><title> Projectile motion </title>
+        <problem id="probfhsst_id354">
+        <para id="id234390">A ball is thrown upwards with an initial velocity of 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+        <list id="id234419" display="block" list-type="enumerated">
+          <item id="uid6">Determine the maximum height reached above the thrower's hand.
+</item>
+          <item id="uid7">Determine the time it takes the ball to reach its maximum height.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id364"> <list id="listfhsst_id364" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+        
+        <item> <label> Identify what is required and what is given </label>
+        <para id="id234482">We are required to determine the maximum height reached by the ball and how long it takes to reach this height. We are given the initial velocity <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub></m:math> = 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and the acceleration due to gravity g = 9,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id234551">Choose down as positive. We know that at the maximum height the velocity of the ball is 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. We therefore have the following:</para>
+        <list id="id234579" display="block" list-type="bulleted">
+          <item id="uid8"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>10</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> (it is negative because we chose downwards as positive)
+</item>
+          <item id="uid9">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mi>f</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:mn>0</m:mn>
+                <m:mspace width="0.166667em"/>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mo>·</m:mo>
+                <m:msup>
+                  <m:mi mathvariant="normal">s</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid10">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mi>g</m:mi>
+                <m:mo>=</m:mo>
+                <m:mo>+</m:mo>
+                <m:mn>9</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>8</m:mn>
+                <m:mspace width="0.166667em"/>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mo>·</m:mo>
+                <m:msup>
+                  <m:mi mathvariant="normal">s</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </item>
+        </list>
+        </item> <item> <label> Identify the appropriate equation to determine the height. </label>
+        <para id="id234742">We can use:</para>
+        <equation id="id234745">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msubsup>
+                <m:mi>v</m:mi>
+                <m:mi>f</m:mi>
+                <m:mn>2</m:mn>
+              </m:msubsup>
+              <m:mo>=</m:mo>
+              <m:msubsup>
+                <m:mi>v</m:mi>
+                <m:mi>i</m:mi>
+                <m:mn>2</m:mn>
+              </m:msubsup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>g</m:mi>
+              <m:mi>Δ</m:mi>
+              <m:mi>x</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id234788">to solve for the height.</para>
+        </item> <item> <label> Substitute the values in and find the height. </label>
+        <equation id="id234797">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msubsup>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msubsup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msubsup>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>g</m:mi>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>10</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>100</m:mn>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>19</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>102</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id234979">The value for the displacement will be negative because the displacement is upwards and we have chosen downward as positive (and upward as negative). The height will be a positive number, <m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>10</m:mn></m:mrow></m:math>m.</para>
+        </item> <item> <label> Identify the appropriate equation to determine the time. </label>
+        <para id="id235007">We can use:</para>
+        <equation id="id235010">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>f</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mi>g</m:mi>
+              <m:mi>t</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id235043">to solve for the time.</para>
+        </item> <item> <label> Substitute the values in and find the time. </label>
+        <equation id="id235052">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>0</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>10</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>10</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>t</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>02</m:mn>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer. </label>
+        <para id="id235174">The ball reaches a maximum height of 5,10 m.</para>
+        <para id="id235178">The ball takes 1,02 s to reach the top.</para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id670"><title> Height of a projectile </title>
+        <problem id="probfhsst_id671">
+        <para id="id235195">A cricketer hits a cricket ball from the ground so that it goes directly upwards. If the ball takes, 10 s to return to the ground, determine its maximum height. </para>
+        </problem>
+        <solution id="solfhsst_id674"> <list id="listfhsst_id674" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is required and what is given </label>
+        <para id="id235220">We need to find how high the ball goes. We know that it takes 10 seconds to go up and down. We do not know what the initial velocity of the ball (<m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub></m:math>) is.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id235244">A problem like this one can be looked at as if there are two parts to the motion. The first is the ball going up with an initial velocity and stopping at the top (final velocity is zero). The second motion is the ball falling, its initial velocity is zero and its final velocity is unknown.
+<!--empty paragraphs get left behind.--><figure id="id235270"><media id="id235270_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_005.png" id="id235270_onlineimage" width="150"><!-- NOTE: attribute width changes image size online (pixels). original width is 150. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_005.eps" id="id235270_printimage"/></media></figure></para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id235282">Choose down as positive. We know that at the maximum height, the velocity of the ball is 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. We also know that the ball takes the same time to reach its maximum height as it takes to travel from its maximum height to the ground. This time is half the total time. We therefore know the following for the second motion of the ball going down:</para>
+        <list id="id235311" display="block" list-type="bulleted">
+          <item id="uid11"><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math>, half of the total time
+</item>
+          <item id="uid12">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:mrow>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mi>i</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:mn>0</m:mn>
+                <m:mspace width="0.166667em"/>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mo>·</m:mo>
+                <m:msup>
+                  <m:mi mathvariant="normal">s</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid13">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mi>g</m:mi>
+                <m:mo>=</m:mo>
+                <m:mn>9</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>8</m:mn>
+                <m:mspace width="0.166667em"/>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mo>·</m:mo>
+                <m:msup>
+                  <m:mi mathvariant="normal">s</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid14"><m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi><m:mo>=</m:mo></m:mrow></m:math> ?
+</item>
+        </list>
+        </item> <item> <label> Find an appropriate equation to use </label>
+        <para id="id235494">We do not know the final velocity of the ball coming down. We need to choose an equation that does not have <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub></m:math> in it. We can use the following equation to solve for <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math>:</para>
+        <equation id="id235524">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>Δ</m:mi>
+              <m:mi>x</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mi>t</m:mi>
+              <m:mo>+</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mi>g</m:mi>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Substitute values and find the height. </label>
+        <equation id="id235572">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>122</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id235682">In the second motion, the displacement of the ball is 122,5m downwards. This means that the height was 122,5m, h=122,5m.</para>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id235690">The ball reaches a maximum height of 122,5 m. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id844"><title>Equations of Motion </title><list id="id235713" display="block" list-type="enumerated">
+          <item id="uid15">A cricketer hits a cricket ball straight up into the air. The cricket ball has an initial velocity of 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+<list id="id235755" display="block" list-type="enumerated"><item id="uid16">What height does the ball reach before it stops to fall back to the ground.
+</item><item id="uid17">How long has the ball been in the air for?
+</item></list></item>
+          <item id="uid18">Zingi throws a tennis ball straight up into the air. It reaches a height of 80 cm.
+<list id="id235797" display="block" list-type="enumerated"><item id="uid19">Determine the initial velocity of the tennis ball.
+</item><item id="uid20">How long does the ball take to reach its maximum height?
+</item></list></item>
+          <item id="uid21">A tourist takes a trip in a hot air balloon. The hot air balloon is ascending (moving up) at a velocity of 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. He accidentally drops his camera over the side of the balloon's basket, at a height of 20 m. Calculate the velocity with which the camera hits the ground.
+
+          <figure id="id235868">
+            <media id="id235868_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_006.png" id="id235868_onlineimage" width="269"><!-- NOTE: attribute width changes image size online (pixels). original width is 269. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_006.eps" id="id235868_printimage"/>
+            </media>
+          </figure>
+ </item>
+        </list>       
+</section>
+      </section>
+      <section id="uid22">
+        <title>Graphs of Vertical Projectile Motion</title>
+        <para id="id235893">Vertical projectile motion is the same as motion at constant acceleration. In Grade 10 you learned about the graphs for motion at constant acceleration. The graphs for vertical projectile motion are therefore identical to the graphs for motion under constant acceleration.</para>
+        <para id="id235899">When we draw the graphs for vertical projectile motion, we consider two main situations: an object moving upwards and an object moving downwards.</para>
+        <para id="id235906">If we take the upwards direction as positive then for an object moving upwards we get the graphs shown in <link target-id="uid23"/>.</para>
+        <figure id="uid23">
+          <media id="uid23_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C1_007.png" id="uid23_onlineimage" width="846"><!-- NOTE: attribute width changes image size online (pixels). original width is 846. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_007.eps" id="uid23_printimage"/>
+          </media>
+          <caption>Graphs for an object thrown upwards with an initial velocity <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub></m:math>. The object takes <m:math overflow="scroll"><m:msub><m:mi>t</m:mi><m:mi>m</m:mi></m:msub></m:math> s to reach its maximum height of <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>m</m:mi></m:msub></m:math> m after which it falls back to the ground. (a) position vs. time graph (b) velocity vs. time graph (c) acceleration vs. time graph.</caption>
+        </figure>
+<exercise id="secfhsst_id880"><title> Drawing Graphs of Projectile Motion </title>
+        <problem id="probfhsst_id881">
+        <para id="id235986">Stanley is standing on the a balcony 20 m above the ground. Stanley tosses up a rubber ball with an initial velocity of 4,9 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The ball travels upwards and then falls to the ground. Draw graphs of position vs. time, velocity vs. time and acceleration vs. time. Choose upwards as the positive direction. </para>
+        </problem>
+        <solution id="solfhsst_id884"> <list id="listfhsst_id884" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is required </label>
+        <para id="id236038">We are required to draw graphs of</para>
+        <list id="id236042" display="block" list-type="enumerated">
+          <item id="uid24"><m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math></item>
+          <item id="uid25"><m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math></item>
+          <item id="uid26"><m:math overflow="scroll"><m:mi>a</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math></item>
+        </list>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id236136">There are two parts to the motion of the ball:</para>
+        <list id="id236140" display="block" list-type="enumerated">
+          <item id="uid27">ball travelling upwards from the building
+</item>
+          <item id="uid28">ball falling to the ground
+</item>
+        </list>
+        <para id="id236168">We examine each of these parts separately. To be able to draw the graphs, we need to determine the time taken and displacement for each of the motions.</para>
+        </item> <item> <label> Find the height and the time taken for the first motion. </label>
+        <para id="id236177">For the first part of the motion we have:
+<list id="id236185" display="block" list-type="bulleted"><item id="uid29"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mo>=</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item><item id="uid30"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item><item id="uid31"><m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math></item></list></para>
+        <para id="id236354">
+          <figure id="id236363">
+            <media id="id236363_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_008.png" id="id236363_onlineimage" width="140"><!-- NOTE: attribute width changes image size online (pixels). original width is 140. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_008.eps" id="id236363_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id236370">Therefore we can use <m:math overflow="scroll"><m:mrow><m:msubsup><m:mi>v</m:mi><m:mi>f</m:mi><m:mn>2</m:mn></m:msubsup><m:mo>=</m:mo><m:msubsup><m:mi>v</m:mi><m:mi>i</m:mi><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>g</m:mi><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> to solve for the height and <m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mo>+</m:mo><m:mi>g</m:mi><m:mi>t</m:mi></m:mrow></m:math> to solve for the time.</para>
+        <para id="id236448">
+          <equation id="id236454">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msubsup>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>g</m:mi>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>4</m:mn>
+                          <m:mo>,</m:mo>
+                          <m:mn>9</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>9</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>8</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>×</m:mo>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>19</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>9</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>225</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+          <equation id="id236657">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mn>0</m:mn>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>×</m:mo>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>t</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>s</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+        </para>
+        <para id="id236800">
+          <figure id="id236804">
+            <media id="id236804_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_009.png" id="id236804_onlineimage" width="191"><!-- NOTE: attribute width changes image size online (pixels). original width is 191. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_009.eps" id="id236804_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Find the height and the time taken for the second motion. </label>
+        <para id="id236815">For the second part of the motion we have:
+<list id="id236823" display="block" list-type="bulleted"><item id="uid32"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item><item id="uid33"><m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mo>(</m:mo><m:mn>20</m:mn><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>225</m:mn><m:mo>)</m:mo></m:mrow></m:math> m
+</item><item id="uid34"><m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math></item></list>
+Therefore we can use <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mi>t</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>g</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> to solve for the time.
+<equation id="id237020"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mi>t</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>g</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mo>-</m:mo><m:mo>(</m:mo><m:mn>20</m:mn><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>225</m:mn><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>0</m:mn><m:mo>)</m:mo></m:mrow><m:mo>×</m:mo><m:mi>t</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>×</m:mo><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>)</m:mo></m:mrow><m:mo>×</m:mo><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mo>-</m:mo><m:mn>21</m:mn><m:mo>,</m:mo><m:mn>225</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>0</m:mn><m:mo>-</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>33163</m:mn><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mi>t</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>08125</m:mn><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mspace width="3.33333pt"/><m:mi>s</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.--></para>
+        <para id="id237263">
+          <figure id="id237272">
+            <media id="id237272_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_010.png" id="id237272_onlineimage" width="136"><!-- NOTE: attribute width changes image size online (pixels). original width is 136. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_010.eps" id="id237272_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Graph of position vs. time </label>
+        <para id="id237284">The ball starts from a position of 20 m (at t = 0 s) from the ground and moves upwards until it reaches (20 + 1,225) m (at t = 0,5 s). It then falls back to 20 m (at t = 0,5 + 0,5 = 1,0 s) and then falls to the ground, <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> x = 0 m at (t = 0,5 + 2,08 = 2,58 s).</para>
+        <para id="id237299">
+          <figure id="id237302">
+            <media id="id237302_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_011.png" id="id237302_onlineimage" width="175"><!-- NOTE: attribute width changes image size online (pixels). original width is 175. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_011.eps" id="id237302_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Graph of velocity vs. time </label>
+        <para id="id237312">The ball starts off with a velocity of +4,9 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>at t = 0 s, it then reaches a velocity of 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>at t = 0,5 s. It stops and falls back to the Earth. At t = 1,0s (i.e. after a further 0,5s) it has a velocity of -4,9 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. This is the same as the initial upwards velocity but it is downwards. It carries on at constant acceleration until t = 2,58 s. In other words, the velocity graph will be a straight line.
+The final velocity of the ball can be calculated as follows:</para>
+        <equation id="id237395">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>08</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>20</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>396</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id237531">
+          <figure id="id237535">
+            <media id="id237535_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_012.png" id="id237535_onlineimage" width="261"><!-- NOTE: attribute width changes image size online (pixels). original width is 261. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_012.eps" id="id237535_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Graph of a vs t </label>
+        <para id="id237545">We chose upwards to be positive. The acceleration of the ball is downward. <m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>9</m:mn><m:mo>.</m:mo><m:mn>8</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math>. Because the acceleration is constant throughout the motion, the graph looks like this:</para>
+        <para id="id237593">
+          <figure id="id237597">
+            <media id="id237597_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_013.png" id="id237597_onlineimage" width="247"><!-- NOTE: attribute width changes image size online (pixels). original width is 247. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_013.eps" id="id237597_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1264"><title> Analysing Graphs of Projectile Motion </title>
+        <problem id="probfhsst_id1265">
+        <para id="id237632">The graph below (not drawn to scale) shows the motion of tennis ball that was thrown vertically upwards from an open window some distance from the ground. It takes the ball 0,2 s to reach its highest point before falling back to the ground. Study the graph given and calculate</para>
+        <list id="id237640" display="block" list-type="enumerated">
+          <item id="uid35">how high the window is above the ground.
+</item>
+          <item id="uid36">the time it takes the ball to reach the maximum height.
+</item>
+          <item id="uid37">the initial velocity of the ball.
+</item>
+          <item id="uid38">the maximum height that the ball reaches.
+</item>
+          <item id="uid39">the final velocity of the ball when it reaches the ground.
+</item>
+        </list>
+        <para id="id237706">
+          <figure id="id237709">
+            <media id="id237709_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_014.png" id="id237709_onlineimage" width="382"><!-- NOTE: attribute width changes image size online (pixels). original width is 382. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_014.eps" id="id237709_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id1289"> <list id="listfhsst_id1289" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Find the height of the window. </label>
+        <para id="id237737">The initial position of the ball will tell us how high the window is. From the y-axis on the graph we can see that the ball is 4 m from the ground.</para>
+        <para id="id237742">The window is therefore 4 m above the ground.</para>
+        </item> <item> <label> Find the time taken to reach the maximum height. </label>
+        <para id="id237754">The maximum height is where the position-time graph show the maximum position - the top of the curve. This is when t = 0,2 s.</para>
+        <para id="id237759">It takes the ball 0,2s to reach the maximum height.</para>
+        </item> <item> <label> Find the initial velocity (<m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub></m:math>) of the ball. </label>
+        <para id="id237786">To find the initial velocity we only look at the first part of the motion of the ball. That is from when the ball is released until it reaches its maximum height. We have the following for this: In this case, let's choose upwards as positive.</para>
+        <equation id="id237791">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>t</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>g</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> because </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> the </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> ball </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> stops </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id237953">To calculate the initial velocity of the ball (<m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub></m:math>), we use:</para>
+        <equation id="id237974">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>0</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>96</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id238116">The initial velocity of the ball is 1,96 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>upwards.</para>
+        </item> <item> <label> Find the maximum height (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math>) of the ball. </label>
+        <para id="id238167">To find the maximum height we look at the initial motion of the ball. We have the following:</para>
+        <equation id="id238171">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>t</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>g</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> because </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> the </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> ball </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> stops </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>96</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> calculated </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> above </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id238397">To calculate the displacement from the window to the maximum height (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math>) we use:</para>
+        <equation id="id238416">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mi>t</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>g</m:mi>
+                    <m:msup>
+                      <m:mi>t</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>96</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>196</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id238582">The maximum height of the ball is (4 + 0,196) = 4,196 m above the ground.</para>
+        </item> <item> <label> Find the final velocity (<m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub></m:math>) of the ball. </label>
+        <para id="id238609">To find the final velocity of the ball we look at the second part of the motion. For this we have:</para>
+        <equation id="id238613">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>196</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mo>(</m:mo>
+                    <m:mrow>
+                      <m:mi> because </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> upwards </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> is </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> positive </m:mi>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>g</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id238784">We can use <m:math overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>g</m:mi><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> to calculate the final velocity of the ball.</para>
+        <equation id="id238847">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>g</m:mi>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>196</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>82</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>2416</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>0687</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id239085">The final velocity of the ball is 9,07 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math><emphasis effect="italics">downwards</emphasis>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1959"><title> Describing Projectile Motion </title>
+        <problem id="probfhsst_id1960">
+        <para id="id239145">A cricket ball is hit by a cricketer and the following graph of velocity vs. time was drawn:</para>
+        <para id="id239152">
+          <figure id="id239155">
+            <media id="id239155_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_015.png" id="id239155_onlineimage" width="169"><!-- NOTE: attribute width changes image size online (pixels). original width is 169. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_015.eps" id="id239155_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id239162">A cricketer hits a cricket ball from the ground and the following graph of velocity vs. time was drawn. Upwards was taken as positive. Study the graph and follow the instructions below:</para>
+        <list id="id239167" display="block" list-type="enumerated">
+          <item id="uid40">Describe the motion of the ball according to the graph.
+</item>
+          <item id="uid41">Draw a sketch graph of the corresponding displacement-time graph. Label the axes.
+</item>
+          <item id="uid42">Draw a sketch graph of the corresponding acceleration-time graph. Label the axes.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id1981"> <list id="listfhsst_id1981" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Describe the motion of the ball. </label>
+        <para id="id239230">We need to study the velocity-time graph to answer this question. We will break the motion of the ball up into two time zones: t = 0 s to t = 2 s and t = 2 s to t = 4 s.</para>
+        <para id="id239235">From t = 0 s to t = 2 s the following happens:</para>
+        <para id="id239241">The ball starts to move at an initial velocity of 19,6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and decreases its velocity to 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>at t = 2 s.
+At t = 2 s the velocity of the ball is 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and therefore it stops.</para>
+        <para id="id239324">From t = 2 s to t = 4 s the following happens:</para>
+        <para id="id239329">The ball moves from a velocity of 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to 19,6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in the opposite direction to the original motion.</para>
+        <para id="id239386">If we assume that the ball is hit straight up in the air (and we take upwards as positive), it reaches its maximum height at t = 2 s, stops, turns around and falls back to the Earth to reach the ground at t = 4 s.</para>
+        </item> <item> <label> Draw the displacement-time graph. </label>
+        <para id="id239399">To draw this graph, we need to determine the displacements at t = 2 s and t = 4 s.</para>
+        <para id="id239403">At t = 2 s:</para>
+        <para id="id239408">The displacement is equal to the area under the graph:</para>
+        <para id="id239414">Area under graph = Area of triangle</para>
+        <para id="id239420">Area = <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math>bh</para>
+        <para id="id239440">Area = <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math><m:math overflow="scroll"><m:mo>×</m:mo></m:math> 2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 19,6</para>
+        <para id="id239476">Displacement = 19,6 m</para>
+        <para id="id239481">At t = 4 s:</para>
+        <para id="id239484">The displacement is equal to the area under the whole graph (top and bottom). Remember that an area under the time line must be substracted:</para>
+        <para id="id239491">Area under graph = Area of triangle 1 + Area of triangle 2</para>
+        <para id="id239497">Area = <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math>bh + <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math>bh</para>
+        <para id="id239530">Area = (<m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math><m:math overflow="scroll"><m:mo>×</m:mo></m:math> 2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 19,6) + (<m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math><m:math overflow="scroll"><m:mo>×</m:mo></m:math> 2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> (-19,6))</para>
+        <para id="id239596">Area = 19,6 - 19,6</para>
+        <para id="id239602">Displacement = 0 m</para>
+        <para id="id239607">The displacement-time graph for motion at constant acceleration is a curve. The graph will look like this:</para>
+        <para id="id239612">
+          <figure id="id239615">
+            <media id="id239615_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_016.png" id="id239615_onlineimage" width="154"><!-- NOTE: attribute width changes image size online (pixels). original width is 154. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_016.eps" id="id239615_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Draw the acceleration-time graph. </label>
+        <para id="id239626">To draw the acceleration vs. time graph, we need to know what the acceleration is. The velocity-time graph is a straight line which means that the acceleration is constant. The gradient of the line will give the acceleration.</para>
+        <para id="id239631">The line has a negative slope (goes down towards the left) which means that the acceleration has a negative value.</para>
+        <para id="id239635">Calculate the gradient of the line:</para>
+        <para id="id239639">gradient = <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>Δ</m:mi><m:mi>v</m:mi></m:mrow><m:mi>t</m:mi></m:mfrac></m:math></para>
+        <para id="id239660">gradient = <m:math overflow="scroll"><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>-</m:mo><m:mn>19</m:mn><m:mo>,</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo><m:mn>0</m:mn></m:mrow></m:mfrac></m:math></para>
+        <para id="id239693">gradient = <m:math overflow="scroll"><m:mfrac><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn><m:mo>,</m:mo><m:mn>6</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac></m:math></para>
+        <para id="id239718">gradient = -9,8</para>
+        <para id="id239723">acceleration = 9,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>downwards</para>
+        <para id="id239754">
+          <figure id="id239757">
+            <media id="id239757_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_017.png" id="id239757_onlineimage" width="148"><!-- NOTE: attribute width changes image size online (pixels). original width is 148. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_017.eps" id="id239757_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </item> </list> </solution>
+</exercise>
+        <!--empty paragraphs get left behind.-->
+<section id="secfhsst_id2035"><title> Graphs of Vertical Projectile Motion </title>
+        <list id="id239791" display="block" list-type="enumerated">
+          <item id="uid43">Amanda throws a tennisball from a height of <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>5</m:mn></m:mrow></m:math>m straight up into the air and then lets it fall to the ground. Draw graphs of <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> vs <m:math overflow="scroll"><m:mi>t</m:mi></m:math>; <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs <m:math overflow="scroll"><m:mi>t</m:mi></m:math> and <m:math overflow="scroll"><m:mi>a</m:mi></m:math> vs <m:math overflow="scroll"><m:mi>t</m:mi></m:math> for the motion of the ball. The initial velocity of the tennisball is <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. Choose upwards as positive.
+</item>
+          <item id="uid44">A bullet is shot straight upwards from a gun. The following graph is drawn. Downwards was chosen as positive
+<list id="id239923" display="block" list-type="enumerated"><item id="uid45">Describe the motion of the bullet.
+</item><item id="uid46">Draw a displacement - time graph.
+</item><item id="uid47">Draw an acceleration - time graph.
+</item></list><figure id="id239968"><media id="id239968_media" alt=""><image mime-type="image/png" src="../../media/PG12C1_018.png" id="id239968_onlineimage" width="273"><!-- NOTE: attribute width changes image size online (pixels). original width is 273. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_018.eps" id="id239968_printimage"/></media></figure></item>
+        </list>
+        
+</section>
+        
+        
+      </section>
+    </section>
+
+  </content>
+</document>

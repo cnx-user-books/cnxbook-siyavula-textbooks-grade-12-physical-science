@@ -1,0 +1,267 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Sasol</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39484</md:content-id>
+  <md:title>Sasol</md:title>
+  <md:abstract/>
+  <md:uuid>4733ff32-a845-42bb-b98d-37a346da5cce</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id199571">The chemical industry has been around for a very long time, but not always in the way we think of it today! Dyes, perfumes, medicines and soaps are all examples of products that have been made from chemicals that are found in either plants or animals. However, it was not until the time of the Industrial Revolution that the chemical industry as we know it today began to develop. At the time of the Industrial Revolution, the human population began to grow very quickly and more and more people moved into the cities to live. With this came an increase in the need for things like paper, glass, textiles and soaps. On the farms, there was a greater demand for fertilisers to help produce enough food to feed all the people in cities and rural areas. Chemists and engineers responded to these growing needs by using their technology to produce a variety of new chemicals. This was the start of the chemical industry.</para>
+      <para id="id199582">In South Africa, the key event that led to the growth of the chemical industry was the discovery of diamonds and gold in the late 1800's. Mines needed explosives so that they could reach the diamonds and gold-bearing rock, and many of the main chemical companies in South Africa developed to meet this need for explosives. In this chapter, we are going to take a closer look at one of South Africa's major chemical companies, <emphasis effect="bold">Sasol</emphasis>, and will also explore the <emphasis effect="bold">chloralkali</emphasis> and <emphasis effect="bold">fertiliser</emphasis> industries.</para>
+    </section>
+    <section id="cid3">
+      <title>Sasol</title>
+      <para id="id199954"><emphasis effect="bold">Oil and natural gas</emphasis> are important fuel resources. Unfortunately, South Africa has no large oil reserves and, until recently, had very little natural gas. One thing South Africa <emphasis effect="italics">does</emphasis> have however, is large supplies of <emphasis effect="bold">coal</emphasis>. Much of South Africa's chemical industry has developed because of the need to produce oil and gas from coal, and this is where Sasol has played a very important role.</para>
+      <para id="id199975">Sasol was established in 1950, with its main aim being to convert low grade coal into petroleum (crude oil) products and other chemical feedstocks. A 'feedstock' is something that is used to make another product. Sasol began producing oil from coal in 1955.</para>
+<note id="notfhsst_id75"><title> Interesting Fact </title>
+      <para id="id199988">The first interest in coal chemistry started as early as the 1920's. In the early 1930's a research engineer called Etienne Rousseau was employed to see whether oil could be made from coal using a new German technology called the <emphasis effect="bold">Fischer-Tropsch</emphasis> process. After a long time, and after many negotiations, Rousseau was given the rights to operate a plant using this new process. As a result, the government-sponsored 'South African Coal, Oil and Gas Corporation Ltd' (commonly called 'Sasol') was formed in 1950 to begin making oil from coal. A manufacturing plant was established in the Free State and the town of <emphasis effect="bold">Sasolburg</emphasis> developed around this plant. Production began in 1955. In 1969, the <emphasis effect="bold">Natref</emphasis> crude oil refinery was established, and by 1980 and 1982 Sasol Two and Sasol Three had been built at <emphasis effect="bold">Secunda</emphasis>.</para>
+</note>
+      <section id="uid1">
+        <title>Sasol today: Technology and production</title>
+        <para id="id200034">Today, Sasol is an oil and gas company with diverse chemical interests. Sasol has three main areas of operation: Firstly, <emphasis effect="bold">coal to liquid fuels technology</emphasis>, secondly the production of <emphasis effect="bold">crude oil</emphasis> and thirdly the conversion of <emphasis effect="bold">natural gas to liquid fuel</emphasis>.</para>
+        <list id="id200054" display="block" list-type="enumerated">
+          <item id="uid2"><emphasis effect="bold">Coal to liquid fuels</emphasis>
+Sasol is involved in mining coal and converting it into synthetic fuels, using the <emphasis effect="bold">Fischer-Tropsch</emphasis> technology. <link target-id="uid3"/> is a simplified diagram of the process that is involved.
+<figure id="uid3"><media id="uid3_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_001.png" id="uid3_onlineimage" width="877"><!-- NOTE: attribute width changes image size online (pixels). original width is 877. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_001.eps" id="uid3_printimage"/></media><caption>The gasification of coal to produce liquid fuels</caption></figure><emphasis effect="bold">Coal gasification</emphasis> is also known as the <emphasis effect="bold">Sasol/Lurgi</emphasis> gasification process, and involves converting low grade coal to a synthesis gas. Low grade coal has a low percentage carbon, and contains other impurities. The coal is put under extremely high pressure and temperature in the presence of steam and oxygen. The gas that is produced has a high concentration of hydrogen (<m:math overflow="scroll"><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:math>) and carbon monoxide (CO). That is why it is called a 'synthesis gas', because it is a mixture of more than one gas.
+In the <emphasis effect="bold">Sasol Advanced Synthol (SAS) reactors</emphasis>, the gas undergoes a high temperature Fischer-Tropsch conversion. Hydrogen and carbon monoxide react under high pressure and temperature and in the presence of an iron catalyst, to produce a range of hydrocarbon products. Below is the generalised equation for the process. Don't worry too much about the numbers that you see in front of the reactants and products. It is enough just to see that the reaction of hydrogen and carbon monoxide (the two gases in the <emphasis effect="italics">synthesis gas</emphasis>) produces a hydrocarbon and water.
+<m:math overflow="scroll"><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mi mathvariant="normal">n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi> nCO </m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mi mathvariant="normal">n</m:mi></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mi> nH </m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math>
+
+A range of hydrocarbons are produced, including petrol, diesel, jet fuel, propane, butane, ethylene, polypropylene, alcohols and acetic acids.
+<note id="notfhsst_id89" type="tip"><emphasis effect="bold">Different types of fuels</emphasis>
+It is important to understand the difference between types of fuels and the terminology that is used for them. The table below summarises some of the fuels that will be mentioned in this chapter.
+
+<table id="id200260" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Compound</emphasis></entry><entry><emphasis effect="bold">Description</emphasis></entry></row><row><entry>Petroleum (crude oil)</entry><entry>A naturally occurring liquid that forms in the earth's lithosphere (see Grade 11 notes). It is a mixture of hydrocarbons, mostly alkanes, ranging from C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>12</m:mn></m:msub></m:math> to C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>18</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>38</m:mn></m:msub></m:math>.</entry></row><row><entry>Natural gas</entry><entry>Natural gas has the same origin as petroleum, but is made up of shorter hydrocarbon chains.</entry></row><row><entry>Paraffin wax</entry><entry>This is made up of longer hydrocarbon chains, making it a solid compound.</entry></row><row><entry>Petrol (gasoline)</entry><entry>A liquid fuel that is derived from petroleum, but which contains extra additives to increase the octane rating of the fuel. Petrol is used as a fuel in combustion engines.</entry></row><row><entry>Diesel</entry><entry>Diesel is also derived from petroleum, but is used in diesel engines.</entry></row><row><entry>Liquid Petroleum Gas (LPG)</entry><entry>LPG is a mixture of hydrocarbon gases, and is used as a fuel in heating appliances and vehicles. Some LPG mixtures contain mostly propane, while others are mostly butane. LPG is manufactured when crude oil is refined, or is extracted from natural gas supplies in the ground.</entry></row><row><entry>Paraffin</entry><entry>This is a technical name for the alkanes, but refers specifically to the <emphasis effect="italics">linear</emphasis> alkanes. <emphasis effect="italics">Isoparaffin</emphasis> refers to non-linear (branched) alkanes.</entry></row><row><entry>Jet fuel</entry><entry>A type of aviation fuel designed for use in jet engined aircraft. It is an oil-based fuel and contains additives such as antioxidants, corrosion inhibitors and icing inhibitors.</entry></row></tbody></tgroup></table>
+</note>You will notice in the diagram that Sasol doesn't only produce liquid fuels, but also a variety of other chemical products. Sometimes it is the synthetic fuels themselves that are used as feedstocks to produce these chemical products. This is done through processes such as <emphasis effect="bold">hydrocracking</emphasis> and <emphasis effect="bold">steamcracking</emphasis>. Cracking is when heavy hydrocarbons are converted to simpler light hydrocarbons (e.g. LPG and petrol) through the breaking of C-C bonds. A heavy hydrocarbon is one that has a high number of hydrogen and carbon atoms (more solid), and a light hydrocarbon has fewer hydrogen and carbon atoms and is either a liquid or a gas.
+<definition id="fhsst_id95"><term id="termfhsst_id95"> Hydrocracking </term> <meaning id="meaningfhsst_id95">
+Hydrocracking is a cracking process that is assisted by the presence of an elevated partial pressure of hydrogen gas. It produces chemical products such as ethane, LPG, isoparaffins, jet fuel and diesel.
+ 
+</meaning></definition><definition id="fhsst_id99"><term id="termfhsst_id99"> Steam cracking </term> <meaning id="meaningfhsst_id99">
+Steam cracking occurs under very high temperatures. During the process, a liquid or gaseous hydrocarbon is diluted with steam and then briefly heated in a furnace at a temperature of about <m:math overflow="scroll"><m:mrow><m:msup><m:mn>850</m:mn><m:mrow><m:mi>c</m:mi><m:mi>i</m:mi><m:mi>r</m:mi><m:mi>c</m:mi></m:mrow></m:msup><m:mi>C</m:mi></m:mrow></m:math>. Steam cracking is used to convert <emphasis effect="italics">ethane</emphasis> to <emphasis effect="italics">ethylene</emphasis>. Ethylene is a chemical that is needed to make plastics. Steam cracking is also used to make propylene, which is an important fuel gas.
+ 
+</meaning></definition></item>
+          <item id="uid4"><emphasis effect="bold">Production of crude oil</emphasis>
+Sasol obtains crude oil off the coast of Gabon (a country in West Africa) and refines this at the Natref refinery (<link target-id="uid5"/>). Sasol also sells liquid fuels through a number of service stations.
+<figure id="uid5"><media id="uid5_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_002.png" id="uid5_onlineimage" width="732"><!-- NOTE: attribute width changes image size online (pixels). original width is 732. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_002.eps" id="uid5_printimage"/></media><caption>Crude oil is refined at Sasol's Natref refinery to produce liquid fuels</caption></figure></item>
+          <item id="uid6"><emphasis effect="bold">Liquid fuels from natural gas</emphasis>
+Sasol produces natural gas in Mozambique and is expanding its 'gas to fuel' technology. The gas undergoes a complex process to produce linear-chained hydrocarbons such as waxes and paraffins (<link target-id="uid7"/>).
+<figure id="uid7"><media id="uid7_media" alt=""><image mime-type="image/png" src="../../media/CG12C5_003.png" id="uid7_onlineimage" width="786"><!-- NOTE: attribute width changes image size online (pixels). original width is 786. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG12C5_003.eps" id="uid7_printimage"/></media><caption>Conversion of natural gas to liquid fuels</caption></figure>
+In the <emphasis effect="bold">autothermal reactor</emphasis>, methane from natural gas reacts with steam and oxygen over an iron-based catalyst to produce a <emphasis effect="italics">synthesis gas</emphasis>. This is a similar process to that involved in coal gasification. The oxygen is produced through the <emphasis effect="bold">fractional distillation of air</emphasis>.
+<definition id="fhsst_id111"><term id="termfhsst_id111"> Fractional distillation </term> <meaning id="meaningfhsst_id111">
+Fractional distillation is the separation of a mixture into its component parts, or fractions. Since air is made up of a number of gases (with the major component being nitrogen), fractional distillation can be used to separate it into these different parts.
+ 
+</meaning></definition>The syngas is then passes through a <emphasis effect="bold">Sasol Slurry Phase Distillate (SSPD)</emphasis> process. In this process, the gas is reacted at far lower temperatures than in the SAS reactors. Apart from hard wax and candle wax, high quality diesel can also be produced in this process. Residual gas from the SSPD process is sold as pipeline gas while some of the lighter hydrocarbons are treated to produce kerosene and paraffin. Ammonia is also produced, which can be used to make fertilisers.
+</item>
+        </list>
+<note id="notfhsst_id118"><title> Interesting Fact </title>
+        <para id="id200745">Sasol is a major player in the emerging Southern African natural gas industry, after investing 1.2 billion US dollars to develop onshore gas fields in central Mozambique. Sasol has been supplying natural gas from Mozambique's Temane field to customers in South Africa since 2004.</para>
+</note>
+<section id="secfhsst_id121"><title> Sasol processes
+        </title>
+        <para id="id200770">
+          <emphasis effect="italics">Refer to the diagrams summarising the three main Sasol processes, and use these to answer the following questions:</emphasis>
+        </para>
+        <para id="id200779"/>
+        <list id="id200786" display="block" list-type="enumerated">
+          <item id="uid8">Explain what is meant by each of the following terms:
+<list id="id200801" display="block" list-type="enumerated"><item id="uid9">crude oil
+</item><item id="uid10">hydrocarbon
+</item><item id="uid11">coal gasification
+</item><item id="uid12">synthetic fuel
+</item><item id="uid13">chemical feedstock
+</item></list></item>
+          <item id="uid14">
+            <list id="id200869" display="block" list-type="enumerated">
+              <item id="uid15">What is diesel?
+</item>
+              <item id="uid16">Describe two ways in which diesel can be produced.
+</item>
+            </list>
+          </item>
+          <item id="uid17">Describe one way in which lighter chemical products such as ethylene, can be produced.
+</item>
+          <item id="uid18">Coal and oil play an important role in Sasol's technology.
+<list id="id200920" display="block" list-type="enumerated"><item id="uid19">In the table below, summarise the similarities and differences between coal, oil and natural gas in terms of how they are formed ('origin'), their general chemical formula and whether they are solid, liquid or gas.
+<table id="id200937" summary=""><tgroup cols="4"><tbody><row><entry/><entry>Coal</entry><entry>Oil</entry><entry>Natural gas</entry></row><row><entry>Origin</entry><entry/><entry/><entry/></row><row><entry>General chemical formula</entry><entry/><entry/><entry/></row><row><entry>Solid, liquid or gas</entry><entry/><entry/><entry/></row></tbody></tgroup></table></item><item id="uid20">In your own words, describe how coal is converted into liquid fuels.
+</item><item id="uid21">Explain why Sasol's 'coal to liquid fuels' technology is so important in meeting South Africa's fuel needs.
+</item><item id="uid22">Low grade coal is used to produce liquid fuels. What is the main use of higher grade coal in South Africa?
+</item></list></item>
+        </list>
+        
+</section>
+<section id="secfhsst_id154"><title> Case Study : Safety issues and risk assessments
+        </title>
+        <para id="id201142">Safety issues are important to consider when dealing with industrial processes. Read the following extract that appeared in the Business report on 6th February 2006, and then discuss the questions that follow.</para>
+        <para id="id201150">
+          <quote id="id201150_quote" display="block">Cape Town - Sasol, the petrochemicals group, was likely to face prosecution on 10 charges of culpable homicide after an explosion at its Secunda plant in 2004 in which 10 people died, a Cape Town labour law specialist said on Friday.
+The specialist, who did not want to be named, was speaking after the inquiry into the explosion was concluded last Tuesday. It was convened by the labour department.</quote>
+        </para>
+        <para id="id201161">
+          <quote id="id201161_quote" display="block">The evidence led at the inquiry showed a failure on the part of the company to conduct a proper risk assessment and that:
+Sasol failed to identify hazards associated with a high-pressure gas pipeline running through the plant, which had been shut for extensive maintenance work, in the presence of hundreds of people and numerous machines, including cranes, fitters, contractors, and welding and cutting machines. Because there had never been a risk assessment, the hazard of the high-pressure pipeline had never been identified.</quote>
+        </para>
+        <para id="id201171">
+          <quote id="id201171_quote" display="block">Because Sasol had failed to identify the risk, it did not take any measures to warn people about it, mark the line or take precautions. There had also been inadequacy in planning the shutdown work. In the face of a barrage of criticism for the series of explosions that year, Sasol embarked on a comprehensive programme to improve safety at its operations and appointed Du Pont Safety Resources, the US safety consultancy, to benchmark the petrochemical giant's occupational health and safety performance against international best practice.</quote>
+        </para>
+        <list id="id199860" display="block" list-type="enumerated">
+          <item id="uid23">Explain what is meant by a 'risk assessment'.
+</item>
+          <item id="uid24">Imagine that you have been asked to conduct a risk assessment of the Sasol/Lurgi gasification process. What information would you need to know in order to do this assessment?
+</item>
+          <item id="uid25">In groups, discuss the importance of each of the following in ensuring the safety of workers in the chemical industry:
+<list id="id199902" display="block" list-type="bulleted"><item id="uid26">employing experienced Safety, Health and Environment personnel
+</item><item id="uid27">regular training to identify hazards
+</item><item id="uid28">equipment maintenance and routine checks
+</item></list></item>
+          <item id="uid29">What other precautions would you add to this list to make sure that working conditions are safe?
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid30">
+        <title>Sasol and the environment</title>
+        <para id="id201366">From its humble beginnings in 1950, Sasol has grown to become a major contributor towards the South African economy. Today, the industry produces more than 150 000 barrels of fuels and petrochemicals per day, and meets more than 40% of South Africa's liquid fuel requirements. In total, more than 200 fuel and chemical products are manufactured at Sasolburg and Secunda, and these products are exported to over 70 countries worldwide. This huge success is largely due to Sasol's ability to diversify its product base. The industry has also helped to provide about 170 000 jobs in South Africa, and contributes around R40 billion to the country's Gross Domestic Product (GDP).</para>
+        <para id="id201375">However, despite these obvious benefits, there are always environmental costs associated with industry. Apart from the vast quantities of resources that are needed in order for the industry to operate, the production process itself produces waste products and pollutants.</para>
+<section id="secfhsst_id188"><title> Consumption of resources
+        </title>
+        <para id="id201396">Any industry will always use up huge amounts of resources in order to function effectively, and the chemical industry is no exception. In order for an industry to operate, some of the major resources that are needed are <emphasis effect="bold">energy</emphasis> to drive many of the processes, <emphasis effect="bold">water</emphasis>, either as a coolant or as part of a process and <emphasis effect="bold">land</emphasis> for mining or operations.</para>
+        <para id="id201422">Refer to the data table below which shows Sasol's water use between 2002 and 2005 (<emphasis effect="italics">Sasol Sustainable Development Report 2005</emphasis>), and answer the questions that follow.</para>
+        <table id="id201435" summary="">
+          <tgroup cols="5">
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Water use</emphasis> (<m:math overflow="scroll"><m:mrow><m:mn>1000</m:mn><m:msup><m:mi>m</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math>)</entry>
+                <entry>2002</entry>
+                <entry>2003</entry>
+                <entry>2004</entry>
+                <entry>2005</entry>
+              </row>
+              <row>
+                <entry>River water</entry>
+                <entry>113 722</entry>
+                <entry>124 179</entry>
+                <entry>131 309</entry>
+                <entry>124 301</entry>
+              </row>
+              <row>
+                <entry>Potable water</entry>
+                <entry>15 126</entry>
+                <entry>10 552</entry>
+                <entry>10 176</entry>
+                <entry>10 753</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Total</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">157 617</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">178 439</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">173 319</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">163 203</emphasis>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id201668" display="block" list-type="enumerated">
+          <item id="uid31">Explain what is meant by 'potable' water.
+</item>
+          <item id="uid32">Describe the trend in Sasol's water use that you see in the above statistics.
+</item>
+          <item id="uid33">Suggest possible reasons for this trend.
+</item>
+          <item id="uid34">List some of the environmental impacts of using large amounts of river water for industry.
+</item>
+          <item id="uid35">Suggest ways in which these impacts could be reduced
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id251"><title> Industry and the environment
+        </title>
+        <para id="id201757">Large amounts of gases and pollutants are released during production, and when the fuels themselves are used. Refer to the table below, which shows greenhouse gas and atmospheric pollution data for Sasol between 2002 and 2005, and then answer the questions that follow. (<emphasis effect="italics">Source: Sasol Sustainable Development Report 2005</emphasis>)</para>
+        <table id="id201771" summary="">
+          <tgroup cols="5">
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Greenhouse gases and air pollutants</emphasis> (kilotonnes)</entry>
+                <entry>2002</entry>
+                <entry>2003</entry>
+                <entry>2004</entry>
+                <entry>2005</entry>
+              </row>
+              <row>
+                <entry>Carbon dioxide (<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>)</entry>
+                <entry>57 476</entry>
+                <entry>62 873</entry>
+                <entry>66 838</entry>
+                <entry>60 925</entry>
+              </row>
+              <row>
+                <entry>Hydrogen sulfide (<m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>S</m:mi></m:mrow></m:math>)</entry>
+                <entry>118</entry>
+                <entry>105</entry>
+                <entry>102</entry>
+                <entry>89</entry>
+              </row>
+              <row>
+                <entry>Nitrogen oxides (<m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mi>x</m:mi></m:msub></m:mrow></m:math>)</entry>
+                <entry>168</entry>
+                <entry>173</entry>
+                <entry>178</entry>
+                <entry>166</entry>
+              </row>
+              <row>
+                <entry>Sulfur dioxide (<m:math overflow="scroll"><m:mrow><m:mi>S</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>)</entry>
+                <entry>283</entry>
+                <entry>239</entry>
+                <entry>261</entry>
+                <entry>222</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id202256" display="block" list-type="enumerated">
+          <item id="uid36">Draw line graphs to show how the quantity of each pollutant produced has changed between 2002 and 2005.
+</item>
+          <item id="uid37">Describe what you see in the graphs, and suggest a reason for this trend.
+</item>
+          <item id="uid38">Explain what is meant by each of the following terms:
+<list id="id202297" display="block" list-type="enumerated"><item id="uid39">greenhouse gas
+</item><item id="uid40">global warming
+</item></list></item>
+          <item id="uid41">Describe some of the possible effects of global warming.
+</item>
+          <item id="uid42">When sulfur dioxide is present in the atmosphere, it may react with water vapour to produce <emphasis effect="italics">sulfuric acid</emphasis>. In the same way, nitrogen dioxide and water vapour react to form <emphasis effect="italics">nitric acid</emphasis>. These reactions in the atmosphere may cause <emphasis effect="bold">acid rain</emphasis>. Outline some of the possible consequences of acid rain.
+</item>
+          <item id="uid43">Many industries are major contributors towards environmental problems such as global warming, environmental pollution, over-use of resources and acid rain. Industries are in a difficult position: On one hand they must meet the ever increasing demands of society, and on the other, they must achieve this with as little environmental impact as possible. This is a huge challenge.
+<list id="id202385" display="block" list-type="bulleted"><item id="uid44">Work in groups of 3-4 to discuss ways in which industries could be encouraged (or in some cases forced) to reduce their environmental impact.
+</item><item id="uid45">Elect a spokesperson for each group, who will present your ideas to the class.
+</item><item id="uid46">Are the ideas suggested by each group practical?
+</item><item id="uid47">How easy or difficult do you think it would be to implement these ideas in South Africa?
+</item></list></item>
+        </list>
+        
+</section>
+<note id="notfhsst_id318"><title> Interesting Fact </title>
+        <para id="id202455">Sasol is very aware of its responsibility towards creating cleaner fuels. From 1st January 2006, the South African government enforced a law to prevent lead from being added to petrol. Sasol has complied with this. One branch of Sasol, <emphasis effect="bold">Sasol Technology</emphasis> also has a bio-diesel research and development programme focused on developing more environmentally friendly forms of diesel. One way to do this is to use renewable resources such as soybeans to make diesel. Sasol is busy investigating this new technology.</para>
+</note>
+      </section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,612 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Diffraction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39491</md:content-id>
+  <md:title>Diffraction</md:title>
+  <md:abstract/>
+  <md:uuid>2a765adc-6620-4283-a99e-4071a81a3dd7</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Diffraction</title>
+      <para id="id62948">One of the most interesting, and also very useful, properties of waves is <emphasis effect="bold">diffraction</emphasis>.</para>
+<definition id="fhsst_id188"><term id="termfhsst_id188"> Diffraction </term> <meaning id="meaningfhsst_id188">
+      <para id="id62963">Diffraction is the ability of a wave to spread out in wavefronts as the wave passes through a small aperture or around a sharp edge. </para>
+      </meaning></definition>
+<section id="secfhsst_id191"><title> Diffraction </title>
+      <para id="id62980">Diffraction refers to various phenomena associated with wave propagation, such as the bending, spreading and interference of waves emerging from an aperture. It occurs with any type of wave, including sound waves, water waves, electromagnetic waves such as light and radio waves. While diffraction always occurs, its effects are generally only noticeable for waves where the wavelength is on the order of the feature size of the diffracting objects or apertures. </para>
+</section>
+      <para id="id62995">For example, if two rooms are connected by an open doorway and a sound is produced in a remote corner of one of them, a person in the other room will hear the sound as if it originated at the doorway.</para>
+      <para id="id63000">
+        <figure id="id63003">
+          <media id="id63003_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C6_009.png" id="id63003_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_009.eps" id="id63003_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id63009">As far as the second room is concerned, the vibrating air in the doorway is the source of the sound. The same is true of light passing the edge of an obstacle, but this is not as easily observed because of the short wavelength of visible light.</para>
+      <para id="id63014">This means that when waves move through small holes they appear to bend around the sides because there are not enough points on the wavefront to form another straight wavefront. This is bending round the sides we call <emphasis effect="italics">diffraction</emphasis>.</para>
+<section id="secfhsst_id205"><title> Diffraction </title>
+      <para id="id63031">Diffraction effects are more clear for water waves with longer wavelengths. Diffraction can be demonstrated by placing small barriers and obstacles in a ripple tank and observing the path of the water waves as they encounter the obstacles. The waves are seen to pass around the barrier into the regions behind it; subsequently the water behind the barrier is disturbed. The amount of diffraction (the sharpness of the bending) increases with increasing wavelength and decreases with decreasing wavelength. In fact, when the wavelength of the waves are smaller than the obstacle, no noticeable diffraction occurs. </para>
+</section>
+<section id="secfhsst_id208"><title> Experiment : Diffraction </title>
+      <para id="id62486">Water waves in a ripple tank can be used to demonstrate diffraction and interference.</para>
+      <list id="id62492" display="block" list-type="bulleted">
+        <item id="uid6">Turn on the wave generator so that it produces waves with a high frequency (short wavelength).
+<list id="id62507" display="block" list-type="bulleted"><item id="uid7">Place a few obstacles, one at a time, (e.g. a brick or a ruler) in the ripple tank. What happens to the wavefronts as they propagate near/past the obstacles? Draw your observations.
+</item><item id="uid8">How does the diffraction change when you change the size of the object?
+</item></list></item>
+        <item id="uid9">Now turn down the frequency of the wave generator so that it produces waves with longer wavelengths.
+<list id="id63185" display="block" list-type="bulleted"><item id="uid10">Place the same obstacles in the ripple tank (one at a time). What happens to the wavefronts as they propagate near/past the obstacles? Draw your observations.
+</item><item id="uid11">How does the diffraction change from the higher frequency case?
+</item></list></item>
+        <item id="uid12">Remove all obstacles from the ripple tank and insert a second wave generator. Turn on both generators so that they start at the same time and have the same frequency.
+<list id="id63227" display="block" list-type="bulleted"><item id="uid13">What do you notice when the two sets of wavefronts meet each other?
+</item><item id="uid14">Can you identify regions of constructive and destructive interference?
+</item></list></item>
+        <item id="uid15">Now turn on the generators so that they are out of phase (i.e. start them so that they do not make waves at exactly the same time).
+<list id="id63267" display="block" list-type="bulleted"><item id="uid16">What do you notice when the two sets of wavefronts meet each other?
+</item><item id="uid17">Can you identify regions of constructive and destructive interference?
+</item></list></item>
+      </list>
+      
+</section>
+      <section id="uid18">
+        <title>Diffraction through a Slit</title>
+        <para id="id63313">When a wave strikes a barrier with a hole only part of the wave can move through the hole. If the hole is similar in size to the wavelength of the wave then diffraction occurs. The waves that come through the hole no longer looks like a straight wave front. It bends around the edges of the hole. If the hole is small enough it acts like a point source of circular waves.</para>
+        <para id="id63320">Now if we allow the wavefront to impinge on a barrier with a hole in it, then only the points on the wavefront that move into the hole can continue emitting forward moving waves - but because a lot of the wavefront has been removed, the points on the edges of the hole emit waves that bend round the edges.</para>
+        <para id="id63326">
+          <figure id="id63329">
+            <media id="id63329_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_010.png" id="id63329_onlineimage" width="213"><!-- NOTE: attribute width changes image size online (pixels). original width is 213. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_010.eps" id="id63329_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63335">If you employ Huygens' principle you can see the effect is that the wavefronts are no longer straight lines.</para>
+        <para id="id63339">
+          <figure id="id63342">
+            <media id="id63342_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_011.png" id="id63342_onlineimage" width="59"><!-- NOTE: attribute width changes image size online (pixels). original width is 59. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_011.eps" id="id63342_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63348">Each point of the slit acts like a point source. If we think about the two point sources on the edges of the slit and call them A and B then we can go back to the diagram we had earlier but with some parts blocked by the wall.</para>
+        <para id="id63353">
+          <figure id="id63356">
+            <media id="id63356_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_012.png" id="id63356_onlineimage" width="229"><!-- NOTE: attribute width changes image size online (pixels). original width is 229. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_012.eps" id="id63356_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63363">If this diagram were showing sound waves then the sound would be louder (constructive interference) in some places and quieter (destructive interference) in others. You can start to see that there will be a pattern (interference pattern) to the louder and quieter places. If we were studying light waves then the light would be brighter in some places than others depending on the interference.</para>
+        <para id="id63369">The intensity (how bright or loud) of the interference pattern for a single narrow slit looks like this:</para>
+        <para id="id63374">
+          <figure id="id63377">
+            <media id="id63377_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_013.png" id="id63377_onlineimage" width="287"><!-- NOTE: attribute width changes image size online (pixels). original width is 287. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_013.eps" id="id63377_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63383">The picture above shows how the waves add together to form the interference pattern. The peaks correspond to places where the waves are adding most intensely and the minima are places where destructive interference is taking place. When looking at interference patterns from light the spectrum looks like:</para>
+        <para id="id63389">
+          <figure id="id63392">
+            <media id="id63392_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_014.png" id="id63392_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 350. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_014.eps" id="id63392_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63398">There is a formula we can use to determine where the peaks and minima are in the interference spectrum. There will be more than one minimum. There are the same number of minima on either side of the central peak and the distances from the first one on each side are the same to the peak. The distances to the peak from the second minimum on each side is also the same, in fact the two sides are mirror images of each other. We label the first minimum that corresponds to a positive angle from the centre as <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> and the first on the other side (a negative angle from the centre) as <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math>, the second set of minima are labelled <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:math> etc.</para>
+        <para id="id63463">
+          <figure id="id63466">
+            <media id="id63466_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_016.png" id="id63466_onlineimage" width="159"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_016.eps" id="id63466_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63472">The equation for the angle at which the minima occur is given in the definition below:</para>
+<definition id="fhsst_id289"><term id="termfhsst_id289"> Interference Minima </term> <meaning id="meaningfhsst_id289">
+        <para id="id63482">The angle at which the minima in the interference spectrum occur is:</para>
+        <equation id="id63488">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id63515">where</para>
+        <para id="id63520"><m:math overflow="scroll"><m:mi>θ</m:mi></m:math> is the angle to the minimum</para>
+        <para id="id63532"><m:math overflow="scroll"><m:mi>a</m:mi></m:math> is the width of the slit</para>
+        <para id="id63544"><m:math overflow="scroll"><m:mi>λ</m:mi></m:math> is the wavelength of the impinging wavefronts</para>
+        <para id="id63557"><m:math overflow="scroll"><m:mi>m</m:mi></m:math> is the order of the mimimum, <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mo>±</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mo>±</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mo>±</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo></m:mrow></m:math>
+ </para>
+        </meaning></definition>
+<exercise id="secfhsst_id314"><title> Diffraction Minimum I </title>
+        <problem id="probfhsst_id315">
+        <para id="id63623">A slit with a width of 2511 nm has red light of wavelength 650 nm impinge on it. The diffracted light interferes on a surface. At which angle will the first minimum be?  </para>
+        </problem>
+        <solution id="solfhsst_id318"> <list id="listfhsst_id318" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you are given </label>
+        <para id="id63646">We know that we are dealing with interference patterns from the diffraction of light passing through a slit. The slit has a width of 2511 nm which is <m:math overflow="scroll"><m:mrow><m:mn>2511</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> and we know that the wavelength of the light is 650 nm which is <m:math overflow="scroll"><m:mrow><m:mn>650</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>. We are looking to determine the angle to first minimum so we know that <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>.</para>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id63907">We know that there is a relationship between the slit width, wavelength and interference minimum angles:</para>
+        <equation id="id63912">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id63938">We can use this relationship to find the angle to the minimum by substituting what we know and solving for the angle.</para>
+        </item> <item> <label> Substitution </label>
+        <equation id="id63949">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>650</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>2511</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>650</m:mn>
+                    <m:mn>2511</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>258861012</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>258861012</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mn>15</m:mn>
+                    <m:mi>o</m:mi>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id64123">The first minimum is at 15 degrees from the centre peak.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id461"><title> Diffraction Minimum II </title>
+        <problem id="probfhsst_id462">
+        <para id="id64152">A slit with a width of 2511 nm has green light of wavelength 532 nm impinge on it. The diffracted light interferers on a surface, at what angle will the first minimum be?  </para>
+        </problem>
+        <solution id="solfhsst_id465"> <list id="listfhsst_id465" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you are given </label>
+        <para id="id64175">We know that we are dealing with interference patterns from the diffraction of light passing through a slit. The slit has a width of 2511 nm which is <m:math overflow="scroll"><m:mrow><m:mn>2511</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> and we know that the wavelength of the light is 532 nm which is <m:math overflow="scroll"><m:mrow><m:mn>532</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>. We are looking to determine the angle to first minimum so we know that <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>.</para>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id64256">We know that there is a relationship between the slit width, wavelength and interference minimum angles:</para>
+        <equation id="id64260">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64288">We can use this relationship to find the angle to the minimum by substituting what we know and solving for the angle.</para>
+        </item> <item> <label> Substitution </label>
+        <equation id="id64298">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>532</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>2511</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>532</m:mn>
+                    <m:mn>2511</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>211867782</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>211867782</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>12</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mn>2</m:mn>
+                      <m:mi>o</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id64485">The first minimum is at 12.2 degrees from the centre peak.
+ </para>
+        </item> </list> </solution>
+</exercise>
+        <para id="id64502">From the formula <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>λ</m:mi></m:mrow><m:mi>a</m:mi></m:mfrac></m:mrow></m:math> you can see that a smaller wavelength for the same slit results in a smaller angle to the interference minimum. This is something you just saw in the two worked examples. Do a sanity check, go back and see if the answer makes sense. Ask yourself which light had the longer wavelength, which light had the larger angle and what do you expect for longer wavelengths from the formula.</para>
+<exercise id="secfhsst_id613"><title> Diffraction Minimum III </title>
+        <problem id="probfhsst_id614">
+        <para id="id64549">A slit has a width which is unknown and has green light of wavelength 532 nm impinge on it. The diffracted light interferers on a surface, and the first minimum is measure at an angle of 20.77 degrees?  </para>
+        </problem>
+        <solution id="solfhsst_id617"> <list id="listfhsst_id617" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you are given </label>
+        <para id="id64574">We know that we are dealing with interference patterns from the diffraction of light passing through a slit. We know that the wavelength of the light is 532 nm which is <m:math overflow="scroll"><m:mrow><m:mn>532</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>. We know the angle to first minimum so we know that <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:mn>20</m:mn><m:mo>.</m:mo><m:msup><m:mn>77</m:mn><m:mi mathvariant="normal">o</m:mi></m:msup></m:mrow></m:math>.</para>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id64654">We know that there is a relationship between the slit width, wavelength and interference minimum angles:</para>
+        <equation id="id64658">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64686">We can use this relationship to find the width by substituting what we know and solving for the width.</para>
+        </item> <item> <label> Substitution </label>
+        <equation id="id64696">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>532</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mi>a</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mn>20</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mn>77</m:mn>
+                      <m:mi>o</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>532</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>a</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>532</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>354666667</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1500</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1500</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi> nm </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id64895">The slit width is 1500 nm.
+ </para>
+        </item> </list> </solution>
+</exercise>
+      </section><para id="eip-945"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/wave-interference-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/wave-interference-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/wave-interference/wave-interference_en.jnlp">run demo</link></para>
+    </section>
+
+  </content>
+</document>

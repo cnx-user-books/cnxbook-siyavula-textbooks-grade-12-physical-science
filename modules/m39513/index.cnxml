@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Penetrating ability</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39513</md:content-id>
+  <md:title>Penetrating ability</md:title>
+  <md:abstract/>
+  <md:uuid>7ad16039-3967-435a-b125-489f9dbf8a89</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Penetrating ability of electromagnetic radiation</title>
+      <para id="id189450">Different kinds of electromagnetic radiation have different penetrabilities. For example, if we take the human body as the object. Infrared light is emitted by the human body. Visible light is reflected off the surface of the human body, ultra-violet light (from sunlight) damages the skin, but X-rays are able to penetrate the skin and bone and allow for pictures of the inside of the human body to be taken.</para>
+      <para id="id189457">If we compare the energy of visible light to the energy of X-rays, we find that X-rays have a much higher energy. Usually, kinds of electromagnetic radiation with higher energy have higher penetrabilities than those with low energies.</para>
+      <para id="id189462">Certain kinds of electromagnetic radiation such as ultra-violet radiation, X-rays and gamma rays are very dangerous. Radiation such as these are called ionising radiation. Ionising radiation transfers energy as it passes through matter, breaking molecular bonds and creating ions.</para>
+      <para id="id189468">Excessive exposure to radiation, including sunlight, X-rays and all nuclear radiation, can cause destruction of biological tissue.</para>
+      <section id="uid17">
+        <title>Ultraviolet(UV) radiation and the skin</title>
+        <para id="id189482">UVA and UVB are different ranges of frequencies for ultraviolet (UV) light. UVA and UVB can damage collagen fibres which results in the speeding up skin aging. In general, UVA is the least harmful, but it can contribute to the aging of skin, DNA damage and possibly skin cancer. It penetrates deeply and does not cause sunburn. Because it does not cause reddening of the skin (erythema) it cannot be measured in the SPF testing. There is no good clinical measurement of the blocking of UVA radiation, but it is important that sunscreen block both UVA and UVB.</para>
+        <para id="id189490">UVB light can cause skin cancer. The radiation excites DNA molecules in skin cells, resulting in possible mutations, which can cause cancer. This cancer connection is one reason for concern about ozone depletion and the ozone hole.</para>
+        <para id="id189495">As a defense against UV radiation, the body tans when exposed to moderate (depending on skin type) levels of radiation by releasing the brown pigment melanin. This helps to block UV penetration and prevent damage to the vulnerable skin tissues deeper down. Suntan lotion, often referred to as sunblock or sunscreen, partly blocks UV and is widely available. Most of these products contain an SPF rating that describes the amount of protection given. This protection, however, applies only to UVB rays responsible for sunburn and not to UVA rays that penetrate more deeply into the skin and may also be responsible for causing cancer and wrinkles. Some sunscreen lotion now includes compounds such as titanium dioxide which helps protect against UVA rays. Other UVA blocking compounds found in sunscreen include zinc oxide and avobenzone.</para>
+<section id="secfhsst_id701"><title> What makes a good sunscreen? </title>
+        <list id="id189518" display="block" list-type="bulleted">
+          <item id="uid18">UVB protection: Padimate O, Homosalate, Octisalate (octyl salicylate), Octinoxate (octyl methoxycinnamate)
+</item>
+          <item id="uid19">UVA protection: Avobenzone
+</item>
+          <item id="uid20">UVA/UVB protection: Octocrylene, titanium dioxide, zinc oxide, Mexoryl (ecamsule)
+</item>
+        </list>
+        <para id="id189561">Another means to block UV is by wearing sun protective clothing. This is clothing that has a UPF rating that describes the protection given against both UVA and UVB. </para>
+</section>
+      </section>
+      <section id="uid21">
+        <title>Ultraviolet radiation and the eyes</title>
+        <para id="id189581">High intensities of UVB light are hazardous to the eyes, and exposure can cause welder's flash (photo keratitis or arc eye) and may lead to cataracts, pterygium and pinguecula formation.</para>
+        <para id="id189586">Protective eyewear is beneficial to those who are working with or those who might be exposed to ultraviolet radiation, particularly short wave UV. Given that light may reach the eye from the sides, full coverage eye protection is usually warranted if there is an increased risk of exposure, as in high altitude mountaineering. Mountaineers are exposed to higher than ordinary levels of UV radiation, both because there is less atmospheric filtering and because of reflection from snow and ice.</para>
+        <para id="id189594">Ordinary, untreated eyeglasses give some protection. Most plastic lenses give more protection than glass lenses. Some plastic lens materials, such as polycarbonate, block most UV. There are protective treatments available for eyeglass lenses that need it which will give better protection. But even a treatment that completely blocks UV will not protect the eye from light that arrives around the lens. To convince yourself of the potential dangers of stray UV light, cover your lenses with something opaque, like aluminum foil, stand next to a bright light, and consider how much light you see, despite the complete blockage of the lenses. Most contact lenses help to protect the retina by absorbing UV radiation.</para>
+      </section>
+      <section id="uid22">
+        <title>X-rays</title>
+        <para id="id189613">While x-rays are used significantly in medicine, prolonged exposure to X-rays can lead to cell damage and cancer.</para>
+        <para id="id189617">For example, a mammogram is an x-ray of the human breast to detect breast cancer, but if a woman starts having regular mammograms when she is too young, her chances of getting breast cancer increases.</para>
+      </section>
+      <section id="uid23">
+        <title>Gamma-rays</title>
+        <para id="id189632">Due to the high energy of gamma-rays, they are able to cause serious damage when absorbed by living cells.</para>
+        <para id="id189636">Gamma-rays are not stopped by the skin and can induce DNA alteration by interfering with the genetic material of the cell. DNA double-strand breaks are generally accepted to be the most biologically significant lesion by which ionising radiation causes cancer and hereditary disease.</para>
+        <para id="id189642">A study done on Russian nuclear workers exposed to external whole-body gamma-radiation at high cumulative doses shows a link between radiation exposure and death from leukaemia, lung, liver, skeletal and other solid cancers.</para>
+<section id="secfhsst_id729"><title> Cellphones and electromagnetic radiation </title>
+        <para id="id189654">Cellphone radiation and health concerns have been raised, especially following the enormous increase in the use of wireless mobile telephony throughout the world. This is because mobile phones use electromagnetic waves in the microwave range. These concerns have induced a large body of research. Concerns about effects on health have also been raised regarding other digital wireless systems, such as data communication networks.
+In 2009 the World Health Organisation announced that they have found a link between brain cancer and cellphones.</para>
+        <para id="id189664">Cellphone users are recommended to minimise radiation, by for example:</para>
+        <list id="id189668" display="block" list-type="enumerated">
+          <item id="uid24">Use hands-free to decrease the radiation to the head.
+</item>
+          <item id="uid25">Keep the mobile phone away from the body.
+</item>
+          <item id="uid26">Do not telephone in a car without an external antenna.
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid27">
+        <title>Exercise - Penetrating ability of EM radiation</title>
+        <list id="id189729" display="block" list-type="enumerated">
+          <item id="uid28">Indicate the penetrating ability of the different kinds of EM radiation and relate it to energy of the radiation.
+</item>
+          <item id="uid29">Describe the dangers of gamma rays, X-rays and the damaging effect of ultra-violet radiation on skin
+</item>
+        </list>
+      </section>
+    </section>
+    <para id="eip-660"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electromagnetic radiation">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=electromagneticspectrum-100512094547-phpapp02&amp;stripped_title=electromagnetic-spectrum-4069478&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid8">
+      <title>Summary</title>
+      <list id="id189769" display="block" list-type="enumerated">
+        <item id="uid30">Electromagnetic radiation has both a wave and a particle nature.
+</item>
+        <item id="uid31">Electromagnetic waves travel at a speed of <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="3.33333pt"/><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> in a vaccum.
+</item>
+        <item id="uid32">The Electromagnetic spectrum consists of the follwing types of radiation: radio waves, microwaves, infrared, visible, ultraviolet, X-rays, gamma-rays.
+</item>
+        <item id="uid33">Gamma-rays have the most energy and are the most penetrating, while radio waves have the lowest energy and are the least penetrating.
+</item>
+      </list>
+    </section>
+    <section id="cid9">
+      <title>End of chapter exercise</title>
+      <list id="id189872" display="block" list-type="enumerated">
+        <item id="uid34">What is the energy of a photon of EM radiation with a frequency of <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:math> Hz?
+</item>
+        <item id="uid35">What is the energy of a photon of light with a wavelength of 660 nm?
+</item>
+        <item id="uid36">List the main types of electromagnetic radiation in order of increasing wavelength.
+</item>
+        <item id="uid37">List the main uses of:
+<list id="id189946" display="block" list-type="enumerated"><item id="uid38">radio waves
+</item><item id="uid39">infrared
+</item><item id="uid40">gamma rays
+</item><item id="uid41">X-rays
+</item></list></item>
+        <item id="uid42">Explain why we need to protect ourselves from ultraviolet radiation from the Sun.
+</item>
+        <item id="uid43">List some advantages and disadvantages of using X-rays.
+</item>
+        <item id="uid44">What precautions should we take when using cell phones?
+</item>
+        <item id="uid45">Write a short essay on a type of electromagnetic waves. You should look at uses, advantages and disadvantages of your chosen radiation.
+</item>
+        <item id="uid46">Explain why some types of electromagnetic radiation are more penetrating than others.
+</item>
+      </list>
+    </section>
+  </content>
+</document>

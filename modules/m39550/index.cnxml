@@ -1,0 +1,2503 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Conservation of momentum</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39550</md:content-id>
+  <md:title>Conservation of momentum</md:title>
+  <md:abstract/>
+  <md:uuid>e0fbfef0-8631-42ff-9bf7-df9a0e5678b0</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Conservation of Momentum in Two Dimensions</title>
+      <para id="id240007">We have seen in Grade 11 that the momentum of a system is conserved when there are no external forces acting on the system. Conversely, an external force causes a change in momentum <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>p</m:mi></m:mrow></m:math>, with the impulse delivered by the force, <m:math overflow="scroll"><m:mi>F</m:mi></m:math> acting for a time <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> given by:</para>
+      <equation id="id240046">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>Δ</m:mi>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>F</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>Δ</m:mi>
+            <m:mi>t</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id240071">The same principles that were studied in applying the conservation of momentum to problems in one dimension, can be applied to solving problems in two dimensions.</para>
+      <para id="id240078">The calculation of momentum is the same in two dimensions as in one dimension. The calculation of momentum in two dimensions is broken down into determining the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> and <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components of momentum and applying the conservation of momentum to each set of components.</para>
+      <para id="id240102">Consider two objects moving towards each other as shown in <link target-id="uid48"/>. We analyse this situation by calculating the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> and <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components of the momentum of each object.</para>
+      <figure id="uid48">
+        <media id="uid48_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C1_020.png" id="uid48_onlineimage" width="786"><!-- NOTE: attribute width changes image size online (pixels). original width is 786. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_020.eps" id="uid48_printimage"/>
+        </media>
+        <caption>Two balls collide at point P.</caption>
+      </figure>
+      <section id="id240141">
+        <title>Before the collision</title>
+        <para id="id240147">Total momentum:</para>
+        <equation id="id240151">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id240244"><m:math overflow="scroll"><m:mi>x</m:mi></m:math>-component of momentum:</para>
+        <equation id="id240256">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mn>1</m:mn>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mn>2</m:mn>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>u</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id240423"><m:math overflow="scroll"><m:mi>y</m:mi></m:math>-component of momentum:</para>
+        <equation id="id240434">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mn>1</m:mn>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mi>y</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mn>2</m:mn>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                        <m:mi>y</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+      </section>
+      <section id="id240602">
+        <title>After the collision</title>
+        <para id="id240608">Total momentum:</para>
+        <equation id="id240612">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id240706"><m:math overflow="scroll"><m:mi>x</m:mi></m:math>-component of momentum:</para>
+        <equation id="id240717">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>1</m:mn>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msub>
+                      <m:mi>φ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>2</m:mn>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msub>
+                      <m:mi>φ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id240883"><m:math overflow="scroll"><m:mi>y</m:mi></m:math>-component of momentum:</para>
+        <equation id="id240895">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>1</m:mn>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mi>y</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>φ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>2</m:mn>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                        <m:mi>y</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>φ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+      </section>
+      <section id="id241062">
+        <title>Conservation of momentum</title>
+        <para id="id241069">The initial momentum is equal to the final momentum:</para>
+        <equation id="id241073">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mi>f</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id241101">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id241198">This forms the basis of analysing momentum conservation problems in two dimensions.</para>
+<para id="eip-19"><figure id="momentum" class="phetsim"><title>Phet simulation for Momentum</title><media id="phet_sim1" display="block" alt="momentum phet simulation">
+	  <flash id="phet-simulation1" mime-type="application/x-shockwave-flash" src="collision-lab.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id2717"><title> 2D Conservation of Momentum </title>
+        <problem id="probfhsst_id2718">
+        <para id="id241215">In a rugby game, Player 1 is running with the ball at 5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> straight down the field parallel to the edge of the field. Player 2 runs at 6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> an angle of <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math> to the edge of the field and tackles Player 1. In the tackle, Player 2 stops completely while Player 1 bounces off Player 2. Calculate the velocity (magnitude and direction) at which Player 1 bounces off Player 2. Both the players have a mass of 90 kg.  </para>
+        </problem>
+        <solution id="solfhsst_id2721"> <list id="listfhsst_id2721" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is required and what is given </label>
+        <para id="id241307">The first step is to draw the picture to work out what the situation is. Mark the initial velocities of both players in the picture.</para>
+        <para id="id241311">
+          <figure id="id241315">
+            <media id="id241315_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_022.png" id="id241315_onlineimage" width="116"><!-- NOTE: attribute width changes image size online (pixels). original width is 116. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_022.eps" id="id241315_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id241321">We also know that <m:math overflow="scroll"><m:mrow><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>90</m:mn></m:mrow></m:math> kg and <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>f</m:mi><m:mn>2</m:mn></m:mrow></m:msub></m:math> = 0 ms<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+        <para id="id241389">We need to find the final velocity and angle at which Player 1 bounces off Player 2.</para>
+        </item> <item> <label> Use conservation of momentum to solve the problem. First find the initial total momentum: </label>
+        <para id="id241399">Total initial momentum = Total final momentum.
+But we have a two dimensional problem, and we need to break up the initial momentum into <m:math overflow="scroll"><m:mi>x</m:mi></m:math> and <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components.</para>
+        <equation id="id241421">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id241497">For Player 1:</para>
+        <equation id="id241500">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mi>y</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id241624">For Player 2:</para>
+        <equation id="id241628">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                        <m:mi>y</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Now write down what we know about the final momentum: </label>
+        <para id="id241781">For Player 1:</para>
+        <equation id="id241784">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id241925">For Player 2:</para>
+        <equation id="id241929">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Use conservation of momentum: </label>
+        <para id="id242061">The initial total momentum in the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> direction is equal to the final total momentum in the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> direction.</para>
+        <para id="id242083">The initial total momentum in the <m:math overflow="scroll"><m:mi>y</m:mi></m:math> direction is equal to the final total momentum in the <m:math overflow="scroll"><m:mi>y</m:mi></m:math> direction.</para>
+        <para id="id242107">If we find the final <m:math overflow="scroll"><m:mi>x</m:mi></m:math> and <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components, then we can find the final <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:math> momentum.</para>
+        <equation id="id242149">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>90</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mn>90</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>928</m:mn>
+                    <m:msup>
+                      <m:mi> ms </m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="id242381">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>90</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>90</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>90</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mn>90</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:msup>
+                      <m:mi> ms </m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Using the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> and <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components, calculate the final total <m:math overflow="scroll"><m:mi>v</m:mi></m:math> </label>
+        <para id="id242658">Use Pythagoras's theorem to find the total final velocity:</para>
+        <para id="id242662">
+          <figure id="id242665">
+            <media id="id242665_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_023.png" id="id242665_onlineimage" width="73"><!-- NOTE: attribute width changes image size online (pixels). original width is 73. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_023.eps" id="id242665_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <equation id="id242672">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mi>x</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mi>y</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:msup>
+                        <m:mn>928</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mn>9</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>11</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>36</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id242794">Calculate the angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> to find the direction of Player 1's final velocity:</para>
+        <equation id="id242808">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>52</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mn>4</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id242894">Therefore Player 1 bounces off Player 2 with a final velocity of 11.36 m<m:math overflow="scroll"><m:mrow><m:mo>·</m:mo><m:msup><m:mrow><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> at an angle of 52.4<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> from the horizontal.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3592"><title> 2D Conservation of Momentum: II </title>
+        <problem id="probfhsst_id3593">
+        <para id="id242961">In a soccer game, Player 1 is running with the ball at 5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> across the pitch at an angle of <m:math overflow="scroll"><m:msup><m:mn>75</m:mn><m:mo>∘</m:mo></m:msup></m:math> from the horizontal. Player 2 runs towards Player 1 at 6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> an angle of <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math> to the horizontal and tackles Player 1. In the tackle, the two players bounce off each other. Player 2 moves off with a velocity in the opposite <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-direction of 0.3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and a velocity in the <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-direction of 6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+Both the players have a mass of 80 kg.
+What is the final total velocity of Player 1?  </para>
+        </problem>
+        <solution id="solfhsst_id3598"> <list id="listfhsst_id3598" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is required and what is given </label>
+        <para id="id243135">The first step is to draw the picture to work out what the situation is. Mark the initial velocities of both players in the picture.</para>
+        <para id="id243139">
+          <figure id="id243142">
+            <media id="id243142_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_024.png" id="id243142_onlineimage" width="116"><!-- NOTE: attribute width changes image size online (pixels). original width is 116. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_024.eps" id="id243142_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id243149">We need to define a reference frame: For y, choose the direction they are both running in as positive. For x, the direction player 2 is running in is positive.</para>
+        <para id="id243154">We also know that <m:math overflow="scroll"><m:mrow><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>80</m:mn></m:mrow></m:math> kg. And <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>f</m:mi><m:mi>x</m:mi><m:mn>2</m:mn></m:mrow></m:msub></m:math>=-0.3 ms<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>f</m:mi><m:mi>y</m:mi><m:mn>2</m:mn></m:mrow></m:msub></m:math>=6 ms<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+        <para id="id243258">We need to find the final velocity and angle at which Player 1 bounces off Player 2.</para>
+        </item> <item> <label> Use conservation of momentum to solve the problem. First find the initial total momentum: </label>
+        <para id="id243269">Total initial momentum = Total final momentum.
+But we have a two dimensional problem, and we need to break up the initial momentum into <m:math overflow="scroll"><m:mi>x</m:mi></m:math> and <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components. Remember that momentum is a vector and has direction which we will indicate with a '+' or '-' sign.</para>
+        <equation id="id243292">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id243368">For Player 1:</para>
+        <equation id="id243371">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msup>
+                      <m:mn>75</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                        <m:mi>y</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>75</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id243527">For Player 2:</para>
+        <equation id="id243531">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>i</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                        <m:mi>y</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Now write down what we know about the final momentum: </label>
+        <para id="id243684">For Player 1:</para>
+        <equation id="id243687">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id243828">For Player 2:</para>
+        <equation id="id243832">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Use conservation of momentum: </label>
+        <para id="id243967">The initial total momentum in the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> direction is equal to the final total momentum in the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> direction.</para>
+        <para id="id243989">The initial total momentum in the <m:math overflow="scroll"><m:mi>y</m:mi></m:math> direction is equal to the final total momentum in the <m:math overflow="scroll"><m:mi>y</m:mi></m:math> direction.</para>
+        <para id="id244012">If we find the final <m:math overflow="scroll"><m:mi>x</m:mi></m:math> and <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components, then we can find the final <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:math> momentum.</para>
+        <equation id="id244054">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msup>
+                      <m:mn>75</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>80</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:msup>
+                        <m:mn>75</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>80</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mn>80</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>.</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mn>80</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:msup>
+                      <m:mi> ms </m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="id244370">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>75</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>80</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>75</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>80</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mn>80</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>6</m:mn>
+                    </m:mrow>
+                    <m:mn>80</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:msup>
+                      <m:mi> ms </m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Using the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> and <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components, calculate the final total <m:math overflow="scroll"><m:mi>v</m:mi></m:math> </label>
+        <para id="id244690">Use Pythagoras's theorem to find the total final velocity:</para>
+        <para id="id244694">
+          <figure id="id244697">
+            <media id="id244697_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C1_025.png" id="id244697_onlineimage" width="73"><!-- NOTE: attribute width changes image size online (pixels). original width is 73. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C1_025.eps" id="id244697_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <equation id="id244703">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mi>x</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                      <m:mo>+</m:mo>
+                      <m:msubsup>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mi>y</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msubsup>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mn>2</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mn>4</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id244822">Calculate the angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> to find the direction of Player 1's final velocity:</para>
+        <equation id="id244835">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">tan</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>y</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mi>x</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>63</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mn>4</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id244919">Therefore Player 1 bounces off Player 2 with a final velocity of 4.5 m<m:math overflow="scroll"><m:mrow><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> at an angle of 63.4<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> from the horizontal.
+ </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+    </section>
+
+  </content>
+</document>

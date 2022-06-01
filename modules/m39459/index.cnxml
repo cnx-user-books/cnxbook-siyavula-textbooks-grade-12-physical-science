@@ -1,0 +1,593 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39459</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>2f19db05-31e6-4792-9a55-78655e50dc62</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id82425">Before we begin this section, it might be useful to think about some different types of reactions and how quickly or slowly they occur.</para>
+<section id="secfhsst_id48"><title> Thinking about reaction rates
+      </title>
+      <para id="id82441">Think about each of the following reactions:</para>
+      <list id="id82785" display="block" list-type="bulleted">
+        <item id="uid1">rusting of metals
+</item>
+        <item id="uid2">photosynthesis
+</item>
+        <item id="uid3">weathering of rocks (e.g. limestone rocks being weathered by water)
+</item>
+        <item id="uid4">combustion
+</item>
+      </list>
+      <list id="id82835" display="block" list-type="enumerated">
+        <item id="uid5">For each of the reactions above, write a chemical equation for the reaction that takes place.
+</item>
+        <item id="uid6">How fast is each of these reactions? Rank them in order from the fastest to the slowest.
+</item>
+        <item id="uid7">How did you decide which reaction was the fastest and which was the slowest?
+</item>
+        <item id="uid8">Try to think of some other examples of chemical reactions. How fast or slow is each of these reactions, compared with those listed earlier?
+</item>
+      </list>
+      
+</section>
+      <para id="id82897">In a chemical reaction, the substances that are undergoing the reaction are called the <emphasis effect="bold">reactants</emphasis>, while the substances that form as a result of the reaction are called the <emphasis effect="bold">products</emphasis>. The <emphasis effect="bold">reaction rate</emphasis> describes how quickly or slowly the reaction takes place. So how do we know whether a reaction is slow or fast? One way of knowing is to look either at how quickly the <emphasis effect="italics">reactants are used up</emphasis> during the reaction or at how quickly the <emphasis effect="italics">product forms</emphasis>. For example, iron and sulfur react according to the following equation:</para>
+      <para id="id82930">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:mi>e</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>S</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>F</m:mi>
+            <m:mi>e</m:mi>
+            <m:mi>S</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id82958">In this reaction, we can observe the speed of the reaction by measuring how long it takes before there is no iron or sulfur left in the reaction vessel. In other words, the reactants have been used up. Alternatively, one could see how quickly the iron sulfide product forms. Since iron sulfide looks very different from either of its reactants, this is easy to do.</para>
+      <para id="id82964">In another example:</para>
+      <equation id="id82970">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mi>M</m:mi>
+                  <m:mi>g</m:mi>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi>s</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>→</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mi>M</m:mi>
+                  <m:mi>g</m:mi>
+                  <m:mi>O</m:mi>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi>s</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id82367">In this case, the reaction rate depends on the speed at which the reactants (solid
+magnesium and oxygen gas) are used up, or the speed at which the product (magnesium oxide) is formed.</para>
+<definition id="fhsst_id127"><term id="termfhsst_id127"> Reaction rate </term> <meaning id="meaningfhsst_id127">
+      <para id="id83218">The <emphasis effect="italics">rate of a reaction</emphasis> describes how quickly <emphasis effect="italics">reactants are used up</emphasis> or how quickly <emphasis effect="italics">products are formed</emphasis> during a chemical reaction. The units used are: moles per second (mols/second or mol.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>).
+ </para>
+      </meaning></definition>
+      <para id="id83260">The average rate of a reaction is expressed as the number of
+moles of reactant used up, divided by the total reaction time, or as the number of moles of product formed, divided by the reaction time. Using the magnesium reaction shown earlier:</para>
+      <equation id="id83266"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>Average reaction rate of</m:mi>
+            <m:mspace width="4pt"/>
+            <m:mi>M</m:mi>
+            <m:mi>g</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>moles</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi>Mg</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi>used</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>reaction time</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mspace width="4pt"/>
+                <m:mo>(</m:mo>
+                <m:mi>s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id83410">or</para>
+      <equation id="id83415"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>Average reaction rate of </m:mi>
+            <m:mspace width="4pt"/>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>moles</m:mi>
+                <m:mspace width="4pt"/>
+                <m:msub>
+                  <m:mi>O</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mspace width="4pt"/>
+                <m:mi>used</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>reaction time</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mo>(</m:mo>
+                <m:mi>s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id83566">or</para>
+      <equation id="id83571"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>Average reaction rate of</m:mi>
+            <m:mspace width="4pt"/>
+            <m:mi>MgO</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>moles</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi>MgO</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi>produced</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>reaction time</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mo>(</m:mo>
+                <m:mi>s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+<exercise id="secfhsst_id355"><title> Reaction rates </title>
+      <problem id="probfhsst_id356">
+      <para id="id83740">The following reaction takes place:</para>
+      <para id="id83746">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>4</m:mn>
+            <m:mi>L</m:mi>
+            <m:mi>i</m:mi>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>L</m:mi>
+            <m:msub>
+              <m:mi>i</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id83787">After two minutes , 4 g of Lithium has been used up. Calculate the rate of the reaction.</para>
+      
+      </problem>
+      <solution id="solfhsst_id383"> <list id="listfhsst_id383" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Calculate the number of moles of Lithium that are used up in the reaction. </label>
+      <equation id="id83814">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>4</m:mn>
+              <m:mrow>
+                <m:mn>6</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>94</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>58</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:mi>l</m:mi>
+            <m:mi>s</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the time (in seconds) for the reaction. </label>
+      <equation id="id83868">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>t</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>60</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>120</m:mn>
+            <m:mi>s</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the rate of the reaction. </label>
+      <para id="id83898">Rate of reaction =</para>
+      <equation id="id83901">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>m</m:mi>
+                <m:mi>o</m:mi>
+                <m:mi>l</m:mi>
+                <m:mi>e</m:mi>
+                <m:mi>s</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi>o</m:mi>
+                <m:mi>f</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi>L</m:mi>
+                <m:mi>i</m:mi>
+                <m:mi>t</m:mi>
+                <m:mi>h</m:mi>
+                <m:mi>i</m:mi>
+                <m:mi>u</m:mi>
+                <m:mi>m</m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi>u</m:mi>
+                <m:mi>s</m:mi>
+                <m:mi>e</m:mi>
+                <m:mi>d</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>t</m:mi>
+                <m:mi>i</m:mi>
+                <m:mi>m</m:mi>
+                <m:mi>e</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>0</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>58</m:mn>
+              </m:mrow>
+              <m:mn>120</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>005</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id83993">The rate of the reaction is 0.005 mol.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>
+ </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id485"><title> Reaction rates
+      </title>
+      <list id="id84034" display="block" list-type="enumerated">
+        <item id="uid9">
+A number of different reactions take place. The table below shows the number of moles of reactant that are used up in a particular time for each reaction.
+<table id="id84050" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Reaction</emphasis></entry><entry><emphasis effect="bold">Mols used up</emphasis></entry><entry><emphasis effect="bold">Time</emphasis></entry><entry><emphasis effect="bold">Reaction rate</emphasis></entry></row><row><entry>1</entry><entry>2</entry><entry>30 secs</entry><entry/></row><row><entry>2</entry><entry>5</entry><entry>2 mins</entry><entry/></row><row><entry>3</entry><entry>1</entry><entry>1.5 mins</entry><entry/></row><row><entry>4</entry><entry>3.2</entry><entry>1.5 mins</entry><entry/></row><row><entry>5</entry><entry>5.9</entry><entry>30 secs</entry><entry/></row></tbody></tgroup></table><list id="id84269" display="block" list-type="enumerated"><item id="uid10">Complete the table by calculating the rate of each reaction.
+</item><item id="uid11">Which is the <emphasis effect="italics">fastest</emphasis> reaction?
+</item><item id="uid12">Which is the <emphasis effect="italics">slowest</emphasis> reaction?
+</item></list></item>
+        <item id="uid13">
+Two reactions occur simultaneously in separate reaction vessels. The reactions are as follows:
+<m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:mi>l</m:mi></m:mrow></m:math>
+After 1 minute, 2 g of MgCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> have been produced in the first reaction.
+<list id="id84429" display="block" list-type="enumerated"><item id="uid14">How many moles of MgCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> are produced after 1 minute?
+</item><item id="uid15">Calculate the rate of the reaction, using the amount of product that is produced.
+</item><item id="uid16">Assuming that the second reaction also proceeds at the same rate, calculate...
+<list id="id84482" display="block" list-type="enumerated"><item id="uid17">the number of moles of NaCl produced after 1 minute.
+</item><item id="uid18">the mass (in g) of sodium that is needed for this reaction to take place.
+</item></list></item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid3">
+      <title>Factors affecting reaction rates</title>
+      <para id="id84530">Several factors affect the rate of a reaction. It is important to know
+these factors so that reaction rates can be controlled. This is particularly important when it comes to industrial reactions, so that productivity can be maximised. The following are some of the factors that affect the rate of a reaction.</para>
+      <list id="id84535" display="block" list-type="enumerated">
+        <item id="uid19"><emphasis effect="bold">Nature of reactants</emphasis>
+Substances have different chemical properties and therefore react differently and at different rates.
+</item>
+        <item id="uid20"><emphasis effect="bold">Concentration</emphasis> (or <emphasis effect="bold">pressure</emphasis> in the case of gases)
+As the concentration of the reactants increases, so does the reaction rate.
+</item>
+        <item id="uid21"><emphasis effect="bold">Temperature</emphasis>
+If the temperature of the reaction increases, so does the rate of the reaction.
+</item>
+        <item id="uid22"><emphasis effect="bold">Catalyst</emphasis>
+Adding a catalyst increases the reaction rate.
+</item>
+        <item id="uid23"><emphasis effect="bold">Surface area of solid reactants</emphasis>
+Increasing the surface area of the reactants (e.g. if a solid reactant is broken or ground up into smaller pieces) will increase the reaction rate.
+</item>
+      </list>
+<section id="secfhsst_id529"><title> Experiment : The nature of reactants.
+      </title>
+      <para id="id84651">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id84660">To determine the effect of the nature of reactants on the rate of a reaction.</para>
+      <para id="id84664">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id84673">Oxalic acid ((COOH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>), iron(II) sulphate (FeSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>), potassium permanganate (KMnO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>), concentrated sulfuric acid (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>), spatula, test tubes, medicine dropper, glass beaker and glass rod.</para>
+      <para id="id84743">
+        <figure id="id84746">
+          <media id="id84746_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C3_001.png" id="id84746_onlineimage" width="226"><!-- NOTE: attribute width changes image size online (pixels). original width is 226. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_001.eps" id="id84746_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id84752">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id84761" display="block" list-type="enumerated">
+        <item id="uid24">In the first test tube, prepare an iron (II) sulphate solution by dissolving about two spatula points of iron (II) sulphate in 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water.
+</item>
+        <item id="uid25">In the second test tube, prepare a solution of oxalic acid in the same way.
+</item>
+        <item id="uid26">Prepare a solution of sulfuric acid by adding 1 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the concentrated acid to about 4 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water. Remember always to add the <emphasis effect="italics">acid to the water</emphasis>, and never the other way around.
+</item>
+        <item id="uid27">Add 2 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the sulfuric acid solution to the iron(II) and oxalic acid solutions respectively.
+</item>
+        <item id="uid28">Using the medicine dropper, add a few drops of potassium permanganate to the two test tubes. Once you have done this, observe how quickly each solution discolours the potassium permanganate solution.
+</item>
+      </list>
+      <para id="id84889">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <list id="id84898" display="block" list-type="bulleted">
+        <item id="uid29">You should have seen that the oxalic acid solution discolours the potassium permanganate much more slowly than the iron(II) sulphate.
+</item>
+        <item id="uid30">It is the oxalate ions (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>) and the Fe<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions that cause the discolouration. It is clear that the Fe<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions act much more quickly than the C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math> ions. The reason for this is that there are no covalent bonds to be broken in the ions before the reaction can take place. In the case of the oxalate ions, covalent bonds between carbon and oxygen atoms must be broken first.
+</item>
+      </list>
+      <para id="id85030">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id85038">The nature of the reactants can affect the rate of a reaction.
+ </para>
+</section>
+<note id="notfhsst_id577"><title> Interesting Fact </title>
+      <para id="id85054">Oxalic acids are abundant in many plants. The leaves of the tea plant (<emphasis effect="italics">Camellia sinensis</emphasis>) contain very high concentrations of oxalic acid relative to other plants. Oxalic acid also occurs in small amounts in foods such as parsley, chocolate, nuts and berries. Oxalic acid irritates the lining of the gut when it is eaten, and can be fatal in very large doses.</para>
+</note>
+<section id="secfhsst_id580"><title> Experiment : Surface area and reaction rates.
+      </title>
+      <para id="id85086">Marble (<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>) reacts with hydrochloric acid (HCl) to form calcium chloride, water and carbon dioxide gas according to the following equation:</para>
+      <para id="id85116">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>H</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>l</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      <para id="id85197">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id85206">To determine the effect of the surface area of reactants on the rate of the reaction.</para>
+      <para id="id85210">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id85219">2 g marble chips, 2 g powdered marble, hydrochloric acid, beaker, two test tubes.</para>
+      <para id="id85223">
+        <figure id="id85226">
+          <media id="id85226_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C3_002.png" id="id85226_onlineimage" width="210"><!-- NOTE: attribute width changes image size online (pixels). original width is 210. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_002.eps" id="id85226_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id85233">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id85242" display="block" list-type="enumerated">
+        <item id="uid31">Prepare a solution of hydrochloric acid in the beaker by adding 2 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the concentrated solution to 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water.
+</item>
+        <item id="uid32">Place the marble chips and powdered marble into separate test tubes.
+</item>
+        <item id="uid33">Add 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the dilute hydrochloric acid to each of the test tubes and observe the rate at which carbon dioxide gas is produced.
+</item>
+      </list>
+      <para id="id85325">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <list id="id85333" display="block" list-type="bulleted">
+        <item id="uid34">Which reaction proceeds the fastest?
+</item>
+        <item id="uid35">Can you explain this?
+</item>
+      </list>
+      <para id="id85362">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id85371">The reaction with powdered marble is the fastest. The smaller the pieces of marble are, the greater the surface area for the reaction to take place. The greater the surface area of the reactants, the faster the reaction rate will be.
+ </para>
+</section>
+<section id="secfhsst_id664"><title> Experiment : Reactant concentration and reaction rate. </title>
+      <para id="id85389">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id85398">To determine the effect of reactant concentration on reaction rate.</para>
+      <para id="id85402">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id85411">Concentrated hydrochloric acid (HCl), magnesium ribbon, two beakers, two test tubes, measuring cylinder.</para>
+      <para id="id85416">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id85425" display="block" list-type="enumerated">
+        <item id="uid36">Prepare a solution of dilute hydrochloric acid in one of the beakers by diluting 1 part concentrated acid with 10 parts water. For example, if you measure 1 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of concentrated acid in a measuring cylinder and pour it into a beaker, you will need to add 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water to the beaker as well. In the same way, if you pour 2 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of concentrated acid into a beaker, you will need to add 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water. Both of these are 1:10 solutions. Pour 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the 1:10 solution into a test tube and mark it 'A'. Remember to add the <emphasis effect="italics">acid</emphasis> to the <emphasis effect="italics">water</emphasis>, and not the other way around.
+</item>
+        <item id="uid37">Prepare a second solution of dilute hydrochloric acid by diluting 1 part concentrated acid with 20 parts water. Pour 10cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of this 1:20 solution into a second test tube and mark it 'B'.
+</item>
+        <item id="uid38">Take two pieces of magnesium ribbon of the <emphasis effect="bold">same length</emphasis>. At the same time, put one piece of magnesium ribbon into test tube A and the other into test tube B, and observe closely what happens.
+</item>
+      </list>
+      <para id="id85568">
+        <figure id="id85571">
+          <media id="id85571_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C3_003.png" id="id85571_onlineimage" width="185"><!-- NOTE: attribute width changes image size online (pixels). original width is 185. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_003.eps" id="id85571_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id85578">The equation for the reaction is:</para>
+      <para id="id85581">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>H</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>M</m:mi>
+            <m:mi>g</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>M</m:mi>
+            <m:mi>g</m:mi>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>l</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      <para id="id85638">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <list id="id85646" display="block" list-type="bulleted">
+        <item id="uid39">Which of the two solutions is more concentrated, the 1:10 or 1:20 hydrochloric acid solution?
+</item>
+        <item id="uid40">In which of the test tubes is the reaction the fastest? Suggest a reason for this.
+</item>
+        <item id="uid41">How can you measure the rate of this reaction?
+</item>
+        <item id="uid42">What is the gas that is given off?
+</item>
+        <item id="uid43">Why was it important that the same length of magnesium ribbon was used for each reaction?
+</item>
+      </list>
+      <para id="id85714">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id85723">The 1:10 solution is more concentrated and this reaction therefore proceeds faster. The greater the concentration of the reactants, the faster the rate of the reaction. The rate of the reaction can be measured by the rate at which hydrogen gas is produced.
+ </para>
+</section>
+<section id="secfhsst_id741"><title> Group work : The effect of temperature on reaction rate
+      </title>
+      <list id="id85747" display="block" list-type="enumerated">
+        <item id="uid44">
+In groups of 4-6, design an experiment that will help you to see the effect of temperature on the reaction time of 2 cm of magnesium ribbon and 20 ml of vinegar. During your group discussion, you should think about the following:
+<list id="id85764" display="block" list-type="bulleted"><item id="uid45">What equipment will you need?
+</item><item id="uid46">How will you conduct the experiment to make sure that you are able to compare the results for different temperatures?
+</item><item id="uid47">How will you record your results?
+</item><item id="uid48">What safety precautions will you need to take when you carry out this experiment?
+</item></list></item>
+        <item id="uid49">Present your experiment ideas to the rest of the class, and give them a chance to comment on what you have done.
+</item>
+        <item id="uid50">Once you have received feedback, carry out the experiment and record your results.
+</item>
+        <item id="uid51">What can you conclude from your experiment?
+</item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

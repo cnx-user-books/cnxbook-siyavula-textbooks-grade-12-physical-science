@@ -1,0 +1,283 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Chemical equilibrium</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39469</md:content-id>
+  <md:title>Chemical equilibrium</md:title>
+  <md:abstract/>
+  <md:uuid>bd3b578c-e97a-4518-8cf3-e93844f273fb</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Chemical equilibrium</title>
+      <para id="id89176">Having looked at factors that affect the rate of a reaction, we now need to ask some important questions. Does a reaction always proceed in the same direction or can it be reversible? In other words, is it always true that a reaction proceeds from <emphasis effect="italics">reactants to products</emphasis>, or is it possible that sometimes, the reaction will reverse and the <emphasis effect="italics">products will be changed back into the reactants</emphasis>? And does a reaction always run its full course so that all the reactants are used up, or can a reaction reach a point where reactants are still present, but there does not seem to be any further change taking place in the reaction? The following demonstration might help to explain this.</para>
+<section id="secfhsst_id1228"><title> Demonstration : Liquid-vapour phase equilibrium
+      </title>
+      <para id="id89209">
+        <emphasis effect="bold">Apparatus and materials:</emphasis>
+      </para>
+      
+      <para id="id89226">2 beakers; water; bell jar</para>
+      <para id="id89229">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      
+      <list id="id89246" display="block" list-type="enumerated">
+        <item id="uid107">Half fill two beakers with water and mark the level of the water in each case.
+</item>
+        <item id="uid108">Cover one of the beakers with a bell jar.
+</item>
+        <item id="uid109">Leave the beakers and, over the course of a day or two, observe how the water level in the two beakers changes. What do you notice? Note: You could speed up this demonstration by placing the two beakers over a bunsen burner to heat the water. In this case, it may be easier to cover the second beaker with a glass cover.
+</item>
+      </list>
+      <para id="id89290">
+        <emphasis effect="bold">Observations:</emphasis>
+      </para>
+      
+      <para id="id89305">You should notice that in the beaker that is uncovered, the water level drops quickly because of evaporation. In the beaker that is covered, there is an initial drop in the water level, but after a while evaporation appears to stop and the water level in this beaker is higher than that in the one that is open. Note that the diagram below shows the situation ate time=0.</para>
+      <para id="id89311">
+        <figure id="id89317">
+          <media id="id89317_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C3_009.png" id="id89317_onlineimage" width="274"><!-- NOTE: attribute width changes image size online (pixels). original width is 274. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_009.eps" id="id89317_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id89324">
+        <emphasis effect="bold">Discussion:</emphasis>
+      </para>
+      
+      <para id="id89338">In the first beaker, liquid water becomes water vapour as a result of evaporation and the water level drops. In the second beaker, evaporation also takes place. However, in this case, the vapour comes into contact with the surface of the bell jar and it cools and condenses to form liquid water again. This water is returned to the beaker. Once condensation has begun, the rate at which water is lost from the beaker will start to decrease. At some point, the rate of evaporation will be equal to the rate of condensation above the beaker, and there will be no change in the water level in the beaker. This can be represented as follows:</para>
+      <para id="id89347">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>l</m:mi>
+            <m:mi>i</m:mi>
+            <m:mi>q</m:mi>
+            <m:mi>u</m:mi>
+            <m:mi>i</m:mi>
+            <m:mi>d</m:mi>
+            <m:mo>⇌</m:mo>
+            <m:mi>v</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>p</m:mi>
+            <m:mi>o</m:mi>
+            <m:mi>u</m:mi>
+            <m:mi>r</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id89386">In this example, the reaction (in this case, a change in the phase of water) can proceed in either direction. In one direction there is a change in phase from liquid to vapour. But the reverse can also take place, when vapour condenses to form water again.
+ </para>
+</section>
+      <para id="id89397">In a <emphasis effect="bold">closed system</emphasis> it is possible for reactions to be reversible, such as in the demonstration above. In a closed system, it is also possible for a chemical reaction to reach <emphasis effect="bold">equilibrium</emphasis>. We will discuss these concepts in more detail.</para>
+      <section id="uid110">
+        <title>Open and closed systems</title>
+        <para id="id89422">An <emphasis effect="bold">open system</emphasis> is one in which matter or energy can flow into or out of the system. In the liquid-vapour demonstration we used, the first beaker was an example of an open system because the beaker could be heated or cooled (a change in <emphasis effect="italics">energy</emphasis>), and water vapour (the <emphasis effect="italics">matter</emphasis>) could evaporate from the beaker.</para>
+        <para id="id89445">A <emphasis effect="bold">closed system</emphasis> is one in which energy can enter or leave, but matter cannot. The second beaker covered by the bell jar is an example of a closed system. The beaker can still be heated or cooled, but water vapour cannot leave the system because the bell jar is a barrier. Condensation changes the vapour to liquid and returns it to the beaker. In other words, there is no loss of matter from the system.</para>
+<definition id="fhsst_id1292"><term id="termfhsst_id1292"> Open and closed systems </term> <meaning id="meaningfhsst_id1292">
+        <para id="id89466">An <emphasis effect="italics">open system</emphasis> is one whose borders allow the movement of energy and matter into and out of the system. A <emphasis effect="italics">closed system</emphasis> is one in which only energy can be exchanged, but not matter.
+ </para>
+        </meaning></definition>
+      </section>
+      <section id="uid111">
+        <title>Reversible reactions</title>
+        <para id="id89500">Some reactions can take place in two directions. In one direction the reactants combine to form the products. This is called the <emphasis effect="bold">forward reaction</emphasis>. In the other, the products react to form reactants again. This is called the <emphasis effect="bold">reverse reaction</emphasis>. A special double-headed arrow is used to show this type of <emphasis effect="bold">reversible reaction</emphasis>:</para>
+        <para id="id89523">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>X</m:mi>
+              <m:mi>Y</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>Z</m:mi>
+              <m:mo>⇌</m:mo>
+              <m:mi>X</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>Y</m:mi>
+              <m:mi>Z</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id89554">So, in the following reversible reaction:</para>
+        <para id="id89558">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>I</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>H</m:mi>
+              <m:mi>I</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id89618">The forward reaction is <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>I</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>. The reverse reaction is <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>I</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>.</para>
+<definition id="fhsst_id1351"><term id="termfhsst_id1351"> A reversible reaction </term> <meaning id="meaningfhsst_id1351">
+        <para id="id89740">A reversible reaction is a chemical reaction that can proceed in both the forward and reverse directions. In other words, the reactant and product of one reaction may reverse roles. </para>
+        </meaning></definition>
+<section id="secfhsst_id1354"><title> Demonstration : The reversibility of chemical reactions
+        </title>
+        <para id="id89766">
+          <emphasis effect="bold">Apparatus and materials:</emphasis>
+        </para>
+        
+        <para id="id89782">Lime water (Ca(OH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>); calcium carbonate (CaCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>); hydrochloric acid; 2 test tubes with rubber stoppers; delivery tube; retort stand and clamp; bunsen burner.</para>
+        <para id="id89813">
+          <emphasis effect="bold">Method and observations:</emphasis>
+        </para>
+        
+        <list id="id89830" display="block" list-type="enumerated">
+          <item id="uid112">Half-fill a test tube with clear lime water (Ca(OH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>).
+</item>
+          <item id="uid113">In another test tube, place a few pieces of calcium carbonate (CaCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) and cover the pieces with dilute hydrochloric acid. Seal the test tube with a rubber stopper and delivery tube.
+</item>
+          <item id="uid114">Place the other end of the delivery tube into the test tube containing the lime water so that the carbon dioxide that is produced from the reaction between calcium carbonate and hydrochloric acid passes through the lime water. Observe what happens to the appearance of the lime water.
+The equation for the reaction that takes place is:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>a</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>O</m:mi><m:mi>H</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>
+CaCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> is insoluble and it turns the limewater milky.
+</item>
+          <item id="uid115">Allow the reaction to proceed for a while so that carbon dioxide continues to pass through the limewater. What do you notice? The equation for the reaction that takes place is:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>a</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>H</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+In this reaction, calcium carbonate becomes one of the reactants to produce hydrogen carbonate (Ca(HCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) and so the solution becomes clear again.
+</item>
+          <item id="uid116">Heat the solution in the test tube over a bunsen burner. What do you observe? You should see bubbles of carbon dioxide appear and the limewater turns milky again. The reaction that has taken place is:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>a</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>H</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item>
+        </list>
+        <para id="id90218">
+          <figure id="id90221">
+            <media id="id90221_media" alt="">
+              <image mime-type="image/png" src="../../media/CG12C3_010.png" id="id90221_onlineimage" width="262"><!-- NOTE: attribute width changes image size online (pixels). original width is 262. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_010.eps" id="id90221_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id90227">
+          <emphasis effect="bold">Discussion:</emphasis>
+        </para>
+        <list id="id90234" display="block" list-type="bulleted">
+          <item id="uid117">If you look at the last two equations you will see that the one is the reverse of the other. In other words, this is a <emphasis effect="italics">reversible reaction</emphasis> and can be written as follows:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>⇌</m:mo><m:mi>C</m:mi><m:mi>a</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>H</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></item>
+          <item id="uid118">Is the forward reaction endothermic or exothermic? Is the reverse reaction endothermic or exothermic? You should have noticed that the reverse reaction only took place when the solution was heated. Sometimes, changing the temperature of a reaction can change its direction.
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid119">
+        <title>Chemical equilibrium</title>
+        <para id="id90375">Using the same reversible reaction that we used in an earlier example:</para>
+        <para id="id90379">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>I</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>H</m:mi>
+              <m:mi>I</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id90439">The forward reaction is:</para>
+        <equation id="id90443">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>I</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>H</m:mi>
+              <m:mi>I</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id90478">The reverse reaction is:</para>
+        <equation id="id90482">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:mi>H</m:mi>
+              <m:mi>I</m:mi>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>I</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id90517">When the rate of the forward reaction and the reverse reaction are equal, the system is said to be in <emphasis effect="bold">equilbrium</emphasis>. <link target-id="uid120"/> shows this. Initially (time = 0), the rate of the forward reaction is high and the rate of the reverse reaction is low. As the reaction proceeds, the rate of the forward reaction decreases and the rate of the reverse reaction increases, until both occur at the same rate. This is called equilibrium.</para>
+        <para id="id90534">Although it is not always possible to observe any macroscopic changes, this does not mean that the reaction has stopped. The forward and reverse reactions continue to take place and so microscopic changes still occur in the system. This state is called <emphasis effect="bold">dynamic equilibrium</emphasis>. In the liquid-vapour phase equilibrium demonstration, dynamic equilibrium was reached when there was no observable change in the level of the water in the second beaker even though evaporation and condensation continued to take place.</para>
+        <figure id="uid120">
+          <media id="uid120_media" alt="">
+            <image mime-type="image/png" src="../../media/CG12C3_011.png" id="uid120_onlineimage" width="376"><!-- NOTE: attribute width changes image size online (pixels). original width is 376. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG12C3_011.eps" id="uid120_printimage"/>
+          </media>
+          <caption>The change in rate of forward and reverse reactions in a closed system</caption>
+        </figure>
+        <para id="id90562">There are, however, a number of factors that can change the chemical equilibrium of a reaction. Changing the <emphasis effect="bold">concentration</emphasis>, the <emphasis effect="bold">temperature</emphasis> or the <emphasis effect="bold">pressure</emphasis> of a reaction can affect equilibrium. These factors will be discussed in more detail later in this chapter.</para>
+<definition id="fhsst_id1489"><term id="termfhsst_id1489"> Chemical equilibrium </term> <meaning id="meaningfhsst_id1489">
+        <para id="id90592">Chemical equilibrium is the state of a chemical reaction, where the concentrations of the reactants and products have no net change over time. Usually, this state results when the forward chemical reactions proceed at the same rate as their reverse reactions.
+ </para>
+        </meaning></definition>
+      </section>
+    </section>
+
+  </content>
+</document>
